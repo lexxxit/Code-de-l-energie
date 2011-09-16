@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-07-31
+Version Consolidée au 2011-09-17
 
 # Partie législative
 
@@ -12817,21 +12817,28 @@ Les conditions et modalités d'application de la présente section sont détermi
 
 ###### Article L314-14
 
-Le gestionnaire du réseau public de transport délivre aux producteurs qui en font la demande des garanties d'origine pour la
-quantité d'électricité produite en France à partir d'énergies renouvelables ou par cogénération. La délivrance de garanties
-d'origine n'est pas subordonnée à l'accès de l'électricité produite au réseau de transport ou de distribution. 
+Un organisme est désigné par l'autorité administrative pour assurer la délivrance, le transfert et l'annulation des garanties
+d'origine de l'électricité produite à partir de sources renouvelables. Il établit et tient à jour un registre électronique
+des garanties d'origine. Ce registre est accessible au public. 
 
-Le coût du service ainsi créé pour délivrer les garanties d'origine est à la charge du demandeur. 
+L'organisme délivre aux producteurs qui en font la demande des garanties d'origine pour la quantité d'électricité produite en
+France à partir d'énergies renouvelables ou par cogénération. Lorsqu'ils en font la demande, l'organisme délivre des
+garanties d'origine aux producteurs non raccordés au réseau et aux autoconsommateurs d'électricité issue d'énergies
+renouvelables ou de cogénération. 
 
 La personne achetant, en application des articles L. 121-27, L. 311-12 et L. 314-1, de l'électricité produite en France à
 partir d'énergies renouvelables ou par cogénération est subrogée au producteur de cette électricité dans son droit à obtenir
-la délivrance des garanties d'origine correspondantes.
+la délivrance des garanties d'origine correspondantes. 
+
+Le coût du service afférent à la délivrance et au suivi des garanties par l'organisme est à la charge du demandeur.
+
+**Nota:**
+
+Ordonnance n° 2011-1105 du 14 septembre 2011 article 7-I : Jusqu'à la désignation de l'organisme prévu au présent L. 314-14,
+le gestionnaire du réseau de transport continue à gérer le système de délivrance et de suivi des garanties d'origine. Les
+garanties d'origine qu'il délivre peuvent être transférées ou utilisées dans les conditions en vigueur au 16 septembre 2011.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 33 (Ab), alinéas 1 à 3
 
 	**Cité par**:
 
@@ -12849,47 +12856,84 @@ la délivrance des garanties d'origine correspondantes.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L311-12 (V)
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. L314-1
 
 
 ###### Article L314-15
 
-Au maximum, une garantie d'origine est émise pour chaque unité d'énergie produite correspondant à un mégawattheure. Chaque
-unité d'énergie produite à partir d'énergies renouvelables ou par cogénération ne peut être prise en compte qu'une seule
-fois.
-
-Une garantie d'origine ne peut être utilisée que dans les douze mois suivant la production de l'unité d'énergie
-correspondante. La garantie d'origine est annulée dès qu'elle a été utilisée.
-
-Le gestionnaire du réseau public de transport établit et tient à jour un registre des garanties d'origine. Ce registre est
-accessible au public.
-
-Un décret en Conseil d'Etat précise les conditions de délivrance des garanties d'origine et de tenue du registre, les tarifs
-d'accès à ce service ainsi que les pouvoirs et moyens d'action et de contrôle attribués aux gestionnaires des réseaux publics
-de transport et de distribution d'électricité. Il précise également les conditions et modalités particulières de délivrance
-des garanties d'origine dans les zones non interconnectées.
+Les garanties d'origine provenant d'autres pays membres de l'Union européenne et délivrées conformément aux dispositions de
+la directive 2009/28/CE relative à la promotion et à l'utilisation de l'énergie produite à partir de sources renouvelables
+sont reconnues et traitées par l'organisme mentionné à l'article L. 314-14 de la même manière qu'une garantie d'origine liée
+à une unité de production située sur le territoire national. Ces garanties sont assimilables aux garanties d'origine
+délivrées en application des dispositions du présent code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 33 (VT), alinéas 4 et 5
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-14
+
+
+###### Article L314-16
+
+Une garantie d'origine au plus est émise pour chaque unité d'énergie produite correspondant à un mégawattheure. Chaque unité
+d'énergie produite à partir d'énergies renouvelables ou par cogénération ne peut être prise en compte qu'une seule fois. 
+
+Une garantie d'origine ne peut être utilisée que dans les douze mois suivant la production de l'unité d'énergie
+correspondante. La garantie d'origine est annulée dès qu'elle a été utilisée. 
+
+A partir du 1er janvier 2012, sur le territoire national, seules ces garanties ont valeur de certification de l'origine de
+l'électricité produite à partir de sources renouvelables aux fins de démontrer aux clients finals la part ou la quantité
+d'énergie produite à partir de sources renouvelables que contient l'offre commerciale contractée auprès de leurs fournisseurs
+d'énergie. 
+
+Les gestionnaires des réseaux publics de distribution d'électricité ne peuvent refuser à l'organisme les informations
+nécessaires au bon accomplissement de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-1118 du 5 septembre 2006 - art. 1-1 (Ab)
+
 	**Créé par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 1
+
+
+###### Article L314-17
+
+Un décret en Conseil d'Etat détermine les conditions de désignation de l'organisme mentionné à l'article L. 314-14, ses
+obligations, les pouvoirs et moyens d'action et de contrôle dont il dispose. Il précise les conditions de délivrance, de
+transfert et d'annulation des garanties d'origine, leurs caractéristiques et conditions d'utilisation ainsi que les modalités
+de tenue du registre et les tarifs d'accès à ce service. Il précise également les conditions et modalités particulières de
+délivrance des garanties d'origine dans les zones non interconnectées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-14
 
 
 ### TITRE II : LE TRANSPORT ET LA DISTRIBUTION
@@ -22600,9 +22644,12 @@ définies par voie réglementaire.
 Compte tenu de leur intérêt spécifique, notamment en matière de lutte contre l'effet de serre, l'Etat soutient le
 développement des biocarburants et encourage l'amélioration de la compétitivité de la filière. A cette fin, l'Etat crée,
 notamment par l'agrément de capacités de production nouvelles, les conditions permettant de porter à 5,75 % au 31 décembre
-2008, à 7 % au 31 décembre 2010 et à 10 % au 31 décembre 2015 la part des biocarburants et des autres carburants
-renouvelables dans la teneur énergétique de la quantité totale d'essence et de gazole mise en vente sur le marché national à
-des fins de transport.
+2008, et à 7 % au 31 décembre 2010 la part des biocarburants et des autres carburants renouvelables dans la teneur
+énergétique de la quantité totale d'essence et de gazole mise en vente sur le marché national à des fins de transport.
+
+De plus, l'Etat crée les conditions pour que la part de l'énergie produite à partir de sources renouvelables dans tous les
+modes de transport en 2020 soit égale au moins à 10 % de la consommation finale d'énergie dans le secteur des transports. Les
+modalités de calcul de ce taux sont fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -22610,15 +22657,81 @@ des fins de transport.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2011-1468 du 9 novembre 2011 - art. 1 (Ab)
 	  - Décret n°2014-1296 du 23 octobre 2014 - art. (VD)
 	  - Code de l'énergie - art. D641-13 (V)
+
+
+###### Article L641-7
+
+Les fournisseurs de carburants qui mettent à la consommation les carburants portant les indices d'identification 11,11 bis,
+11 ter, 20,22 et 55 du tableau B du 1 de l'article 265 du code des douanes réduisent de 10 %, au plus tard le 31 décembre
+2020, les émissions de gaz à effet de serre, produites sur l'ensemble du cycle de vie du carburant par unité d'énergie, par
+rapport à la moyenne des émissions de gaz à effet de serre constatée sur le territoire de l'Union européenne en 2010 par
+unité d'énergie produite à partir de carburants fossiles. Les conditions et modalités de réalisation de cet objectif sont
+déterminées par décret en Conseil d'Etat. 
+
+Un groupe de fournisseurs qui décident de se conformer conjointement à ces obligations de réduction est regardé comme un
+fournisseur unique pour l'application du présent article. 
+
+Un fournisseur d'électricité destinée au fonctionnement de véhicules routiers peut s'associer à un ou plusieurs fournisseurs
+qui mettent les carburants à la consommation pour contribuer aux obligations de réduction définies au présent article, s'il
+peut démontrer sa capacité à mesurer et à contrôler efficacement l'électricité fournie pour le fonctionnement de ces
+véhicules. 
+
+Un arrêté conjoint des ministres chargés de l'écologie et de l'énergie précise les modalités d'application des deux alinéas
+précédents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 2 (Ab)
+	  - Code de l'énergie - art. L641-8 (V)
+	  - Code de l'énergie - art. R641-14 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
+
+
+###### Article L641-8
+
+Les fournisseurs soumis aux obligations prévues à l'article L. 641-7 adressent chaque année aux ministres chargés de
+l'écologie et de l'énergie un rapport relatif à l'intensité des émissions de gaz à effet de serre des carburants, produites
+l'année précédente sur l'ensemble du cycle de vie par unité d'énergie. Ce rapport annuel comporte notamment des informations
+sur le volume total de chaque type de carburants ou d'énergie fournis, leur lieu d'achat et l'origine de ces produits, et sur
+les émissions de gaz à effet de serre produites sur l'ensemble du cycle de vie par unité d'énergie. 
+
+Le contenu du rapport annuel, les modalités de sa présentation, les méthodes de calcul relatives aux émissions de gaz à effet
+de serre produites sur l'ensemble du cycle de vie et les modalités de contrôle sont précisés par arrêté conjoint des
+ministres chargés de l'écologie et de l'énergie.
+
+**Nota:**
+
+Ordonnance n° 2011-1105 du 14 septembre 2011 article 7-II : Le premier rapport annuel à remettre en application du présent L.
+641-8 porte sur la période écoulée entre le premier jour du mois suivant la publication de l'arrêté prévu par le présent
+article et la fin de l'année civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L641-7
 
 
 #### Chapitre II : Le stockage
@@ -23064,6 +23177,272 @@ accomplissent des missions d'intérêt général. Un décret en Conseil d'Etat p
 
 ###### Article L661-1
 
+Le présent titre s'applique aux biocarburants et bioliquides consommés en France, que les matières premières utilisées pour
+leur production aient été cultivées ou extraites en France ou à l'étranger. 
+
+On entend par : 
+
+1° Biocarburant : un combustible liquide ou gazeux utilisé pour le transport et produit à partir de la biomasse définie à
+l'article L. 211-2 ; 
+
+2° Bioliquide : un combustible liquide destiné à des usages énergétiques autres que le transport, y compris la production
+d'électricité, le chauffage et le refroidissement, et produit à partir de la biomasse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L211-2
+
+
+###### Article L661-2
+
+Pour déterminer la contribution des biocarburants et de bioliquides à la réalisation des objectifs nationaux de développement
+des énergies renouvelables dans le secteur des transports, d'augmentation de la part de ces énergies renouvelables dans la
+consommation totale d'énergie et de réduction des émissions de gaz à effet de serre résultant de l'utilisation de carburants,
+seuls sont pris en compte les biocarburants et bioliquides qui satisfont à des critères conformes aux exigences du
+développement durable, dénommés ci-après " critères de durabilité ”. 
+
+Les avantages fiscaux prévus aux articles 265,265 bis A et 266 quindecies du code des douanes et autres aides publiques en
+faveur de la production et de la consommation des biocarburants et bioliquides sont subordonnés au respect des critères de
+durabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 3 (Ab)
+	  - Arrêté du 1er décembre 2011 - art. 1 (Ab)
+	  - Arrêté du 2 mai 2012 - art. 1 (V)
+	  - Code de l'énergie - art. L661-7 (V)
+	  - Code de l'énergie - art. R661-1 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 265 bis A
+	  - Code des douanes - art. 266 quindecies
+
+
+###### Article L661-3
+
+Les critères de durabilité à respecter sont définis aux articles L. 661-4 à L. 661-6 et aux dispositions prises pour leur
+application. Ils s'appliquent à toutes les étapes de la chaîne de production et de distribution des biocarburants et
+bioliquides, depuis l'extraction ou la culture des matières premières jusqu'à la transformation de la biomasse en un produit
+de qualité requise pour être utilisée comme carburant ou combustible, le transport, la mise à la consommation et la
+distribution de ce produit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 3 (Ab)
+	  - Code de l'énergie - art. R661-1 (V)
+	  - Code des douanes - art. 265 bis A (VT)
+	  - Code des douanes - art. 266 quindecies (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L661-4
+
+
+###### Article L661-4
+
+La production et l'utilisation de biocarburants et bioliquides doivent présenter un potentiel de réduction des émissions de
+gaz à effet de serre d'au moins 35 % par rapport aux émissions de gaz à effet de serre résultant des carburants et
+combustibles d'origine fossile. 
+
+Ce pourcentage minimal est porté à 50 % au 1er janvier 2017. Il est fixé à 60 % au 1er janvier 2018, pour les biocarburants
+produits dans des installations dans lesquelles la production aura démarré à partir du 1er janvier 2017.
+
+**Nota:**
+
+Ordonnance n° 2011-1105 du 14 septembre 2011 article 7-III : Pour l'application du présent L. 661-4, les biocarburants et
+bioliquides produits dans des installations en fonctionnement avant le 23 janvier 2008 sont dispensés jusqu'au 1er avril 2013
+de l'obligation énoncée au premier alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 4 (Ab)
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 5 (Ab)
+	  - Arrêté du 23 novembre 2011 - art. 3 (V)
+	  - Arrêté du 23 novembre 2011 - art. 5 (V)
+	  - Arrêté du 23 novembre 2011 - art. 6 (V)
+	  - Code de l'énergie - art. D661-2 (V)
+	  - Code de l'énergie - art. L661-3 (V)
+	  - Code de l'énergie - art. R661-3 (V)
+
+
+###### Article L661-5
+
+Les biocarburants et bioliquides ne doivent pas être produits à partir de matières premières qui proviennent : 
+
+1° De terres de grande valeur en termes de biodiversité ; 
+
+2° De terres présentant un important stock de carbone ; 
+
+3° De terres ayant le caractère de tourbières. 
+
+Toutefois les biocarburants et bioliquides produits à partir de matières premières provenant des catégories de terres
+mentionnées aux 1°, 2° et 3° peuvent, dans des conditions définies par décret en Conseil d'Etat en fonction de l'atteinte
+limitée portée à ces terres, être regardés comme satisfaisant aux critères de durabilité. 
+
+La qualification des terres mentionnées au présent article s'apprécie à compter du 1er janvier 2008, selon des modalités
+définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 5 (Ab)
+	  - Arrêté du 23 novembre 2011 - art. 5 (V)
+	  - Arrêté du 23 novembre 2011 - art. 6 (V)
+	  - Arrêté du 17 janvier 2012 - art. 3 (Ab)
+	  - Décret n°2014-1296 du 23 octobre 2014 - art. (VD)
+	  - Arrêté du 10 avril 2017 (V)
+	  - Code de l'énergie - art. R661-1 (V)
+	  - Code de l'énergie - art. R661-3 (V)
+
+
+###### Article L661-6
+
+Les biocarburants et bioliquides ne doivent pas être produits à partir de matières premières qui, lorsqu'elles sont cultivées
+sur le territoire de l'Union européenne, ne respectent pas les exigences et les règles ou les bonnes conditions agricoles et
+environnementales applicables dans le cadre de la politique agricole communautaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 5 (Ab)
+	  - Code de l'énergie - art. R661-3 (V)
+
+
+###### Article L661-7
+
+Les opérateurs économiques qui prennent part à la chaîne de production et de distribution des biocarburants et bioliquides
+visés à l'article L. 661-2 doivent être en mesure de justifier que les critères de durabilité ont été respectés. 
+
+Pour apporter ces justifications, ils recourent aux règles définies par des systèmes volontaires reconnus par la Commission
+européenne à cette fin ou par des accords conclus avec des pays tiers par la Commission européenne et reconnus par elle à
+cette fin. Ils peuvent aussi recourir aux règles définies par un système national présentant des exigences et garanties
+équivalentes et dont les principes sont définis par décret en Conseil d'Etat. 
+
+Dans les conditions prévues par le système volontaire, l'accord avec les pays tiers ou le système national auquel ils
+recourent, ils fournissent des informations précises, fiables et pertinentes sur le respect des critères de durabilité. 
+
+Ils sont tenus de soumettre à un contrôle indépendant et de niveau suffisant les informations qu'ils fournissent concernant
+le respect des critères prévus aux articles L. 661-4 et L. 661-5. Lorsque le contrôle n'est pas organisé dans le cadre d'un
+système volontaire ou d'un accord reconnu par la Commission européenne, il est exercé par des organismes certificateurs
+reconnus par l'autorité compétente. 
+
+Chaque opérateur économique est responsable des informations qu'il établit, conserve et transmet. 
+
+Les opérateurs qui mettent à la consommation des carburants et combustibles liquides contenant des biocarburants ou
+bioliquides sont tenus de démontrer que ces produits satisfont aux critères de durabilité. A cette fin, ils établissent des
+déclarations de durabilité fondées sur les informations recueillies et les adressent, au moment de la mise à la consommation,
+à l'organisme chargé de gérer le système de durabilité des biocarburants et des bioliquides. Pour bénéficier des avantages
+fiscaux prévus par le code des douanes, ils adressent également ces déclarations de durabilité à l'administration des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 6 (Ab)
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 7 (Ab)
+	  - Décret n°2011-1468 du 9 novembre 2011 - art. 8 (Ab)
+	  - Arrêté du 23 novembre 2011 - art. 5 (V)
+	  - Arrêté du 17 janvier 2012 - art. Annexe III (Ab)
+	  - Code de l'énergie - art. R661-4 (V)
+	  - Code de l'énergie - art. R661-5 (V)
+	  - Code de l'énergie - art. R661-6 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L661-2
+
+
+###### Article L661-8
+
+L'autorité administrative ou la personne qu'elle désigne à cette fin contrôle les informations et les déclarations de
+durabilité fournies par les opérateurs économiques concernant le respect des critères de durabilité, ainsi que l'exercice par
+les organismes certificateurs de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+
+###### Article L661-9
+
+Les conditions et modalités d'application du présent chapitre sont précisées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+
+
+## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES
+
+### TITRE IER : GENERALITES
+
+### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE
+
+### TITRE III : LE TRANSPORT
+
+### TITRE IV : LE RAFFINAGE ET LE STOCKAGE
+
+### TITRE V : LA DISTRIBUTION
+
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES
+
+#### Chapitre unique
+
+### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER
+
+#### Chapitre unique
+
+###### Article L671-1
+
 I. ― Toute personne physique ou morale autre que l'Etat qui met à la consommation ou livre à l'avitaillement des aéronefs
 civils des produits pétroliers, en Nouvelle-Calédonie, en Polynésie française, aux îles Wallis-et-Futuna ou à Saint-Pierre-
 et-Miquelon, est tenue de constituer et de conserver en permanence un stock de réserve de ces produits de cette collectivité
@@ -23094,25 +23473,21 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 	**Créé par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
+	  - Code de l'énergie - art. L642-1-1 (V)
+	  - Code de la défense. - art. L1621-3 (V)
+	  - Code de la défense. - art. L1641-2 (V)
+	  - Code de la défense. - art. L1651-2 (V)
+	  - Code de la défense. - art. L1661-2 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. L671-1 (V)
+	  - Code de l'énergie - art. L661-1 (T)
 
 
 ## LIVRE VII : LES DISPOSITIONS RELATIVES  AUX RESEAUX DE CHALEUR ET DE FROID
