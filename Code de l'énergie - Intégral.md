@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-09-17
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -4043,14 +4043,14 @@ En matière de production d'électricité, les charges imputables aux missions d
 
 1° Les surcoûts qui résultent, le cas échéant, de la mise en œuvre des dispositions des articles L. 311-10 et L. 314-1 par
 rapport aux coûts évités à Electricité de France ou, le cas échéant, à ceux évités aux entreprises locales de distribution
-qui seraient concernées. Les coûts évités sont calculés par référence aux prix de marché de l'électricité ou, pour les
-entreprises locales de distribution, par référence aux tarifs de cession mentionnés à l'article L. 337-1 à proportion de la
-part de l'électricité acquise à ces tarifs dans leur approvisionnement total, déduction faite des quantités acquises au titre
-des articles L. 311-10 et L. 314-1. Les mêmes valeurs de coûts évités servent de références pour déterminer les surcoûts
-compensés lorsque les installations concernées sont exploitées par Electricité de France ou par une entreprise locale de
-distribution. Lorsque l'objet des contrats est l'achat de l'électricité produite par une installation de production implantée
-dans une zone non interconnectée au réseau métropolitain continental, les surcoûts sont calculés par rapport à la part
-relative à la production dans les tarifs réglementés de vente d'électricité ; 
+qui seraient concernées. Les coûts évités sont calculés par référence aux prix de marché de l'électricité sauf, pour les
+entreprises locales de distribution, pour les quantités acquises au titre des articles L. 311-10 et L. 314-1 se substituant
+aux quantités d'électricité acquises aux tarifs de cession mentionnés à l'article L. 337-1, par référence à ces tarifs. Les
+mêmes valeurs de coûts évités servent de références pour déterminer les surcoûts compensés lorsque les installations
+concernées sont exploitées par Electricité de France ou par une entreprise locale de distribution. Lorsque l'objet des
+contrats est l'achat de l'électricité produite par une installation de production implantée dans une zone non interconnectée
+au réseau métropolitain continental, les surcoûts sont calculés par rapport à la part relative à la production dans les
+tarifs réglementés de vente d'électricité ; 
 
 2° Les surcoûts de production dans les zones non interconnectées au réseau métropolitain continental qui, en raison des
 particularités du parc de production inhérentes à la nature de ces zones, ne sont pas couverts par la part relative à la
@@ -4063,18 +4063,13 @@ l'approvisionnement en électricité des zones non interconnectées au réseau m
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 2 à alinéa 4
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 56 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 62
 
 	**Cité par**:
 
@@ -4110,9 +4105,9 @@ l'approvisionnement en électricité des zones non interconnectées au réseau m
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-10 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. L337-1 (V)
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L337-1
 
 
 ###### Article L121-8
@@ -22050,14 +22045,16 @@ calculés comme la valorisation de la production ou de la consommation d'électr
 de chaque redevance ne peut excéder un taux plafond, déterminé par l'autorité concédante dans le cadre de la procédure de
 mise en concurrence.
 
-Un tiers de la redevance est affecté aux départements sur le territoire desquels coulent les cours d'eau utilisés,
-l'éventuelle répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue
-indisponible dans les limites de chaque département du fait de l'usine.
+40 % de la redevance sont affectés aux départements sur le territoire desquels coulent les cours d'eau utilisés, l'éventuelle
+répartition entre plusieurs départements étant proportionnelle à la puissance moyenne hydraulique devenue indisponible dans
+les limites de chaque département du fait de l'usine.
 
-Un sixième de la redevance est affecté aux communes sur le territoire desquelles coulent les cours d'eau utilisés ou à leurs
-groupements sous réserve de l'accord explicite de chacune d'entre elles, la répartition entre les communes étant
-proportionnelle à la puissance moyenne hydraulique devenue indisponible dans les limites de chaque commune du fait de
-l'exploitation de l'ouvrage hydroélectrique.
+Toutefois,  pour les ouvrages hydroélectriques d'une puissance installée inférieure  à 4 500 kilowatts, un tiers de la
+redevance est affecté aux  départements sur le territoire desquels coulent les cours d'eau  utilisés, et un sixième aux
+communes concernées au même chef ou à leurs  groupements sous réserve de l'accord explicite de chacune d'entre elles.
+L'éventuelle répartition entre plusieurs départements ou plusieurs  communes est proportionnelle à la puissance moyenne
+hydraulique devenue  indisponible dans les limites de chacune des collectivités du fait de  l'exploitation de l'ouvrage
+hydroélectrique.
 
 **Liens relatifs à cet article**
 
@@ -22065,9 +22062,9 @@ l'exploitation de l'ouvrage hydroélectrique.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 41
 
 
 ### TITRE III : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES AUTORISEES
@@ -22250,7 +22247,7 @@ section.
 	  - Code de l'énergie -  Section 3 : L'occupation ou la traversée des pr... (V)
 
 
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE
+## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES
 
 ### TITRE IER : GENERALITES
 
@@ -23171,7 +23168,7 @@ accomplissent des missions d'intérêt général. Un décret en Conseil d'Etat p
 	  - Code général des impôts, CGI. - art. 1655 quater (V)
 
 
-### TITRE VI : LES DISPOSITIONS PARTICULIERES  A L'OUTRE MER
+### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES
 
 #### Chapitre unique
 
@@ -23420,22 +23417,6 @@ Les conditions et modalités d'application du présent chapitre sont précisées
 
 	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 4
 
-
-## LIVRE VI : LES DISPOSITIONS RELATIVES  AU PETROLE, AUX BIOCARBURANTS ET BIOLIQUIDES
-
-### TITRE IER : GENERALITES
-
-### TITRE II : LA RECHERCHE ET L'EXPLOITATION  DES GITES CONTENANT DU PETROLE
-
-### TITRE III : LE TRANSPORT
-
-### TITRE IV : LE RAFFINAGE ET LE STOCKAGE
-
-### TITRE V : LA DISTRIBUTION
-
-### TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES
-
-#### Chapitre unique
 
 ### TITRE VII : LES DISPOSITIONS PARTICULIERES A L'OUTRE-MER
 
