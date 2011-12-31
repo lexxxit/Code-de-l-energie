@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -4379,25 +4379,22 @@ dues. Le cas échéant, elle émet un état exécutoire.
 La Caisse des dépôts et consignations reverse quatre fois par an aux opérateurs qui supportent les charges résultant des
 missions définies aux articles L. 121-7 et L. 121-8 les sommes collectées. 
 
-Elle verse au médiateur national de l'énergie une somme égale au montant de son budget le 1er janvier de chaque année.
+Elle verse au médiateur national de l'énergie une somme, plafonnée conformément au I de l'article 46 de la loi n° 2011-1977
+du 28 décembre 2011 de finances pour 2012 et égale au montant de son budget le 1er janvier de chaque année.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 16
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L121-7
 
 	**Cité par**:
 
