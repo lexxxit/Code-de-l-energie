@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-07
 
 # Partie législative
 
@@ -12191,41 +12191,48 @@ Les titres administratifs délivrés en application du livre V valent autorisati
 
 ###### Article L313-1
 
-Les installations nucléaires de base qui produisent de l'électricité sont soumises au régime prévu au titre IV de la loi n°
-2006-686 relative à la transparence et à la sécurité en matière nucléaire et à l'article 20 de la loi n° 2006-739 du 28 juin
-2006 de programme relative à la gestion durable des matières et déchets radioactifs.
+Les installations nucléaires de base qui produisent de l'électricité sont soumises au régime mentionné à l'article L. 593-1
+du code de l'environnement, au chapitre IV du titre IX du livre V du même code et à l'article 20 de la loi n° 2006-739 du 28
+juin 2006 de programme relative à la gestion durable des matières et déchets radioactifs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2006-686 du 13 juin 2006 (V)
-	  - Loi n°2006-739 du 28 juin 2006 - art. 20
+	  - Loi n°2006-739 du 28 juin 2006 - art. 20 (V)
+	  - Code de l'environnement -  Chapitre IV : Dispositions à caractère financie... (V)
+	  - Code de l'environnement - art. L593-1 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
 
 
 ###### Article L313-2
 
-Les dispositions relatives à la gestion durable des déchets radioactifs sont énoncées au chapitre II du titre IV du livre V
-du code de l'environnement ainsi qu'aux articles 1er, 3, 4, 7, 10, 17 et 20 à 23 de la loi n° 2006-739 du 28 juin 2006 de
-programme relative à la gestion durable des matières et déchets radioactifs.
+Les dispositions relatives à la gestion durable des déchets radioactifs sont énoncées au chapitre II du titre IV et du
+chapitre IV du titre IX du livre V du code de l'environnement ainsi qu'aux articles 3, 4, 20 et 21 de la loi n° 2006-739 du
+28 juin 2006 de programme relative à la gestion durable des matières et déchets radioactifs.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2006-739 du 28 juin 2006 (V)
+	  - Code de l'environnement -  Chapitre II : Dispositions particulières à la g... (V)
+	  - Code de l'environnement -  Chapitre IV : Dispositions à caractère financie... (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
 
 
 #### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables
@@ -16358,15 +16365,14 @@ du dispositif mentionnée à l'article L. 336-8.
 
 Il tient compte de l'addition : 
 
-1° D'une rémunération des capitaux prenant en compte la nature de l'activité ; 
+1° D'une rémunération des capitaux prenant en compte la nature de l'activité ;
 
 2° Des coûts d'exploitation ; 
 
 3° Des coûts des investissements de maintenance ou nécessaires à l'extension de la durée de l'autorisation d'exploitation ; 
 
 4° Des coûts prévisionnels liés aux charges pesant à long terme sur les exploitants d'installations nucléaires de base
-mentionnées au I de l'article 20 de la loi n° 2006-739 du 28 juin 2006 de programme relative à la gestion durable des
-matières et déchets radioactifs. 
+mentionnées à l'article L594-1 du code de l'environnement. 
 
 Pour apprécier les conditions économiques de production d'électricité par les centrales nucléaires mentionnées à l'article L.
 336-2, la Commission de régulation de l'énergie se fonde sur des documents permettant d'identifier l'ensemble des coûts
@@ -16376,22 +16382,19 @@ choisit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 4-1 (M), VII, ecqc la composition du prix
-
-	**Cite**:
-
-	  - Loi n°2006-739 du 28 juin 2006 - art. 20
-	  - Code de l'énergie - art. L336-2 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L594-1 (V)
+	  - Code de l'énergie - art. L336-2 (V)
+	  - Code de l'énergie - art. L336-8 (V)
 
 	**Cité par**:
 
