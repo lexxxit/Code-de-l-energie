@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2012-01-07
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -20803,26 +20803,22 @@ d'eau, quel que soit leur classement, sans une concession ou une autorisation de
 
 Les projets d'ouvrages entrant dans le champ d'application des articles L. 214-1 du code de l'environnement et ayant vocation
 à produire accessoirement de l'électricité sont autorisés en application des articles L. 214-1 à L. 214-11 du code de
-l'environnement et sont dispensés de la procédure d'autorisation prévue à l'article L. 511-5.
+l'environnement et sont dispensés du régime d'autorisation prévu à l'article L. 511-5.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 1 (Ab), alinéa 9
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-1 (VT)
-	  - Code de l'énergie - art. L511-5 (V)
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'énergie - art. L511-5
 
 	**Cité par**:
 
@@ -20833,22 +20829,18 @@ l'environnement et sont dispensés de la procédure d'autorisation prévue à l'
 ###### Article L511-3
 
 Les ouvrages régulièrement autorisés en application des articles L. 214-1 à L. 214-11 du code de l'environnement sont
-dispensés de toute procédure de concession ou d'autorisation au titre du présent livre dès lors que la production d'énergie
+dispensés des régimes de concession ou d'autorisation au titre du présent livre dès lors que la production d'énergie
 constitue un accessoire à leur usage principal.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 1 (Ab), alinéa 8
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cité par**:
 
@@ -20856,7 +20848,7 @@ constitue un accessoire à leur usage principal.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-1 (VT)
+	  - Code de l'environnement - art. L214-1
 
 
 ###### Article L511-4
@@ -20896,9 +20888,9 @@ dispositions de la section 3 du chapitre Ier du titre II du présent livre.
 
 ###### Article L511-5
 
-Sont placées sous le régime de la concession les installations hydrauliques dont la puissance excède 4 500 kilowatts.
+Sont placées sous le régime de la concession les installations hydrauliques dont la puissance excède 4 500 kilowatts. 
 
-Sont placées sous le régime de l'autorisation les autres installations.
+Les autres installations sont placées sous le régime de l'autorisation selon les modalités définies à l'article L. 531-1. 
 
 La puissance d'une installation hydraulique, ou puissance maximale brute, au sens du présent livre est définie comme le
 produit de la hauteur de chute par le débit maximum de la dérivation par l'intensité de la pesanteur.
@@ -20909,9 +20901,9 @@ produit de la hauteur de chute par le débit maximum de la dérivation par l'int
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cité par**:
 
@@ -20924,6 +20916,10 @@ produit de la hauteur de chute par le débit maximum de la dérivation par l'int
 	  - Code de l'énergie - art. R521-1 (M)
 	  - Code de l'énergie - art. R521-15 (M)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L531-1 (V)
+
 
 ###### Article L511-6
 
@@ -20933,24 +20929,24 @@ placées sous le régime de la concession.
 Elles le sont obligatoirement lorsque, à raison d'une augmentation de puissance, elles viennent à entrer dans la catégorie de
 celles relevant du régime de la concession par l'article L. 511-5. 
 
-Toutefois, la puissance d'une installation concédée ou autorisée peut être augmentée, une fois, d'au plus 20 %, par
-déclaration à l'autorité administrative, sans que cette augmentation ne vienne modifier le régime sous lequel est placée
-l'installation, y compris lorsqu'elle a pour effet de porter la puissance d'une installation autorisée au-delà de 4 500
-kilowatts, ni nécessiter le renouvellement ou la modification de l'acte de concession ou de l'autorisation.
+La puissance d'une installation autorisée peut être augmentée, une fois, selon les dispositions applicables aux modifications
+d'installations existantes soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement. Cette augmentation ne
+modifie pas le régime sous lequel est placée l'installation, y compris lorsqu'elle a pour effet de porter la puissance de
+l'installation au-delà de 4 500 kilowatts, dans la limite de 20 % au-delà de ce seuil. 
+
+La puissance d'une installation concédée peut également être augmentée, une fois, d'au plus 20 %, par déclaration à
+l'autorité administrative, sans que cette augmentation nécessite le renouvellement ou la modification de l'acte de
+concession.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 17 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cité par**:
 
@@ -20960,7 +20956,9 @@ kilowatts, ni nécessiter le renouvellement ou la modification de l'acte de conc
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L511-5 (V)
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'environnement - art. L214-11 (V)
+	  - Code de l'énergie - art. L511-5
 
 
 ###### Article L511-7
@@ -21195,33 +21193,25 @@ peut s'y opposer.
 
 ###### Article L512-2
 
-I. ― Est puni d'une amende de 75 000 euros le fait : 
+I. - Est puni d'une amende de 75 000 euros le fait : 
 
 1° D'exploiter une installation hydraulique sans concession, sans préjudice des sanctions administratives mentionnées aux
 articles L. 311-14 et L. 311-15 ; 
 
 2° De ne pas respecter pour le concessionnaire les dispositions du présent livre ou les prescriptions du cahier des charges. 
 
-II. ― Est puni d'une amende de 18 000 euros le fait d'exploiter une entreprise hydraulique sans autorisation, sans préjudice
-des sanctions administratives mentionnées aux articles L. 311-14 et L. 311-15. 
+II. - Les sanctions applicables au non-respect du régime d'autorisation mentionné au I de l'article L. 531-1 du présent code
+sont celles prévues au titre Ier du livre II du code de l'environnement, sans préjudice des sanctions administratives
+mentionnées aux articles L. 311-14 et L. 311-15 du présent code. 
 
-III. ― Est puni d'une amende de 12 000 euros le fait pour le permissionnaire de ne pas respecter les dispositions du présent
-livre ou les prescriptions de l'autorisation. 
+III. - (Abrogé). 
 
-IV. ― Les installations concédées d'une puissance inférieure à 4 500 kilowatts sont assimilées à des entreprises hydrauliques
+IV. - Les installations concédées d'une puissance inférieure à 4 500 kilowatts sont assimilées à des entreprises hydrauliques
 autorisées pour l'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 1 (Ab), alinéas 3, 4 et 5
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -21231,37 +21221,38 @@ autorisées pour l'application du présent article.
 	  - Code de l'énergie - art. L512-3 (M)
 	  - Code de l'énergie - art. R521-62 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L311-14
+	  - Code de l'énergie - art. L531-1 (V)
 
 
 ###### Article L512-3
 
-En cas de condamnation prononcée en application de l'article L. 512-2, le tribunal fixe, le cas échéant, le délai imparti à
-l'exploitant pour faire cesser l'irrégularité ou mettre en conformité l'installation irrégulière qu'il peut assortir d'une
-astreinte, par jour de retard. 
+En cas de condamnation prononcée en application du I de l'article L. 512-2, le tribunal fixe, le cas échéant, le délai
+imparti à l'exploitant pour faire cesser l'irrégularité ou mettre en conformité l'installation irrégulière qu'il peut
+assortir d'une astreinte, par jour de retard. 
 
 L'astreinte est recouvrée dans les conditions prévues par les dispositions relatives au recouvrement des produits de l'Etat
 au profit du Trésor public.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 1 (Ab), alinéas 6 et 7
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L512-2 (V)
+	  - Code de l'énergie - art. L512-2
 
 
 ### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES
@@ -21272,25 +21263,27 @@ au profit du Trésor public.
 
 ###### Article L521-1
 
-La procédure d'octroi par l'autorité administrative de la concession est régie par les dispositions du présent titre selon
-des modalités définies par décret en Conseil d'Etat.
+Les installations placées sous le régime de la concession en application de l'article L. 511-5, les autorisations de travaux
+et les règlements d'eau pris pour son application sont instruits en application du présent titre selon des modalités définies
+par décret en Conseil d'Etat. 
 
-Elle comporte une enquête publique et une étude d'impact lorsque la nécessité en résulte des dispositions du chapitre II ou
-du chapitre III du titre II du livre Ier du code de l'environnement.
+Ces actes doivent respecter les règles de fond prévues au titre Ier du livre II du code de l'environnement et valent
+autorisation au titre des articles L. 214-1 et suivants du même code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 28 (Ab), 4°, 5° et 6°
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'énergie - art. L511-5 (V)
 
 
 ###### Article L521-2
@@ -22073,27 +22066,34 @@ hydroélectrique.
 
 ###### Article L531-1
 
-La procédure d'octroi par l'autorité administrative de l'autorisation est régie par les dispositions des articles L. 214-1 à
-L. 214-11 du code de l'environnement, sous réserve des dispositions particulières du présent livre.
+I. ― L'octroi par l'autorité administrative de l'autorisation permettant l'exploitation d'installations utilisant l'énergie
+hydraulique également soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement est entièrement régi par ces
+dispositions et les actes délivrés en application du code de l'environnement valent autorisation au titre du présent
+chapitre, sous réserve de ses dispositions particulières. 
+
+II. ― L'octroi par l'autorité administrative de l'autorisation permettant l'exploitation d'installations utilisant l'énergie
+hydraulique qui ne sont pas soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement est régi par l'article L.
+311-5 du présent code. 
+
+III. ― Le présent article est applicable aux demandes d'autorisation formulées après l'expiration d'un délai de six mois à
+compter de la promulgation de la loi n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des
+démarches administratives.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 15 (Ab)
-	  - Loi du 16 octobre 1919 - art. 16 (Ab), alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-1 (VT)
+	  - Loi n°2012-387 du 22 mars 2012 (V)
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'énergie - art. L311-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
 
 	**Cité par**:
 
@@ -22139,36 +22139,24 @@ V du titre Ier du livre II du code de l'environnement.
 
 ###### Article L531-3
 
-Cinq ans au moins avant l'expiration de l'autorisation, le permissionnaire présente sa demande de renouvellement.
-
-Au plus tard trois ans avant cette expiration, l'autorité administrative prend la décision soit de mettre fin définitivement
-à cette autorisation à son expiration, soit d'instituer une autorisation nouvelle à compter de l'expiration.
-
-La nouvelle autorisation doit être instituée au plus tard le jour de l'expiration du titre en cours, c'est-à-dire soit à la
-date normale d'expiration, soit si l'alinéa suivant est mis en œuvre à la nouvelle date déterminée selon les dispositions de
-cet alinéa. A défaut, pour assurer la continuité de l'exploitation, ce titre est prorogé aux conditions antérieures jusqu'au
-moment où est délivrée la nouvelle autorisation.
-
-A défaut par l'autorité administrative d'avoir, avant cette date, notifié sa décision au permissionnaire, l'autorisation est
-prorogée aux conditions antérieures, mais pour une durée équivalente au dépassement.
-
-Si l'autorisation n'est pas renouvelée, le permissionnaire est tenu de rétablir le libre écoulement du cours d'eau ;
-toutefois, l'Etat a la faculté d'exiger l'abandon, à son profit, des ouvrages de barrage et de prise d'eau édifiés dans le
-lit du cours d'eau et sur ses berges, le tout avec indemnité.
+Le renouvellement des autorisations au titre du présent livre est régi par la section 1 du chapitre IV du titre Ier du livre
+II du code de l'environnement. Si l'autorisation n'est pas renouvelée, il est fait application de l'article L. 214-3-1 du
+même code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 16 (Ab), alinéas 3 à 7
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+
+	**Cite**:
+
+	  - Code de l'environnement -  Section 1 : Régimes d'autorisation ou de déclar... (V)
+	  - Code de l'environnement - art. L214-3-1 (V)
 
 
 ###### Article L531-4
