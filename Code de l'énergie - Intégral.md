@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2012-08-18
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -4052,14 +4052,30 @@ contrats est l'achat de l'électricité produite par une installation de product
 au réseau métropolitain continental, les surcoûts sont calculés par rapport à la part relative à la production dans les
 tarifs réglementés de vente d'électricité ; 
 
-2° Les surcoûts de production dans les zones non interconnectées au réseau métropolitain continental qui, en raison des
-particularités du parc de production inhérentes à la nature de ces zones, ne sont pas couverts par la part relative à la
-production dans les tarifs réglementés de vente d'électricité ou par les éventuels plafonds de prix prévus par l'article L.
-337-1. 
+2° Dans les zones non interconnectées au réseau métropolitain continental : 
 
-Les conditions de rémunération du capital immobilisé dans les moyens de production d'électricité utilisées pour calculer la
-compensation des charges à ce titre sont définies par arrêté du ministre chargé de l'énergie afin de garantir la sécurité de
-l'approvisionnement en électricité des zones non interconnectées au réseau métropolitain continental.
+a) Les surcoûts de production qui, en raison des particularités du parc de production inhérentes à la nature de ces zones, ne
+sont pas couverts par la part relative à la production dans les tarifs réglementés de vente d'électricité ou par les
+éventuels plafonds de prix prévus à l'article L. 337-1 ; 
+
+b) Les coûts des ouvrages de stockage d'électricité gérés par le gestionnaire du système électrique. Ces coûts sont pris en
+compte dans la limite des surcoûts de production qu'ils contribuent à éviter ; 
+
+c) Les surcoûts d'achats d'électricité, hors ceux mentionnés au a, qui, en raison des particularités des sources
+d'approvisionnement considérées, ne sont pas couverts par la part relative à la production dans les tarifs réglementés de
+vente d'électricité. Ces surcoûts sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à
+éviter ; 
+
+d) Les coûts supportés par les fournisseurs d'électricité en raison de la mise en œuvre d'actions de maîtrise de la demande
+portant sur les consommations d'électricité et diminués des recettes éventuellement perçues à travers ces actions. Ces coûts
+sont pris en compte dans la limite des surcoûts de production qu'ils contribuent à éviter. 
+
+Les conditions de rémunération du capital immobilisé dans les moyens de production, de stockage d'électricité ou nécessaires
+aux actions de maîtrise de la demande définis aux a, b et d du présent 2° utilisées pour calculer la compensation des charges
+à ce titre sont définies par arrêté du ministre chargé de l'énergie afin de garantir la sécurité de l'approvisionnement en
+électricité des zones non interconnectées au réseau métropolitain continental. 
+
+Un décret en Conseil d'Etat précise les modalités d'application des a à d.
 
 **Liens relatifs à cet article**
 
@@ -4069,7 +4085,7 @@ l'approvisionnement en électricité des zones non interconnectées au réseau m
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 62
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 60
 
 	**Cité par**:
 
@@ -4257,10 +4273,9 @@ pour le calcul de la contribution qu'à partir de 240 millions de kilowattheures
 
 ###### Article L121-12
 
-Le montant de la contribution due, par site de consommation, par les consommateurs finals ne peut excéder 550 000 euros.
-
-Ce plafond est actualisé chaque année dans une proportion égale au taux prévisionnel de croissance de l'indice des prix à la
-consommation hors tabac associé au projet de loi de finances de l'année.
+Le  montant de la contribution due, par site de consommation, par les  consommateurs finals ne peut excéder 569 418 € en
+2013. Pour les années  suivantes, ce plafond est actualisé chaque année dans une proportion  égale à celle de l'évolution du
+montant de la contribution mentionné à  l'article L. 121-13, dans la limite d'une augmentation de 5 %. 
 
 Le même plafond est applicable à la contribution due par les entreprises exploitant des services de transport ferroviaire
 pour l'électricité de traction consommée sur le territoire national et à la contribution due par les entreprises
@@ -4269,26 +4284,24 @@ consommée en aval des points de livraison d'électricité sur un réseau élect
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 11
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 59 (V)
 
 
 ###### Article L121-13
 
 Le montant de la contribution applicable à chaque kilowattheure est calculé de sorte que les contributions couvrent
 l'ensemble des charges imputables aux missions de service public, ainsi que les frais de gestion exposés par la Caisse des
-dépôts et consignations et le budget du médiateur national de l'énergie. Le ministre chargé de l'énergie fixe chaque année ce
-montant par un arrêté pris sur proposition de la Commission de régulation de l'énergie. L'augmentation du montant de la
-contribution peut être échelonnée sur un an.  
+dépôts et consignations, le versement de la prime aux opérateurs d'effacement mentionnée à l'article L. 123-1, le budget du
+médiateur national de l'énergie ainsi  que les frais financiers définis à l'article L. 121-19 bis  éventuellement exposés par
+les opérateurs mentionnés à l'article L.  121-10. Le ministre chargé de l'énergie fixe chaque année ce montant par un arrêté
+pris sur proposition de la Commission de régulation de l'énergie. L'augmentation du montant de la contribution peut être
+échelonnée sur un an. 
 
 A défaut d'arrêté fixant le montant de la contribution due pour une année donnée avant le 31 décembre de l'année précédente,
 le montant proposé par la Commission de régulation de l'énergie en application de l'alinéa précédent entre en vigueur le 1er
@@ -4301,14 +4314,18 @@ cette date.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2011-900 du 29 juillet 2011 - art. 56 (V)
-
 	**Cité par**:
 
 	  - Loi n°2011-900 du 29 juillet 2011 - art. 56 (V)
 	  - Code de l'énergie - art. L121-12 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 59 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L123-1
 
 
 ###### Article L121-14
@@ -4458,26 +4475,54 @@ dispositif mentionné à l'article L. 122-6.
 ###### Article L121-19
 
 Lorsque le montant des contributions collectées ne correspond pas au montant constaté des charges de l'année, la
-régularisation intervient l'année suivante au titre des charges dues pour cette année. Si les sommes dues ne sont pas
-recouvrées au cours de l'année, elles sont ajoutées au montant des charges de l'année suivante.
+régularisation intervient l'année suivante au titre des charges dues pour cette année. Selon  que le montant des
+contributions collectées est inférieur ou supérieur  au montant constaté des charges de l'année, la régularisation consiste,
+respectivement, à majorer ou à diminuer à due concurrence les charges de  l'année suivante.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 20
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 59 (V)
 
 	**Cité par**:
 
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+
+
+###### Article L121-19-1
+
+Pour chaque opérateur, si le montant de la compensation effectivement perçue au titre de l'article L. 121-10 est inférieur,
+respectivement supérieur, au montant constaté des charges mentionnées aux articles L. 121-7 et L. 121-8, il en résulte une
+charge, respectivement un produit, qui porte intérêt à un taux fixé par décret. La charge ou le produit ainsi calculé est,
+respectivement, ajoutée ou retranché aux charges à compenser à cet opérateur pour les années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2004-90 du 28 janvier 2004 - art. 6 (Ab)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 59 (V)
+	  - Décret n°2014-1136 du 7 octobre 2014 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Arrêté du 13 mai 2016 - art. 1 (V)
+	  - Arrêté du 2 décembre 2016 - art. 1
+	  - Code de l'énergie - art. L121-13 (Ab)
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-33 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 59 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-10 (V)
+	  - Code de l'énergie - art. L121-7 (V)
 
 
 ###### Article L121-20
