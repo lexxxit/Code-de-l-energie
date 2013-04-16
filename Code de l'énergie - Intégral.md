@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-04-17
 
 # Partie législative
 
@@ -2107,33 +2107,29 @@ Les dispositions du premier alinéa ne s'appliquent pas en matière d'impôts su
 ###### Article L111-61
 
 La société gestionnaire d'un réseau de distribution d'électricité ou de gaz qui dessert, sur le territoire métropolitain
-continental, plus de 100 000 clients est soumise aux règles suivantes :
+continental, plus de 100 000 clients est soumise aux règles suivantes : 
 
 1° Elle assure l'exploitation, l'entretien et, sous réserve des prérogatives des collectivités et des établissements
-mentionnés au sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, le développement
+mentionnés au septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, le développement
 des réseaux de distribution d'électricité ou de gaz de manière indépendante vis-à-vis de tout intérêt dans des activités de
-production ou de fourniture d'électricité ou de gaz ;
+production ou de fourniture d'électricité ou de gaz ; 
 
 2° Elle réunit dans un code de bonne conduite, adressé à la Commission de régulation de l'énergie, les mesures d'organisation
 interne prises pour prévenir toute pratique discriminatoire en matière d'accès des tiers au réseau.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 15, al 5 et al 6 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
 
 	**Cité par**:
 
@@ -2769,28 +2765,24 @@ services gestionnaires de réseaux publics de transport et de distribution et de
 ni à la communication des informations et documents aux fonctionnaires et agents habilités à conduire une enquête
 conformément aux articles L. 142-21 et L. 135-3, ni à la communication des informations et documents aux fonctionnaires et
 agents des collectivités territoriales ou de leurs établissements publics de coopération habilités et assermentés
-conformément aux dispositions du quatrième alinéa du I de l'article L. 2224-31 du code général des collectivités
+conformément aux dispositions du cinquième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales et procédant à un contrôle en application du I de ce même article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 20 (Ab), alinéa 1, 3e et 4e phrases
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-73 (V)
-	  - Code de l'énergie - art. L135-3 (V)
-	  - Code de l'énergie - art. L142-21 (V)
+	  - Code de l'énergie - art. L111-73
+	  - Code de l'énergie - art. L135-3
+	  - Code de l'énergie - art. L142-21
 
 	**Cité par**:
 
@@ -3942,9 +3934,7 @@ prévues aux articles L. 337-4 à L. 337-9. L'électricité est fournie par le r
 échéant, par la mise en œuvre des installations de production d'électricité de proximité mentionnées à l'article L. 2224-33
 du code général des collectivités territoriales. 
 
-Cette fourniture concourt à la cohésion sociale, au moyen de la péréquation nationale des tarifs, de la mise en œuvre de la
-tarification spéciale dite « produit de première nécessité » mentionnée à l'article L. 337-3 et du maintien de la fourniture
-d'électricité en application de l'article L. 115-3 du code de l'action sociale et des familles. 
+Cette fourniture concourt à la cohésion sociale, au moyen de la péréquation nationale des tarifs. 
 
 Cette mission incombe à Electricité de France ainsi que, dans leur zone de desserte, aux entreprises locales de distribution
 chargées de la fourniture. Elles l'accomplissent, pour les clients raccordés aux réseaux de distribution, conformément aux
@@ -3953,17 +3943,20 @@ dispositions des cahiers des charges de concession ou des règlements de service
 
 Les autorités organisatrices de la distribution publique d'électricité mentionnées à l'article L. 121-4 sont les autorités
 organisatrices du service public de la fourniture d'électricité aux clients raccordés à un réseau de distribution qui
-bénéficient des tarifs réglementés de vente mentionnés à l'article L. 337-1 ou de la tarification spéciale dite « produit de
-première nécessité ». 
+bénéficient des tarifs réglementés de vente mentionnés à l'article L. 337-1. 
+
+La mission de fourniture d'électricité concourt également à la cohésion sociale par la mise en œuvre de la tarification
+spéciale dite " produit de première nécessité " mentionnée à l'article L. 337-3. Cette mission est assignée aux fournisseurs
+mentionnés au chapitre III du titre III du livre III. L'autorité administrative peut prononcer, dans les conditions définies
+au paragraphe 2 de la sous-section 3 de la section 2 du chapitre II du titre IV du présent livre, une des sanctions prévues
+aux 1° et 2° de l'article L. 142-31 à l'encontre des auteurs des manquements à l'obligation d'assurer cette mission, y
+compris en cas de défaut de transmission d'informations demandées par une autorité chargée du contrôle en application du
+quatrième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales. 
 
 Elle consiste également à assurer la fourniture d'électricité de secours aux clients raccordés aux réseaux publics dans les
 conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 2 (Ab), III
 
 	**Cité par**:
 
@@ -3981,19 +3974,19 @@ conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-31
 	  - Code général des collectivités territoriales - art. L2224-33
-	  - Code de l'action sociale et des familles - art. L115-3 (V)
-	  - Code de l'action sociale et des familles - art. L121-4 (V)
-	  - Code de l'énergie - art. L333-3 (V)
-	  - Code de l'énergie - art. L337-1 (V)
-	  - Code de l'énergie - art. L337-4 (V)
+	  - Code de l'action sociale et des familles - art. L121-4
+	  - Code de l'énergie - art. L142-31
+	  - Code de l'énergie - art. L333-3
+	  - Code de l'énergie - art. L337-1
+	  - Code de l'énergie - art. L337-4
 
 
 ##### Sous-section 2 : Compensation des charges résultant des obligations de service public
@@ -4003,21 +3996,19 @@ conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 ###### Article L121-6
 
 Les charges imputables aux missions de service public assignées aux opérateurs électriques définies aux articles L. 121-7 et
-L. 121-8 sont intégralement compensées.
+L. 121-8 sont intégralement compensées. 
+
+La prime mentionnée à l'article L. 123-1 est couverte par la contribution prévue à l'article L. 121-10.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -4034,7 +4025,9 @@ L. 121-8 sont intégralement compensées.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L121-10
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. L123-1
 
 
 ###### Article L121-7
@@ -4202,22 +4195,19 @@ indépendant qu'elle choisit.
 ###### Article L121-10
 
 La compensation, au profit des opérateurs qui les supportent, des charges imputables aux missions de service public définies
-aux articles L. 121-7 et L. 121-8 est assurée par des contributions dues par les consommateurs finals d'électricité installés
-sur le territoire national.
+aux articles L. 121-7 et L. 121-8 ainsi que le versement de la prime aux opérateurs d'effacement mentionnés à l'article L.
+123-1 sont assurés par des contributions dues par les consommateurs finals d'électricité installés sur le territoire
+national.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I, alinéa 9
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -4236,7 +4226,8 @@ sur le territoire national.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. L123-1
 
 
 ###### Article L121-11
@@ -4394,7 +4385,8 @@ dues. Le cas échéant, elle émet un état exécutoire.
 ###### Article L121-16
 
 La Caisse des dépôts et consignations reverse quatre fois par an aux opérateurs qui supportent les charges résultant des
-missions définies aux articles L. 121-7 et L. 121-8 les sommes collectées. 
+missions définies aux articles L. 121-7 et L. 121-8 ainsi qu'aux opérateurs d'effacement mentionnés à l'article L. 123-1 au
+titre de la prime mentionnée au même article les sommes collectées. 
 
 Elle verse au médiateur national de l'énergie une somme, plafonnée conformément au I de l'article 46 de la loi n° 2011-1977
 du 28 décembre 2011 de finances pour 2012 et égale au montant de son budget le 1er janvier de chaque année.
@@ -4405,13 +4397,15 @@ du 28 décembre 2011 de finances pour 2012 et égale au montant de son budget le
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-
 	**Cite**:
 
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
 	  - Code de l'énergie - art. L121-7
+
+	**Modifié par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -4647,27 +4641,31 @@ kilowattheures vendus par la contribution applicable à chaque kilowattheure con
 
 Lorsque l'électricité acquise dans les conditions prévues par les articles L. 121-27, L. 311-10 et L. 314-1 fait l'objet, au
 bénéfice de l'acquéreur, d'une valorisation en raison de son origine, le montant de cette valorisation est déduit des charges
-de service public constatées pour cet acquéreur.
+de service public constatées pour cet acquéreur. 
+
+La valeur des garanties de capacité acquises dans le cadre des contrats découlant de l'application des articles L. 121-27, L.
+311-10 et L. 314-1, en application de l'article L. 335-5, est déduite des charges de service public constatées pour
+l'acquéreur. Le montant des pénalités payées dans le cadre de ces contrats est ajouté aux charges de service public
+constatées pour l'acquéreur. Les méthodes de calcul de la valeur des garanties de capacité et du montant des pénalités sont
+fixées par la Commission de régulation de l'énergie dans les conditions prévues par le décret mentionné à l'article L. 335-6.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 5 (VT), I ter
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 18
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L311-10 (V)
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L335-5
+	  - Code de l'énergie - art. L335-6
 
 	**Cité par**:
 
@@ -5523,13 +5521,14 @@ d'électricité et de gaz
 ###### Article L122-1
 
 Le médiateur national de l'énergie est chargé de recommander des solutions aux litiges entre les consommateurs et les
-fournisseurs d'électricité ou de gaz naturel et de participer à l'information des consommateurs d'électricité ou de gaz
-naturel sur leurs droits. 
+fournisseurs ou les gestionnaires de réseau de distribution d'électricité ou de gaz naturel et de participer à l'information
+des consommateurs d'électricité ou de gaz naturel sur leurs droits. 
 
-Il ne peut être saisi que de litiges nés de l'exécution des contrats mentionnés à la section 12 du chapitre Ier du titre II
-du livre Ier du code de la consommation ou aux articles L. 332-2 et L. 442-2 du présent code et qui ont déjà fait l'objet
-d'une réclamation écrite préalable du consommateur auprès du fournisseur concerné, qui n'a pas permis de régler le différend
-dans un délai fixé par voie réglementaire. 
+Il ne peut être saisi que de litiges nés de l'exécution des contrats conclus par un consommateur non professionnel ou par un
+consommateur professionnel appartenant à la catégorie des microentreprises mentionnée à l'article 51 de la loi n° 2008-776 du
+4 août 2008 de modernisation de l'économie. Ces contrats doivent avoir déjà fait l'objet d'une réclamation écrite préalable
+du consommateur auprès du fournisseur ou du distributeur concerné, qui n'a pas permis de régler le différend dans un délai
+fixé par voie réglementaire. 
 
 Il est saisi directement et gratuitement par le consommateur ou son mandataire. Il formule sa recommandation dans un délai
 fixé par voie réglementaire et motive sa réponse. Sa saisine suspend la prescription des actions en matière civile et pénale
@@ -5537,17 +5536,17 @@ pendant ce délai.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 43-1 (Ab), alinéa 1 à alinéa 3
+	  - Loi n°2008-776 du 4 août 2008 - art. 51
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 8
 
 	**Cité par**:
 
@@ -5555,11 +5554,6 @@ pendant ce délai.
 	  - Code de l'énergie - art. R122-2 (V)
 	  - Code de l'énergie - art. R122-3 (V)
 	  - Code de la consommation - art. D224-28 (VD)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L332-2 (V)
-	  - Code de l'énergie - art. L442-2 (V)
 
 
 ###### Article L122-2
@@ -5633,26 +5627,26 @@ détachement ainsi que des agents contractuels.
 ###### Article L122-5
 
 La médiation nationale de l'énergie est dotée de la personnalité morale et de l'autonomie financière. Son budget est arrêté
-par les ministres chargés respectivement de l'économie, de l'énergie et de la consommation sur sa proposition. Les
-dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne lui sont pas
-applicables. 
-
-Elle perçoit pour son fonctionnement une part du produit de la contribution mentionnée à l'article L. 121-10.
+par les ministres chargés respectivement de l'économie, de l'énergie et de la consommation sur sa proposition. Son
+financement est assuré, pour moitié, par une part du produit de la contribution mentionnée à l'article L. 121-10 et, pour
+moitié, par une part du produit de la contribution mentionnée à l'article L. 121-37. Les dispositions de la loi du 10 août
+1922 relative à l'organisation du contrôle des dépenses engagées ne lui sont pas applicables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi du 10 août 1922 (V)
-	  - Code de l'énergie - art. L121-10 (V)
+	  - Loi du 10 août 1922
+	  - Code de l'énergie - art. L121-10
+	  - Code de l'énergie - art. L121-37
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 8
 
 
 ##### Section 2 : Autres dispositions relatives aux consommateurs
@@ -5707,6 +5701,105 @@ chapitres II et III du titre III du livre III et aux chapitres II et III du titr
 	  - Code de l'énergie - art. L151-5 (Ab)
 
 
+#### Chapitre III : La contribution des opérateurs d'effacement aux objectifs de la politique énergétique
+
+###### Article L123-1
+
+Le décret prévu à l'article L. 271-1 fixe la méthodologie utilisée pour établir une prime versée aux opérateurs d'effacement
+au titre de leur contribution aux objectifs définis aux articles L. 100-1 et L. 100-2 et des avantages procurés à la
+collectivité, notamment en matière de maîtrise de la demande d'énergie ou de sobriété énergétique. Ce même décret précise
+également les modalités selon lesquelles les ministres chargés de l'économie et de l'énergie arrêtent, après avis de la
+Commission de régulation de l'énergie, le montant de cette prime. 
+
+Le niveau de cette prime ne peut conduire à ce que la rémunération des capitaux immobilisés par les opérateurs excède une
+rémunération normale des capitaux compte tenu des risques inhérents à ces activités. 
+
+Le niveau de cette prime fait l'objet d'une révision annuelle selon les modalités indiquées par le décret prévu à l'article
+L. 271-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2015 - art. 1 (V)
+	  - Code de l'énergie - art. L121-10 (M)
+	  - Code de l'énergie - art. L121-13 (M)
+	  - Code de l'énergie - art. L121-6 (M)
+	  - Code de l'énergie - art. R123-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 168
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L100-1
+	  - Code de l'énergie - art. L271-1
+
+
+###### Article L123-2
+
+La charge résultant de la prime aux opérateurs d'effacement est assurée par la contribution mentionnée à l'article L. 121-10
+due par les consommateurs finals d'électricité installés sur le territoire national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-10
+
+
+###### Article L123-3
+
+Le montant des charges prévisionnelles résultant du versement de la prime aux opérateurs d'effacement s'ajoute au montant des
+charges arrêtées chaque année par le ministre chargé de l'énergie en application de l'article L. 121-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-9
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L123-4 (V)
+
+
+###### Article L123-4
+
+La Commission de régulation de l'énergie propose au ministre chargé de l'énergie, chaque année, le montant des charges
+mentionnées à l'article L. 123-3 compte tenu des prévisions des quantités effacées par les opérateurs telles qu'elles peuvent
+être estimées par le gestionnaire du réseau public de transport, ainsi que des quantités effectives effacées au cours de
+l'année précédente telles qu'elles ont été calculées par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L123-3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R123-4 (Ab)
+	  - Code de l'énergie - art. R271-5 (V)
+
+
 ### TITRE III : LA COMMISSION DE REGULATION DE L'ENERGIE
 
 #### Chapitre Ier : Missions
@@ -5719,11 +5812,8 @@ chapitres II et III du titre III du livre III et aux chapitres II et III du titr
 ###### Article L131-1
 
 Dans le respect des compétences qui lui sont attribuées, la Commission de régulation de l'énergie concourt au bon
-fonctionnement des marchés de l'électricité et du gaz naturel au bénéfice des consommateurs finals et en cohérence avec les
-objectifs de la politique énergétique fixés par l'article 1er de la loi n° 2005-781 du 13 juillet 2005 de programme fixant
-les orientations de la politique énergétique et par les articles 1er et 2 de la loi n° 2009-967 du 3 août 2009 de
-programmation relative à la mise en œuvre du Grenelle de l'environnement, notamment les objectifs de réduction des émissions
-de gaz à effet de serre, de maîtrise de l'énergie et de production d'énergie renouvelable. 
+fonctionnement des marchés de l'électricité et du gaz naturel au bénéfice des consommateurs finals en cohérence avec les
+objectifs fixés à l'article L. 100-1 et les prescriptions énoncées à l'article L. 100-2. 
 
 A ce titre, elle veille, en particulier, à ce que les conditions d'accès aux réseaux de transport et de distribution
 d'électricité et de gaz naturel n'entravent pas le développement de la concurrence. 
@@ -5736,22 +5826,18 @@ Elle contribue à garantir l'effectivité des mesures de protection des consomma
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), I, alinéas 1 et 2
-
-	**Cite**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 1
-	  - Loi n°2009-967 du 3 août 2009 - art. 1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 10
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L100-1
+	  - Code de l'énergie - art. L100-2
 
 	**Cité par**:
 
@@ -5773,19 +5859,23 @@ conditions d'approvisionnement par l'accès régulé à l'électricité nucléai
 formuler des avis et proposer toute mesure favorisant le bon fonctionnement et la transparence, notamment en matière de prix,
 du marché de détail.
 
+La Commission de régulation de l'énergie garantit le respect, par toute personne qui effectue des transactions sur un ou
+plusieurs marchés de gros de l'énergie, des interdictions prévues aux articles 3 et 5 du règlement (UE) n° 1227/2011 du
+Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie,
+ainsi que de l'obligation prévue à l'article 4 de ce même règlement.
+
+Ces interdictions et obligations s'appliquent également aux garanties de capacité mentionnées à l'article L. 335-2 du présent
+code. La Commission de régulation de l'énergie garantit leur respect.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), I, alinéa 3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 22
 
 
 ###### Article L131-3
@@ -5851,12 +5941,31 @@ commission et le président du comité ont respectivement qualité pour agir en 
 
 ###### Article L132-2
 
-Le collège est composé de cinq membres nommés en raison de leurs qualifications dans les domaines juridique, économique et
-technique. Le président est nommé par décret dans les conditions fixées par la loi organique n° 2010-837 du 23 juillet 2010
-relative à l'application du cinquième alinéa de l'article 13 de la Constitution. Deux membres sont nommés par décret après
-avis des commissions du Parlement compétentes en matière d'énergie. Deux membres sont nommés respectivement par le président
-de l'Assemblée nationale et par le président du Sénat. Les membres du collège sont nommés pour six ans. Leur mandat n'est pas
-renouvelable. 
+Le collège est composé de six membres nommés en raison de leurs qualifications juridiques, économiques et techniques. 
+
+Le président du collège est nommé par décret dans les conditions fixées par la loi organique n° 2010-837 du 23 juillet 2010
+relative à l'application du cinquième alinéa de l'article 13 de la Constitution. Le collège est renouvelé par tiers tous les
+deux ans. 
+
+Le collège comprend également : 
+
+1° Un membre nommé par le président de l'Assemblée nationale, en raison de ses qualifications juridiques, économiques et
+techniques dans le domaine de la protection des données personnelles ; 
+
+2° Un membre nommé par le président du Sénat, en raison de ses qualifications juridiques, économiques et techniques dans le
+domaine des services publics locaux de l'énergie ; 
+
+3° Un membre nommé par décret, en raison de ses qualifications juridiques, économiques et techniques dans les domaines de la
+protection des consommateurs d'énergie et de la lutte contre la précarité énergétique ; 
+
+4° Un membre nommé par décret, en raison de ses qualifications juridiques, économiques et techniques dans les domaines de la
+maîtrise de la demande d'énergie et des énergies renouvelables ; 
+
+5° Un membre nommé par décret, sur proposition du ministre chargé de l'outre-mer, en raison de sa connaissance et de son
+expérience des zones non interconnectées. 
+
+La composition du collège respecte la parité entre les femmes et les hommes. Les membres du collège sont nommés pour six ans.
+Leur mandat n'est pas renouvelable. 
 
 En cas de vacance d'un siège de membre du collège, il est procédé à son remplacement pour la durée du mandat restant à
 courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte pour l'application de la règle de non-
@@ -5864,26 +5973,29 @@ renouvellement.
 
 Les fonctions de président et des autres membres du collège sont incompatibles avec tout mandat électif communal,
 départemental, régional, national ou européen et avec la détention, directe ou indirecte, d'intérêts dans une entreprise du
-secteur de l'énergie. Chaque membre du collège fait une déclaration d'intérêts au moment de sa désignation.
+secteur de l'énergie. Chaque membre du collège fait une déclaration d'intérêts au moment de sa désignation. Cette déclaration
+est rendue publique. 
+
+Le président et les autres membres du collège ne peuvent, sous peine de l'application des sanctions prévues à l'article
+432-13 du code pénal, prendre ou recevoir une participation par travail, conseil ou capitaux dans l'une de ces entreprises
+avant l'expiration d'un délai de trois ans suivant la cessation de leurs fonctions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Constitution du 4 octobre 1958 - art. 13 (V)
+	  - Constitution du 4 octobre 1958 - art. 13
 	  - Loi organique n°2010-837 du 23 juillet 2010
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), II et V alinéa 1 sauf 1re phrase
+	  - Code pénal - art. 432-13
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 11
+	  - Loi n°2013-312 du 15 avril 2013 - art. 9 (V)
 
 
 ###### Article L132-3
@@ -5894,8 +6006,10 @@ Le comité de règlement des différends et des sanctions comprend quatre membre
 
 2° Deux conseillers à la Cour de cassation désignés par le premier président de la Cour de cassation.
 
-Les membres du comité sont nommés pour une durée de six ans non renouvelable. Le président est nommé par décret pour la durée
-de son mandat parmi les membres du comité.
+Le comité comprend également quatre membres suppléants, désignés selon les mêmes règles que les membres titulaires. 
+
+Les membres du comité et leurs suppléants sont nommés pour une durée de six ans non renouvelable. Le président est nommé par
+décret pour la durée de son mandat parmi les membres du comité.
 
 En cas de vacance d'un siège de membre du comité pour quelque cause que ce soit, il est procédé à son remplacement pour la
 durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte pour l'application de
@@ -5903,17 +6017,13 @@ la règle de non-renouvellement fixée à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), III
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 21
 
 
 ###### Article L132-4
@@ -5993,21 +6103,24 @@ présent article.
 ###### Article L133-1
 
 Le collège et le comité délibèrent à la majorité des membres présents. En cas de partage égal des voix, celle du président
-est prépondérante.
+est prépondérante, sauf en matière de sanction. Lorsque le comité délibère en matière de sanction, le membre du comité qui a
+prononcé une mise en demeure en application de l'article L. 134-26 ne participe pas au délibéré des décisions prises par le
+comité en application de l'article L. 134-27.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), IV, 3e et 4e phrases
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 21
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L134-26
+	  - Code de l'énergie - art. L134-27
 
 
 ###### Article L133-2
@@ -6207,21 +6320,20 @@ l'article L. 336-1 ;
 
 8° Les conditions d'accès et de raccordement aux réseaux publics des nouvelles interconnexions mentionnées à l'article 17 du
 règlement (CE) n° 714/2009 du Parlement européen et du Conseil du 13 juillet 2009 sur les conditions d'accès au réseau pour
-les échanges transfrontaliers d'électricité.
+les échanges transfrontaliers d'électricité ; 
+
+9° La valorisation des effacements de consommation mentionnés à l'article L. 271-1. Ces règles définissent les modalités du
+versement mentionné au deuxième alinéa du même article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 37 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -6231,9 +6343,10 @@ les échanges transfrontaliers d'électricité.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L321-11 (V)
-	  - Code de l'énergie - art. L336-1 (V)
-	  - Code de l'énergie - art. L337-14 (V)
+	  - Code de l'énergie - art. L271-1
+	  - Code de l'énergie - art. L321-11
+	  - Code de l'énergie - art. L336-1
+	  - Code de l'énergie - art. L337-14
 	  - article 17 du règlement (CE) n°714/2009
 
 
@@ -6940,42 +7053,51 @@ en application de la présente section sont de la compétence de la cour d'appel
 ###### Article L134-25
 
 Le comité de règlement des différends et des sanctions peut soit d'office, soit à la demande du ministre chargé de l'énergie,
-de l'environnement, d'une organisation professionnelle, d'une association agréée d'utilisateurs ou de toute autre personne
-concernée, sanctionner les manquements mentionnés aux titres Ier et II du présent livre et aux livres III et IV qu'il
-constate de la part des gestionnaires de réseaux publics de transport ou de distribution d'électricité, des opérateurs des
-ouvrages de transport ou de distribution de gaz naturel ou des exploitants des installations de stockage de gaz naturel ou
-des installations de gaz naturel liquéfié ou des exploitants de réseaux de transport et de stockage géologique de dioxyde de
-carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y compris les fournisseurs d'électricité, dans les
-conditions fixées aux articles suivants. 
+de l'environnement, du président de la Commission de régulation de l'énergie, d'une organisation professionnelle, d'une
+association agréée d'utilisateurs ou de toute autre personne concernée, sanctionner les manquements mentionnés aux titres Ier
+et II du présent livre et aux livres III et IV qu'il constate de la part des gestionnaires de réseaux publics de transport ou
+de distribution d'électricité, des opérateurs des ouvrages de transport ou de distribution de gaz naturel ou des exploitants
+des installations de stockage de gaz naturel ou des installations de gaz naturel liquéfié ou des exploitants de réseaux de
+transport et de stockage géologique de dioxyde de carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y
+compris les fournisseurs d'électricité, dans les conditions fixées aux articles suivants. 
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
-l'énergie, sanctionner les manquements répétés qu'il constate de la part du gestionnaire du réseau public de transport
-d'électricité ou d'un gestionnaire de réseau de transport de gaz naturel ou de la part des autres sociétés de l'entreprise
-verticalement intégrée, telle que définie à l'article L. 111-10, à laquelle appartient ce gestionnaire de réseau, aux règles
-d'indépendance mentionnées à la section 1 du chapitre Ier du titre Ier du présent livre, à l'obligation annuelle
-d'actualisation du schéma décennal de développement du réseau mentionné à l'article L. 321-6 ou du plan décennal de
-développement du réseau mentionné à l'article L. 431-6 ou au refus de réaliser un investissement prévu dans ce schéma ou dans
-ce plan.
+l'énergie, ou à la demande du président de la Commission de régulation de l'énergie, sanctionner les manquements répétés
+qu'il constate de la part du gestionnaire du réseau public de transport d'électricité ou d'un gestionnaire de réseau de
+transport de gaz naturel ou de la part des autres sociétés de l'entreprise verticalement intégrée, telle que définie à
+l'article L. 111-10, à laquelle appartient ce gestionnaire de réseau, aux règles d'indépendance mentionnées à la section 1 du
+chapitre Ier du titre Ier du présent livre, à l'obligation annuelle d'actualisation du schéma décennal de développement du
+réseau mentionné à l'article L. 321-6 ou du plan décennal de développement du réseau mentionné à l'article L. 431-6 ou au
+refus de réaliser un investissement prévu dans ce schéma ou dans ce plan. 
+
+Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
+l'énergie ou de l'environnement, d'une organisation professionnelle, du président de la Commission de régulation de
+l'énergie, de l'Agence de coopération des régulateurs de l'énergie instituée par le règlement (CE) n° 713/2009 du Parlement
+européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ou de toute autre
+personne concernée, sanctionner les manquements aux règles définies aux articles 3,4 et 5 du règlement (UE) n° 1227/2011 du
+Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de
+l'électricité ou tout autre manquement de nature à porter gravement atteinte au fonctionnement du marché de l'énergie, y
+compris du mécanisme d'obligation de capacité mentionné à l'article L. 335-2 du présent code, qu'il constate de la part de
+toute personne, dont les gestionnaires de réseau de transport, qui effectue des transactions, y compris des ordres, sur un ou
+plusieurs marchés de gros de l'énergie, dans les conditions fixées aux articles L. 134-26 à L. 134-34.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 40 (Ab), alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 21
+	  - Loi n°2013-312 du 15 avril 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-10 (V)
-	  - Code de l'énergie - art. L321-6 (V)
-	  - Code de l'énergie - art. L431-6 (V)
+	  - Code de l'énergie - art. L111-10
+	  - Code de l'énergie - art. L321-6
+	  - Code de l'énergie - art. L335-2
+	  - Code de l'énergie - art. L431-6
 
 	**Cité par**:
 
@@ -6993,28 +7115,25 @@ réseau, d'un ouvrage ou d'une installation mentionné à l'article L. 134-19, �
 relative à l'accès auxdits réseaux, ouvrages et installations ou à leur utilisation, à une décision prise par la Commission
 de régulation de l'énergie ou à une règle d'imputation, à un périmètre ou à un principe approuvés par elle en application des
 dispositions de la section 6 du chapitre Ier du titre Ier du livre Ier, ou aux règles et obligations mentionnées au deuxième
-alinéa de l'article L. 134-25, le comité met l'auteur de l'abus, de l'entrave ou du manquement en demeure de se conformer à
-ces dispositions législatives ou réglementaires ou à ces décisions ou règles et obligations dans un délai déterminé. Il peut
-rendre publique cette mise en demeure. Est regardé comme un abus du droit d'accès régulé à l'électricité nucléaire historique
-tout achat d'électricité nucléaire historique dans le cadre du dispositif d'accès régulé à celle-ci sans intention de
-constituer un portefeuille de clients y ouvrant droit, en particulier tout achat de quantités d'électricité nucléaire
-historique excédant substantiellement celles nécessaires à l'approvisionnement de sa clientèle et sans rapport avec la
-réalité du développement de son activité et les moyens consacrés à celui-ci, et plus généralement toute action participant
-directement ou indirectement au détournement des capacités d'électricité nucléaire historique à prix régulé.
+alinéa de l'article L. 134-25, le président du comité désigne le membre du comité chargé de mettre, le cas échéant, l'auteur
+de l'abus, de l'entrave ou du manquement en demeure de se conformer à ces dispositions législatives ou réglementaires ou à
+ces décisions ou règles et obligations dans un délai déterminé. Il peut rendre publique cette mise en demeure. Est regardé
+comme un abus du droit d'accès régulé à l'électricité nucléaire historique tout achat d'électricité nucléaire historique dans
+le cadre du dispositif d'accès régulé à celle-ci sans intention de constituer un portefeuille de clients y ouvrant droit, en
+particulier tout achat de quantités d'électricité nucléaire historique excédant substantiellement celles nécessaires à
+l'approvisionnement de sa clientèle et sans rapport avec la réalité du développement de son activité et les moyens consacrés
+à celui-ci, et plus généralement toute action participant directement ou indirectement au détournement des capacités
+d'électricité nucléaire historique à prix régulé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 40 (Ab), alinéa 2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 21
 
 	**Cité par**:
 
@@ -7029,14 +7148,15 @@ directement ou indirectement au détournement des capacités d'électricité nuc
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-19 (V)
-	  - Code de l'énergie - art. L336-1 (V)
+	  - Code de l'énergie - art. L134-19
+	  - Code de l'énergie - art. L336-1
 
 
 ###### Article L134-27
 
-Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure, le comité peut prononcer à son
-encontre, en fonction de la gravité du manquement : 
+Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure ou en cas de manquement constaté dans
+les conditions prévues à l'article L. 135-12, et après l'envoi d'une notification des griefs à l'intéressé, le comité peut
+prononcer à son encontre, en fonction de la gravité du manquement : 
 
 1° Soit une interdiction temporaire d'accès aux réseaux, ouvrages et installations mentionnés à l'article L. 134-19 pour une
 durée n'excédant pas un an ; 
@@ -7062,17 +7182,13 @@ montant le plus élevé de l'une des sanctions encourues.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 40 (Ab), alinéas 3 à 5
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 21
 
 	**Cité par**:
 
@@ -7083,8 +7199,9 @@ montant le plus élevé de l'une des sanctions encourues.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-19 (V)
-	  - Code de l'énergie - art. L135-1 (V)
+	  - Code de l'énergie - art. L134-19
+	  - Code de l'énergie - art. L135-1
+	  - Code de l'énergie - art. L135-12
 
 
 ###### Article L134-28
@@ -7123,10 +7240,12 @@ qu'il y ait lieu de le mettre préalablement en demeure.
 
 En cas de manquement, soit d'un gestionnaire, d'un opérateur ou d'un exploitant d'un réseau, d'un ouvrage ou d'une
 installation mentionné à l'article L. 134-25, soit d'une autre entreprise exerçant une activité dans le secteur de
-l'électricité ou du gaz naturel ou du transport et du stockage géologique de dioxyde de carbone, aux obligations de
-communication de documents et d'informations, ou à l'obligation de donner accès à leur comptabilité, ainsi qu'aux
-informations économiques, financières et sociales prévues à l'article L. 135-1, la Commission de régulation de l'énergie met
-l'intéressé en demeure de s'y conformer dans un délai qu'elle détermine. 
+l'électricité ou du gaz naturel ou du transport et du stockage géologique de dioxyde de carbone, soit de toute personne qui
+effectue des transactions sur un ou plusieurs marchés de gros de l'énergie, y compris des transactions de garanties de
+capacité mentionnées à l'article L. 335-2 aux obligations de communication de documents et d'informations, ou à l'obligation
+de donner accès à leur comptabilité, ainsi qu'aux informations économiques, financières et sociales prévues à l'article L.
+135-1, le président de la Commission de régulation de l'énergie met l'intéressé en demeure de s'y conformer dans un délai
+qu'il détermine. 
 
 Lorsque l'intéressé ne se conforme pas à cette mise en demeure dans le délai fixé ou fournit des renseignements incomplets ou
 erronés, le comité de règlement des différends et des sanctions peut prononcer à son encontre les sanctions prévues à
@@ -7134,17 +7253,14 @@ l'article L. 134-27.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 40 (Ab), alinéas 7 et 8
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 22
+	  - Loi n°2013-312 du 15 avril 2013 - art. 23
 
 	**Cité par**:
 
@@ -7153,9 +7269,10 @@ l'article L. 134-27.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-25 (V)
-	  - Code de l'énergie - art. L134-27 (V)
-	  - Code de l'énergie - art. L135-1 (V)
+	  - Code de l'énergie - art. L134-25
+	  - Code de l'énergie - art. L134-27
+	  - Code de l'énergie - art. L135-1
+	  - Code de l'énergie - art. L335-2
 
 
 ###### Article L134-30
@@ -7651,8 +7768,8 @@ détention autorisant la visite.
 
 ###### Article L135-12
 
-Les manquements mentionnés aux articles L. 134-26, L. 134-28 et L. 134-29 sont constatés par les fonctionnaires et agents
-mentionnés à l'article L. 135-3. 
+Les manquements mentionnés au dernier alinéa de l'article L. 134-25 et aux articles L. 134-26, L. 134-28 et L. 134-29 sont
+constatés par les fonctionnaires et agents mentionnés à l'article L. 135-3. 
 
 Ces manquements font l'objet de procès-verbaux qui, ainsi que les sanctions maximales encourues, sont notifiés à la ou aux
 personnes concernées et communiqués à la Commission de régulation de l'énergie et au ministre de l'environnement dès lors que
@@ -7662,17 +7779,13 @@ compter de cette notification, sans préjudice des droits prévus à l'article L
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 33 (VT), III, ecqc la CRE
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 22
 
 	**Cité par**:
 
@@ -7683,10 +7796,11 @@ compter de cette notification, sans préjudice des droits prévus à l'article L
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-26 (V)
-	  - Code de l'énergie - art. L134-28 (V)
-	  - Code de l'énergie - art. L134-31 (V)
-	  - Code de l'énergie - art. L135-3 (V)
+	  - Code de l'énergie - art. L134-25
+	  - Code de l'énergie - art. L134-26
+	  - Code de l'énergie - art. L134-28
+	  - Code de l'énergie - art. L134-31
+	  - Code de l'énergie - art. L135-3
 
 
 ###### Article L135-13
@@ -9920,28 +10034,6 @@ La sous-section 3 de la section 1 du chapitre Ier du titre II du présent livre 
 	  - Loi n°2015-992 du 17 août 2015 - art. 165
 
 
-###### Article L151-5
-
-Les dispositions des articles L. 121-5 et L. 122-7 relatives à l'application de l'article L. 115-3 du code de l'action
-sociale et des familles ne sont pas applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-312 du 15 avril 2013 - art. 19
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L115-3
-	  - Code de l'énergie - art. L121-5
-	  - Code de l'énergie - art. L122-7
-
-
 ###### Article L151-6
 
 Pour l'application du présent livre à Mayotte et à Saint-Pierre-et-Miquelon, les références au " tribunal de grande instance
@@ -10996,6 +11088,8 @@ l'article L. 226-10 du code de l'environnement.
 
 #### Chapitre unique
 
+#### Chapitre Ier :  Dispositions générales
+
 ###### Article L231-1
 
 Les dispositions relatives aux caractéristiques thermiques et à la performance énergétique des constructions nouvelles ou des
@@ -11075,6 +11169,29 @@ monétaire et financier.
 	**Cite**:
 
 	  - Code monétaire et financier - art. L221-27
+
+
+#### Chapitre II :  Service public de la performance énergétique de l'habitat
+
+###### Article L232-1
+
+Le service public de la performance énergétique de l'habitat assure l'accompagnement des consommateurs souhaitant diminuer
+leur consommation énergétique. Il assiste les propriétaires et les locataires dans la réalisation des travaux d'amélioration
+de la performance énergétique de leur logement et leur fournit des informations et des conseils personnalisés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 12
+
+	**Cité par**:
+
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+	  - Code de l'énergie - art. D111-55 (V)
+	  - Code de l'énergie - art. D112-2 (V)
+	  - Code de l'énergie - art. D113-3 (V)
+	  - Code de la construction et de l'habitation. - art. L326-1 (V)
 
 
 ### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION
@@ -11465,6 +11582,52 @@ en cours au 1er janvier 2008.
 	**Cite**:
 
 	  - Code de l'énergie - art. L241-2 (V)
+
+
+### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ
+
+#### Chapitre unique
+
+###### Article L271-1
+
+Un décret en Conseil d'Etat, pris sur proposition de la Commission de régulation de l'énergie, fixe la méthodologie utilisée
+pour établir les règles permettant la valorisation des effacements de consommation d'électricité sur les marchés de l'énergie
+et sur le mécanisme d'ajustement mentionné à l'article L. 321-10. 
+
+Ces règles prévoient la possibilité, pour un opérateur d'effacement, de procéder à des effacements de consommation,
+indépendamment de l'accord du fournisseur d'électricité des sites concernés, et de les valoriser sur les marchés de l'énergie
+ou sur le mécanisme d'ajustement mentionné au même article L. 321-10, ainsi qu'un régime de versement de l'opérateur
+d'effacement vers les fournisseurs d'électricité des sites effacés. Ce régime de versement est établi en tenant compte des
+quantités d'électricité injectées par ou pour le compte des fournisseurs des sites effacés et valorisées par l'opérateur
+d'effacement sur les marchés de l'énergie ou sur le mécanisme d'ajustement. 
+
+Une prime est versée aux opérateurs d'effacement, prenant en compte les avantages de l'effacement pour la collectivité, dans
+les conditions précisées au chapitre III du titre II du livre Ier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 2015 - art. 1 (V)
+	  - Code de l'énergie - art. D141-12-1 (V)
+	  - Code de l'énergie - art. L123-1 (Ab)
+	  - Code de l'énergie - art. L134-1 (V)
+	  - Code de l'énergie - art. L271-3 (V)
+	  - Code de l'énergie - art. L271-4 (V)
+	  - Code de l'énergie - art. L321-15-1 (V)
+	  - Code de l'énergie - art. R271-1 (M)
+	  - Code de l'énergie - art. R271-10 (VD)
+	  - Code de l'énergie - art. R271-13 (VD)
+	  - Code de l'énergie - art. R271-2 (V)
+	  - Code de l'énergie - art. R271-3 (M)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-10
 
 
 ## LIVRE III : LES DISPOSITIONS  RELATIVES A L'ELECTRICITE
@@ -12298,34 +12461,24 @@ code général des collectivités territoriales ou qui visent l'alimentation d'u
 puissance installée de ces installations doit être en rapport avec la taille du réseau existant ou à créer ; 
 
 2° Les installations de production d'électricité qui utilisent des énergies renouvelables, à l'exception des énergies
-mentionnées au 3°, les installations situées à terre utilisant l'énergie mécanique du vent dans une zone non interconnectée
-au réseau métropolitain continental ou les installations qui mettent en œuvre des techniques performantes en termes
-d'efficacité énergétique telles que la cogénération. Un décret en Conseil d'Etat fixe les limites de puissance installée des
-installations de production qui peuvent bénéficier de l'obligation d'achat. Ces limites, qui ne peuvent excéder 12 mégawatts,
-sont fixées pour chaque catégorie d'installation pouvant bénéficier de l'obligation d'achat sur un site de production. Pour
-apprécier le respect de ces limites, deux machines électrogènes, appartenant à une même catégorie d'installations, exploitées
-par une même personne ou par les sociétés qu'elle contrôle directement ou indirectement au sens de l'article L. 233-3 du code
-de commerce, ne peuvent être considérées comme situées sur deux sites distincts si la distance qui les sépare est inférieure
-à une distance minimale fixée par voie réglementaire. Ces limites sont révisées pour prendre en compte l'ouverture
-progressive du marché national de l'électricité. 
+mentionnées au 3° ou les installations qui mettent en œuvre des techniques performantes en termes d'efficacité énergétique
+telles que la cogénération. Un décret en Conseil d'Etat fixe les limites de puissance installée des installations de
+production qui peuvent bénéficier de l'obligation d'achat. Ces limites, qui ne peuvent excéder 12 mégawatts, sont fixées pour
+chaque catégorie d'installation pouvant bénéficier de l'obligation d'achat sur un site de production. Pour apprécier le
+respect de ces limites, deux machines électrogènes, appartenant à une même catégorie d'installations, exploitées par une même
+personne ou par les sociétés qu'elle contrôle directement ou indirectement au sens de l'article L. 233-3 du code de commerce,
+ne peuvent être considérées comme situées sur deux sites distincts si la distance qui les sépare est inférieure à une
+distance minimale fixée par voie réglementaire. Ces limites sont révisées pour prendre en compte l'ouverture progressive du
+marché national de l'électricité. 
 
 Les nouvelles installations destinées au turbinage des débits minimaux mentionnés à l'article L. 214-18 du code de
 l'environnement réalisées par le titulaire d'une autorisation ou d'une concession hydroélectrique en cours bénéficient de
 l'obligation d'achat indépendamment de l'ouvrage principal à la condition que leur puissance installée respecte les limites
 prévues à l'alinéa précédent ; 
 
-3° Les installations de production d'électricité utilisant l'énergie mécanique du vent qui sont implantées dans le périmètre
-d'une zone de développement de l'éolien terrestre définie selon les modalités fixées à l'article L. 314-9 ou qui sont
-implantées sur le domaine public maritime ou dans la zone économique exclusive et les installations qui utilisent l'énergie
-marine, l'énergie solaire thermique ou l'énergie géothermique ou hydrothermique. Pour l'éolien, ces installations doivent
-constituer des unités de production composées d'un nombre de machines électrogènes au moins égal à cinq, à l'exception de
-celles pour lesquelles une demande de permis de construire a été déposée avant le 14 juillet 2010 et de celles composées
-d'une machine électrogène de puissance inférieure ou égale à 250 kilowatts et dont la hauteur du mât est inférieure à trente
-mètres. 
-
-Toutefois, en zone non interconnectée au réseau métropolitain continental, un producteur utilisant l'énergie mécanique du
-vent peut choisir de relever du 2° ou du 3°. Une fois son choix effectué, il ne peut prétendre bénéficier des dispositions
-alternatives ; 
+3° Les installations de production d'électricité utilisant l'énergie mécanique du vent qui sont implantées à terre ou qui
+sont implantées sur le domaine public maritime ou dans la zone économique exclusive et les installations qui utilisent
+l'énergie marine, l'énergie solaire thermique ou l'énergie géothermique ou hydrothermique. 
 
 4° Les moulins à vent réhabilités pour la production d'électricité ; 
 
@@ -12338,10 +12491,6 @@ notamment au 2° ;
 dont celle issue de la canne à sucre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 10 (VT), alinéas 1 à 9
 
 	**Cité par**:
 
@@ -12432,16 +12581,16 @@ dont celle issue de la canne à sucre.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 24
+	  - Loi n°2013-312 du 15 avril 2013 - art. 29
 
 	**Cite**:
 
 	  - Code de commerce - art. L233-3
 	  - Code général des collectivités territoriales - art. L2224-13
-	  - Code de l'environnement - art. L214-18 (V)
-	  - Code de l'énergie - art. L314-9 (V)
+	  - Code de l'environnement - art. L214-18
 
 
 ###### Article L314-2
@@ -12691,70 +12840,25 @@ Les surcoûts éventuels qui en découlent sont compensés dans les conditions p
 	  - Code de l'énergie - art. R314-23 (Ab)
 
 
-###### Article L314-9
-
-Les zones de développement de l'éolien sont définies par le représentant de l'Etat dans le département en fonction :
-
-1° Des délimitations territoriales inscrites au schéma régional éolien ;
-
-2° De leur potentiel éolien ;
-
-3° Des possibilités de raccordement aux réseaux électriques ;
-
-4° De la possibilité pour les projets à venir de préserver la sécurité publique, les paysages, la biodiversité, les monuments
-historiques et les sites remarquables et protégés ainsi que le patrimoine archéologique.
-
-Elles sont proposées par la ou les communes dont tout ou partie du territoire est compris dans le périmètre proposé ou par un
-établissement public de coopération intercommunale à fiscalité propre, sous réserve de l'accord de la ou des communes membres
-dont tout ou partie du territoire est compris dans le périmètre proposé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 10-1 (VT), alinéas 1 à 6
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-312 du 15 avril 2013 - art. 24
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R222-2 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-
-
 ###### Article L314-10
 
-Les zones de développement de l'éolien créées ou modifiées postérieurement à la publication du schéma régional éolien
-mentionné au 3° du I de l'article L. 222-1 du code de l'environnement doivent être situées au sein des parties du territoire
-régional favorables au développement de l'énergie éolienne définies par ce schéma. Le schéma régional éolien prend en compte
-les zones de développement de l'éolien créées antérieurement à son élaboration. 
-
-A défaut de publication du schéma régional au 30 juin 2012, le préfet de région est compétent pour élaborer et arrêter le
-schéma régional selon des modalités déterminées par décret en Conseil d'Etat.
+A défaut de publication du schéma régional éolien mentionné au 3° du I de l'article L. 222-1 du code de l'environnement au 30
+juin 2012, le préfet de région est compétent pour élaborer et arrêter le schéma régional selon des modalités déterminées par
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 10-1 (VT), alinéa 9
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 24
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L222-1 (V)
+	  - Code de l'environnement - art. L222-1
 
 	**Cité par**:
 
@@ -13403,22 +13507,18 @@ public de l'électricité, ces modifications tiennent compte de l'ordre de prés
 d'ajustement qui lui sont soumises. Les critères de choix sont objectifs et non discriminatoires. Ils sont publiés. 
 
 Les règles de présentation des programmes et des propositions d'ajustement et les critères de choix entre les propositions
-d'ajustement qui sont soumises au gestionnaire du réseau public de transport sont approuvés par la Commission de régulation
-de l'énergie, préalablement à leur mise en œuvre.
+d'ajustement qui sont soumises au gestionnaire du réseau public de transport sur le mécanisme d'ajustement sont approuvés par
+la Commission de régulation de l'énergie, préalablement à leur mise en œuvre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 15 (VT) II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -13590,6 +13690,10 @@ entre les injections et les soutirages d'électricité auxquels il procède. Il 
 lui sont financièrement imputés ces écarts par contrat avec le gestionnaire du réseau public de transport, soit contracter à
 cette fin avec un responsable d'équilibre qui prend en charge les écarts ou demander à l'un de ses fournisseurs de le faire. 
 
+Toute personne intervenant sur les marchés de l'électricité est responsable de ses écarts. Elle peut soit définir les
+modalités selon lesquelles lui sont financièrement imputés ces écarts par contrat avec le gestionnaire du réseau de
+transport, soit contracter à cette fin avec un responsable d'équilibre qui prend en charge les écarts. 
+
 Lorsque les écarts pris en charge par un responsable d'équilibre compromettent l'équilibre des flux d'électricité sur le
 réseau, le gestionnaire du réseau public de transport peut le mettre en demeure de réduire ces écarts dans les huit jours. 
 
@@ -13602,17 +13706,13 @@ chacun de ces sites d'une fourniture de secours dans les conditions prévues à 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 15 (VT) V
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -13635,7 +13735,38 @@ chacun de ces sites d'une fourniture de secours dans les conditions prévues à 
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L331-1 (V)
+	  - Code de l'énergie - art. L331-1
+
+
+###### Article L321-15-1
+
+Le gestionnaire du réseau public de transport veille à la mise en œuvre d'effacements de consommation sur les marchés de
+l'énergie et sur le mécanisme d'ajustement en cohérence avec l'objectif de sûreté du réseau avec celui de maîtrise de la
+demande d'énergie défini à l'article L. 100-2 et avec les règles prévues à l'article L. 271-1. 
+
+A cette fin, il définit les modalités spécifiques nécessaires à leur mise en œuvre, en particulier au sein des règles et
+méthodes mentionnées aux articles L. 321-10, L. 321-14 et L. 321-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
+
+	**Cité par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 168
+	  - Code de l'énergie - art. L322-8 (VT)
+	  - Code de l'énergie - art. L344-3 (V)
+	  - Code de l'énergie - art. R271-2 (V)
+	  - Code de l'énergie - art. R271-3 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L100-2
+	  - Code de l'énergie - art. L271-1
+	  - Code de l'énergie - art. L321-10
+	  - Code de l'énergie - art. L321-14
 
 
 ###### Article L321-16
@@ -13986,7 +14117,7 @@ du code général des collectivités territoriales.
 
 ###### Article L322-8
 
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, un gestionnaire de réseau de distribution d'électricité est, dans sa zone de desserte exclusive, notamment
 chargé, dans le cadre des cahiers des charges de concession et des règlements de service des régies : 
 
@@ -14012,19 +14143,13 @@ toutes missions afférentes à l'ensemble de ces activités.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 18 (VT), alinéa 2
-	  - Loi n°2000-108 du 10 février 2000 - art. 19 (Ab) III
-	  - Loi n°2004-803 du 9 août 2004 - art. 13 (Ab), II, ecqc l'électricité
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cité par**:
 
@@ -14039,7 +14164,7 @@ toutes missions afférentes à l'ensemble de ces activités.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31 (V)
+	  - Code général des collectivités territoriales - art. L2224-31
 
 
 ###### Article L322-9
@@ -14085,7 +14210,7 @@ consultations publiques ou le recours à des marchés organisés.
 Par dérogation à l'article L. 322-8, un gestionnaire de réseau de distribution issu de la séparation juridique imposée à une
 entreprise locale de distribution par l'article L. 111-57 a la responsabilité de l'exploitation, de la maintenance et, sous
 réserve des prérogatives reconnues aux collectivités territoriales et leurs établissements publics de coopération par le
-sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, du développement du réseau de
+septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, du développement du réseau de
 distribution, dans le but d'en assurer la sécurité, la fiabilité et l'efficacité dans la zone qu'il couvre. Il est également
 chargé de conclure et de gérer les contrats de concession, d'assurer dans des conditions objectives, transparentes et non
 discriminatoires l'accès aux réseaux de distribution et de faire procéder aux comptages nécessaires à l'exercice de ses
@@ -14093,23 +14218,19 @@ missions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 13 (Ab), III, ecqc l'électricité
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31 (V)
-	  - Code de l'énergie - art. L111-57 (V)
-	  - Code de l'énergie - art. L322-8 (V)
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-57
+	  - Code de l'énergie - art. L322-8
 
 	**Cité par**:
 
@@ -14148,39 +14269,35 @@ Des décrets en Conseil d'Etat précisent les modalités d'application des artic
 
 ###### Article L322-12
 
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, les gestionnaires des réseaux publics de distribution d'électricité conçoivent et exploitent ces réseaux de
 façon à assurer une desserte en électricité d'une qualité régulière, définie et compatible avec les utilisations usuelles de
-l'énergie électrique.
+l'énergie électrique. 
 
 Les niveaux de qualité et les prescriptions techniques en matière de qualité qui doivent être respectés par les gestionnaires
 des réseaux publics de distribution sont définis par voie réglementaire. Les niveaux de qualité peuvent être modulés par zone
-géographique.
+géographique. 
 
 Dans le respect des dispositions réglementaires prises en application de l'alinéa précédent, les cahiers des charges des
 concessions de distribution mentionnées à l'article L. 2224-31 du code général des collectivités territoriales et les
-règlements de service des régies fixent les niveaux de qualité requis.
+règlements de service des régies fixent les niveaux de qualité requis. 
 
 Lorsque le niveau de qualité n'est pas atteint en matière d'interruptions d'alimentation imputables aux réseaux publics de
 distribution, l'autorité organisatrice peut obliger le gestionnaire du réseau public de distribution concerné à remettre
-entre les mains d'un comptable public une somme qui sera restituée après constat du rétablissement du niveau de qualité.
+entre les mains d'un comptable public une somme qui sera restituée après constat du rétablissement du niveau de qualité. 
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent article, notamment les principes généraux de
 calcul de la somme à remettre, qui tiennent compte de la nature et de l'importance du non-respect de la qualité constaté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 21-1 (VT), ecqc la distribution d'électricité et sauf conditions élaboration décret
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cité par**:
 
@@ -15048,9 +15165,9 @@ Afin de prendre en compte le bon fonctionnement, la sécurité et la sûreté de
 à la protection des consommateurs contre les défaillances des fournisseurs ainsi qu'à la continuité de leur
 approvisionnement, l'autorité administrative peut interdire sans délai l'exercice de l'activité d'achat pour revente d'un
 fournisseur lorsque ce dernier ne s'acquitte plus des écarts générés par son activité, lorsqu'il ne satisfait pas aux
-obligations découlant du quatrième alinéa de l'article L. 321-15, lorsqu'il ne peut plus assurer les paiements des sommes
-dues au titre des tarifs d'utilisation des réseaux résultant des contrats qu'il a conclus avec des gestionnaires de réseaux
-en application des articles L. 111-92 ou lorsqu'il tombe sous le coup d'une procédure collective de liquidation judiciaire. 
+obligations découlant du dernier alinéa de l'article L. 321-15, lorsqu'il ne peut plus assurer les paiements des sommes dues
+au titre des tarifs d'utilisation des réseaux résultant des contrats qu'il a conclus avec des gestionnaires de réseaux en
+application des articles L. 111-92 ou lorsqu'il tombe sous le coup d'une procédure collective de liquidation judiciaire. 
 
 Dans le cas où un fournisseur fait l'objet d'une interdiction d'exercer l'activité d'achat pour revente, les contrats conclus
 par ce fournisseur avec des consommateurs, avec des responsables d'équilibre et avec des gestionnaires de réseaux sont
@@ -15064,21 +15181,17 @@ contractuelles avec les utilisateurs et les gestionnaires de réseaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 22 (VT), IV bis
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-92 (V)
+	  - Code de l'énergie - art. L111-92
 
 	**Cité par**:
 
@@ -15209,17 +15322,14 @@ réputés signés conformément aux principes énoncés aux alinéas précédent
 Chaque fournisseur d'électricité contribue, en fonction des caractéristiques de consommation de ses clients, en puissance et
 en énergie, sur le territoire métropolitain continental, à la sécurité d'approvisionnement en électricité.
 
+Les consommateurs finals et les gestionnaires de réseaux pour leurs pertes qui, pour tout ou partie de leur consommation, ne
+s'approvisionnent pas auprès d'un fournisseur contribuent, en fonction des caractéristiques de cette consommation, en
+puissance et en énergie, sur le territoire métropolitain continental, à la sécurité d'approvisionnement en électricité. Pour
+l'application du présent chapitre, ils sont soumis aux dispositions applicables aux fournisseurs.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 4-2 (VT), alinéa 1
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -15230,6 +15340,10 @@ en énergie, sur le territoire métropolitain continental, à la sécurité d'ap
 	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
 	  - Code de l'énergie - art. L335-5 (V)
 	  - Code de l'énergie - art. R335-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 15
 
 
 ###### Article L335-2
@@ -15243,17 +15357,16 @@ Les obligations faites aux fournisseurs sont déterminées de manière à incite
 d'approvisionnement en électricité retenu pour l'élaboration du bilan prévisionnel pluriannuel mentionné à l'article L.
 141-1. 
 
-Le mécanisme d'obligation de capacité prend en compte l'interconnexion du marché français avec les autres marchés européens. 
+Le mécanisme d'obligation de capacité prend en compte l'interconnexion du marché français avec les autres marchés européens.
+Il tient compte de l'intérêt que représente l'effacement de consommation pour la collectivité et pour l'environnement par
+rapport au développement des capacités de production. A coût égal, il donne la priorité aux capacités d'effacement de
+consommation sur les capacités de production. 
 
 Les garanties de capacité sont requises avec une anticipation suffisante pour laisser aux investisseurs le temps de
 développer les capacités de production et d'effacement nécessaires pour résorber l'éventuel déséquilibre entre offre et
 demande prévisionnelles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 4-2 (VT), alinéa 2, alinéa 5 dernière phrase et alinéa 6
 
 	**Cité par**:
 
@@ -15280,13 +15393,13 @@ demande prévisionnelles.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 13
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L141-1 (V)
+	  - Code de l'énergie - art. L141-1
 
 
 ###### Article L335-3
@@ -15358,19 +15471,27 @@ public de transport, après avis de la Commission de régulation de l'énergie.
 
 Une entreprise locale de distribution mentionnée à l'article L. 111-54 peut transférer ses obligations relatives aux
 garanties de capacités d'effacement de consommation et de production d'électricité à une autre entreprise locale de
-distribution.
+distribution. 
+
+Un consommateur mentionné au second alinéa de l'article L. 335-1 peut transférer ses obligations relatives aux garanties de
+capacité telles que définies à l'article L. 335-2 à un fournisseur d'électricité. Il conclut à cet effet un contrat avec ce
+fournisseur. Le fournisseur désigné remplit alors l'obligation de capacité pour ses clients propres et pour ce consommateur.
+Il notifie au gestionnaire du réseau public de transport d'électricité le transfert de l'obligation. 
+
+Les contrats d'approvisionnement d'électricité dont bénéficient les actionnaires des sociétés de capitaux agréées qui ont
+pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité, mentionnées à l'article 238 bis HV du
+code général des impôts, sont réputés comprendre un montant de garanties de capacité. La méthode de calcul du montant de ces
+garanties de capacité, les conditions et le calendrier de cession sont définis par arrêté du ministre chargé de l'énergie sur
+proposition de la Commission de régulation de l'énergie. 
+
+La personne achetant, en application des articles L. 121-27, 
+L. 311-12 et L. 314-1 du présent code, de l'électricité produite en France à partir d'énergies renouvelables ou par
+cogénération est subrogée au producteur de cette électricité pour la délivrance des garanties de capacité correspondantes et
+l'obligation de payer la pénalité prévue à l'article L. 335-3.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 4-2 (VT), alinéa 3
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -15381,9 +15502,22 @@ distribution.
 	  - Code de l'énergie - art. L121-24 (V)
 	  - Code de l'énergie - art. R335-46 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-312 du 15 avril 2013 - art. 16
+	  - Loi n°2013-312 du 15 avril 2013 - art. 17
+	  - Loi n°2013-312 du 15 avril 2013 - art. 18
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-54 (V)
+	  - Code général des impôts, CGI. - art. 238 bis HV
+	  - Code de l'énergie - art. L111-54
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L335-1
+	  - Code de l'énergie - art. L335-2
+	  - Code de l'énergie - art. L335-3
 
 
 ###### Article L335-6
@@ -16039,22 +16173,37 @@ techniques et de la comptabilité générale des opérateurs.
 
 Les tarifs de vente d'électricité aux consommateurs domestiques tiennent compte du caractère indispensable de l'électricité
 pour les consommateurs dont les revenus du foyer sont, au regard de la composition familiale, inférieurs à un plafond, en
-instaurant pour une tranche de leur consommation une tarification spéciale « produit de première nécessité ». Cette
-tarification spéciale est applicable aux services liés à la fourniture. 
+instaurant pour une tranche de leur consommation une tarification spéciale produit de première nécessité. Cette tarification
+spéciale est applicable aux services liés à la fourniture. 
 
-Pour la mise en œuvre de cette mesure, chaque organisme d'assurance maladie constitue un fichier regroupant les ayants droit
-potentiels. Ces fichiers sont transmis aux fournisseurs d'électricité mentionnés à l'article L. 121-5 ou, le cas échéant, à
-un organisme désigné à cet effet par ces fournisseurs, afin de leur permettre de notifier aux intéressés leurs droits à la
+Pour la mise en œuvre de cette mesure, l'administration fiscale et les organismes de sécurité sociale constituent un fichier
+regroupant les ayants droit potentiels. Ces fichiers sont transmis aux fournisseurs d'électricité ou, le cas échéant, à un
+organisme désigné à cet effet par ces fournisseurs, afin de leur permettre de notifier aux intéressés leurs droits à la
 tarification spéciale. Les fournisseurs d'électricité ou l'organisme qu'ils ont désigné préservent la confidentialité des
 informations contenues dans le fichier. 
 
+La tarification spéciale " produit de première nécessité " bénéficie aux gestionnaires des résidences sociales mentionnées à
+l'article L. 633-1 du code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L.
+353-1 du même code. 
+
+Les sommes correspondantes sont déduites, sous réserve des frais de gestion, du montant des redevances quittancées aux
+occupants des chambres ou des logements situés dans ces résidences. 
+
 Les conditions d'application du présent article sont fixées par voie réglementaire.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 4 (Ab), I, alinéa 3
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -16075,13 +16224,18 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 	  - Code de l'énergie - art. R337-2 (VT)
 	  - Code général des collectivités territoriales - art. L2224-31 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L353-1
+	  - Code de la construction et de l'habitation. - art. L633-1
 
 
 ##### Sous-section 2 : Les tarifs réglementés de vente
@@ -18326,21 +18480,17 @@ une charge pécuniaire autre que les redevances prévues à l'article L. 433-4.
 ###### Article L432-4
 
 Les réseaux publics de distribution de gaz appartiennent aux collectivités territoriales ou à leurs groupements, visés, en ce
-qui concerne le gaz, au sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales.
+qui concerne le gaz, au septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 26 (Ab) I, 2e phrase
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
@@ -18446,23 +18596,23 @@ financière envisagée.
 
 ###### Article L432-8
 
-Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, un gestionnaire de réseau de distribution de gaz naturel est notamment chargé, dans le cadre des cahiers des
-charges de concession et des règlements de service des régies mentionnés au I du même article L. 2224-31 :
+charges de concession et des règlements de service des régies mentionnés au I du même article L. 2224-31 : 
 
-1° De définir et de mettre en œuvre les politiques d'investissement et de développement des réseaux de distribution ;
+1° De définir et de mettre en œuvre les politiques d'investissement et de développement des réseaux de distribution ; 
 
 2° D'assurer la conception et la construction des ouvrages ainsi que la maîtrise d'œuvre des travaux relatifs à ces réseaux,
-en informant annuellement l'autorité organisatrice de la distribution de leur réalisation ;
+en informant annuellement l'autorité organisatrice de la distribution de leur réalisation ; 
 
-3° De conclure et de gérer les contrats de concession ;
+3° De conclure et de gérer les contrats de concession ; 
 
-4° D'assurer, dans des conditions objectives, transparentes et non discriminatoires, l'accès à ces réseaux ;
+4° D'assurer, dans des conditions objectives, transparentes et non discriminatoires, l'accès à ces réseaux ; 
 
 5° De fournir aux utilisateurs des réseaux les informations nécessaires à un accès efficace aux réseaux, sous réserve des
-informations protégées par des dispositions législatives ou réglementaires ;
+informations protégées par des dispositions législatives ou réglementaires ; 
 
-6° De réaliser l'exploitation et la maintenance de ces réseaux ;
+6° De réaliser l'exploitation et la maintenance de ces réseaux ; 
 
 7° D'exercer les activités de comptage pour les utilisateurs raccordés à son réseau, en particulier la fourniture, la pose,
 le contrôle métrologique, l'entretien et le renouvellement des dispositifs de comptage et d'assurer la gestion des données et
@@ -18470,17 +18620,13 @@ toutes missions afférentes à l'ensemble de ces activités.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 13 (Ab), II, ecqc le gaz
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
@@ -18500,7 +18646,7 @@ toutes missions afférentes à l'ensemble de ces activités.
 
 Par dérogation à l'article L. 432-8, un gestionnaire de réseau de distribution issu de la séparation juridique imposée par
 l'article L. 111-57 à une entreprise locale de distribution a la responsabilité de l'exploitation, de la maintenance et, sous
-réserve des prérogatives des collectivités et établissements mentionnés au sixième alinéa du I de l'article L. 2224-31 du
+réserve des prérogatives des collectivités et établissements mentionnés au septième alinéa du I de l'article L. 2224-31 du
 code général des collectivités territoriales, du développement du réseau de distribution, dans le but d'en assurer la
 sécurité, la fiabilité et l'efficacité dans la zone qu'il couvre. 
 
@@ -18510,23 +18656,19 @@ l'exercice de ses missions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 13 (Ab), III, ecqc le gaz
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-31
-	  - Code de l'énergie - art. L111-57 (V)
-	  - Code de l'énergie - art. L432-8 (V)
+	  - Code de l'énergie - art. L111-57
+	  - Code de l'énergie - art. L432-8
 
 
 ###### Article L432-10
@@ -20154,23 +20296,40 @@ site de consommation, des tarifs réglementés de vente de gaz naturel mentionn�
 
 ###### Article L445-5
 
-Les clients domestiques ayant droit à la tarification spéciale « produit de première nécessité » mentionnée à l'article L.
-337-3 bénéficient également, pour une part de leur consommation, d'un tarif spécial de solidarité applicable à la fourniture
-de gaz naturel et aux services qui lui sont liés. Les modalités d'application de la tarification spéciale « produit de
-première nécessité » prévues à ce même article L. 337-3 sont applicables à la mise en place du tarif spécial de solidarité,
-notamment pour la transmission des fichiers aux fournisseurs de gaz naturel. 
+Les clients domestiques ayant droit à la tarification spéciale produit de première nécessité mentionnée à l'article L. 337-3
+bénéficient également, pour une part de leur consommation, d'un tarif spécial de solidarité applicable à la fourniture de gaz
+naturel et aux services qui lui sont liés. Les modalités d'application de la tarification spéciale " produit de première
+nécessité " prévues à ce même article L. 337-3 sont applicables à la mise en place du tarif spécial de solidarité, notamment
+pour la transmission des fichiers aux fournisseurs de gaz naturel. 
+
+Les conditions d'attribution du tarif de première nécessité aux gestionnaires des résidences sociales mentionnées à l'article
+L. 633-1 du code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L. 353-1 du même
+code et de reversement aux occupants des chambres ou des logements situés dans ces résidences s'appliquent également à
+l'attribution du tarif spécial de solidarité relatif à la fourniture de gaz naturel et aux services qui lui sont liés. 
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, en particulier pour les clients
 domestiques résidant dans un immeuble d'habitation chauffé collectivement.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 5 avril 2002 - art. 7 (V)
 	  - Décret n°2008-778 du 13 août 2008 - art. 1 (Ab)
 	  - Décret n°2015-390 du 3 avril 2015 - art. 3 (V)
-	  - Code de l'énergie - art. L121-32 (M)
+	  - Code de l'énergie - art. L121-32 (VD)
 	  - Code de l'énergie - art. L121-36 (VT)
 	  - Code de l'énergie - art. L124-1 (V)
 	  - Code de l'énergie - art. R121-26 (V)
@@ -20178,21 +20337,19 @@ domestiques résidant dans un immeuble d'habitation chauffé collectivement.
 	  - Code général des collectivités territoriales - art. L2224-31 (M)
 	  - Code général des impôts, CGI. - art. 1519 HA (VT)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 7 (VT) V
+	  - Loi n°2013-312 du 15 avril 2013 - art. 7
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L337-3 (V)
+	  - Code de la construction et de l'habitation. - art. L353-1
+	  - Code de la construction et de l'habitation. - art. L633-1
+	  - Code de l'énergie - art. L337-3
 
 
 #### Chapitre VI : Les dispositions particulières 
