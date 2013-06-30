@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2013-04-17
+Version Consolidée au 2013-07-01
 
 # Partie législative
 
@@ -10394,8 +10394,8 @@ rationnelle de l'énergie sont énoncées aux articles L. 224-1 et L. 224-2 du c
 
 Les dispositions relatives à la recherche et à la constatation des infractions à la réglementation intervenue, en application
 des articles L. 224-1 et L. 224-2 du code de l'environnement, en vue de réduire la consommation d'énergie et de limiter les
-sources d'émission de substances polluantes nocives pour la santé humaine et l'environnement, sont énoncées aux articles L.
-226-2 à L. 226-5 de ce même code.
+sources d'émission de substances polluantes nocives pour la santé humaine et l'environnement, sont énoncées au chapitre II du
+titre VII du livre Ier du même code.
 
 **Liens relatifs à cet article**
 
@@ -10403,14 +10403,13 @@ sources d'émission de substances polluantes nocives pour la santé humaine et l
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 24
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L224-1 (V)
-	  - Code de l'environnement - art. L226-2 (V)
+	  - Code de l'environnement - art. L224-1
 
 
 ### TITRE II : LES CERTIFICATS D'ECONOMIES D'ENERGIE
@@ -11051,42 +11050,34 @@ l'article 441-12 du code pénal.
 
 ###### Article L222-9
 
-Les fonctionnaires et agents des services de l'Etat chargés de l'industrie mentionnés au 2° de l'article L. 226-2 du code de
+Les fonctionnaires et agents des services de l'Etat chargés de l'industrie mentionnés à l'article L. 172-1 du code de
 l'environnement sont habilités à rechercher et à constater l'infraction prévue à l'article L. 222-8 dans les conditions
-prévues aux articles L. 226-3 et L. 226-5 du même code. 
+prévues au chapitre II du titre VII du livre Ier du même code. 
 
 Le fait de faire obstacle à l'exercice des fonctions confiées par l'alinéa précédent aux fonctionnaires et agents est puni de
 six mois d'emprisonnement et de 7 500 euros d'amende. 
 
 Les peines encourues par les personnes morales responsables de l'infraction définie au présent article sont celles prévues à
-l'article L. 226-10 du code de l'environnement.
+l'article L. 173-8 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 17 (Ab), II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 24
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L226-10 (V)
-	  - Code de l'environnement - art. L226-2 (V)
-	  - Code de l'environnement - art. L226-3 (V)
-	  - Code de l'environnement - art. L226-5 (V)
-	  - Code de l'énergie - art. L222-8 (V)
+	  - Code de l'environnement - art. L172-1
+	  - Code de l'environnement - art. L226-10
+	  - Code de l'énergie - art. L222-8
 
 
 ### TITRE III : LA PERFORMANCE ENERGETIQUE DANS L'HABITAT
-
-#### Chapitre unique
 
 #### Chapitre Ier :  Dispositions générales
 
