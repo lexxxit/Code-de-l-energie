@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-07-21
 
 # Partie législative
 
@@ -12623,28 +12623,19 @@ dont celle issue de la canne à sucre.
 
 ###### Article L314-1-1
 
-Les installations de cogénération en exploitation au 1er janvier 2013 d'une puissance supérieure à 12 mégawatts électriques
-et ayant bénéficié d'un contrat d'obligation d'achat peuvent bénéficier d'un contrat qui les rémunère pour la disponibilité
-annuelle de leur capacité de production, aussi bien en hiver qu'en été. Ce contrat est signé avec Electricité de France. La
-rémunération tient compte des investissements nécessaires sur la période allant jusqu'au 31 décembre 2016 et de la
-rentabilité propre des installations incluant toutes les recettes prévisionnelles futures. Elle tient aussi compte de
-l'impact positif de ces installations sur l'environnement. Cette rémunération est plafonnée à un montant maximal annuel. La
-dernière rémunération ne peut intervenir après le 31 décembre 2016. 
+Les installations de cogénération d'une puissance supérieure à 12 mégawatts électriques et en exploitation au 1er janvier
+2013 peuvent bénéficier d'un contrat transitoire qui les rémunère pour la disponibilité annuelle de leur capacité de
+production, aussi bien en hiver qu'en été, pendant une période maximale de trois ans qui se termine au plus tard le 31
+décembre 2016. Ce contrat est signé avec Electricité de France. La rémunération tient compte des investissements nécessaires
+jusqu'au 31 décembre 2016 et de la rentabilité propre des installations incluant toutes les recettes prévisionnelles futures.
+Elle tient aussi compte de l'impact positif de ces installations sur l'environnement. Cette rémunération est plafonnée par un
+montant maximal annuel et ne peut être cumulée avec celle résultant d'un contrat d'obligation d'achat mentionné à l'article
+L. 314-1 ou d'un appel d'offres mentionné à l'article L. 311-10. 
 
 Les termes de ce contrat et le plafond de rémunération sont fixés par arrêté des ministres chargés de l'économie et de
 l'énergie, après avis de la Commission de régulation de l'énergie.
 
-**Nota:**
-
-Dans sa décision n° 2014-410 QPC du 18 juillet 2014 (NOR : CSCX1417544S), le Conseil constitutionnel a déclaré l'article L.
-314-1-1 du code de l'énergie contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article 1erprend effet
-dans les conditions fixées aux considérants 10 et 11.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 43
 
 	**Cité par**:
 
@@ -12653,9 +12644,14 @@ dans les conditions fixées aux considérants 10 et 11.
 	  - Arrêté du 6 avril 2016 - art. 4 (V)
 	  - Code de l'énergie - art. L121-7 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - DÉCISION n°2014-410 QPC du 18 juillet 2014, v. init.
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 21
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L314-1 (V)
 
 
 ###### Article L314-2
