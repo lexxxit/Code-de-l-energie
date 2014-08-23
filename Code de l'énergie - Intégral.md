@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2014-07-21
+Version Consolidée au 2014-08-24
 
 # Partie législative
 
@@ -1464,26 +1464,33 @@ d'autres entreprises ou organismes appartenant au secteur public.
 La société mentionnée à l'article L. 111-40 est régie par les lois applicables aux sociétés anonymes, sous réserve des
 dispositions de la sous-section 1 de la présente section et de la présente sous-section. 
 
-Elle est soumise à la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public. 
+Elle est soumise à l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des
+sociétés à participation publique. Pour l'application des articles 4 et 6 de cette ordonnance, le conseil d'administration ou
+de surveillance de la société comporte, dans la limite du tiers de ses membres, des membres nommés sur le fondement des
+articles précités.
 
-Pour l'application de l'article 6 de la loi mentionnée à l'alinéa précédent, le conseil d'administration ou de surveillance
-de la société comporte des représentants des salariés et, dans la limite du tiers de ses membres, des représentants de l'Etat
-nommés par décret.
+**Nota:**
+
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de
+surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des
+dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être
+postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les
+présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-675 du 26 juillet 1983
-	  - Code de l'énergie - art. L111-40
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
+	**Cite**:
+
+	  - ORDONNANCE n°2014-948 du 20 août 2014 (V)
+	  - Code de l'énergie - art. L111-40 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+	  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 37
 
 
 ###### Article L111-44
@@ -1922,33 +1929,38 @@ locale, d'une société d'économie mixte locale ou d'une société d'intérêt 
 Les sociétés gestionnaires de réseaux de distribution d'électricité ou de gaz naturel issues de la séparation entre les
 activités de distribution et les activités de production ou de fourniture exercées par Electricité de France et par GDF-Suez
 en application de l'article L. 111-57 sont régies par les lois applicables aux sociétés anonymes sous réserve des
-dispositions du présent titre.
+dispositions du présent titre. 
 
-Les sociétés mentionnées au premier alinéa, dès lors que la majorité du capital de leur société mère est détenue directement
-ou indirectement par l'Etat, sont soumises à la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur
-public.
+Les sociétés mentionnées au premier alinéa sont soumises à l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance
+et aux opérations sur le capital des sociétés à participation publique. Pour l'application des articles 4 et 6 de cette
+ordonnance, le conseil d'administration ou de surveillance des sociétés gestionnaires de réseaux de distribution ne peut
+comporter plus de deux membres nommés sur le fondement des articles précités. 
 
 Pour l'application de l'article 6 de la loi mentionnée à l'alinéa précédent, le conseil d'administration ou de surveillance
 des sociétés gestionnaires de réseaux de distribution ne peut comporter plus de deux représentants de l'Etat, nommés par voie
 réglementaire.
 
+**Nota:**
+
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de
+surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des
+dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être
+postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les
+présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-675 du 26 juillet 1983
-
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 15-1 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - ORDONNANCE n°2014-948 du 20 août 2014
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 37
 
 
 ##### Sous-section 2 : Principe de la séparation entre les activités de gestion des réseaux publics de distribution et les activités de production ou de fourniture
