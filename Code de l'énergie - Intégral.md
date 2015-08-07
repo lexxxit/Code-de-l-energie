@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -2363,26 +2363,23 @@ L'entreprise dénommée " GDF-Suez " est une société anonyme, dont le capital 
 
 En vue de préserver les intérêts essentiels de la France dans le secteur de l'énergie, notamment d'assurer la continuité et
 la sécurité d'approvisionnement en énergie, un décret prononce la transformation d'une action ordinaire de l'Etat au capital
-de GDF-Suez en une action spécifique régie, notamment en ce qui concerne les droits dont elle est assortie, par les
-dispositions de l'article 10 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations.
+de GDF-Suez en une action spécifique régie, notamment en ce qui concerne les droits dont elle est assortie, par
+l'article 31-1 de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des
+sociétés à participation publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-912 du 6 août 1986 - art. 10
-
-	**Anciens textes**:
-
-	  - Loi n°2004-803 du 9 août 2004 - art. 24-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 31-1
+
+	**Modifié par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 186 (V)
 
 
 ###### Article L111-70
