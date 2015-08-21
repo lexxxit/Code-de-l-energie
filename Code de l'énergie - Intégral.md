@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-08-22
 
 # Partie législative
 
@@ -5824,7 +5824,10 @@ d'électricité et de gaz
 
 Le médiateur national de l'énergie est chargé de recommander des solutions aux litiges entre les personnes physiques ou
 morales et les entreprises du secteur de l'énergie et de participer à l'information des consommateurs énergie sur leurs
-droits. 
+droits. Il accomplit sa mission de médiation de la consommation dans les conditions prévues au titre V du livre Ier du code
+de la consommation. Néanmoins, par dérogation au c de l'article L. 152-2 de ce code, la saisine d'un autre médiateur ne fait
+pas obstacle au traitement d'un litige de consommation par le Médiateur national de l'énergie, dès lors que l'objet de ce
+litige relève de son champ de compétences. 
 
 Il ne peut être saisi que de litiges nés de l'exécution des contrats conclus par un consommateur non professionnel ou par un
 consommateur professionnel appartenant à la catégorie des microentreprises mentionnée à l'article 51 de la loi n° 2008-776 du
@@ -5834,7 +5837,7 @@ fixé par voie réglementaire.
 
 Il est saisi directement et gratuitement par le consommateur ou son mandataire. Il formule sa recommandation dans un délai
 fixé par voie réglementaire et motive sa réponse. Sa saisine suspend la prescription des actions en matière civile et pénale
-pendant ce délai.
+pendant ce délai. 
 
 Les entreprises concernées par les litiges prévus au premier alinéa sont tenues d'informer leurs clients de l'existence et
 des modalités de saisine du médiateur national de l'énergie, en particulier dans les réponses aux réclamations qu'elles
@@ -5845,6 +5848,8 @@ reçoivent.
 	**Cite**:
 
 	  - Loi n°2008-776 du 4 août 2008 - art. 51
+	  - Code de la consommation
+	  - Code de la consommation - art. L152-2 (V)
 
 	**Codifié par**:
 
@@ -5852,7 +5857,7 @@ reçoivent.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 185
+	  - ORDONNANCE n°2015-1033 du 20 août 2015 - art. 6
 
 	**Cité par**:
 
@@ -10783,8 +10788,6 @@ de l'énergie et avec la détention, directe ou indirecte, d'intérêts dans une
 
 ### TITRE V : LES DISPOSITIONS RELATIVES A L'OUTRE MER
 
-#### Chapitre unique
-
 #### Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon
 
 ###### Article L151-1
@@ -12290,8 +12293,6 @@ leur recherche, à leur constatation ou à leur sanction.
 
 
 ### TITRE IV : LES INSTALLATIONS DE CHAUFFAGE  ET DE CLIMATISATION
-
-#### Chapitre unique
 
 #### Chapitre Ier : Dispositions diverses
 
