@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -34302,7 +34302,7 @@ des activités sociales.
 ###### Article R221-1
 
 Les dispositions de la présente section définissent les modalités de fixation des obligations d'économies d'énergie
-mentionnées à l'article L. 221-1 et à l'article L. 221-12 pour la période comprise entre le 1er janvier 2015 et le 31
+mentionnées aux articles L. 221-1, L. 221-1-1 et L. 221-12 pour la période comprise entre le 1er janvier 2015 et le 31
 décembre 2017.
 
 **Liens relatifs à cet article**
@@ -34311,9 +34311,14 @@ décembre 2017.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-1 (V)
+	  - Code de l'énergie - art. L221-12 (V)
 
 	**Cité par**:
 
@@ -34431,10 +34436,10 @@ calorifique supérieur d'énergie finale ;
 
 ###### Article R221-4
 
-Pour chaque année civile de la période mentionnée à l'article R. 221-1 et pour chaque personne mentionnée à l'article R.
-221-3, l'obligation d'économies d'énergie, exprimée en kilowattheures d'énergie finale cumulée actualisés (ou " kWh cumac "),
-est la somme, pour toutes les énergies, de la quantité mentionnée à l'article R. 221-2, excédant le seuil mentionné à
-l'article R. 221-3, multipliée par : 
+Pour chaque année civile de la période mentionnée à l'article R. 221-1, chaque personne mentionnée à l'article R. 221-3 est
+soumise à une obligation d'économies d'énergie, exprimée en kilowattheures d'énergie finale cumulée actualisés (ou " kWh
+cumac "), qui est la somme, pour toutes les énergies, de la quantité mentionnée à l'article R. 221-2, excédant le seuil
+mentionné à l'article R. 221-3, multipliée par : 
 
 1° Pour le fioul domestique : 1 975 kWh cumac par mètre cube ; 
 
@@ -34460,9 +34465,9 @@ d'énergie de chaque année civile de la période.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 3
 
 	**Cité par**:
 
@@ -34473,6 +34478,12 @@ d'énergie de chaque année civile de la période.
 	  - Code de l'énergie - art. R221-5 (VD)
 	  - Code de l'énergie - art. R221-7 (V)
 	  - Code de l'énergie - art. R222-2 (VD)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-2 (V)
+	  - Code de l'énergie - art. R221-3 (V)
 
 
 ###### Article R221-4-1
@@ -34515,14 +34526,19 @@ période, à compter de l'année 2016.
 
 ###### Article R221-5
 
-Une personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 peut :
+Une personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 peut, pour l'obligation
+définie à l'article R. 221-4, ainsi que pour celle définie à l'article R. 221-4-1 : 
 
-1° Déléguer la totalité de son obligation d'économies d'énergie à un tiers ;
+1° Déléguer la totalité de son obligation d'économies d'énergie à un tiers ; 
 
 2° Déléguer une partie de son obligation d'économies d'énergie à un ou plusieurs tiers ; dans ce cas, le volume de chaque
-délégation partielle est supérieur ou égal à 5 milliards de kWh cumac.
+délégation partielle ne peut pas être inférieur à : 
 
-Sous réserve des dispositions de l'article R. 221-7, une personne ayant délégué la totalité de son obligation individuelle
+a) 5 milliards de kWh cumac pour l'obligation définie à l'article R. 221-4 ; 
+
+b) 1 milliard de kWh cumac pour l'obligation définie à l'article R. 221-4-1. 
+
+Sous réserve des dispositions de l'article R. 221-7, une personne ayant délégué la totalité de ses obligations individuelles
 n'est plus considérée comme une personne soumise à une obligation d'économies d'énergie.
 
 **Liens relatifs à cet article**
@@ -34531,9 +34547,16 @@ n'est plus considérée comme une personne soumise à une obligation d'économie
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-3 (V)
+	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-4-1 (V)
+	  - Code de l'énergie - art. R221-7 (V)
 
 	**Cité par**:
 
@@ -34542,25 +34565,28 @@ n'est plus considérée comme une personne soumise à une obligation d'économie
 
 ###### Article R221-6
 
-La demande de délégation d'obligation d'économies d'énergie est transmise au ministre chargé de l'énergie. Elle comprend :
+La demande de délégation d'obligation d'économies d'énergie est transmise par le délégataire au ministre chargé de l'énergie.
+Elle comprend : 
 
 1° Un contrat signé des représentants du délégant et de ceux du délégataire, identifiés par leur raison sociale et leur
-numéro SIREN, et précisant :
+numéro SIREN, et précisant : 
 
-a) Le type de délégation, partielle ou totale, d'obligation d'économies d'énergie ;
+a) Le type de délégation, partielle ou totale, d'obligation d'économies d'énergie ; 
 
-b) Dans le cas d'une délégation partielle d'obligation d'économies d'énergie, le volume d'obligation délégué ;
+b) La catégorie d'obligation d'économies d'énergie déléguée : précarité énergétique ou non ; 
 
-c) Dans le cas d'une délégation totale d'obligation d'économies d'énergie, une estimation du volume délégué ;
+c) Dans le cas d'une délégation partielle d'obligation d'économies d'énergie, le volume d'obligation délégué ; 
+
+d) Dans le cas d'une délégation totale d'obligation d'économies d'énergie, une estimation du volume délégué ; 
 
 2° Les éléments permettant de justifier que le délégant est une personne mentionnée à l'article R. 221-3 et, dans le cas
-d'une délégation partielle, que l'obligation du délégant est supérieure à l'obligation déléguée.
+d'une délégation partielle, que l'obligation du délégant est supérieure à l'obligation déléguée. 
 
-Le ministre chargé de l'énergie accuse réception de la demande et dispose d'un délai de deux mois pour y répondre.
+Le ministre chargé de l'énergie accuse réception de la demande et dispose d'un délai de deux mois pour y répondre. 
 
 A compter de la date de réception de cette réponse ou, au plus tard, à la date d'expiration de ce délai, un délégataire est
 considéré comme une personne soumise à une obligation d'économies d'énergie pour un volume d'obligation égal à la somme des
-obligations déléguées. Il ne peut lui-même déléguer son obligation à un tiers.
+obligations déléguées. Il ne peut lui-même déléguer son obligation à un tiers, même partiellement.
 
 **Liens relatifs à cet article**
 
@@ -34568,9 +34594,13 @@ obligations déléguées. Il ne peut lui-même déléguer son obligation à un t
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-3 (V)
 
 	**Cité par**:
 
@@ -34579,7 +34609,8 @@ obligations déléguées. Il ne peut lui-même déléguer son obligation à un t
 
 ###### Article R221-7
 
-En cas de défaillance du délégataire, les obligations individuelles sont remises à la charge de chaque délégant.
+En cas de défaillance du délégataire, les obligations individuelles définies en application des articles R. 221-4 et R.
+221-4-1 sont remises à la charge de chaque délégant. 
 
 Lorsqu'il est mis fin par les parties au contrat de délégation, l'obligation individuelle revient au délégant et le
 délégataire n'est plus considéré comme une personne soumise à une obligation d'économies d'énergie pour cette obligation
@@ -34592,9 +34623,14 @@ dans un délai d'un mois.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-4-1 (V)
 
 	**Cité par**:
 
@@ -34606,14 +34642,14 @@ dans un délai d'un mois.
 
 Chaque personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 et n'ayant pas délégué
 totalement son obligation d'économies d'énergie adresse au ministre chargé de l'énergie au plus tard le 1er mars de l'année
-civile qui suit la fin de la période mentionnée à l'article R. 221-1 :
+civile qui suit la fin de la période mentionnée à l'article R. 221-1 : 
 
 1° Une déclaration indiquant les quantités mentionnées à l'article R. 221-2 prises en compte pour la fixation des obligations
-annuelles d'économies d'énergie pour chacune des années civiles de la période ;
+annuelles d'économies d'énergie pour chacune des années civiles de la période ; 
 
 2° En cas de délégation partielle, un état récapitulatif des délégations d'obligation d'économies d'énergie effectuées
-conformément à l'article R. 221-5 comportant, pour chaque délégation, l'identité du délégataire et le volume d'obligation
-déléguée.
+conformément à l'article R. 221-5 comportant, pour chaque délégation, l'identité du délégataire, le volume et la catégorie de
+l'obligation d'économies d'énergie déléguée (précarité énergétique ou non).
 
 **Liens relatifs à cet article**
 
@@ -34621,9 +34657,16 @@ déléguée.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 8
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-2 (V)
+	  - Code de l'énergie - art. R221-3 (V)
+	  - Code de l'énergie - art. R221-5 (V)
 
 	**Cité par**:
 
@@ -34634,14 +34677,16 @@ déléguée.
 
 Chaque délégataire mentionné à l'article R. 221-6 adresse au ministre chargé de l'énergie, au plus tard le 1er mars de
 l'année civile qui suit la fin de la période mentionnée à l'article R. 221-1, une liste récapitulative précisant pour chaque
-délégant :
+délégant : 
 
-1° Sa raison sociale et son numéro SIREN ;
+1° Sa raison sociale et son numéro SIREN ; 
 
-2° En cas de délégation totale, les quantités mentionnées à l'article R. 221-2 prises en compte pour la fixation des
-obligations annuelles d'économies d'énergie pour chacune des années civiles de la période ;
+2° La ou les catégories d'obligations d'économies d'énergie déléguées : précarité énergétique ou non ; 
 
-3° En cas de délégation partielle, le volume d'obligation déléguée.
+3° En cas de délégation totale de l'obligation, les quantités mentionnées à l'article R. 221-2 prises en compte pour la
+fixation des obligations annuelles d'économies d'énergie pour chacune des années civiles de la période ; 
+
+4° En cas de délégation partielle de l'obligation, le volume d'obligation déléguée.
 
 **Liens relatifs à cet article**
 
@@ -34649,9 +34694,15 @@ obligations annuelles d'économies d'énergie pour chacune des années civiles d
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 9
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-2 (V)
+	  - Code de l'énergie - art. R221-6 (V)
 
 
 ###### Article R221-10
@@ -34704,9 +34755,10 @@ l'énergie.
 
 ###### Article R221-12
 
-Un arrêté du ministre chargé de l'énergie fixe, pour la période mentionnée à l'article R. 221-1, le montant de l'obligation
-d'économies d'énergie. Sous réserve du respect des dispositions des articles R. 221-8 à R. 221-11, cet arrêté est pris et
-notifié aux intéressés avant le 1er juin de l'année civile qui suit la fin de la période.
+Un arrêté du ministre chargé de l'énergie fixe, pour la période mentionnée à l'article R. 221-1, le volume des obligations
+d'économies d'énergie en application des articles R. 221-4 et R. 221-4-1. Sous réserve du respect des dispositions des
+articles R. 221-8 à R. 221-11, cet arrêté est pris et notifié aux intéressés avant le 1er juin de l'année civile qui suit la
+fin de la période. 
 
 Le ministre chargé de l'énergie rend publique la liste des personnes soumises à des obligations d'économies d'énergie.
 
@@ -34716,9 +34768,15 @@ Le ministre chargé de l'énergie rend publique la liste des personnes soumises 
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-8 (V)
 
 	**Cité par**:
 
@@ -34731,14 +34789,23 @@ Le ministre chargé de l'énergie rend publique la liste des personnes soumises 
 
 Au 1er juillet de l'année civile qui suit la fin de la période mentionnée à l'article R. 221-1, le responsable de la tenue du
 registre national des certificats d'économies d'énergie prévu à l'article L. 221-10 transmet au ministre chargé de l'énergie
-un état du compte de chaque personne à qui une obligation d'économies d'énergie a été notifiée dans les conditions prévues à
-l'article R. 221-12.
+un état du compte de chaque personne à qui des obligations d'économies d'énergie ont été notifiées dans les conditions
+prévues à l'article R. 221-12. 
 
-Si le volume des certificats d'économies d'énergie enregistrés sur le compte permet à l'intéressé de remplir ses obligations,
-le ministre chargé de l'énergie fait procéder, par le responsable de la tenue du registre national, à l'annulation des
-certificats d'économies d'énergie correspondants figurant sur son compte, en commençant par les certificats d'économies
-d'énergie les plus anciennement émis. Cette opération est notifiée au titulaire du compte par le responsable de la tenue du
-registre national.
+Pour chacune de ces personnes, le ministre chargé de l'énergie fait procéder, par le responsable de la tenue du registre
+national : 
+
+1° A l'annulation des certificats d'économies d'énergie obtenus pour des opérations réalisées au bénéfice de ménages en
+situation de précarité énergétique figurant sur son compte, à concurrence de l'obligation définie en application de l'article
+R. 221-4-1, en commençant par les certificats d'économies d'énergie les plus anciennement émis ; 
+
+2° Concomitamment, pour le solde de certificats d'économies d'énergie ne faisant pas l'objet de l'annulation prévue au 1° à
+l'annulation des certificats d'économies d'énergie figurant sur son compte, à concurrence de l'obligation définie en
+application de l'article R. 221-4, en commençant par les certificats d'économies d'énergie obtenus pour des opérations non
+réalisées au bénéfice de ménages en situation de précarité énergétique et en commençant par les certificats d'économies
+d'énergie les plus anciennement émis. 
+
+Ces opérations sont notifiées au titulaire du compte par le responsable de la tenue du registre national.
 
 **Liens relatifs à cet article**
 
@@ -34746,9 +34813,17 @@ registre national.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-10 (V)
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-12 (V)
+	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-4-1 (V)
 
 	**Cité par**:
 
@@ -34760,15 +34835,17 @@ registre national.
 ###### Article R221-14
 
 Les actions menées par les personnes mentionnées à l'article L. 221-7 qui peuvent donner lieu à la délivrance de certificats
-d'économies d'énergie sont :
+d'économies d'énergie sont : 
 
 1° La réalisation d'opérations standardisées définies par arrêté du ministre chargé de l'énergie et assorties d'une valeur
 forfaitaire d'économies d'énergie déterminée par rapport à la situation de référence de performance énergétique mentionnée à
-l'article R. 221-16 ;
+l'article R. 221-16 ; 
 
-2° La réalisation d'opérations spécifiques, lorsque l'action n'entre pas dans le champ d'une opération standardisée ;
+2° La réalisation d'opérations spécifiques, lorsque l'action n'entre pas dans le champ d'une opération standardisée ; 
 
-3° La contribution aux programmes mentionnés à l'article L. 221-7.
+3° La contribution aux programmes mentionnés à l'article L. 221-7 définis par arrêté du ministre chargé de l'énergie. Le cas
+échéant, ces arrêtés précisent qu'ils ouvrent droit à délivrance de certificats d'économies d'énergie au bénéfice des ménages
+en situation de précarité énergétique.
 
 **Liens relatifs à cet article**
 
@@ -34776,9 +34853,14 @@ l'article R. 221-16 ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-7 (V)
+	  - Code de l'énergie - art. R221-16 (V)
 
 	**Cité par**:
 
@@ -34927,20 +35009,24 @@ Le montant des certificats attribués pour chaque opération est déterminé con
 
 Nonobstant l'abrogation à compter du 1er janvier 2016 des agréments des plans d'actions d'économies d'énergie, délivrés en
 application des dispositions du I de l'article 5 du décret n° 2010-1664 du 29 décembre 2010 relatif aux certificats
-d'économies d'énergie, pour certaines opérations de longue durée, l'agrément d'un plan d'actions d'économies d'énergie peut
-être prolongé jusqu'au 31 décembre 2016 dans des conditions fixées par arrêté du ministre chargé de l'énergie.
+d'économies d'énergie, pour certaines opérations standardisées  de longue durée, l'agrément d'un plan d'actions d'économies
+d'énergie peut être prolongé jusqu'au 31 décembre 2016 dans des conditions fixées par arrêté du ministre chargé de l'énergie.
 
 Le ministre chargé de l'énergie peut, à la demande du titulaire de l'agrément, modifier les dispositions de l'agrément.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2010-1664 du 29 décembre 2010 - art. 5
+
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 13
 
 	**Cité par**:
 
@@ -34949,29 +35035,32 @@ Le ministre chargé de l'énergie peut, à la demande du titulaire de l'agrémen
 
 ###### Article R221-22
 
-La demande de certificats d'économies d'énergie est adressée au ministre chargé de l'énergie.
+La demande de certificats d'économies d'énergie est adressée au ministre chargé de l'énergie. 
 
 Un arrêté du ministre chargé de l'énergie définit la liste des pièces du dossier accompagnant le dossier de demande, ainsi
 que la liste des pièces qui doivent être archivées par le demandeur pour être tenues à la disposition des agents chargés des
-contrôles dès le dépôt de la demande de certificats d'économies d'énergie.
+contrôles dès le dépôt de la demande de certificats d'économies d'énergie. 
 
-La demande peut être adressée par voie électronique, dans les conditions fixées par arrêté du ministre chargé de l'énergie.
+La demande peut être adressée par voie électronique, dans les conditions fixées par arrêté du ministre chargé de l'énergie. 
 
-Une demande de certificats d'économies d'énergie ne porte que sur une seule des catégories mentionnées à l'article R. 221-14.
+Une demande de certificats d'économies d'énergie ne porte que sur une seule des catégories mentionnées à l'article R.
+221-14. 
 
 Tout demandeur de certificats d'économies d'énergie détient un compte auprès du registre national des certificats d'économies
-d'énergie.
+d'énergie. 
 
 Le demandeur de certificats d'économies d'énergie doit, à l'appui de sa demande, justifier de son rôle actif et incitatif
 dans la réalisation de l'opération. Est considérée comme un rôle actif et incitatif toute contribution directe, qu'elle qu'en
 soit la nature, apportée, par le demandeur ou par l'intermédiaire d'une personne qui lui est liée contractuellement, à la
 personne bénéficiant de l'opération d'économies d'énergie et permettant la réalisation de cette dernière. Cette contribution
-doit être intervenue antérieurement au déclenchement de l'opération.
+doit être intervenue antérieurement au déclenchement de l'opération. 
 
 Le ministre chargé de l'énergie accuse réception de la demande. A compter de la date de réception d'un dossier complet, le
-ministre chargé de l'énergie délivre les certificats dans un délai de :
+ministre chargé de l'énergie délivre les certificats dans un délai de : 
 
-1° Six mois pour les demandes relatives à des opérations spécifiques ;
+1° Six mois pour les demandes relatives à des opérations spécifiques et pour les demandes relatives à des opérations
+standardisées de longue durée définies par arrêté du ministre chargé de l'énergie, ne relevant pas d'un plan d'actions et
+engagées avant le 31 décembre 2014 ; 
 
 2° Deux mois pour les autres demandes.
 
@@ -34988,9 +35077,13 @@ ministre chargé de l'énergie délivre les certificats dans un délai de :
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-14 (V)
 
 
 ###### Article R221-23
@@ -35068,24 +35161,25 @@ délivrance, trois périodes de réalisation de l'objectif national d'économies
 
 L'Etat peut, en application de l'article L. 221-10, charger un délégataire de la mission consistant à mettre en place et à
 tenir un registre national des certificats d'économies d'énergie, sur lequel sont consignées de manière informatisée et
-sécurisée toutes les opérations de délivrance ou de transaction portant sur des certificats d'économies d'énergie.
+sécurisée toutes les opérations de délivrance, d'annulation ou de transaction portant sur des certificats d'économies
+d'énergie. 
 
-Cette mission comprend :
+Cette mission comprend : 
 
-1° L'ouverture, la tenue et la clôture des comptes des détenteurs de certificats d'économies d'énergie ;
+1° L'ouverture, la tenue et la clôture des comptes des détenteurs de certificats d'économies d'énergie ; 
 
 2° L'enregistrement de toutes les opérations correspondant à ces comptes afin de faire apparaître, en distinguant les
 certificats d'économies d'énergie obtenus pour des opérations réalisées au bénéfice des ménages en situation de précarité
-énergétique :
+énergétique : 
 
-a) Le crédit des comptes des détenteurs, après délivrance de certificats d'économies d'énergie ;
+a) Le crédit des comptes des détenteurs, après délivrance de certificats d'économies d'énergie ; 
 
-b) Le transfert de certificats d'économies d'énergie entre les titulaires des comptes ;
+b) Le transfert de certificats d'économies d'énergie entre les titulaires des comptes ; 
 
 c) L'annulation, sur instruction du ministre chargé de l'énergie, des certificats d'économies d'énergie figurant sur un
-compte ;
+compte ; 
 
-3° La mise à disposition du public des informations prévues à l'article L. 221-11.
+3° La mise à disposition du public des informations prévues au premier alinéa de l'article L. 221-11. 
 
 Le délégataire prend les mesures nécessaires pour assurer la confidentialité des informations qu'il recueille dans l'exercice
 de sa mission et prévenir toute utilisation de ces informations, y compris en son sein, pour des activités étrangères à cette
@@ -35097,9 +35191,14 @@ mission.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-10 (V)
+	  - Code de l'énergie - art. L221-11 (V)
 
 
 ###### Article R221-27
@@ -35124,18 +35223,18 @@ administrative et à la maintenance du registre.
 
 ###### Article R221-28
 
-Le ministre chargé de l'énergie communique au délégataire, pour inscription dans le registre:
+Le ministre chargé de l'énergie communique au délégataire, pour inscription dans le registre : 
 
 1° La liste des personnes auxquelles il a délivré des certificats d'économies d'énergie ainsi que le nombre de certificats
 délivrés à chacune d'entre elles, en distinguant les certificats d'économies d'énergie obtenus pour des opérations réalisées
-au bénéfice des ménages en situation de précarité énergétique ;
+au bénéfice des ménages en situation de précarité énergétique ; 
 
-2° Les arrêtés pris en application de l'article R. 221-12 ;
+2° Les arrêtés pris en application de l'article R. 221-12 ; 
 
 3° A l'expiration de la période mentionnée à l'article R. 221-1, la liste des détenteurs de certificats ayant rempli leurs
 obligations d'économies d'énergie en distinguant les certificats d'économies d'énergie obtenus pour des opérations réalisées
 au bénéfice des ménages en situation de précarité énergétique, afin qu'il procède à l'annulation des certificats
-correspondants, conformément au second alinéa de l'article R. 221-13.
+correspondants, conformément à l'article R. 221-13.
 
 **Liens relatifs à cet article**
 
@@ -35143,9 +35242,15 @@ correspondants, conformément au second alinéa de l'article R. 221-13.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 16
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. R221-12 (V)
+	  - Code de l'énergie - art. R221-13 (V)
 
 
 ###### Article R221-29
@@ -35188,8 +35293,8 @@ de précarité énergétique.
 
 ###### Article R222-1
 
-En cas de manquement aux obligations prévues aux articles R. 221-8 à R. 221-11, le ministre chargé de l'énergie met
-l'intéressé en demeure de s'y conformer dans un délai qu'il détermine.
+En cas de manquement aux obligations prévues aux articles R. 221-7 à R. 221-11, le ministre chargé de l'énergie met
+l'intéressé en demeure de s'y conformer dans un délai qu'il détermine. 
 
 Si l'intéressé ne se conforme pas à cette mise en demeure dans le délai fixé, le ministre chargé de l'énergie, qui peut
 ordonner le paiement d'une amende au plus égale au plafond fixé à l'article L. 222-2, établit lui-même les déclarations
@@ -35203,14 +35308,23 @@ du présent article, celles établies d'office par le ministre chargé de l'éne
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L222-2 (V)
+	  - Code de l'énergie - art. R221-7 (V)
 
 
 ###### Article R222-2
 
-La pénalité prévue à l'article L. 221-4 est fixée à 0,02 euro par kilowattheure d'énergie finale cumulée actualisée (cumac).
+La pénalité prévue à l'article L. 221-4 est fixée à 0,02 euro par kilowattheure d'énergie finale cumulée actualisée (kWh
+cumac) pour l'obligation définie à l'article R. 221-4. 
+
+Pour la période courant du 1er janvier 2016 au 31 décembre 2017, la pénalité prévue à l'article L. 221-4 du code de l'énergie
+est fixée à 0,015 € par kWh cumac pour l'obligation définie à l'article R. 221-4-1.
 
 **Liens relatifs à cet article**
 
@@ -35218,9 +35332,15 @@ La pénalité prévue à l'article L. 221-4 est fixée à 0,02 euro par kilowatt
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 18
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-4
+	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-4-1 (V)
 
 
 ##### Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie
@@ -35404,14 +35524,14 @@ l'établissement de la preuve de la conformité de l'échantillon ou jusqu'à sa
 
 Si les preuves de la conformité réglementaire mentionnées à l'article R. 222-9 ne sont pas apportées dans le délai imparti ou
 si les pièces produites ne permettent pas de rendre conforme l'échantillon dans les conditions prévues à l'article R. 222-8,
-le ministre chargé de l'énergie peut prononcer la sanction pécuniaire prévue au 1° de l'article L. 222-2. 
+le ministre chargé de l'énergie peut prononcer les sanctions prévues à l'article L. 222-2. 
 
 En outre, l'intéressé est tenu, sur mise en demeure du ministre chargé de l'énergie, de présenter dans un délai d'un mois les
 moyens qu'il envisage de mettre en œuvre pour éviter que le ou les manquements constatés se reproduisent. Faute de déférer à
-cette mise en demeure dans le délai imparti, le ministre chargé de l'énergie peut prononcer à son encontre la sanction
-pécuniaire prévue au 1° de l'article L. 222-2. 
+cette mise en demeure dans le délai imparti, le ministre chargé de l'énergie peut prononcer à son encontre les sanctions
+prévues à l'article L. 222-2. 
 
-Le montant de cette sanction est calculé par application de la formule : 
+Le montant de la sanction pécuniaire prévue au 1° de l'article L. 222-2 est calculé par application de la formule : 
 
 " S 2 = 0,04 euro × (volume de certificats d'économies d'énergie délivrés pour les opérations de l'échantillon-volume de
 certificats d'économies d'énergie établi par le ministre chargé de l'énergie, le cas échéant, après production des preuves
@@ -35426,9 +35546,15 @@ délai d'instruction a été suspendu, en application du deuxième alinéa de l'
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 19
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L222-2 (V)
+	  - Code de l'énergie - art. R222-8 (V)
+	  - Code de l'énergie - art. R222-9 (V)
 
 
 ###### Article R222-11
@@ -35451,19 +35577,27 @@ recevable, le ministre chargé de l'énergie prononce le retrait de l'agrément 
 
 ###### Article R222-12
 
-Les décisions du ministre chargé de l'énergie prononçant les sanctions pécuniaires prévues à l'article L. 222-2 peuvent faire
-l'objet d'un recours de pleine juridiction et d'une demande de référé tendant à la suspension de leur exécution devant le
-Conseil d'Etat. Cette demande a un caractère suspensif.
+Les décisions du ministre chargé de l'énergie prononçant les sanctions prévues à l'article L. 222-2 peuvent faire l'objet
+d'un recours de pleine juridiction et d'une demande de référé tendant à la suspension de leur exécution devant le Conseil
+d'Etat. Cette demande a un caractère suspensif.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 14 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1825 du 30 décembre 2015 - art. 20
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L222-2 (V)
 
 
 ### TITRE III : LA PERFORMANCE ÉNERGÉTIQUE
