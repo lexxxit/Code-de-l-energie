@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-01-01 00:00:01 +0100
+Version Consolidée au 2016-01-04
 
 # Partie législative
 
@@ -37040,15 +37040,37 @@ immatriculation ni avant d'avoir parcouru au moins 6 000 kilomètres ;
 
 5° S'il s'agit d'une voiture particulière faisant l'objet d'une mesure des émissions de dioxyde de carbone en application du
 règlement (CE) n° 715/2007 du 20 juin 2007, émet une quantité de dioxyde de carbone soit inférieure ou égale à 110 grammes
-par kilomètre pour un véhicule qui combine l'énergie électrique et une motorisation thermique à l'essence, au gazole, au gaz
-de pétrole liquéfié ou au gaz naturel véhicules, soit inférieure ou égale à 60 grammes par kilomètre pour un autre type de
-véhicule, soit, à titre transitoire, inférieure ou égale à 90 grammes par kilomètre lorsque la commande du véhicule ou la
-signature du contrat de location est intervenu avant le 1er janvier 2015 et sa facturation ou le versement du premier loyer,
-dans le cas d'une location, dans les trois mois suivants ;
+par kilomètre pour un véhicule qui combine l'énergie électrique et une motorisation thermique à l'essence, au gaz de pétrole
+liquéfié ou au gaz naturel véhicules, soit inférieure ou égale à 60 grammes par kilomètre pour un autre type de véhicule ; 
 
 6° S'il s'agit d'une camionnette ou d'un véhicule autre qu'une voiture particulière faisant l'objet d'une mesure des
 émissions de dioxyde de carbone en application du règlement (CE) n° 715/2007 du 20 juin 2007, émet une quantité de dioxyde de
-carbone inférieure ou égale à 60 grammes par kilomètre.
+carbone inférieure ou égale à 60 grammes par kilomètre ;
+
+7° N'utilise pas l'une des sources d'énergies suivantes :
+
+a) Gazole (GO) ;
+
+b) Mélange gazogène-gazole (GG) ;
+
+c) Gazole-électricité (hybride rechargeable) (GL) ;
+
+d) Gazole-électricité (hybride non rechargeable) (GH) ;
+
+e) Mélange de gazole et gaz naturel (dual fuel) (GF) ;
+
+f) Bicarburation gazole-GPL (G2) ;
+
+g) Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride rechargeable) (GM) ;
+
+h) Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride non rechargeable) (GQ).
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1928 du 31 décembre 2015, l'article D251-1 reste applicable, dans sa rédaction
+antérieure à l'entrée en vigueur du présent décret, aux véhicules commandés ou dont le contrat de location a été signé avant
+l'entrée en vigueur du présent décret, lorsque leur facturation ou la date de versement du premier loyer intervient dans les
+trois mois suivants, dans les cas où elles seraient plus avantageuses pour les bénéficiaires des aides.
 
 **Liens relatifs à cet article**
 
@@ -37071,9 +37093,13 @@ carbone inférieure ou égale à 60 grammes par kilomètre.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la route. - art. R311-1
 
 
 ###### Article D251-2
@@ -37120,7 +37146,7 @@ principal et qui, à la date de facturation du véhicule acquis ou de versement 
 1° Appartient à la catégorie des voitures particulières au sens de l'article R. 311-1 du code de la route ; 
 
 2° A fait l'objet d'une première immatriculation, telle que mentionnée sur le certificat d'immatriculation, avant le 1er
-janvier 2001 ; 
+janvier 2006 ; 
 
 3° Appartient, au vu de l'identité ou de la raison sociale du propriétaire mentionnée sur le certificat d'immatriculation, au
 bénéficiaire de l'aide complémentaire définie par le présent article ; 
@@ -37142,6 +37168,13 @@ dispositions de l'article R. 322-9 du code de la route ;
 9° Fait l'objet d'un contrat d'assurance en cours de validité à la date de sa remise pour destruction ou à la date de
 facturation du véhicule acquis ou loué.
 
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1928 du 31 décembre 2015, l'article D251-3 reste applicable, dans sa rédaction
+antérieure à l'entrée en vigueur du présent décret, aux véhicules commandés ou dont le contrat de location a été signé avant
+l'entrée en vigueur du présent décret, lorsque leur facturation ou la date de versement du premier loyer intervient dans les
+trois mois suivants, dans les cas où elles seraient plus avantageuses pour les bénéficiaires des aides.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -37161,9 +37194,16 @@ facturation du véhicule acquis ou loué.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R543-162
+	  - Code de la route. - art. L327-1
+	  - Code de la route. - art. R311-1
+	  - Code de la route. - art. R322-9
 
 
 ###### Article D251-4
@@ -37240,44 +37280,35 @@ prise en location dans un délai d'un an suivant la date de sa première immatri
 
 ###### Article D251-7
 
-Le montant de l'aide instituée à l'article D. 251-1 est fixé selon les modalités suivantes :
+Le montant de l'aide instituée à l'article D. 251-1 est fixé selon les modalités suivantes : 
 
-1° Pour un véhicule mentionné au 5° de ce même article :
+1° Pour un véhicule mentionné au 5° de ce même article : 
 
-a) Pour un véhicule qui combine l'énergie électrique et une motorisation thermique à l'essence, au gazole, au gaz de pétrole
-liquéfié ou au gaz naturel véhicules, est équipé d'un moteur électrique présentant une puissance maximale sur 30 minutes
-supérieure ou égale à 10 kilowatts et dont le taux d'émission de dioxyde de carbone est compris entre 61 et 110 grammes par
-kilomètre, le montant de l'aide est fixé à 5 % du coût d'acquisition toutes taxes comprises du véhicule, augmenté le cas
-échéant du coût de la batterie si celle-ci est prise en location, sans être inférieur à 1 000 euros et supérieur à 2 000
-euros.
-
-A titre transitoire, lorsque le taux d'émission de dioxyde de carbone d'un véhicule qui combine l'énergie électrique et une
-motorisation thermique à l'essence ou au gazole est compris entre 61 et 110 grammes par kilomètre, que la commande du
-véhicule ou la signature du contrat de location est intervenue avant le 1er janvier 2015 et que la facturation du véhicule ou
-la date de versement du premier loyer, en cas de location, a lieu dans les trois mois suivants, le montant de l'aide est fixé
-à 8,25 % du coût d'acquisition toutes taxes comprises du véhicule, augmenté le cas échéant du coût de la batterie si celle-ci
-est prise en location, sans être inférieur à 1 650 euros et supérieur à 3 300 euros ;
+a) Pour un véhicule qui combine l'énergie électrique et une motorisation thermique à l'essence, au gaz de pétrole liquéfié ou
+au gaz naturel véhicules, est équipé d'un moteur électrique présentant une puissance maximale sur 30 minutes supérieure ou
+égale à 10 kilowatts et dont le taux d'émission de dioxyde de carbone est compris entre 61 et 110 grammes par kilomètre, le
+montant de l'aide est fixé à 750 euros. 
 
 b) Pour un autre type de véhicule dont le taux d'émission de dioxyde de carbone est inférieur ou égal à 20 grammes par
 kilomètre, le montant de l'aide est fixé à 27 % du coût d'acquisition toutes taxes comprises du véhicule, augmenté le cas
-échéant du coût de la batterie si celle-ci est prise en location, sans être supérieur à 6 300 euros.
+échéant du coût de la batterie si celle-ci est prise en location, sans être supérieur à 6 300 euros. 
 
 Si son taux d'émission de dioxyde de carbone est compris entre 21 et 60 grammes par kilomètre, le montant de l'aide est fixé
-à 20 % du coût d'acquisition toutes taxes comprises du véhicule, augmenté, le cas échéant, du coût de la batterie si celle-ci
-est prise en location, sans être supérieur à 4 000 euros.
-
-A titre transitoire, lorsque le taux d'émission de dioxyde de carbone du véhicule est compris entre 61 et 90 grammes, que la
-commande du véhicule ou la signature du contrat de location est intervenue avant le 1er janvier 2015 et que la facturation du
-véhicule ou le versement du premier loyer, dans le cas d'une location, intervient dans les trois mois suivants, le montant de
-l'aide est fixé à 150 euros ;
+à 1 000 euros ; 
 
 2° Pour un véhicule mentionné au 6° de l'article D. 251-1 dont le taux d'émission de dioxyde de carbone est inférieur ou égal
 à 20 grammes par kilomètre, le montant de l'aide est fixé à 27 % du coût d'acquisition toutes taxes comprises du véhicule,
-augmenté, le cas échéant, du coût de la batterie si celle-ci est prise en location, sans être supérieur à 6 300 euros.
+augmenté, le cas échéant, du coût de la batterie si celle-ci est prise en location, sans être supérieur à 6 300 euros. 
 
 Si son taux d'émission de dioxyde de carbone est compris entre 21 et 60 grammes par kilomètre, le montant de l'aide est fixé
-à 20 % du coût d'acquisition toutes taxes comprises du véhicule, augmenté, le cas échéant, du coût de la batterie si celle-ci
-est prise en location, sans être supérieur à 4 000 euros.
+à 1 000 euros.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1928 du 31 décembre 2015, l'article D251-7 reste applicable, dans sa rédaction
+antérieure à l'entrée en vigueur du présent décret, aux véhicules commandés ou dont le contrat de location a été signé avant
+l'entrée en vigueur du présent décret, lorsque leur facturation ou la date de versement du premier loyer intervient dans les
+trois mois suivants, dans les cas où elles seraient plus avantageuses pour les bénéficiaires des aides.
 
 **Liens relatifs à cet article**
 
@@ -37285,36 +37316,47 @@ est prise en location, sans être supérieur à 4 000 euros.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2016-1980 du 30 décembre 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-1
 
 
 ###### Article D251-8
 
 Le montant de l'aide complémentaire instituée à l'article D. 251-3 est fixé selon les modalités suivantes : 
 
-1° L'aide est de 3 700 euros pour une voiture particulière satisfaisant aux conditions prévues aux 2°, 3° et 4° de l'article
+1° L'aide est de 3 700 euros pour une voiture particulière satisfaisant aux conditions prévues 2°, 3°, 4° et 7° de l'article
 D. 251-1 et dont le taux d'émission de dioxyde de carbone est inférieur ou égal à 20 grammes par kilomètre ; 
 
-2° L'aide est de 2 500 euros pour une voiture particulière satisfaisant aux conditions prévues aux 2°, 3° et 4° de l'article
+2° L'aide est de 2 500 euros pour une voiture particulière satisfaisant aux conditions prévues 2°, 3°, 4° et 7° de l'article
 D. 251-1 et dont le taux d'émission de dioxyde de carbone est compris entre 21 et 60 grammes par kilomètre ; 
 
-3° L'aide est de 500 euros pour une voiture particulière satisfaisant aux conditions prévues aux 2°, 3° et 4° de l'article D.
-251-1, dont le taux d'émission de dioxyde de carbone est compris entre 61 et 110 grammes par kilomètre, qui respecte la norme
-" Euro 6 " et qui est acquise ou louée par une personne physique dont la cotisation d'impôt sur le revenu de l'année
-précédant l'acquisition ou la location du véhicule est nulle ; 
+3° L'aide est de 1 000 euros pour une voiture particulière satisfaisant aux conditions prévues aux 3° et 7° de l'article D.
+251-1, qui est acquise ou louée par une personne physique dont la cotisation d'impôt sur le revenu de l'année précédant
+l'acquisition ou la location du véhicule est nulle, qui n'est pas cédée dans les six mois suivant son acquisition ni avant
+d'avoir parcouru au moins 6 000 kilomètres, dont le taux d'émission de dioxyde de carbone est inférieur ou égal à 110 grammes
+par kilomètre et qui respecte la norme " Euro 6 " ; 
 
-4° L'aide est de 500 euros pour une voiture particulière qui satisfait à la condition prévue au 3° de l'article D. 251-1, qui
-est acquise ou louée par une personne physique dont la cotisation d'impôt sur le revenu de l'année précédant l'acquisition ou
-la location du véhicule est nulle, qui n'est pas cédée dans les six mois suivant son acquisition ni avant d'avoir parcouru au
-moins 6 000 kilomètres, dont le taux d'émission de dioxyde carbone est compris entre 61 et 110 grammes par kilomètre et qui
-respecte la norme " Euro 6 " ou dont le taux d'émission de dioxyde de carbone est inférieur ou égal à 60 grammes par
-kilomètre.
+4° L'aide est de 500 euros pour une voiture particulière qui satisfait aux conditions prévues aux 3° et 7° de l'article D.
+251-1, qui est acquise ou louée par une personne physique dont la cotisation d'impôt sur le revenu de l'année précédant
+l'acquisition ou la location du véhicule est nulle, qui n'est pas cédée dans les six mois suivant son acquisition ni avant
+d'avoir parcouru au moins 6 000 kilomètres, dont le taux d'émission de dioxyde de carbone est inférieur ou égal à 110 grammes
+par kilomètre et qui respecte la norme " Euro 5 ".
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-1928 du 31 décembre 2015, l'article D251-8 reste applicable, dans sa rédaction
+antérieure à l'entrée en vigueur du présent décret, aux véhicules commandés ou dont le contrat de location a été signé avant
+l'entrée en vigueur du présent décret, lorsque leur facturation ou la date de versement du premier loyer intervient dans les
+trois mois suivants, dans les cas où elles seraient plus avantageuses pour les bénéficiaires des aides.
 
 **Liens relatifs à cet article**
 
@@ -37322,19 +37364,21 @@ kilomètre.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 5
 
 	**Cité par**:
 
 	  - Décret n°2016-1980 du 30 décembre 2016 - art. 2 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-1
+	  - Code de l'énergie - art. D251-3
+
 
 ###### Article D251-9
-
-En cas de cumul de l'aide instituée à l'article D. 251-1 avec l'aide complémentaire prévue par l'article D. 251-3, les
-versements sont simultanés, si bien que les aides cumulées font l'objet d'une seule demande de versement. 
 
 Les aides sont soit versées directement à leur bénéficiaire par l'Agence de services et de paiement, soit avancées à leur
 bénéficiaire par les vendeurs ou loueurs de véhicules liés à cette agence par la convention mentionnée à l'article D.
@@ -37359,9 +37403,13 @@ Les aides apparaissent distinctement sur la facture, la quittance ou le contrat 
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-11
 
 
 ###### Article D251-10
@@ -37448,7 +37496,10 @@ pièces à fournir à l'appui des demandes de versement.
 ###### Article D251-13
 
 Les demandes d'aide sont formulées au plus tard dans les six mois suivant la date de facturation du véhicule ou, dans le cas
-d'une location, de versement du premier loyer.
+d'une location, de versement du premier loyer. 
+
+En cas de cumul de l'aide instituée à l'article D. 251-1 avec l'aide complémentaire prévue par l'article D. 251-3, une seule
+demande de versement est présentée pour les deux aides. Leur paiement est simultané.
 
 **Liens relatifs à cet article**
 
@@ -37456,9 +37507,14 @@ d'une location, de versement du premier loyer.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2015-1928 du 31 décembre 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-1
+	  - Code de l'énergie - art. D251-3
 
 
 ### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE
