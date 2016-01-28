@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-01-21
+Version Consolidée au 2016-01-29
 
 # Partie législative
 
@@ -27433,12 +27433,14 @@ cessent d'exercer des fonctions de membre du directoire.
 
 ##### Section 2 : Organisation des entreprises gestionnaires des réseaux publics de distribution d'électricité et de gaz
 
+##### Sous-section 1 : Dispositions communes
+
 ###### Article D111-18
 
 Préalablement à sa conclusion, le projet de contrat du responsable de la conformité, mentionné à l'article L. 111-62, est
 adressé pour approbation à la Commission de régulation de l'énergie par le directeur général ou par le directoire de la
 société gestionnaire du réseau public de distribution d'électricité ou de gaz. Il est accompagné de toutes les informations
-utiles pour que la Commission puisse vérifier les compétences professionnelles et l'indépendance de la personne concernée.
+utiles pour que la Commission puisse vérifier les compétences professionnelles et l'indépendance de la personne concernée. 
 
 Tout projet de dénonciation ou de modification du contrat liant la société gestionnaire du réseau public de distribution et
 le responsable de la conformité est préalablement soumis à l'approbation de la Commission de régulation de l'énergie. La
@@ -27450,9 +27452,13 @@ demande d'approbation de la dénonciation du contrat est motivée.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-62 (V)
 
 
 ###### Article D111-19
@@ -27467,9 +27473,280 @@ sa saisine, l'avis de la Commission de régulation de l'énergie est réputé do
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-66 (V)
+
+
+##### Sous-section 2 : Comité du système de distribution publique d'électricité
+
+###### Article R111-19-1
+
+Les membres du comité du système de distribution publique d'électricité sont nommés par arrêté du ministre chargé de
+l'énergie. Le comité comprend : 
+
+1° Sur proposition des ministres concernés, un représentant du ministre chargé de l'énergie, un représentant du ministre
+chargé des collectivités territoriales et un représentant du ministre chargé de l'économie ; 
+
+2° Sur proposition de leurs associations représentatives, un représentant des intercommunalités et un représentant des
+régions ; 
+
+3° Le représentant des autorités organisatrices du réseau public de distribution d'électricité nommé au conseil de
+surveillance de la société mentionnée au 1° de l'article L. 111-52 ; 
+
+4° Sur proposition de leurs associations représentatives, deux représentants supplémentaires des autorités organisatrices
+définies à l'article L. 2224-31 du code général des collectivités territoriales ; 
+
+5° Sur proposition de leurs associations représentatives, un représentant des entreprises locales de distribution mentionnées
+à l'article L. 111-54 ; 
+
+6° Sur proposition du président du directoire de la société mentionnée au 1° de l'article L. 111-52, trois représentants de
+cette société.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-54 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R111-19-2 (V)
+	  - Code de l'énergie - art. R111-19-3 (V)
+
+
+###### Article R111-19-2
+
+Le président du comité du système de distribution publique d'électricité est désigné, par le ministre chargé de l'énergie,
+parmi les membres mentionnés aux 2°, 3° et 4° de l'article R. 111-19-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R111-19-1 (V)
+
+
+###### Article R111-19-3
+
+Les membres du comité du système de distribution publique d'électricité, ainsi que son président, sont nommés pour une durée
+de cinq ans. 
+
+Lorsqu'un membre ne peut exercer son mandat pour cette durée, son successeur est nommé pour la durée restant à courir. 
+
+Le mandat des membres mentionnés au 2° de l'article R. 111-19-1 prend fin à l'expiration de leur mandat électif dans la
+collectivité au titre de laquelle ils ont été désignés. 
+
+Le mandat des membres du comité est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R111-19-1 (V)
+
+
+###### Article R111-19-4
+
+En cas d'empêchement, les membres titulaires du comité du système de distribution publique d'électricité peuvent être
+remplacés par un suppléant. Les suppléants, dont le nombre est limité à un par titulaire, sont désignés dans les mêmes formes
+et pour la même durée que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-5
+
+Les fonctions de membre du comité du système de distribution publique d'électricité sont gratuites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-6
+
+Le directeur de l'administration centrale chargée de l'électricité ou son représentant assiste au comité du système de
+distribution publique d'électricité en qualité de commissaire du Gouvernement. 
+
+Il présente la position du Gouvernement et peut demander l'inscription de tout point à l'ordre du jour. 
+
+Il ne prend pas part au vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-7
+
+A la demande du président ou du commissaire du Gouvernement, un représentant de la Commission de régulation de l'énergie peut
+assister, en tant qu'observateur, aux réunions du comité du système de distribution publique d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-8
+
+Le comité du système de distribution publique d'électricité se réunit, au moins une fois par an, sur convocation de son
+président. Cette convocation est de droit si elle est demandée par le commissaire du Gouvernement. Le président arrête
+l'ordre du jour sur proposition du secrétariat du comité. En outre, le président inscrit à l'ordre du jour les points
+demandés par au moins un quart des membres du comité. 
+
+Le comité délibère à la majorité des membres présents. 
+
+Le comité peut, sur proposition de son président, de la majorité de ses membres ou du commissaire du Gouvernement, entendre
+toute personne extérieure dont l'audition est de nature à éclairer ses délibérations. Les personnes ainsi entendues ne
+participent pas au vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-9
+
+Le comité du système de distribution publique d'électricité dispose d'un secrétariat assuré par la société mentionnée au 1°
+de l'article L. 111-52.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52 (V)
+
+
+###### Article R111-19-10
+
+Le secrétariat du comité du système de distribution publique d'électricité prépare les documents nécessaires au comité pour
+exercer sa mission et est chargé de leur diffusion auprès de ses membres. 
+
+A cet effet, il est destinataire des documents mentionnés à l'article L. 111-56-1, notamment :
+
+- des saisines du conseil d'administration ou de surveillance de la société mentionnée au 1° de l'article L. 111-52 sur les
+sujets concernant sa politique d'investissement ;
+
+- des programmes prévisionnels de tous les investissements envisagés sur le réseau de distribution, établis par les
+conférences départementales mentionnées au troisième alinéa du I de l'article L. 2224-31 du code général des collectivités
+territoriales ; il en réalise une synthèse au niveau national, le cas échéant au niveau régional, pour préparer les travaux
+du comité. A cet effet, le ministre chargé de l'énergie arrête, sur proposition du comité, le format selon lequel sont
+établis les programmes prévisionnels d'investissements établis par les conférences départementales ; et,
+
+- à sa demande, des comptes rendus de la politique d'investissement et des bilans détaillés de la mise en œuvre des
+programmes prévisionnels mentionnés à l'article L. 2224-31 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-56-1 (V)
+
+
+###### Article R111-19-11
+
+Les avis du comité prévus à l'article L. 111-56-1, signés par son président, sont adressés, dans un délai de quinze jours,
+par le secrétariat à l'autorité organisatrice du réseau public de distribution d'électricité, à la société mentionnée au 1°
+de l'article L. 111-52 ou à l'entreprise locale de distribution concernée. 
+
+L'organisme concerné dispose d'un délai de deux mois pour faire part de ses observations écrites au comité lorsqu'il n'entend
+pas se conformer à son avis. La lettre d'observations est inscrite à l'ordre du jour du comité suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-56-1 (V)
+
+
+###### Article R111-19-12
+
+Le secrétariat du comité du système de distribution publique d'électricité établit les comptes rendus des réunions et élabore
+chaque année un rapport d'activité portant sur les travaux du comité et sur le suivi des avis. 
+
+Il est chargé de la publication, sur le site internet du comité, des travaux de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-13
+
+Le comité du système de distribution publique d'électricité peut adresser au ministre chargé de l'énergie des propositions
+d'orientations générales sur les politiques d'investissements sur les réseaux publics d'électricité et leur contribution à la
+qualité de service et à la transition énergétique. 
+
+Le comité peut être consulté par le ministre chargé de l'énergie sur toute question concernant la politique d'investissement
+sur les réseaux publics d'électricité ou l'organisation de la distribution publique d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+###### Article R111-19-14
+
+Le comité du système de distribution publique d'électricité adopte son règlement intérieur dans un délai de six mois à
+compter de son installation. Ce texte porte notamment sur les délais et modalités de convocation du comité, sur les règles de
+diffusion par le secrétariat des documents nécessaires au comité pour exercer sa mission ainsi que sur les modalités de
+publication de ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
 
 
 ##### Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez
