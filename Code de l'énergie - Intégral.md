@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-02-13
+Version Consolidée au 2016-02-20
 
 # Partie législative
 
@@ -29520,9 +29520,588 @@ L. 121-5.
 
 ##### Section 2 : Compensation financière des charges résultant des obligations de service public
 
-##### Sous-section 1 : Le Fonds de péréquation de l'électricité
+##### Sous-section 1 : Compensation des charges de service public de l'énergie
+
+##### Paragraphe 1 : Gestion des comptes spécifiques relatifs à la compensation des charges de service public de l'énergie
 
 ###### Article R121-22
+
+Au titre des missions qui lui sont confiées, la Caisse des dépôts et consignations est chargée : 
+
+1° De percevoir des versements de l'Etat et d'effectuer les reversements prévus à l'article R. 121-33 ; 
+
+2° De tenir les deux comptes spécifiques retraçant ces opérations : le compte " Service public de l'énergie " et le compte "
+Transition énergétique " ; 
+
+3° De tenir le ministre chargé de l'énergie régulièrement informé des difficultés rencontrées dans l'exercice de ces
+missions. 
+
+La Caisse des dépôts et consignations préserve la confidentialité des informations qu'elle recueille dans l'exercice des
+missions prévues par le présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-23 (V)
+	  - Code de l'énergie - art. R121-24 (V)
+	  - Code de l'énergie - art. R121-30 (V)
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-32 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-33 (V)
+
+
+###### Article R121-23
+
+Les frais de gestion exposés par la Caisse des dépôts et consignations dans l'exercice de ses missions mentionnées à
+l'article R. 121-22 sont inscrits en charges dans le compte " Service public de l'énergie " prévu au 2° du même article. 
+
+Les règles de la comptabilité analytique permettant d'évaluer ces frais de gestion sont fixées par la Commission de
+régulation de l'énergie après concertation avec la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-22 (V)
+
+
+###### Article R121-24
+
+La Caisse des dépôts et consignations adresse au ministre chargé de l'énergie un rapport annuel sur la gestion des comptes
+spécifiques mentionnés à l'article R. 121-22, accompagné des documents comptables correspondants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-22 (V)
+
+
+##### Paragraphe 2 : Détermination des charges imputables aux missions de service public de l'énergie
+
+###### Article R121-25
+
+Les charges imputables aux missions de service public donnant lieu à une compensation intégrale sont déterminées dans les
+conditions fixées aux articles R. 121-26 à R. 121-29.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-26 (V)
+
+
+###### Article R121-26
+
+I.-Les surcoûts supportés par les fournisseurs d'électricité à l'occasion de la mise en œuvre de la tarification spéciale "
+produit de première nécessité " prévue à l'article L. 337-3 correspondent, d'une part, au montant des réductions mentionnés
+au premier alinéa de l'article R. 337-3 et à l'article R. 337-14 ainsi qu'aux pertes de recettes résultant de l'application
+de l'article R. 337-13 et, d'autre part, aux coûts de gestion supplémentaires directement induits pour ces fournisseurs par
+la mise en œuvre de ce dispositif ainsi qu'aux charges mentionnées à l'article R. 337-17. 
+
+II.-Les coûts supportés par les fournisseurs d'électricité à l'occasion de leur participation au dispositif institué en
+faveur des personnes en situation de précarité en application du premier alinéa de l'article L. 115-3 du code de l'action
+sociale et des familles ouvrent droit pour chaque opérateur à une compensation calculée selon un pourcentage des surcoûts
+supportés au titre de la tarification spéciale " produit de première nécessité " mentionnée au I. Ce pourcentage est fixé par
+arrêté du ministre chargé de l'énergie. 
+
+III.-Les surcoûts supportés par les fournisseurs de gaz naturel à l'occasion de la mise en œuvre de la tarification spéciale
+de solidarité prévue à l'article L. 445-5 correspondent, d'une part, au montant des déductions et versements forfaitaires
+mentionnés au premier alinéa de l'article R. 445-9 et à l'article R. 445-21 ainsi qu'aux pertes de recettes résultant de
+l'application du dernier alinéa de l'article R. 445-18 et, d'autre part, aux coûts de gestion supplémentaires directement
+induits pour ces fournisseurs de gaz naturel par la mise en œuvre de ce dispositif ainsi qu'aux charges mentionnées à
+l'article R. 445-22. 
+
+IV.-Les surcoûts supportés par les fournisseurs d'électricité ou de gaz à l'occasion de la mise en œuvre du dispositif d'aide
+prévu à l'article L. 124-1 correspondent aux pertes de recettes dues aux réductions sur les services liés à la fourniture
+d'électricité et de gaz naturel définies par les dispositions prises pour l'application de cet article. 
+
+V.-Les coûts supportés par les fournisseurs d'électricité à l'occasion de la mise en œuvre du dispositif institué en faveur
+des personnes en situation de précarité mentionné à l'article L. 337-3-1 sont compensés dans la limite d'un montant unitaire
+maximal par ménage fixé par un arrêté du ministre chargé de l'énergie. 
+
+VI.-Les coûts supportés par les fournisseurs de gaz naturel à l'occasion de la mise en œuvre du dispositif institué en faveur
+des personnes en situation de précarité mentionné à l'article L. 445-6 sont compensés dans la limite d'un montant unitaire
+maximal par ménage fixé par un arrêté du ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L115-3
+	  - Code de l'énergie - art. L124-1
+	  - Code de l'énergie - art. L337-3
+	  - Code de l'énergie - art. L337-3-1
+	  - Code de l'énergie - art. L445-5
+	  - Code de l'énergie - art. L445-6
+	  - Code de l'énergie - art. R337-13
+	  - Code de l'énergie - art. R337-14
+	  - Code de l'énergie - art. R337-17
+	  - Code de l'énergie - art. R337-3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-25 (V)
+
+
+###### Article R121-27
+
+I.-Les surcoûts qui peuvent résulter de contrats conclus à la suite d'un appel d'offres prévu aux articles L. 311-10 à L.
+311-13-1 ou en application de l'obligation d'achat prévue par l'article L. 314-1 ainsi que des contrats d'achat mentionnés à
+l'article L. 121-27 correspondent pour une année donnée : 
+
+1° Lorsqu'ils sont supportés par Electricité de France dans les zones interconnectées au réseau métropolitain continental, à
+la différence entre le prix d'acquisition de l'électricité payé en exécution des contrats en cause et les prix de marché de
+l'électricité ; 
+
+2° Lorsqu'ils sont supportés par Electricité de France ou Electricité de Mayotte dans les zones non interconnectées au réseau
+métropolitain continental, à la différence entre le prix d'acquisition de l'électricité payé en exécution des contrats en
+cause et le coût qui résulterait de l'achat de la même quantité d'électricité au tarif de vente appliqué, pour la part
+relative à la production, aux consommateurs bénéficiant des tarifs réglementés de vente de l'électricité mentionnés à
+l'article L. 337-8 ; 
+
+3° Lorsqu'ils sont supportés par une entreprise locale de distribution, à la différence entre le prix d'acquisition de
+l'électricité payé en exécution des contrats en cause et le coût qui résulterait de l'achat de la même électricité aux prix
+de marché. Par exception, le surcoût des quantités qui se substituent aux quantités acquises aux tarifs de cession mentionnés
+à l'article L. 337-1 correspond à la différence entre le prix d'acquisition de l'électricité payé en exécution des contrats
+en cause et le coût qui résulterait de ces tarifs. Toutefois, ces dispositions ne s'appliquent pas à l'électricité faisant
+l'objet des contrats mentionnés au 4° ; 
+
+4° Lorsqu'ils sont supportés par Electricité de France en raison de l'achat à une entreprise locale de distribution d'un
+surplus d'électricité en application de l'article L. 314-5, à la différence entre le prix d'acquisition de l'électricité payé
+en exécution des contrats en cause et les prix de marché de l'électricité. 
+
+II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution ou Electricité de Mayotte
+lorsqu'ils sont retenus à la suite d'un appel d'offres prévu aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent
+une installation mentionnée aux 1° et 2° de l'article L. 314-1 sont évalués selon les règles prévues, selon le cas, aux 1°,
+2° et 3° du I. 
+
+A cet effet, ils établissent des protocoles qui règlent les conditions de cession interne de l'électricité. Les conditions de
+durée et d'équivalent de prix y figurant sont conformes, dans les cas d'application des articles L. 311-10 à L. 311-13-1, aux
+engagements pris par l'entreprise à l'issue de l'appel d'offres et, dans les cas d'application de l'article L. 314-1, aux
+conditions fixées par les articles R. 314-6 à R. 314-23 et les arrêtés pris pour leur application. 
+
+III.-Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux de
+gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
+différence entre le prix d'acquisition du biométhane payé en exécution des contrats en cause et le prix moyen constaté sur le
+marché de gros du gaz naturel de la zone d'équilibrage concernée et, d'autre part, aux coûts de gestion supplémentaires
+directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre de ce dispositif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. L311-13-1
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-5
+	  - Code de l'énergie - art. L337-1
+	  - Code de l'énergie - art. L337-8
+	  - Code de l'énergie - art. L446-2
+	  - Code de l'énergie - art. R314-23
+	  - Code de l'énergie - art. R314-6
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-28 (V)
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R151-1 (V)
+	  - Code de l'énergie - art. R152-1 (V)
+
+
+###### Article R121-28
+
+I.-Dans une zone non interconnectée au réseau métropolitain continental et hors les cas définis au I et au II de l'article R.
+121-27 : 
+
+1° Les surcoûts supportés par un fournisseur d'électricité pour l'électricité produite par l'installation de production
+d'électricité qu'il exploite correspondent, pour une année donnée : 
+
+a) Lorsque cette électricité est vendue à un consommateur final bénéficiant des tarifs réglementés de vente de l'électricité
+mentionnés à l'article L. 337-8 ou cédée à un organisme de distribution électrique, à la différence entre le coût de
+production normal et complet pour le type d'installation de production considéré dans cette zone et le prix qui résulterait
+de l'application à la quantité d'électricité considérée du tarif réglementé de vente, pour la part relative à la
+production ; 
+
+b) Lorsque cette électricité est vendue à un consommateur final ne bénéficiant pas des tarifs réglementés de vente de
+l'électricité, à la différence entre le coût de production normal et complet pour le type d'installation de production
+considéré dans cette zone et le prix qui résulterait de l'application à la quantité d'électricité considérée du plafond de
+prix prévu à l'article L. 337-1 ; 
+
+2° Les surcoûts résultant des contrats d'achat de l'électricité supportés par un fournisseur d'électricité pour l'électricité
+qu'il achète correspondent, pour une année donnée : 
+
+a) Lorsque cette électricité est revendue à un consommateur final bénéficiant des tarifs réglementés de vente de
+l'électricité mentionnés à l'article L. 337-8, à la différence entre le prix d'acquisition de l'électricité pour l'exécution
+du contrat et le prix qui résulterait de l'application à la quantité d'électricité considérée du tarif réglementé de vente,
+pour la part relative à la production ; 
+
+b) Lorsque cette électricité est revendue à un consommateur final ne bénéficiant pas des tarifs réglementés de vente de
+l'électricité, à la différence entre le prix d'acquisition de l'électricité pour l'exécution du contrat et le prix qui
+résulterait de l'application à la quantité d'électricité considérée du plafond de prix prévu à l'article L. 337-1. 
+
+II.-a) Dans les cas mentionnés aux a et b du 2° du I, le projet de contrat d'achat d'électricité est communiqué à la
+Commission de régulation de l'énergie, assorti des éléments nécessaires à l'évaluation de la compensation. 
+
+Lorsque le contrat d'achat porte sur de l'électricité produite par une installation de production située sur le territoire
+d'une zone non interconnectée, la Commission de régulation de l'énergie évalue le coût de production normal et complet pour
+le type d'installation de production considérée dans cette zone en appliquant le taux de rémunération du capital immobilisé
+fixé, après avis de cette Commission, par arrêté du ministre chargé de l'énergie en application de l'article L. 121-7. 
+
+Lorsque le contrat d'achat porte sur de l'électricité produite par une installation de production située hors du territoire
+français, la Commission de régulation de l'énergie évalue la différence entre le coût d'achat de l'électricité importée et le
+coût de production normal et complet évité dans la zone non interconnectée d'importation sur toute la durée du contrat. Les
+charges imputables aux missions de service public liées aux surcoûts d'achat ne peuvent pas excéder les surcoûts de
+production évités. L'acheteur communique à la Commission de régulation de l'énergie les éléments utiles pour procéder à
+l'évaluation du coût d'achat de l'électricité importée ; 
+
+b) Dans les cas mentionnés aux a et b du 1° du I, le producteur communique les éléments utiles de sa comptabilité à la
+Commission de régulation de l'énergie, qui procède à l'évaluation de la compensation. 
+
+Dans tous les cas ci-dessus, la Commission de régulation de l'énergie notifie aux parties, dans les deux mois suivant la
+réception du dossier complet, le résultat de son évaluation, sur la base de laquelle est calculée la compensation. 
+
+III.-Dans les zones non interconnectées au réseau métropolitain continental, le dossier des projets d'ouvrages de stockage
+d'électricité gérés par le gestionnaire du système électrique, à l'exception de ceux qui ont été retenus à l'issue d'un appel
+d'offres, est communiqué à la Commission de régulation de l'énergie ; il contient les éléments nécessaires à l'évaluation de
+la compensation. Lorsque l'ouvrage de stockage n'appartient pas au gestionnaire de réseau, le dossier est accompagné d'un
+projet de contrat entre ce dernier et le propriétaire de l'ouvrage. 
+
+La Commission de régulation de l'énergie évalue le coût normal et complet de l'installation de stockage dans la zone
+considérée en appliquant un taux de rémunération du capital immobilisé qu'elle fixe. Ce taux est compris entre une valeur
+plancher et une valeur plafond arrêtées par le ministre chargé de l'énergie, après avis de la Commission de régulation de
+l'énergie, en application de l'avant-dernier alinéa du 2° de l'article L. 121-7. La Commission peut faire appel, pour
+l'évaluation, à l'expertise technique de l'Agence de l'environnement et de la maîtrise de l'énergie. 
+
+Les charges imputables aux missions de service public liées à l'installation, qui sont calculées par la Commission de
+régulation de l'énergie sur la base du coût normal et complet, diminué des éventuelles recettes et subventions dont bénéficie
+par ailleurs l'installation, ne peuvent excéder les surcoûts de production évités du fait de l'installation sur l'ensemble de
+sa durée de vie. 
+
+La Commission notifie aux parties le résultat de l'évaluation de la compensation dans un délai de quatre mois à compter de la
+réception du dossier complet. 
+
+IV.-Dans les zones non interconnectées au réseau métropolitain continental, le dossier des actions de maîtrise de la demande
+d'électricité entreprises par un fournisseur ou par un tiers avec lequel il contracte est communiqué à la Commission de
+régulation de l'énergie. Lorsque l'action est portée par un tiers, le dossier est accompagné d'un projet de contrat. Ce
+dossier contient les éléments nécessaires à l'évaluation de la compensation ainsi que ceux qui justifient que la solution
+technique envisagée pour l'action de maîtrise de la demande considérée soit parmi les meilleures techniques disponibles au
+regard à la fois du nombre de kilowattheures évités, du coût par kilowattheure évité et de la durée de l'action envisagée. 
+
+La Commission de régulation de l'énergie évalue le coût normal et complet de l'action dans la zone considérée en appliquant,
+le cas échéant, un taux de rémunération du capital immobilisé qu'elle fixe. Ce taux est compris entre une valeur plancher et
+une valeur plafond arrêtées par le ministre chargé de l'énergie après avis de cette Commission en application de l'avant-
+dernier alinéa du 2° de l'article L. 121-7. La Commission peut faire appel, pour l'évaluation, à l'expertise technique de
+l'Agence de l'environnement et de la maîtrise de l'énergie. 
+
+Les charges imputables aux missions de service public liées à l'action, qui sont calculées par la Commission de régulation de
+l'énergie sur la base du coût normal et complet, diminué des recettes et subventions éventuellement perçues au titre de cette
+action de maîtrise de la demande, ne peuvent excéder les surcoûts de production évités du fait de l'action sur l'ensemble de
+sa durée. 
+
+La Commission notifie aux parties le résultat de son évaluation et les modalités de contrôle à mettre en œuvre dans un délai
+de quatre mois à compter de la réception du dossier complet. 
+
+V.-Le plafond prévu au troisième alinéa du a du II, au III et au IV s'impose à la somme des coûts calculés, pour une action
+donnée, sur la durée du contrat et actualisés selon un taux de référence ; il est déterminé par rapport à la somme des
+surcoûts de production évités sur la durée du contrat et actualisés selon un taux d'actualisation de référence majoré destiné
+à tenir compte des incertitudes sur les surcoûts de production évités futurs. 
+
+Le taux d'actualisation de référence et le taux d'actualisation de référence majoré sont définis par arrêté du ministre
+chargé de l'énergie, pris après avis de la Commission de régulation de l'énergie. Ils peuvent être différents selon la nature
+et la durée de vie de l'action engendrant l'économie de surcoûts de production.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. L337-1
+	  - Code de l'énergie - art. L337-8
+	  - Code de l'énergie - art. R121-27 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-31 (V)
+
+
+###### Article R121-29
+
+Dans les zones non interconnectées au réseau métropolitain continental, lorsqu'une personne souhaite engager une étude en vue
+de la réalisation d'un projet d'approvisionnement électrique identifié dans la programmation pluriannuelle de l'énergie et
+pour lequel cette programmation prévoit la possibilité d'appliquer la compensation mentionnée au e du 2° de l'article L.
+121-7, et que cette personne souhaite bénéficier de la compensation mentionnée ci-dessus, elle adresse à la Commission de
+régulation de l'énergie et au ministre chargé de l'énergie un dossier présentant le cahier des charges et l'évaluation des
+coûts de son étude ainsi que les éléments attestant de sa capacité technique et financière à mener le projet considéré. 
+
+Le ministre chargé de l'énergie vérifie que l'étude proposée est nécessaire à la réalisation du projet mentionné dans la
+programmation pluriannuelle de l'énergie et en valide le cahier des charges. La Commission de régulation de l'énergie vérifie
+que ce projet constitue un projet d'approvisionnement électrique conduisant à un surcoût de production au titre du a du 2° de
+l'article L. 121-7. Elle procède au contrôle de l'évaluation des coûts présentée par la personne et détermine le montant des
+coûts à compenser. 
+
+Dans le cas où la personne renonce à poursuivre l'étude ou à engager la réalisation du projet, l'étude dont les coûts ont été
+compensés par les charges de service public de l'électricité est transmise, dans une version respectant le secret industriel
+et commercial, à la Commission de régulation de l'énergie, qui la publie. 
+
+Les charges imputables aux missions de service public allouées à la compensation de l'ensemble des études relatives à un même
+projet ne peuvent excéder un plafond, défini par arrêté du ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-7
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R151-1 (V)
+
+
+##### Paragraphe 3 : Procédure de détermination du montant des charges à compenser
+
+###### Article R121-30
+
+I.-Les opérateurs qui supportent des charges imputables aux missions de service public de l'énergie adressent à la Commission
+de régulation de l'énergie, avant le 31 mars de chaque année, une déclaration relative aux charges imputables aux missions de
+service public de l'énergie qu'ils ont supportées au titre de l'année précédente, et avant le 30 avril de chaque année une
+déclaration relative aux charges prévisionnelles au titre de l'année suivante ainsi qu'à la mise à jour des charges qu'ils
+vont supporter au titre de l'année en cours. Ces déclarations mentionnent, s'il s'agit d'une personne physique, ses nom,
+prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse
+de son siège social, son numéro d'identité au répertoire national des entreprises et des établissements ainsi que la qualité
+du déclarant, et, dans tous les cas, ses coordonnées bancaires. 
+
+Un arrêté pris sur proposition de la Commission de régulation de l'énergie précise les autres informations à inclure dans ces
+déclarations. 
+
+La déclaration relative aux charges supportées au titre de l'année précédente est établie sur la base d'une comptabilité
+appropriée, dont les règles sont établies par la Commission de régulation de l'énergie, contrôlée dans les conditions prévues
+aux articles L. 121-9 et L. 121-36, et accompagnée des pièces justificatives nécessaires. 
+
+II.-La Commission de régulation de l'énergie peut demander aux opérateurs des informations complémentaires sur les
+déclarations mentionnées au I. Les informations demandées sont transmises par les opérateurs avant le 15 juin. En cas de non-
+respect de cette échéance, les déclarations correspondantes ne sont pas prises en compte pour l'évaluation du montant des
+charges à compenser. 
+
+III.-La Caisse des dépôts et consignations notifie, avant le 31 mars de chaque année, au ministre chargé de l'énergie et à la
+Commission de régulation de l'énergie, le montant des frais de gestion qu'elle a effectivement supportés au titre de l'année
+précédente et le montant prévisionnel des frais de gestion pour l'année suivante. Les ministres chargés de l'économie et de
+l'énergie arrêtent le montant des frais de gestion avant le 1er juillet. 
+
+La Caisse des dépôts et consignations notifie dans les mêmes délais, au ministre chargé de l'énergie et à la Commission de
+régulation de l'énergie, le montant des reversements qu'elle a effectués et les produits financiers dégagés, au cours de la
+même année, de la gestion des comptes spécifiques mentionnées à l'article R. 121-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 6 avril 2016 - art. 1 (V)
+	  - Arrêté du 6 avril 2016 - art. 6 (V)
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-32 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-36
+	  - Code de l'énergie - art. L121-9
+	  - Code de l'énergie - art. R121-22 (V)
+
+
+###### Article R121-31
+
+I.-La Commission de régulation de l'énergie constate, chaque année, le montant des charges imputables aux missions de service
+public de l'énergie ayant incombé aux opérateurs au titre de l'année précédente et évalue, pour l'année suivante, le montant
+prévisionnel de ces mêmes charges, à partir des informations fournies par les déclarations prévues au I de l'article R.
+121-30. Elle réalise par ailleurs une mise à jour de l'évaluation des charges imputables aux missions de service public de
+l'énergie incombant aux opérateurs au titre de l'année en cours. 
+
+Le montant des charges imputables aux missions de service public pour l'année suivante correspond : 
+
+a) Au montant prévisionnel des charges au titre de l'année suivante qui résulte des déclarations prévues au I de l'article R.
+121-30 ; 
+
+b) Augmenté ou diminué de la différence entre le montant des charges effectivement constatées au titre des années antérieures
+et le montant des compensations recouvrées au titre des mêmes années ; 
+
+c) Augmenté ou diminué de la différence entre les dernières estimations du montant des charges qui devraient être constatées
+et du montant des compensations qui devraient être recouvrées au titre de l'année en cours ; 
+
+d) Augmenté du montant prévisionnel des frais de gestion de la Caisse des dépôts et consignations, au vu de la déclaration
+prévue au III de l'article R. 121-30, ce montant comprenant l'écart constaté entre les frais prévisionnels et les frais
+effectivement exposés au titre de l'année précédente ; 
+
+e) Réduit du montant des produits financiers dégagés de la gestion des fonds perçus par la Caisse des dépôts et
+consignations ; 
+
+f) Réduit d'une part, fixée par arrêté du ministre chargé de l'énergie, du montant des valorisations financières des
+garanties d'origine délivrées, en application des articles L. 446-3 et L. 446-4 ; 
+
+g) Réduit du montant de la valorisation financière des garanties d'origine délivrées au cours de l'année précédente, en
+application de l'article L. 314-14 pour l'électricité acquise ou compensée en application du I et du II de l'article R.
+121-27 et du II de l'article R. 121-28. Les modalités d'évaluation de cette valorisation financière sont fixées par arrêté du
+ministre en charge de l'énergie ; 
+
+h) Augmenté ou diminué des intérêts prévus aux articles L. 121-19-1 et L. 121-41, calculés opérateur par opérateur, par
+application, à la moyenne du déficit ou de l'excédent de compensation constaté l'année précédente, du taux de 1,72 %, qui
+peut être modifié par décret. Les modalités de calcul de ces intérêts sont établies par la Commission de régulation de
+l'énergie. 
+
+Le cas échéant, la Commission de régulation de l'énergie tient compte de l'échéancier prévisionnel de compensation du déficit
+mentionné au c du I de l'article 5 de la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative et des intérêts
+correspondants prévus à l'article L. 121-19-1, fixé par arrêté des ministres chargés des finances et de l'énergie. 
+
+La CRE distingue le montant des charges relevant du compte " Transition énergétique " et celles relevant du compte " Service
+public de l'énergie " mentionnés à l'article R. 121-22. Par défaut, les charges qui ne sont pas mentionnées à l'article 5 de
+la loi du 29 décembre 2015 précitée relèvent du compte " Service public de l'énergie ". 
+
+II.-Avant le 15 juillet de chaque année, la Commission de régulation de l'énergie adresse au ministre chargé de l'énergie ses
+évaluations du montant des charges établies conformément au I, avec l'indication des règles employées et toutes les
+informations nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-19-1
+	  - Code de l'énergie - art. L121-41
+	  - Code de l'énergie - art. L314-14
+	  - Code de l'énergie - art. L446-3
+	  - Code de l'énergie - art. L446-4
+	  - Code de l'énergie - art. R121-22 (V)
+	  - Code de l'énergie - art. R121-27 (V)
+	  - Code de l'énergie - art. R121-30 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-33 (V)
+	  - Code de l'énergie - art. R121-51 (V)
+	  - Code de l'énergie - art. R121-56 (V)
+	  - Code de l'énergie - art. R121-57 (V)
+	  - Code de l'énergie - art. R121-58 (M)
+	  - Code de l'énergie - art. R121-59 (M)
+
+
+###### Article R121-32
+
+La Commission de régulation de l'énergie notifie avant le 31 décembre de l'année précédente, à chaque opérateur ayant fait
+une déclaration au titre de l'article R. 121-30, le montant prévisionnel des charges imputables aux missions de service
+public de l'énergie qu'elle retient pour l'année suivante. Elle distingue le montant des charges relevant du compte "
+Transition énergétique " de celles relevant du compte " Service public de l'énergie " mentionnés à l'article R. 121-22. 
+
+Ces montants sont également communiqués au ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-22 (V)
+	  - Code de l'énergie - art. R121-30 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-56 (V)
+	  - Code de l'énergie - art. R121-57 (V)
+
+
+##### Paragraphe 4 : Opérations de reversement aux opérateurs qui supportent les charges imputables aux missions de service public de l'énergie
+
+###### Article R121-33
+
+Les comptes " Service public de l'énergie " et " Transition énergétique " gérés par la Caisse des dépôts et consignations
+sont abondés par l'Etat. 
+
+Lorsque la compensation annuelle due à un opérateur est inférieure à 10 % du montant total des charges déterminé conformément
+à l'article R. 121-31, le montant des sommes à lui reverser mensuellement est égal au douzième de la compensation due au
+titre de la période considérée. Dans le cas contraire, le montant reversé mensuellement compense prioritairement la
+différence mentionnée au b du I de l'article R. 121-31 faisant l'objet d'un échéancier prévisionnel de compensation, et les
+intérêts correspondant prévus à l'article L. 121-19-1. 
+
+Chaque mois, le ministre chargé de l'énergie indique à la Caisse des dépôts et consignations le montant à reverser à chaque
+opérateur. La Caisse des dépôts et consignations dispose d'au plus trois jours ouvrés pour reverser ce montant sur le compte
+de chaque opérateur. Les produits financiers résultant des sommes non reversées dans ce délai, valorisés au taux d'intérêt
+mentionné au h du I de l'article R. 121-31, sont déduits des charges à compenser à la Caisse des dépôts et consignations,
+conformément au e du I du même article. 
+
+Les sommes dues aux opérateurs leur sont payées en douze versements effectués au plus tard : 
+
+a) Pour la compensation des charges retracées par le compte " Transition énergétique " : le 10 des mois de mars à décembre et
+le 31 décembre de l'année au titre de laquelle les charges sont à compenser, et le 10 du mois de février de l'année
+suivante ; 
+
+b) Pour la compensation des charges retracées par le compte " Service public de l'énergie " : le 15 des mois de février à
+décembre de l'année au titre de laquelle les charges sont à compenser, et le 15 du mois de janvier de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-19-1
+	  - Code de l'énergie - art. R121-31 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-22 (V)
+	  - Code de l'énergie - art. R121-54 (V)
+	  - Code de l'énergie - art. R121-58 (M)
+
+
+##### Sous-section 3 : Le Fonds de péréquation de l'électricité
+
+###### Article R121-44
 
 Le Fonds de péréquation de l'électricité mentionné à l'article L. 121-29 répartit entre les gestionnaires des réseaux publics
 de distribution d'électricité les charges mentionnées au II de l'article L. 121-29 selon la méthode définie à la présente
@@ -29530,24 +30109,26 @@ sous-section. Il effectue les opérations de recouvrement et de reversement néc
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. L121-29 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-44 (M)
+	  - Code de l'énergie - art. R121-22 (T)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R443-11 (V)
+	  - Code de l'énergie - art. R443-2 (V)
+	  - Code de l'énergie - art. R443-5 (V)
 
 
-###### Article R121-23
+###### Article R121-45
 
 Le Fonds de péréquation de l'électricité est administré par un conseil.
 
@@ -29559,46 +30140,38 @@ l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-45 (M)
+	  - Code de l'énergie - art. R121-23 (T)
 
 
-###### Article R121-24
+###### Article R121-46
 
-Le conseil du Fonds de péréquation de l'électricité est composé de douze membres.
+Le conseil du Fonds de péréquation de l'électricité est composé de douze membres. 
 
-Il est présidé par un conseiller d'Etat en activité ou honoraire.
+Il est présidé par un conseiller d'Etat en activité ou honoraire. 
 
-Il comprend outre son président :
+Il comprend outre son président : 
 
-1° Trois représentants de l'Etat :
+1° Trois représentants de l'Etat : 
 
-a) Le directeur général de l'énergie ou son représentant ;
+a) Le directeur général de l'énergie ou son représentant ; 
 
-b) Le directeur général des collectivités locales ou son représentant ;
+b) Le directeur général des collectivités locales ou son représentant ; 
 
-c) Le directeur du budget ou son représentant ;
+c) Le directeur du budget ou son représentant ; 
 
 2° Trois représentants d'Electricité réseau distribution France, sur proposition de cette société ;
 
 3° Trois représentants des entreprises locales de distribution mentionnées à l'article L. 111-54, dont un représentant des
-sociétés coopératives d'intérêt collectif agricole d'électricité, sur proposition des associations représentatives ;
+sociétés coopératives d'intérêt collectif agricole d'électricité, sur proposition des associations représentatives ; 
 
 4° Deux représentants des autorités organisatrices de la distribution publique d'électricité, sur proposition des
-associations représentatives.
+associations représentatives. 
 
 Le président et les membres du conseil du fonds mentionnés aux 2°, 3° et 4° ci-dessus sont nommés pour trois ans par arrêté
 du ministre chargé de l'énergie. Leur mandat est renouvelable. Lorsqu'un de ces membres perd la qualité au titre de laquelle
@@ -29607,24 +30180,20 @@ membre pour la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. L111-54 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-46 (M)
+	  - Code de l'énergie - art. R121-24 (T)
 
 
-###### Article R121-25
+###### Article R121-47
 
 Le directeur de l'administration centrale chargée de l'électricité ou son représentant assiste au conseil du Fonds de
 péréquation de l'électricité en qualité de commissaire du Gouvernement.
@@ -29636,24 +30205,22 @@ L'examen de cette question ne peut être refusé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-25 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'énergie - art. R121-47 (M)
+	  - Code de l'énergie - art. R421-14 (V)
+	  - Code de l'énergie - art. R421-15 (V)
+	  - Code de l'énergie - art. R421-16 (V)
 
 
-###### Article R121-26
+###### Article R121-48
 
 Le conseil du Fonds de péréquation de l'électricité se réunit sur convocation de son président qui arrête l'ordre du jour.
 
@@ -29666,24 +30233,16 @@ président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-48 (M)
+	  - Code de l'énergie - art. R121-26 (T)
 
 
-###### Article R121-27
+###### Article R121-49
 
 Le secrétariat du conseil du Fonds de péréquation de l'électricité assure la gestion comptable et financière du fonds et
 tient la comptabilité des opérations de recouvrement et de reversement qu'il effectue.
@@ -29695,75 +30254,55 @@ Le fonds de péréquation de l'électricité est soumis au contrôle de la Cour 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-49 (M)
+	  - Code de l'énergie - art. R121-27 (T)
 
 
-###### Article R121-28
+###### Article R121-50
 
 Les membres du conseil du Fonds de péréquation de l'électricité et les agents affectés au secrétariat sont tenus au secret
 professionnel pour les faits, actes et renseignements dont ils ont connaissance en raison de leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-50 (M)
+	  - Code de l'énergie - art. R121-28 (T)
 
 
-###### Article R121-29
+###### Article R121-51
 
 Les gestionnaires des réseaux publics de distribution d'électricité adressent chaque année au Fonds de péréquation de
-l'électricité, avant la date fixée par le conseil du fonds, une déclaration et les éléments nécessaires à la péréquation.
+l'électricité, avant la date fixée par le conseil du fonds, une déclaration et les éléments nécessaires à la péréquation. 
 
 Le secrétariat du fonds peut demander communication de documents comptables permettant de justifier le montant déclaré des
 recettes mentionnées à l'article R. 121-31.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-29 (T)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-51 (M)
+	  - Code de l'énergie - art. R121-31 (V)
 
 
-###### Article R121-30
+###### Article R121-52
 
 La péréquation afférente à l'exploitation des réseaux, effectuée en application du 1° du II de l'article L. 121-29, est
 fondée, pour chaque gestionnaire de réseau de distribution, sur l'écart entre l'évaluation des recettes d'exploitation des
@@ -29772,24 +30311,20 @@ supportées au cours de la même année.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. L121-29 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-52 (M)
+	  - Code de l'énergie - art. R121-30 (T)
 
 
-###### Article R121-31
+###### Article R121-53
 
 Pour chaque gestionnaire de réseau de distribution, les recettes d'exploitation des réseaux sont celles qui résultent de
 l'application du tarif d'utilisation des réseaux publics de transport et de distribution pour les kilowattheures livrés.
@@ -29800,24 +30335,16 @@ des investissements.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-53 (M)
+	  - Code de l'énergie - art. R121-31 (T)
 
 
-###### Article R121-32
+###### Article R121-54
 
 Les charges liées à l'exploitation des réseaux sont évaluées, pour chaque gestionnaire de réseau public de distribution, par
 application de la formule décrite à l'article R. 121-33 qui tient compte des caractéristiques du réseau exploité et de la
@@ -29825,24 +30352,20 @@ clientèle qui lui est raccordée, appréciées au 31 décembre de l'année pré
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-32 (T)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-54 (M)
+	  - Code de l'énergie - art. R121-33 (V)
 
 
-###### Article R121-33
+###### Article R121-55
 
 L'évaluation des charges supportées par le gestionnaire de réseau public de distribution d'électricité est effectuée
 conformément à la formule suivante :
@@ -29872,55 +30395,45 @@ Nb (abonnements) est le nombre des abonnements du gestionnaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-55 (M)
+	  - Code de l'énergie - art. R121-33 (T)
 
 
-###### Article R121-34
+###### Article R121-56
 
 Lorsque les recettes d'un gestionnaire de réseau public de distribution, calculées comme il est dit à l'article R. 121-31,
 excèdent ses charges, calculées comme il est dit aux articles R. 121-32 et R. 121-33, il verse une contribution au fonds.
-Dans le cas contraire, il en reçoit une dotation.
+Dans le cas contraire, il en reçoit une dotation. 
 
 Le solde de contribution ou de dotation est calculé par application des formules décrites à l'article R. 121-35, qui
 permettent d'assurer l'équilibre des opérations effectuées par le fonds de péréquation de l'électricité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. D121-35 (V)
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-32 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-56 (M)
+	  - Code de l'énergie - art. R121-34 (T)
 
 
-###### Article R121-35
+###### Article R121-57
 
 Le solde " exploitation " S, contributeur ou bénéficiaire, de la péréquation, est établi conformément aux formules
-suivantes : 
+suivantes :
 
 1. Cas d'un gestionnaire contributeur : 
 
@@ -29940,24 +30453,21 @@ C est le montant des charges définies aux articles R. 121-32 et R. 121-33.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-32 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-57 (M)
+	  - Code de l'énergie - art. R121-35 (T)
 
 
-###### Article R121-36
+###### Article R121-58
 
 Les valeurs des coefficients λ, a1 à a9, α, β et γ prévus aux articles R. 121-31, R. 121-33 et R. 121-35 sont fixées chaque
 année par un arrêté conjoint du ministre chargé de l'énergie, du budget et de l'intérieur, après avis du conseil du fonds de
@@ -29965,35 +30475,36 @@ péréquation de l'électricité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-33 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-58 (M)
+	  - Code de l'énergie - art. R121-36 (T)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-49 (V)
 
 
-###### Article R121-37
+###### Article R121-59
 
 Pour mettre en œuvre la péréquation des charges liées aux opérations d'aménagement du territoire mentionnées au 2° du II de
 l'article L. 121-29, le conseil du fonds émet un avis sur les dossiers qui lui sont soumis par les gestionnaires des réseaux
-publics de distribution ainsi que sur le montant total des sommes susceptibles d'être affectées à cette péréquation.
+publics de distribution ainsi que sur le montant total des sommes susceptibles d'être affectées à cette péréquation. 
 
 Au vu de ces avis, le ministre chargé de l'énergie arrête la liste des opérations d'aménagement du territoire donnant lieu à
-péréquation ainsi que le montant des dotations correspondantes.
+péréquation ainsi que le montant des dotations correspondantes. 
 
 Le montant total des sommes affectées à la péréquation des charges d'aménagement du territoire est répartie entre tous les
 gestionnaires de réseaux publics de distribution au prorata de leurs recettes déterminées conformément aux dispositions de
-l'article R. 121-31. Chaque gestionnaire contribue à la péréquation à raison de la somme T résultant de cette répartition.
+l'article R. 121-31. Chaque gestionnaire contribue à la péréquation à raison de la somme T résultant de cette répartition. 
 
 Pour chaque gestionnaire de réseau public de distribution, la somme du solde S de la péréquation afférente à l'exploitation
 des réseaux mentionné à l'article R. 121-1 et du résultat T de la péréquation liée à l'aménagement du territoire mentionné
@@ -30001,48 +30512,42 @@ ci-dessus constitue son solde définitif de péréquation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. D111-41 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-59 (M)
+	  - Code de l'énergie - art. L121-29 (V)
+	  - Code de l'énergie - art. R121-1 (V)
+	  - Code de l'énergie - art. R121-31 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'énergie - art. R121-37 (T)
 
 
-###### Article R121-38
+###### Article R121-60
 
 Les frais de gestion du Fonds de péréquation de l'électricité sont répartis entre les gestionnaires de réseaux publics de
 distribution d'électricité au prorata du montant de leur solde définitif de péréquation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R121-60 (M)
+	  - Code de l'énergie - art. R121-38 (T)
 
 
-###### Article R121-39
+###### Article R121-61
 
 Les versements des contributeurs sont effectués en une seule fois avant le 31 octobre de chaque année. Les contributions non
 réglées au jour de l'échéance portent intérêt au taux légal.
@@ -30051,28 +30556,24 @@ Les versements du fonds aux bénéficiaires sont effectués en une seule fois av
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. R121-39 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'énergie - art. R121-61 (M)
+	  - Code de l'énergie - art. R121-49 (V)
 
 
-###### Article R121-40
+###### Article R121-62
 
 Les fonctionnaires et agents habilités en application des articles L. 135.3 et L. 142-21 assurent, dans les formes prévues
 par ces articles et, le cas échéant, à la demande du conseil du fonds de péréquation de l'électricité, le contrôle des
-déclarations et des documents comptables adressés au fonds.
+déclarations et des documents comptables adressés au fonds. 
 
 En cas de défaut de déclaration, le secrétariat du Fonds de péréquation de l'électricité procède à la détermination des
 recettes et des charges du gestionnaire de réseaux publics de distribution d'électricité défaillant, après l'avoir mis en
@@ -30080,122 +30581,112 @@ demeure de présenter ses observations.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. L135-3 (V)
+	  - Code de l'énergie - art. L142-21 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-62 (M)
+	  - Code de l'énergie - art. R121-40 (T)
 
 
-###### Article R121-41
+###### Article R121-63
 
 En cas de non-paiement des sommes dues à l'échéance prévue, la défaillance d'un contributeur est constatée lorsqu'une mise en
-demeure, adressée par lettre recommandée avec accusé de réception, est restée sans effet plus de trois semaines.
+demeure, adressée par lettre recommandée avec accusé de réception, est restée sans effet plus de trois semaines. 
 
-Une copie de la mise en demeure est remise au ministre chargé de l'énergie.
+Une copie de la mise en demeure est remise au ministre chargé de l'énergie. 
 
 Sans préjudice des sanctions encourues en application de l'article L. 121-30, le secrétariat du fonds procède au recouvrement
 de la contribution due, augmentée des intérêts au taux légal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-63 (Ab)
+	  - Code de l'énergie - art. L121-30
+
+	**Anciens textes**:
+
+	  - Code de l'énergie - art. R121-41 (T)
 
 
-###### Article R121-42
+###### Article R121-64
 
 Le ministre chargé de l'énergie prononce la sanction pécuniaire prévue à l'article L. 121-30.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-64 (Ab)
+	  - Code de l'énergie - art. L121-30
+
+	**Anciens textes**:
+
+	  - Code de l'énergie - art. R121-42 (T)
 
 
-##### Sous-section 2 : Dispositions diverses
+##### Sous-section 4 : Dispositions diverses
 
-###### Article D121-44
+###### Article D121-66
 
 Le modèle d'avenant mentionné à l'article L. 121-28 est soumis à l'approbation du ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. D121-44 (T)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. D121-66 (V)
+	  - Code de l'énergie - art. L121-28 (V)
 
 
-###### Article R121-43
+###### Article R121-65
 
 En cas de défaillance de paiement par un redevable de la contribution aux charges de service public de l'électricité prévue à
 l'article L. 121-10, le ministre chargé de l'énergie prononce les sanctions prévues à l'article L. 121-25.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-158 du 18 février 2016 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Code de l'énergie - art. L121-10 (Ab)
+	  - Code de l'énergie - art. L121-25 (Ab)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-65 (V)
+	  - Code de l'énergie - art. R121-43 (T)
 
 
 #### Chapitre II : La protection des consommateurs d'électricité et de gaz
@@ -34448,6 +34939,36 @@ les examens et les conditions d'obtention des diplômes.
 	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+
+### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER
+
+#### Chapitre unique
+
+###### Article R151-1
+
+Les dispositions des articles R. 121-27 à l'exception de son III, R. 121-28 et R. 121-29 sont applicables à la société
+concessionnaire de la distribution publique d'électricité dans les îles Wallis et Futuna selon des modalités fixées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-158 du 18 février 2016 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-705 du 30 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-27 (V)
+	  - Code de l'énergie - art. R121-29 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'énergie - art. R152-1 (V)
 
 
 ### TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES
