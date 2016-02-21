@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-02-20
+Version Consolidée au 2016-02-22
 
 # Partie législative
 
@@ -39218,37 +39218,14 @@ La durée de validité de l'autorisation est fixée par le titre.
 
 ##### Section 2 : L'appel d'offres
 
-##### Sous-section 1 : Dispositions communes aux appels d'offres
+##### Sous-section 1 : La procédure d'appel d'offres
 
 ###### Article R311-12
 
-Lorsqu'il recourt à la procédure d'appel d'offres prévue à l'article L. 311-10, le ministre chargé de l'énergie définit les
-conditions de l'appel d'offres qui portent sur :
+Lorsqu'il recourt à la procédure d'appel d'offres prévue à l'article L. 311-10, le ministre chargé de l'énergie élabore le
+cahier des charges de l'appel d'offres. 
 
-1° Les caractéristiques énergétiques et techniques de l'installation, notamment en ce qui concerne les énergies primaires
-utilisées, la puissance, la disponibilité, les performances exigées en matière de rendement énergétique, le délai de mise à
-disposition de l'électricité et, le cas échéant, la production annuelle possible, les régimes d'utilisation possibles, et les
-techniques imposées ;
-
-2° Les conditions économiques et financières, notamment la durée du contrat d'achat ou du protocole de cession de
-l'électricité qui sera conclu en application de l'article L. 311-12 ;
-
-3° Le délai de mise en service industrielle de l'installation ;
-
-4° Les conditions d'exploitation et les durées de fonctionnement prévues ;
-
-5° La région d'implantation de l'installation ;
-
-6° Les principes de pondération et de hiérarchisation des critères mentionnés à l'article L. 311-5 ;
-
-7° La prise en compte de la coexistence de l'installation avec les activités économiques de sa zone d'implantation ;
-
-8° La prise en compte de la protection de l'environnement du site d'implantation de l'installation ;
-
-9° Les prescriptions de toute nature, comprenant, le cas échéant, l'obligation de constituer des garanties financières, qui
-doivent être en rapport avec l'objet de l'appel d'offres et que le candidat retenu est tenu de respecter en vue d'assurer la
-bonne fin des opérations, que ce soit avant la mise en service de l'installation, pendant son exploitation ou son
-démantèlement ou pendant la remise en état de son site d'implantation.
+Cet appel d'offres peut comprendre une ou plusieurs périodes successives.
 
 **Liens relatifs à cet article**
 
@@ -39256,9 +39233,13 @@ démantèlement ou pendant la remise en état de son site d'implantation.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-10
 
 	**Cité par**:
 
@@ -39270,11 +39251,46 @@ démantèlement ou pendant la remise en état de son site d'implantation.
 
 ###### Article R311-13
 
-Le ministre chargé de l'énergie communique à la Commission de régulation de l'énergie les conditions de l'appel d'offres
-qu'il a définies. La commission transmet au ministre chargé de l'énergie un projet de cahier des charges de l'appel d'offres
-dans le délai imparti par le ministre. Ce délai, qui court de la date de réception des documents adressés par le ministre, ne
-peut être inférieur à un mois ni supérieur à six mois. Ce dernier y apporte les modifications qu'il juge nécessaires et
-arrête définitivement le cahier des charges.
+Le cahier des charges comporte notamment : 
+
+1° La description des caractéristiques de l'appel d'offres dont, le cas échéant, le nombre de périodes mentionné au second
+alinéa de l'article R. 311-12, la zone géographique concernée et la puissance maximale recherchée ; 
+
+2° La description détaillée des installations faisant l'objet de l'appel d'offres et des conditions qui leur sont
+applicables, notamment : 
+
+a) Des caractéristiques énergétiques et techniques du type d'installations concerné ; 
+
+b) Des conditions économiques et financières de leur exploitation, en particulier de la durée et des modalités financières du
+contrat d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+
+c) Des prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
+lors de son démantèlement ou de la remise en état de son site d'implantation, et, le cas échéant, de l'obligation de
+constituer des garanties financières dont la nature et le montant sont précisées ; 
+
+d) Du délai de mise en service industrielle de l'installation ; 
+
+3° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+
+4° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
+regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
+traduites en français et celles dont l'absence entraîne de droit l'élimination du dossier ; 
+
+5° La date et l'heure limites de dépôt des dossiers de candidature à l'appel d'offres ; cette date laisse aux candidats un
+délai pour déposer leurs offres d'au moins six mois à compter de la date de publication de l'avis au Journal officiel de
+l'Union européenne ; 
+
+6° L'adresse électronique à laquelle le candidat fait parvenir son dossier de candidature à l'appel d'offres ; 
+
+7° Les modalités de transmission des dossiers de candidature à l'appel d'offres qui permettent de garantir la confidentialité
+des indications et pièces contenues dans le dossier ainsi que d'identifier de façon certaine l'appel d'offres auquel il est
+répondu ; 
+
+8° La date limite mentionnée à l'article R. 311-18, le délai mentionné à l'article R. 311-22 et, le cas échéant, le délai
+d'instruction des autres administrations mentionné au dernier alinéa de l'article R. 311-20 ; 
+
+9° Les modalités d'instruction de l'appel d'offres, notamment les délais de cette instruction.
 
 **Liens relatifs à cet article**
 
@@ -39282,49 +39298,32 @@ arrête définitivement le cahier des charges.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. R311-12 (M)
+	  - Code de l'énergie - art. R311-18
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R311-15 (V)
 	  - Code de l'énergie - art. R311-20 (V)
+	  - Code de l'énergie - art. R311-22 (M)
 
 
 ###### Article R311-14
 
-Le cahier des charges de l'appel d'offres comporte notamment :
+Le ministre chargé de l'énergie soumet le cahier des charges de l'appel d'offres à l'avis de la Commission de régulation de
+l'énergie. La commission dispose d'un délai d'un mois, au-delà duquel son avis est réputé donné. 
 
-1° La description du projet faisant l'objet de l'appel d'offres établie à partir des conditions définies par le ministre
-chargé de l'énergie ;
+A la demande de la commission et lorsque l'examen du cahier des charges le justifie, ce délai peut être porté à deux mois par
+le ministre. 
 
-2° En application des dispositions de l'article L. 311-5, la liste exhaustive des critères de choix des offres, leur
-pondération et leur hiérarchisation, ainsi que la liste exhaustive des indications et des pièces à produire par les candidats
-pour permettre la mise en œuvre de ces critères. Le cahier des charges indique, le cas échéant, celles des pièces qui doivent
-obligatoirement être rédigées ou traduites en français ;
-
-3° La date et l'heure limites d'envoi des dossiers de candidature à l'appel d'offres ;
-
-4° L'adresse postale ou électronique où le candidat fait parvenir son dossier de candidature à l'appel d'offres ;
-
-5° Les modalités de transmission des dossiers de candidature qui permettent de garantir la confidentialité des indications et
-pièces contenues dans le dossier, ainsi que d'identifier de façon certaine l'appel d'offres auquel il est répondu ;
-
-6° Les prescriptions détaillées de toute nature s'imposant au candidat retenu et applicables avant la mise en service de
-l'installation, pendant son exploitation ou son démantèlement ou pendant la remise en état de son site d'implantation,
-notamment en cas d'obligation de constituer des garanties financières dont la nature et le montant doivent être précisées ;
-
-7° Le déroulement et le calendrier indicatif des autres étapes de la procédure suivie par la Commission de régulation de
-l'énergie ;
-
-8° Les modalités du contrat d'achat ou du protocole de cession de l'électricité qui sera conclu en application du l'article
-L. 311-12, en particulier la durée et les modalités de paiement ;
-
-9° Les sanctions encourues en cas de manquement du candidat retenu aux dispositions du cahier des charges. Les sanctions qui
-peuvent être prononcées sont le retrait de la décision désignant le candidat retenu et des sanctions pécuniaires fixées en
-fonction de la puissance de l'installation projetée dans la limite de 5 euros par kilowatt, sans pouvoir être chacune
-inférieure à 5 000 euros ni supérieure à 100 000 euros.
+L'avis émis par la commission est rendu public sur le site de cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -39332,9 +39331,9 @@ inférieure à 5 000 euros ni supérieure à 100 000 euros.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -39343,8 +39342,17 @@ inférieure à 5 000 euros ni supérieure à 100 000 euros.
 
 ###### Article R311-15
 
-Lorsque des personnes morales différentes présentent une candidature commune, elles désignent l'une d'entre elles comme
-mandataire pour les représenter dans la procédure d'appel d'offres et à l'égard de l'acheteur de l'électricité.
+Après avoir consulté la Commission de régulation de l'énergie, le ministre chargé de l'énergie adresse un avis d'appel
+d'offres à l'Office des publications de l'Union européenne en vue de sa publication au Journal officiel de l'Union
+européenne. Cet avis public décrit les modalités de l'appel d'offres. A cet effet, il mentionne : 
+
+1° L'objet de l'appel d'offres ; 
+
+2° Les personnes admises à participer à l'appel d'offres en application de l'article L. 311-10 ; 
+
+3° L'adresse électronique ainsi que la date de mise à disposition du cahier des charges de l'appel d'offres ; 
+
+4° La date et l'heure limites de dépôt des candidatures mentionnée au 5° de l'article R. 311-13.
 
 **Liens relatifs à cet article**
 
@@ -39352,27 +39360,37 @@ mandataire pour les représenter dans la procédure d'appel d'offres et à l'ég
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. R311-13
 
 
 ###### Article R311-16
 
-Le ministre chargé de l'énergie fait adresser un avis d'appel d'offres à l'Office des publications de l'Union européenne pour
-publication au Journal officiel de l'Union européenne. Cet avis décrit les modalités de l'appel d'offres. Il mentionne :
+Le cahier des charges de l'appel d'offres est transmis par le ministre chargé de l'énergie à la Commission de régulation de
+l'énergie qui le publie sur son site internet le jour ouvré suivant la publication de l'avis par l'Office des publications de
+l'Union européenne.
 
-1° L'objet de l'appel d'offres ;
+**Liens relatifs à cet article**
 
-2° Les personnes admises à participer à l'appel d'offres en application de l'article L. 311-10 ;
+	**Codifié par**:
 
-3° Le lieu ou l'adresse électronique ainsi que la date de mise à disposition du cahier des charges de l'appel d'offres ;
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-4° La procédure choisie par le ministre en application de l'article R. 311-21.
+	**Modifié par**:
 
-La date limite d'envoi des dossiers de candidature mentionnée à l'article R. 311-14 est calculée à compter de la date de
-publication de l'avis au Journal officiel de l'Union européenne. Le délai entre ces deux dates ne peut être inférieur à six
-mois.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+
+###### Article R311-16-1
+
+Toute modification substantielle du cahier des charges après sa publication donne lieu à un avis de la Commission de
+régulation de l'énergie dans les conditions définies à l'article R. 311-14.
 
 **Liens relatifs à cet article**
 
@@ -39382,13 +39400,23 @@ mois.
 
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-14
 
 
 ###### Article R311-17
 
-Le cahier des charges de l'appel d'offres est adressé gratuitement par la Commission de régulation de l'énergie au candidat
-dans les cinq jours ouvrés qui suivent la réception de sa demande.
+La Commission de régulation de l'énergie met en place un site de candidature en ligne. Ce site permet notamment le
+téléchargement du cahier des charges de l'appel d'offres et le dépôt des candidatures. 
+
+La commission accuse réception, par voie électronique, du dépôt du dossier de candidature à l'appel d'offres de chaque
+candidat. 
+
+Elle prend les mesures nécessaires pour qu'aucun dépôt de candidature ne soit possible après la date et l'heure limites
+fixées dans le cahier des charges de l'appel d'offres.
 
 **Liens relatifs à cet article**
 
@@ -39396,19 +39424,18 @@ dans les cinq jours ouvrés qui suivent la réception de sa demande.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 
 ###### Article R311-18
 
-La remise d'une offre vaut engagement du candidat à respecter l'ensemble des obligations et prescriptions de toute nature
-figurant au cahier des charges et à mettre en service l'installation dans les conditions de l'appel d'offres.
+Avant une date limite fixée dans le cahier des charges de l'appel d'offres, chaque candidat peut adresser, par voie
+électronique, des demandes d'informations à la Commission de régulation de l'énergie. 
 
-Le manquement à ces obligations et prescriptions peut faire l'objet des sanctions prévues par le cahier des charges et par
-l'article L. 311-15 lorsque le manquement est commis après l'obtention du titre en vertu duquel l'activité de production est
-exercée.
+La commission les transmet au ministre chargé de l'énergie et lui fixe un délai pour y répondre. Elle publie sur le site de
+candidature les réponses apportées à ces demandes.
 
 **Liens relatifs à cet article**
 
@@ -39416,9 +39443,9 @@ exercée.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -39428,8 +39455,8 @@ exercée.
 
 ###### Article R311-19
 
-Le contrat d'achat prévu à l'article L. 311-12 est conclu dans les six mois qui suivent la demande qui en est faite par le
-candidat retenu, conformément aux engagements contenus dans l'offre de ce candidat.
+Lorsque le cahier des charges le prévoit, la Commission de régulation de l'énergie met en place un système de classement
+automatisé des offres déposées en ligne.
 
 **Liens relatifs à cet article**
 
@@ -39437,16 +39464,20 @@ candidat retenu, conformément aux engagements contenus dans l'offre de ce candi
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 
 ###### Article R311-20
 
-Lorsque l'installation est destinée à être mise en service sur le domaine public maritime, la délivrance de la concession
-d'occupation du domaine public maritime est soumise aux dispositions des articles R. 2124-1 et suivants du code général de la
-propriété des personnes publiques, à l'exception de son article R. 2124-5.
+Lorsque le cahier des charges prévoit que certains des critères de l'appel d'offres mentionnés au 3° de l'article R. 311-13
+sont instruits par un tiers, notamment par un établissement public ou par des services de l'Etat, la Commission de régulation
+de l'énergie leur communique les pièces nécessaires à leur instruction et prend en compte le résultat de ces instructions
+pour élaborer le classement des offres. 
+
+Le délai d'instruction des services de l'Etat et des établissements publics mentionnés à l'alinéa précédent est fixé par le
+cahier des charges.
 
 **Liens relatifs à cet article**
 
@@ -39454,9 +39485,9 @@ propriété des personnes publiques, à l'exception de son article R. 2124-5.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -39466,10 +39497,10 @@ propriété des personnes publiques, à l'exception de son article R. 2124-5.
 
 ###### Article R311-21
 
-En fonction des caractéristiques de l'appel d'offres, notamment de la nature des critères de notation et du nombre d'offres
-attendues, le ministre chargé de l'énergie peut décider de recourir soit à la procédure de candidature et d'examen des offres
-dite " ordinaire " régie par les dispositions des articles R. 311-22 à R. 311-29 ou à la procédure de candidature et d'examen
-des offres dite " accélérée " régie par les dispositions des articles R. 311-30 à R. 311-35.
+Lorsque des personnes morales différentes présentent une candidature commune, elles désignent l'une d'entre elles comme
+mandataire pour les représenter dans la procédure d'appel d'offres. Ce même mandataire les représente également, le cas
+échéant, à l'égard de l'acheteur de l'électricité en cas de conclusion d'un contrat d'achat ou de la société EDF en cas de
+conclusion d'un contrat de complément de rémunération.
 
 **Liens relatifs à cet article**
 
@@ -39477,19 +39508,28 @@ des offres dite " accélérée " régie par les dispositions des articles R. 311
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
-
-##### Sous-section 2 : Dispositions propres aux appels d'offres mis en œuvre selon la procédure ordinaire
 
 ###### Article R311-22
 
-La Commission de régulation de l'énergie accuse réception du dossier de candidature à l'appel d'offres de chaque candidat.
+Dans un délai fixé par le cahier des charges, qui ne peut être ni inférieur à quinze jours ni supérieur à quatre mois à
+compter de la date limite de dépôt des dossiers de candidature mentionnée au 4° de l'article R. 311-13, la Commission de
+régulation de l'énergie examine les offres reçues et adresse au ministre chargé de l'énergie : 
 
-Un dossier envoyé après la date et l'heure limites fixées dans le cahier des charges de l'appel d'offres est retourné au
-candidat sans avoir été ouvert.
+1° La liste des offres conformes et celle des offres non conformes assortie des motifs de non-conformité retenus ; ces listes
+ne sont pas publiques ; 
+
+2° Le classement des offres avec le détail des notes et, lorsque le cahier des charges le prévoit, la fiche d'instruction
+détaillée de chaque offre justifiant les notes obtenues ; 
+
+3° La liste des projets qu'elle propose de retenir ; 
+
+4° Un rapport de synthèse sur l'appel d'offres. 
+
+La commission publie le rapport de synthèse sur le site de candidature.
 
 **Liens relatifs à cet article**
 
@@ -39497,9 +39537,9 @@ candidat sans avoir été ouvert.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -39509,10 +39549,14 @@ candidat sans avoir été ouvert.
 
 ###### Article R311-23
 
-Avant une date limite fixée dans le cahier des charges de l'appel d'offres, chaque candidat peut adresser, par écrit, des
-demandes d'informations au président de la Commission de régulation de l'énergie. Afin de garantir l'égalité d'information
-des candidats, la commission rend publiques les réponses apportées à ces demandes, dans le respect des secrets protégés par
-la loi.
+Le ministre chargé de l'énergie désigne les candidats retenus et avise tous les autres candidats du rejet de leurs offres. 
+
+Dans le cas où, après l'examen des projets retenus par la Commission de régulation de l'énergie, le choix envisagé par le
+ministre n'est pas conforme au classement de la commission, le ministre recueille préalablement l'avis motivé de la
+commission sur le choix qu'il envisage. Elle dispose pour ce faire d'un délai de quinze jours au-delà duquel son avis est
+réputé donné. 
+
+La commission publie la liste des candidats désignés sur le site de candidature.
 
 **Liens relatifs à cet article**
 
@@ -39520,15 +39564,20 @@ la loi.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-24 (V)
 
 
 ###### Article R311-24
 
-La Commission de régulation de l'énergie organise les modalités et les conditions d'ouverture et d'examen des dossiers de
-candidature à l'appel d'offres en application des articles R. 311-25 et R. 311-26.
+En cas de désistement ou de défaillance d'un candidat retenu à l'issue de l'appel d'offres ou lorsqu'il prononce la perte du
+bénéfice de l'appel d'offres, le ministre chargé de l'énergie peut procéder, dans les conditions prévues à l'article R.
+311-23, au choix d'un ou de nouveaux candidats, après accord de ces derniers.
 
 **Liens relatifs à cet article**
 
@@ -39536,14 +39585,19 @@ candidature à l'appel d'offres en application des articles R. 311-25 et R. 311-
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-23 (M)
 
 
 ###### Article R311-25
 
-Les séances d'ouverture des dossiers de candidature à l'appel d'offres ne sont pas publiques.
+Lorsqu'il ne donne pas suite à l'appel d'offres, le ministre chargé de l'énergie en avise tous les candidats et les informe
+des motifs de sa décision. Il en informe également la Commission de régulation de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -39551,29 +39605,21 @@ Les séances d'ouverture des dossiers de candidature à l'appel d'offres ne sont
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R311-25-15 (V)
 
 
+##### Sous-section 2 : Dispositions applicables aux candidats retenus
+
 ###### Article R311-26
 
-Dans un délai fixé par le cahier des charges, la Commission de régulation de l'énergie ouvre les dossiers de candidature à
-l'appel d'offres et vérifie qu'ils sont complets.
-
-Les dossiers incomplets ne sont pas instruits. La commission en informe les candidats concernés.
-
-La commission établit la liste des dossiers complets reçus dans les délais, ainsi que celle des dossiers incomplets. Elle
-transmet ces listes au ministre chargé de l'énergie. Ces listes ne sont pas publiques.
-
-Le ministre chargé de l'énergie fixe le délai imparti à la commission pour instruire les dossiers et lui transmettre une
-fiche d'instruction sur chaque offre mentionnant la note chiffrée établie par application des critères prévus au 2° de
-l'article R. 311-14 ainsi qu'un rapport de synthèse sur l'appel d'offres. Ce délai ne peut être inférieur à deux mois, ni
-supérieur à six mois.
+La remise d'une offre vaut engagement du candidat à respecter, s'il est retenu, l'ensemble des obligations et prescriptions
+de toute nature figurant au cahier des charges et à mettre en service l'installation dans les conditions de l'appel d'offres.
 
 **Liens relatifs à cet article**
 
@@ -39581,21 +39627,15 @@ supérieur à six mois.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 
 ###### Article R311-27
 
-Le ministre chargé de l'énergie recueille l'avis motivé de la Commission de régulation de l'énergie sur le choix qu'il
-envisage, puis désigne le ou les candidats retenus.
-
-Le ministre délivre à chaque candidat retenu l'autorisation d'exploiter correspondante. Il avise tous les autres candidats du
-rejet de leurs offres.
-
-Le ministre fait procéder à la publication au Journal officiel de la République française de l'avis de la Commission de
-régulation de l'énergie en même temps qu'il publie les extraits mentionnés à l'article R. 311-10.
+Le contrat d'achat ou de complément de rémunération prévu à l'article L. 311-12 est conclu dans les six mois qui suivent la
+demande qui en est faite par le candidat retenu, conformément aux engagements contenus dans l'offre de ce candidat.
 
 **Liens relatifs à cet article**
 
@@ -39603,17 +39643,31 @@ régulation de l'énergie en même temps qu'il publie les extraits mentionnés �
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+
+##### Section 3 : Sanctions administratives et pénales
 
 ###### Article R311-28
 
-En cas de désistement ou de défaillance d'un candidat retenu à l'issue de l'appel d'offres ou lorsqu'il prononce la perte du
-bénéfice de l'appel d'offres ou le retrait de l'autorisation d'exploiter, le ministre chargé de l'énergie peut procéder, dans
-les conditions prévues à l'article R. 311-27, soit au choix d'un ou de nouveaux candidats, après accord de ces derniers, soit
-au lancement d'un nouvel appel d'offres.
+Dans les cas mentionnés à l'article L. 311-14, il est dressé procès-verbal de la situation irrégulière de l'installation par
+les fonctionnaires et agents mentionnés aux articles L. 142-22 à L. 142-29 ou les fonctionnaires et agents chargés des
+contrôles prévus à l'article L. 170-1 du code de l'environnement. Ce procès-verbal est adressé sans délai au préfet et au
+producteur. Copie en est transmise au ministre chargé de l'énergie, lorsqu'il n'émane pas de fonctionnaires ou d'agents qu'il
+a habilités. 
+
+Dans le délai d'un mois suivant la réception du procès-verbal, le préfet indique au producteur les mesures de régularisation
+qui lui sont demandées, l'invite à faire connaître l'identité du ou des acheteurs de l'électricité produite par
+l'installation, lui rappelle qu'à défaut d'exécution des mesures prescrites le contrat d'achat d'électricité qu'il a, le cas
+échéant, conclu avec la société EDF ou avec une entreprise locale de distribution mentionnée à l'article L. 111-54 sera
+suspendu ou résilié en application des dispositions de l'article L. 311-14 et l'invite à présenter ses observations dans un
+délai qu'il fixe.
 
 **Liens relatifs à cet article**
 
@@ -39621,16 +39675,29 @@ au lancement d'un nouvel appel d'offres.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L170-1
+	  - Code de l'énergie - art. L111-54
+	  - Code de l'énergie - art. L142-22
+	  - Code de l'énergie - art. L311-14
 
 
 ###### Article R311-29
 
-Le ministre a la faculté de ne pas donner suite à l'appel d'offres. Lorsqu'il ne donne pas suite à l'appel d'offres, il en
-avise tous les candidats et les informe des motifs de sa décision. Il en informe également la Commission de régulation de
-l'énergie
+Passé le délai imparti au producteur pour présenter ses observations et au plus tard dans les six mois suivant la réception
+du procès-verbal, le préfet constate la situation irrégulière de l'installation s'il n'y a pas été mis fin. 
+
+Si l'électricité produite par l'installation fait l'objet d'un contrat d'achat par la société EDF ou par une entreprise
+locale de distribution, le préfet en prononce la résiliation ou la suspension. Cette décision est notifiée, par lettre
+recommandée avec demande d'avis de réception, au producteur et à cet acheteur et prend effet dès que l'un et l'autre ont reçu
+cette notification. 
+
+La suspension du contrat d'achat d'électricité est sans effet sur le terme initialement fixé au contrat.
 
 **Liens relatifs à cet article**
 
@@ -39638,9 +39705,9 @@ l'énergie
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -39649,19 +39716,18 @@ l'énergie
 	  - Code de l'énergie - art. R311-31 (V)
 
 
-##### Sous-section 3 : Dispositions propres aux appels d'offres mis en œuvre selon la procédure accélérée
-
 ###### Article R311-30
 
-La Commission de régulation de l'énergie met en place, pour chaque appel d'offres relevant de la procédure accélérée, un site
-de candidature en ligne. Le site permet, notamment, le téléchargement du cahier des charges de l'appel d'offres et le dépôt
-des candidatures.
+Dès l'achèvement des mesures prises pour régulariser la situation de l'installation, le producteur en fait part au service
+qui a procédé au contrôle de l'ouvrage. Dans un délai maximum de quinze jours, celui-ci vérifie la réalisation effective de
+ces mesures et en informe le préfet. 
 
-La commission accuse réception, par voie électronique, du dépôt du dossier de candidature à l'appel d'offres de chaque
-candidat.
+En cas de suspension, le préfet abroge sans délai sa décision et en informe l'acheteur et le producteur ainsi que les
+services de l'Etat mentionnés à la présente section. L'acheteur ne peut reprendre l'exécution du contrat avant cette
+notification. 
 
-Elle fait en sorte qu'aucun dépôt de candidature ne soit techniquement possible après la date et l'heure limites fixées dans
-le cahier des charges de l'appel d'offres.
+En cas de résiliation, l'acheteur ne peut conclure avec le producteur un nouveau contrat avant que le préfet lui ait fait
+connaître que la situation de l'installation est désormais régulière au regard des prescriptions de l'article L. 311-14.
 
 **Liens relatifs à cet article**
 
@@ -39669,182 +39735,13 @@ le cahier des charges de l'appel d'offres.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-
-###### Article R311-31
-
-Avant une date limite fixée dans le cahier des charges de l'appel d'offres, chaque candidat peut adresser par voie
-électronique des demandes d'informations à la Commission de régulation de l'énergie.
-
-La commission publie, dans le respect des secrets protégés par la loi, les réponses apportées à ces demandes sur le site de
-candidature mentionné à l'article R. 311-30.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
+	**Cite**:
 
-###### Article R311-32
-
-Dans un délai qui ne peut être supérieur à deux mois, la Commission de régulation de l'énergie examine les offres reçues et
-adresse au ministre chargé de l'énergie, dans des conditions permettant de répondre aux besoins de puissance totale définie
-par l'appel d'offres, le classement des candidats qu'elle propose de retenir, accompagné d'un rapport de synthèse.
-
-A la demande de la commission, le ministre peut proroger d'un mois le délai d'instruction prévu au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-
-###### Article R311-33
-
-Le ministre chargé de l'énergie recueille l'avis motivé de la Commission de régulation de l'énergie sur le choix qu'il
-envisage, puis désigne le ou les candidats retenus. La commission publie sur le site mentionné à l'article R. 311-30 la liste
-des candidats retenus.
-
-Le candidat retenu est dispensé de déposer le dossier de demande d'autorisation ou de déclaration prévu à l'article R. 311-2.
-Le ministre délivre à chaque candidat retenu, selon le cas, l'autorisation d'exploiter ou le récépissé de déclaration
-correspondante. Il avise les autres candidats du rejet de leurs offres.
-
-Le ministre procède à la publication au Journal officiel de la République française de l'avis de la Commission de régulation
-de l'énergie en même temps qu'il publie les extraits mentionnés à l'article R. 311-10.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-
-###### Article R311-34
-
-En cas de désistement ou de défaillance d'un candidat retenu à l'issue de l'appel d'offres ou en cas de retrait de
-l'autorisation d'exploiter, le ministre chargé de l'énergie peut procéder, dans les conditions prévues à l'article R. 311-33,
-soit au choix d'un nouveau candidat, sous réserve de l'accord de ce dernier, soit au lancement d'un nouvel appel d'offres.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-
-###### Article R311-35
-
-Le ministre a la faculté de ne pas donner suite à l'appel d'offres. Lorsqu'il ne donne pas suite à l'appel d'offres, il en
-avise par voie électronique tous les candidats en précisant les motifs de sa décision. Il en informe également la Commission
-de régulation de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-
-##### Section 3 : Les sanctions administratives et pénales
-
-###### Article R311-36
-
-Dans les cas mentionnés à l'article L. 311-14 du présent code, il est dressé procès-verbal de la situation irrégulière de
-l'installation par les fonctionnaires et agents mentionnés aux articles L. 142-22 à L. 142-29 du présent code ou les
-fonctionnaires et agents chargés des contrôles prévus à l'article L. 170-1 du code de l'environnement. Ce procès-verbal est
-adressé sans délai au préfet et au producteuR. Copie en est transmise au ministre chargé de l'énergie, lorsqu'il n'émane pas
-de fonctionnaires ou d'agents qu'il a habilités. Dans le délai d'un mois suivant la réception du procès-verbal, le préfet
-indique au producteur les mesures de régularisation qui lui sont demandées, l'invite à faire connaître l'identité du ou des
-acheteurs de l'électricité produite par l'installation, lui rappelle qu'à défaut d'exécution des mesures prescrites, le
-contrat d'achat d'électricité qu'il a, le cas échéant, conclu avec la société EDF ou avec une entreprise locale de
-distribution mentionnée à l'article L. 111-54, sera suspendu ou résilié en application des dispositions de l'article L.
-311-14 et l'invite à présenter ses observations dans un délai qu'il fixe.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2016-1726 du 14 décembre 2016 - art. 7 (V)
-
-
-###### Article R311-37
-
-Passé le délai imparti au producteur pour présenter ses observations et au plus tard dans les six mois suivant la réception
-du procès-verbal, le préfet constate la situation irrégulière de l'installation s'il n'y a pas été mis fin.
-
-Si l'électricité produite par l'installation fait l'objet d'un contrat d'achat par la société EDF ou par une entreprise
-locale de distribution, le préfet en prononce la résiliation ou la suspension. Cette décision est notifiée, par lettre
-recommandée avec demande d'avis de réception, au producteur et à cet acheteur et prend effet dès que l'un et l'autre ont reçu
-cette notification.
-
-La suspension du contrat d'achat d'électricité est sans effet sur le terme initialement fixé au contrat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-
-###### Article R311-38
-
-Dès l'achèvement des mesures prises pour régulariser la situation de l'installation, le producteur en fait part au service
-qui a procédé au contrôle de l'ouvrage. Dans un délai maximum de quinze jours, celui-ci vérifie la réalisation effective de
-ces mesures et en informe le préfet.
-
-En cas de suspension, le préfet abroge sans délai sa décision et en informe l'acheteur et le producteur ainsi que les
-services de l'Etat mentionnés à la présente section. L'acheteur ne peut reprendre l'exécution du contrat avant cette
-notification.
-
-En cas de résiliation, l'acheteur ne peut conclure avec le producteur un nouveau contrat avant que le préfet lui ait fait
-connaître que la situation de l'installation est désormais régulière au regard des prescriptions de l'article L. 311-14.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Code de l'énergie - art. L311-14
 
 
 #### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables
