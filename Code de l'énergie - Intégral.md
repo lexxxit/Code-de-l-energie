@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-02-22
+Version Consolidée au 2016-02-25
 
 # Partie législative
 
@@ -57511,17 +57511,12 @@ ministres chargés de l'économie et de l'énergie en fonction de la puissance s
 ###### Article D631-1
 
 Pour la détermination de la capacité de transport maritime mentionnée à l'article L. 631-1, sont pris en compte les navires
-autopropulsés susceptibles de naviguer en haute mer, en toutes zones et à toutes époques, et destinés au transport de pétrole
-brut. Ne sont pas pris en compte les navires de stockage non autonomes, les navires immobilisés à l'occasion d'un arrêt
-technique pour une durée supérieure à quarante-cinq jours, pour la durée de l'arrêt, ou les navires désarmés, pour la durée
-de leur désarmement. 
+autopropulsés susceptibles de naviguer en haute mer, armés au long cours ou au cabotage international et destinés au
+transport de pétrole brut ou à celui des produits pétroliers mentionnés à l'article L. 642-3. 
 
-Ces navires doivent soit appartenir en pleine propriété à l'assujetti à l'obligation mentionnée au premier alinéa, soit être
-affrétés à plus d'un an par cet assujetti. Dans les deux cas, l'assujetti se libère de son obligation directement ou par
-l'intermédiaire de sociétés filiales contrôlées à plus de 50 p. 100 ou par l'intermédiaire de toute autre forme juridique
-reconnue équivalente par le ministre chargé de la marine marchande. 
-
-Des assujettis peuvent s'associer pour disposer d'une capacité de transport, dans les mêmes conditions.
+Ne sont pas pris en compte les navires d'un tonnage de moins de 5 000 tonnes de port en lourd, les navires de stockage non
+autonomes, les navires immobilisés à l'occasion d'un arrêt technique pour une durée supérieure à 180 jours, pour la durée de
+l'arrêt, ou les navires désarmés, pour la durée de leur désarmement.
 
 **Liens relatifs à cet article**
 
@@ -57529,9 +57524,9 @@ Des assujettis peuvent s'associer pour disposer d'une capacité de transport, da
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -57539,28 +57534,23 @@ Des assujettis peuvent s'associer pour disposer d'une capacité de transport, da
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L631-1 (V)
+	  - Code de l'énergie - art. L631-1
+	  - Code de l'énergie - art. L642-3
 
 
 ###### Article D631-2
 
-La capacité de transport maritime dont doit disposer chaque assujetti en application de l'article L. 631-1 s'apprécie en
-moyenne par année civile. La capacité de transport dont dispose l'assujetti peut varier au cours de l'année ; toutefois, sauf
-cas de force majeure apprécié par le ministre chargé de la marine marchande, elle ne peut être inférieure au niveau de
-l'obligation mentionnée au précédent alinéa de plus de 30 p. 100 ni pendant plus de quatre-vingt-dix jours consécutifs. Les
-excédents et les déficits journaliers constatés au cours de la même année peuvent se compenser. 
+La capacité de transport mentionnée à l'article L. 631-1 est fixée par arrêté conjoint du ministre chargé de l'énergie et du
+ministre chargé de la marine marchande dans la limite d'un tonnage de port en lourd qui ne peut excéder 8 % des quantités de
+produits mises à la consommation au cours de la dernière année civile. 
 
-Les excédents du dernier semestre d'une année peuvent être reportés dans la limite de 15 p. 100 du niveau de l'obligation de
-l'année suivante, sous réserve du respect des dispositions de l'alinéa précédent. 
+La capacité de transport de chaque assujetti ou regroupement d'assujettis peut comprendre une part de navires destinés au
+transport de pétrole brut. Cette part ne peut excéder, en tonnage de port en lourd, un pourcentage maximum de la capacité de
+transport, fixé par arrêté conjoint du ministre chargé de l'énergie et du ministre chargé de la marine marchande, dans la
+limite de 90 % de la capacité. 
 
-La capacité de chaque navire est mesurée en multipliant son tonnage de port en lourd, franc bord d'été en eau de mer, par la
-fraction d'année, elle-même calculée sur la base du nombre de jours, durant laquelle le navire a été effectivement sous
-pavillon français à la disposition de l'assujetti à l'obligation. 
-
-Pour que des navires soient pris en compte dans le calcul de la capacité de transport dont ils ont disposé au titre d'une
-année civile donnée, les propriétaires des unités de distillation doivent communiquer avant le 31 janvier de l'année
-suivante, au ministre chargé de la marine marchande, un état comprenant le nom de ces navires et retraçant leur utilisation
-au cours de l'année considérée.
+Les obligations annuelles sont notifiées aux assujettis au plus tard le 15 mars précédant le début de la période
+d'obligation.
 
 **Liens relatifs à cet article**
 
@@ -57568,9 +57558,9 @@ au cours de l'année considérée.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -57581,18 +57571,25 @@ au cours de l'année considérée.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L631-1 (V)
+	  - Code de l'énergie - art. L631-1
 
 
 ###### Article D631-3
 
-Les assujettis peuvent mettre des capacités de transport à disposition d'autres assujettis afin que ces derniers satisfassent
-à l'obligation mentionnée à l'article L. 631-1. Le ministre chargé de la marine marchande doit être informé au préalable de
-ces mises à disposition. 
+La capacité de transport maritime des assujettis ou regroupements d'assujettis ainsi que la capacité dont fait état un
+armateur au titre d'un contrat de couverture d'obligation s'apprécient par moyenne sur une période d'un an, du 1er juillet
+d'une année au 30 juin de l'année suivante.
 
-Lorsqu'une unité de distillation atmosphérique a changé de propriétaire en cours d'année, l'obligation est répartie entre les
-propriétaires successifs proportionnellement au tonnage de pétrole brut entrant dans l'assiette de l'obligation pendant la
-période où ils auront été propriétaires de l'unité de distillation considérée.
+La capacité de transport peut varier au cours de l'année. Toutefois, sauf cas de force majeure, elle ne peut être inférieure
+à celle résultant de l'obligation mentionnée au précédent alinéa de plus de 30 % ni pendant plus de 90 jours consécutifs.
+
+Les excédents de capacités de transport du second semestre de l'année d'obligation peuvent être reportés sur l'année
+d'obligation suivante, dans la limite de 15 % de la capacité fixée pour cette année, sous réserve du respect des dispositions
+du précédent alinéa.
+
+La capacité de transport de chaque navire est calculée en multipliant son tonnage de port en lourd, franc bord d'été en eau
+de mer, par la fraction d'année, calculée sur la base du nombre de jours, durant laquelle le navire a été effectivement sous
+pavillon français au titre d'une obligation de capacité.
 
 **Liens relatifs à cet article**
 
@@ -57600,27 +57597,23 @@ période où ils auront été propriétaires de l'unité de distillation consid�
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L631-1 (V)
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 
 ###### Article D631-4
 
-En application de l'article L. 631-1, le rapport entre d'une part, la capacité de transport maritime dont doit disposer le
-propriétaire d'une unité de distillation atmosphérique dans une usine exercée de raffinage de pétrole brut en France
-métropolitaine, exprimée en tonnes de port en lourd et évaluée dans les conditions prévues par les articles R. 631-1 à R.
-631-3 et, d'autre part, les quantités de pétrole brut servant d'assiette à l'obligation, exprimées en tonnes, et définies à
-R. 631-5 (1), est fixé à 5,5 p. 100.
+Tout assujetti peut s'acquitter de son obligation en disposant des navires en pleine propriété ou par affrètement de plus
+d'un an, sous réserve du respect des dispositions de l'article D. 631-7. 
 
-**Nota:**
+Tout assujetti peut se libérer de son obligation directement ou par l'intermédiaire de sociétés dont il contrôle plus de 50 %
+du capital, ou par l'intermédiaire de toute personne constituée sous une forme juridique reconnue équivalente par le ministre
+chargé de la marine marchande. 
 
-(1) Au lieu de R. 631-1 à R. 631-3, il convient de lire D. 631-1 à D. 631-3, et au lieu de R. 631-5, il convient de lire D.
-631-5.
+Les assujettis qui recourent à l'affrètement à long terme ou à la propriété pour satisfaire à leurs obligations peuvent
+mettre des capacités de transport à disposition d'autres assujettis se libérant de leur obligation de capacité selon ces
+mêmes modalités. Le ministre chargé de la marine marchande est informé au préalable de ces mises à disposition.
 
 **Liens relatifs à cet article**
 
@@ -57628,38 +57621,22 @@ R. 631-5 (1), est fixé à 5,5 p. 100.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D631-1 (V)
-	  - Code de l'énergie - art. D631-5 (V)
-	  - Code de l'énergie - art. L631-1 (V)
+	  - Code de l'énergie - art. D631-7 (V)
 
 
 ###### Article D631-5
 
-Les quantités de pétrole brut servant d'assiette à l'obligation sont les quantités de pétrole brut ou équivalent, importées
-ou introduites sur le territoire national, qui sont entrées dans les unités de distillation atmosphérique de l'usine exercée
-de raffinage durant l'année civile précédente, multipliées par un coefficient de réfaction.
+Lorsque des assujettis se regroupent en vue de conclure un contrat de couverture d'obligation de capacité, un représentant de
+l'Etat désigné par les ministres chargés de l'énergie et de la marine marchande assiste aux réunions des organes
+d'administration ou de surveillance et de contrôle des personnes mentionnées au 2° du II de l'article L. 361-1. 
 
-Ce coefficient de réfaction est calculé annuellement par raffinerie comme le rapport entre :
-
-- d'une part, les quantités de produits pétroliers à usage énergétique issus de la raffinerie, qui ne font pas l'objet d'une
-vente de produits ferme d'une durée supérieure à un an à destination de l'étranger ou d'un contrat de raffinage à façon à
-destination de l'étranger :
-
-- d'autre part, les quantités totales de produits pétroliers issus de la raffinerie.
-
-Pour être pris en compte, pour une année donnée, dans le calcul du coefficient de réfaction, les contrats de raffinage à
-façon ou de vente à terme mentionnés ci-dessus doivent comporter un échéancier par année civile et être déclarés aux
-ministres chargés de l'énergie et de la marine marchande avant le 30 septembre de l'année au titre de laquelle sont calculées
-les quantités de pétrole brut servant d'assiette à l'obligation. Les quantités inscrites et exécutées au titre des contrats
-conclus après le 30 septembre sont prises en compte dans le calcul du coefficient de l'année suivante. Les contrats de
-raffinage à façon ou de vente à terme ainsi déclarés sont pris en compte pour les seules quantités exportées après cette
-déclaration.
+Les contrats de couverture d'obligation de capacité sont transmis au ministre chargé de la marine marchande.
 
 **Liens relatifs à cet article**
 
@@ -57667,59 +57644,28 @@ déclaration.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D631-4 (M)
 	  - Code de l'énergie - art. D631-6 (M)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L361-1
+
 
 ###### Article D631-6
 
-Pour l'application de l'article R. 631-5, (1) les produits pétroliers affectés à l'usage énergétique sont : 
+Constitue un contrat de couverture d'obligation de capacité tout contrat par lequel un armateur s'engage à maintenir sous
+pavillon français une capacité déterminée de transport de pétrole brut ou de produits pétroliers durant une période définie
+afin de satisfaire à l'obligation de capacité définie à l'article L. 631-1. 
 
-1° Le propane, butane, à l'exclusion du butane et du propane destinés au vapocraqueur ; 
-
-2° Le G. P. L. carburant ; 
-
-3° Le supercarburant ; 
-
-4° L'essence auto ; 
-
-5° L'essence aviation ; 
-
-6° Le super sans plomb 95 ; 
-
-7° L'essence sans plomb ; 
-
-8° Le super sans plomb 98 ; 
-
-9° Les carburéacteurs ; 
-
-10° Le gazole carburant ; 
-
-11° Le fioul domestique ; 
-
-12° Le fioul lourd n° 1 ; 
-
-13° Le fioul lourd n° 2 TBTS < 0,5 p. 100 ; 
-
-14° Le fioul lourd n° 2 BTS à 0,5-1 p. 100 ; 
-
-15° Le fioul lourd n° 2 BTS à 1-2 p. 100 ; 
-
-16° Le fioul lourd n° 2 HTS > 2 p. 100 ; 
-
-17° Le résidu lourd énergétique ; 
-
-18° Le fioul lourd " soutage ".
-
-**Nota:**
-
-(1) Au lieu de R. 631-5, il convient de lire D. 631-5.
+Le contrat de couverture d'obligation de capacité ne transfère aucun droit ni obligation relatif à l'exploitation du navire.
+Il est conclu pour une durée minimum d'un an.
 
 **Liens relatifs à cet article**
 
@@ -57727,13 +57673,88 @@ Pour l'application de l'article R. 631-5, (1) les produits pétroliers affectés
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D631-5 (V)
+	  - Code de l'énergie - art. L631-1
+
+
+###### Article D631-7
+
+Un même navire ne peut simultanément être affrété ou détenu en propriété au titre du 1° du II de l'article L. 631-1 et faire
+l'objet d'un contrat de couverture d'obligation de capacité au titre du 2° du II du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D631-4 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L631-1
+
+
+###### Article D631-8
+
+Les assujettis qui recourent à l'affrètement à long terme ou à la propriété communiquent au ministre chargé de la marine
+marchande, dans le mois suivant la fin de chaque période d'obligation, un état comprenant le nom des navires qu'ils
+détiennent en propriété ou qui font l'objet d'un affrètement à long terme, auquel sont annexés les contrats d'affrètement.
+
+Les assujettis qui souscrivent des contrats de couverture d'obligation de capacité conservent les éléments permettant de
+justifier qu'ils se sont acquittés de leur obligation de capacité de transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
+
+
+###### Article D631-9
+
+Les personnes mentionnées au 2° du II de l'article L. 631-1 communiquent au ministre chargé de la marine marchande un état de
+leurs contrats dans le mois suivant la fin de chaque période d'obligation. Cet état comprend les noms des assujettis, les
+noms des armateurs avec lesquels ils ont conclu des contrats de couverture d'obligation de capacité, ainsi que les
+obligations contractées par chacun des armateurs. Les contrats de couverture d'obligation sont annexés à l'état. 
+
+Les armateurs qui concluent des contrats de couverture d'obligation de capacité transmettent au ministre chargé de la marine
+marchande, dans le mois suivant la fin de chaque période d'obligation, un état des navires qu'ils ont maintenus sous pavillon
+français.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L631-1
+
+
+###### Article D631-10
+
+A compter du 1er mars 2017, un rapport d'évaluation portant sur la mise en œuvre de l'article L. 631-1 est transmis tous les
+deux ans au Conseil supérieur de la marine marchande et au Conseil supérieur de l'énergie. Ce rapport précise, notamment, les
+coûts associés aux obligations de capacité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-176 du 23 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L631-1
 
 
 #### Chapitre II : Le transport par canalisation
