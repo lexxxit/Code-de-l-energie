@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-02-25
+Version Consolidée au 2016-03-12
 
 # Partie législative
 
@@ -9158,23 +9158,20 @@ juridiction.
 Le ministre chargé de l'énergie est chargé du contrôle de la production, du transport et de la distribution des gaz
 combustibles de toute nature. 
 
-Le contrôle technique, administratif et financier de l'Etat est exercé, par des fonctionnaires ou agents placés sous
-l'autorité du ministre chargé de l'énergie, dans les conditions fixées par arrêté. Les agents du contrôle peuvent procéder à
-toutes investigations utiles à l'exercice de leur mission dans les conditions prévues aux articles L. 142-22 à L. 142-29.
+Le contrôle technique, administratif et financier de l'Etat est exercé, sans préjudice des dispositions du chapitre IV du
+titre V du livre V du code de l'environnement, par des fonctionnaires ou agents placés sous l'autorité du ministre chargé de
+l'énergie, dans les conditions fixées par arrêté. Les agents du contrôle peuvent procéder à toutes investigations utiles à
+l'exercice de leur mission dans les conditions prévues aux articles L. 142-22 à L. 142-29.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 15 février 1941, v. init.
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 	**Cite**:
 
@@ -9902,38 +9899,6 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 	  - Code pénal - art. 131-35
 	  - Code pénal - art. 131-38
 	  - Code de l'énergie - art. L142-38 (V)
-
-
-##### Sous-section 2 : Sanctions applicables aux secteurs du gaz et des hydrocarbures
-
-###### Article L142-41
-
-Est passible des sanctions prévues aux articles 322-1 et 322-2 du code pénal le fait de porter atteinte volontairement au bon
-fonctionnement des ouvrages et installations de distribution ou de transport de gaz naturel, aux installations de stockage
-souterrain de gaz, aux installations de gaz naturel liquéfié ou aux ouvrages et installations de distribution ou de transport
-d'hydrocarbures liquides et liquéfiés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 92 (V), ecqc le gaz et les hydrocarbures
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cite**:
-
-	  - Code pénal - art. 322-1
 
 
 #### Chapitre III : Les mesures de sauvegarde en cas de crise
@@ -21066,7 +21031,7 @@ l'expropriation.
 ###### Article L433-12
 
 Les dispositions relatives aux prescriptions techniques applicables aux canalisations de transport ainsi qu'au contrôle et
-contentieux de ces canalisations sont énumérées au chapitre V du titre V du livre V du code de l'environnement.
+contentieux de ces canalisations sont énumérées aux chapitres IV et V du titre V du livre V du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -21074,33 +21039,30 @@ contentieux de ces canalisations sont énumérées au chapitre V du titre V du l
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 
 ##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution
 
 ###### Article L433-13
 
-Le cadre et les procédures selon lesquels sont fixées les prescriptions techniques générales de conception et d'utilisation
-des canalisations de distribution de gaz naturel, ainsi que les prescriptions relatives aux interconnexions avec des
-canalisations de transport de gaz naturel ou conduites directes, situées sur le territoire national ou à l'étranger, et aux
-interconnexions avec d'autres réseaux de distribution sont définis par voie réglementaire.
+Sans préjudice des dispositions du chapitre IV du titre V du livre V du code de l'environnement, le cadre et les procédures
+selon lesquels sont fixées les prescriptions techniques générales de conception et d'utilisation des canalisations de
+distribution de gaz naturel, ainsi que les prescriptions relatives aux interconnexions avec des canalisations de transport de
+gaz naturel ou conduites directes, situées sur le territoire national ou à l'étranger, et aux interconnexions avec d'autres
+réseaux de distribution sont définis par voie réglementaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 22 (VT) I
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 	**Cité par**:
 
@@ -21109,22 +21071,18 @@ interconnexions avec d'autres réseaux de distribution sont définis par voie r�
 
 ###### Article L433-14
 
-L'exécution des analyses, expertises ou contrôles effectués à l'initiative des autorités administratives compétentes, en
-application des dispositions de sécurité publique et de protection de l'environnement relatives à la construction et à
-l'exploitation des canalisations de distribution de gaz, peut être confiée à des organismes de contrôle habilités par
-l'autorité administrative. Les dépenses correspondantes sont à la charge de l'exploitant.
-
-Ces dispositions s'appliquent également aux expertises menées dans le cadre de la procédure d'agrément des distributeurs
-mentionnée au III de l'article L. 2224-31 du code général des collectivités territoriales.
+L'exécution des expertises menées dans le cadre de la procédure d'agrément des distributeurs mentionnée au III de l'article
+L. 2224-31 du code général des collectivités territoriales peut être confiée à des organismes de contrôle habilités par
+l'autorité administrative. Les dépenses correspondantes sont à la charge de l'exploitant.  
 
 Les modalités d'application du présent article sont définies par un décret en Conseil d'Etat qui précise notamment les
 procédures d'habilitation et les missions des organismes de contrôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 22 (VT) II
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -21134,13 +21092,9 @@ procédures d'habilitation et les missions des organismes de contrôle.
 	  - Code de l'énergie - art. R432-6 (V)
 	  - Code de l'énergie - art. R433-20 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 	**Cite**:
 
@@ -21151,9 +21105,8 @@ procédures d'habilitation et les missions des organismes de contrôle.
 
 Lorsqu'un agent public habilité à cet effet constate que l'exploitation d'une canalisation de distribution de gaz ou
 l'exécution de travaux ou d'activités dans son voisinage ont lieu en méconnaissance des conditions imposées en application du
-présent livre ou menacent la sécurité des personnes ou la protection de l'environnement, il en informe l'autorité
-administrative. Celle-ci peut mettre l'exploitant ou l'exécutant des travaux ou des activités en demeure de satisfaire à ces
-conditions ou de faire cesser le danger dans un délai déterminé.
+présent livre, il en informe l'autorité administrative. Celle-ci peut mettre l'exploitant ou l'exécutant des travaux ou des
+activités en demeure de satisfaire à ces conditions dans un délai déterminé.
 
 Si, à l'expiration de ce délai, l'exploitant n'a pas obtempéré à cette injonction, l'autorité administrative peut :
 
@@ -21164,62 +21117,20 @@ cette somme lui est restituée au fur et à mesure de l'exécution des travaux ;
 
 3° Soit décider la mise hors service temporaire de l'ouvrage.
 
-En cas d'urgence, il peut aussi décider la suspension des travaux ou activités entrepris par des tiers dans le voisinage de
-l'ouvrage.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 23 (VT)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. D433-24 (V)
-	  - Code de l'énergie - art. L433-17 (Ab)
-
-
-###### Article L433-17
-
-L'autorité administrative peut interdire l'exploitation ou exiger le remplacement ou le retrait de réseaux ou éléments de
-réseaux de distribution du gaz qui ne présenteraient pas de garanties suffisantes en matière de sécurité pour les personnes
-et les biens dans les conditions normales d'exploitation ou d'utilisation. 
-
-En cas de non-respect de ces mesures, les dispositions prévues à l'article L. 433-16 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 93 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. D433-26 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L433-16
+	  - Code de l'énergie - art. D433-24 (V)
+	  - Code de l'énergie - art. L433-17 (Ab)
 
 
 ###### Article L433-18
@@ -21281,193 +21192,6 @@ intercommunale, des syndicats mixtes concernés et des services de l'Etat.
 
 	  - Code de l'énergie - art. L433-21 (Ab)
 	  - Code de l'énergie - art. R433-26 (V)
-
-
-##### Section 3 : Les mesures de protection des ouvrages
-de transport et de distribution
-
-
-##### Sous-section 1 : Dispositions relatives aux ouvrages de transport
-
-
-###### Article L433-20
-
-Les dispositions relatives aux mesures de protection des ouvrages de transport sont énumérées au chapitre V du titre V du
-livre V du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-
-##### Sous-section 2 : Dispositions relatives aux ouvrages de distribution
-
-
-###### Article L433-21
-
-Nul ne peut procéder à des travaux à proximité d'un ouvrage de distribution de gaz régulièrement identifié dans les cartes
-mentionnées à l'article L. 433-19 sans avoir adressé au préalable à l'exploitant de l'ouvrage concerné le dossier de
-déclaration d'intention de commencement de travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (VT), I, alinéa 3, sauf sanction
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L433-19
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. L433-23 (Ab)
-
-
-###### Article L433-22
-
-L'auteur d'une atteinte à un ouvrage de distribution de gaz de nature à mettre en danger la sécurité des personnes et des
-installations ou la protection de l'environnement a l'obligation de la déclarer à l'exploitant de l'ouvrage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (VT), I, alinéa 4, sauf sanctions
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. L433-24 (Ab)
-
-
-###### Article L433-23
-
-Le fait d'omettre d'adresser à l'exploitant de l'ouvrage le dossier mentionné à l'article L. 433-21 constitue un délit au
-sens de l'article 121-3 du code pénal et est puni d'une amende de 25 000 euros.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (VT), I, alinéa 3, ecqc les sanctions
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 15 avril 2013 - art. 1 (V)
-	  - Code de l'environnement - art. R554-35 (VD)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cite**:
-
-	  - Code pénal - art. 121-3
-	  - Code de l'énergie - art. L433-21 (Ab)
-
-
-###### Article L433-24
-
-Le fait d'omettre la déclaration prévue à l'article L. 433-22 est puni d'une peine de six mois d'emprisonnement et d'une
-amende de 80 000 euros. En cas de récidive, ces peines sont portées au double.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (VT), I, alinéa 4, ecqc les sanctions
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R554-35 (VD)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L433-22 (Ab)
-
-
-###### Article L433-25
-
-Les peines encourues par les personnes morales responsables des infractions mentionnées à la présente section sont l'amende
-dans les conditions prévues par l'article 131-38 du code pénal ainsi que les peines mentionnées aux 2°, 3°, 4°, 5° et 9° de
-l'article 131-39 de ce code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 32 (VT), II, ecqc les ouvrages
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
-
-	**Cite**:
-
-	  - Code pénal - art. 131-38
-	  - Code pénal - art. 131-39
 
 
 ### TITRE IV : LA COMMERCIALISATION
@@ -25169,8 +24893,8 @@ contributions dues, dans la limite maximale de 1 500 €.
 ###### Article L632-1
 
 Les dispositions relatives à la construction de canalisations d'hydrocarbures ainsi qu'à la déclaration d'utilité publique
-d'une canalisation de transport d'hydrocarbures et à l'établissement de servitudes sont énumérées au chapitre V du titre V du
-livre V du code de l'environnement, sous réserve de l'article L. 632-2.
+d'une canalisation de transport d'hydrocarbures et à l'établissement de servitudes sont énumérées aux chapitres IV et V du
+titre V du livre V du code de l'environnement, sous réserve de l'article L. 632-2.
 
 **Liens relatifs à cet article**
 
@@ -25178,13 +24902,9 @@ livre V du code de l'environnement, sous réserve de l'article L. 632-2.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L632-2 (V)
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
 
 
 ###### Article L632-2
