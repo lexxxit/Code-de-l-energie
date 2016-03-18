@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-03-12
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -29819,6 +29819,118 @@ décembre de l'année au titre de laquelle les charges sont à compenser, et le 
 	  - Code de l'énergie - art. R121-58 (M)
 
 
+##### Sous-section 2 : Comité de gestion des charges de service public de l'électricité
+
+###### Article D121-34
+
+Le  comité de gestion des charges de service public de l'électricité est  placé auprès du ministre chargé de l'énergie. Il
+comprend : 
+
+1° Un député et un sénateur ; 
+
+2° Un représentant de la Cour des comptes, désigné par le premier président de la Cour des comptes ; 
+
+3° Un représentant de la Commission de régulation de l'énergie désigné  par le président du collège de la Commission de
+régulation de l'énergie ;  
+
+4° Un représentant du ministre chargé de l'énergie ; 
+
+5° Un représentant du ministre chargé de l'économie ; 
+
+6° Un représentant du ministre chargé du budget ; 
+
+7° Un représentant du ministre chargé des outre-mer ; 
+
+8° Trois personnalités nommées par le ministre chargé de l'énergie en  raison de leurs qualifications, notamment économiques,
+sociales,  environnementales et techniques dans les domaines des énergies  renouvelables, des zones non interconnectées ou de
+la protection des  consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D121-35 (V)
+
+
+###### Article D121-35
+
+Le président du comité ainsi que deux vice-présidents chargés de le suppléer sont désignés par arrêté du ministre chargé de
+l'énergie parmi les membres mentionnés au 2°, 3° ou 8° de l'article D. 121-34.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D121-34 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-56 (V)
+
+
+###### Article D121-36
+
+Le mandat des membres du comité est d'une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+
+###### Article D121-37
+
+Le  secrétaire général du comité est désigné par le ministre chargé de  l'énergie au sein de la direction générale de
+l'énergie et du climat. 
+
+En cas d'empêchement du président et des vice-présidents, la séance peut être présidée par le secrétaire général du comité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+
+###### Article D121-38
+
+Le  président du comité propose au ministre chargé de l'énergie, au plus  tard le 30 juin de chaque année, un état
+prévisionnel des dépenses du  comité de gestion pour l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+
+###### Article D121-39
+
+Pour la mise en œuvre des missions prévues aux a, b et c de l'article L. 121-28-1, le comité de gestion s'appuie sur les
+simulations établies par la Commission de régulation de l'énergie. 
+
+Le comité rend ses avis publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-310 du 16 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-28-1 (V)
+
+
 ##### Sous-section 3 : Le Fonds de péréquation de l'électricité
 
 ###### Article R121-44
@@ -30429,34 +30541,6 @@ médiateur national de l'énergie.
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
-###### Article R122-2
-
-La saisine est écrite ou transmise sur un support durable et comporte tous les éléments utiles à son examen. Le médiateur
-accuse réception sans délai, par écrit ou sur un support durable, des saisines qui lui sont adressées et informe leurs
-auteurs notamment de la suspension de la prescription des actions en matière civile et pénale mentionnée à l'article L.
-122-1. 
-
-Lorsque la saisine n'entre pas dans le champ de l'article L. 122-1, le médiateur en informe les parties dans un délai d'un
-mois à compter de la date d'accusé de réception de la saisine par une réponse écrite et motivée indiquant, le cas échéant,
-l'autorité administrative à laquelle il transmet la saisine en application de l'article 20 de la loi n° 2000-321 du 12 avril
-2000 relative aux droits des citoyens dans leurs relations avec les administrations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2000-321 du 12 avril 2000 - art. 20 (M)
-	  - Code de l'énergie - art. L122-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-
 ###### Article R122-3
 
 Le médiateur peut inviter les parties à produire des observations dans un délai qu'il fixe, et les entendre. Il peut, avec
@@ -30743,6 +30827,32 @@ du 6 juin 2005.
 	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+
+##### Section 1 : Dispositions relatives au médiateur de l'énergie
+
+###### Article R122-2
+
+La saisine est écrite ou transmise sur un support durable et comporte tous les éléments utiles à son examen. Le médiateur
+accuse réception sans délai, par écrit ou sur un support durable, des saisines qui lui sont adressées et informe leurs
+auteurs notamment de la suspension de la prescription des actions en matière civile et pénale mentionnée à l'article L.
+122-1. 
+
+Lorsque la saisine n'entre pas dans le champ de l'article L. 122-1, le médiateur en informe les parties dans un délai d'un
+mois à compter de la date d'accusé de réception de la saisine par une réponse écrite et motivée indiquant, le cas échéant,
+l'autorité administrative à laquelle il transmet la saisine en application des articles L. 114-2 à L. 114-4 du code des
+relations entre le public et l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-1
+	  - Code des relations entre le public et l'adminis... - art. L114-2 (V)
 
 
 #### Chapitre III : La contribution des opérateurs d'effacement aux objectifs de la politique énergétique
@@ -60294,8 +60404,8 @@ applicables à la fourniture de l'énergie aux utilisateurs ;
 
 L'enquête publique préalable à la déclaration d'intérêt général se déroule dans les formes prévues par les dispositions du
 chapitre III du titre II du livre Ier du code l'environnement, si ce code impose la réalisation d'une étude d'impact, et,
-dans les autres cas, dans les formes prévues par l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique.
-Elle est conduite par le préfet.
+dans les autres cas, dans les formes prévues par le chapitre IV du titre III du livre Ier du code des relations entre le
+public et l'administration. Elle est conduite par le préfet.
 
 **Liens relatifs à cet article**
 
@@ -60303,13 +60413,14 @@ Elle est conduite par le préfet.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (Ab)
+	  - Code de l'environnement -  Chapitre III : Enquêtes publiques relatives aux... (V)
+	  - Code des relations entre le public et l'administration
 
 
 ###### Article R721-4
