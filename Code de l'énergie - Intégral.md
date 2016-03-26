@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-27
 
 # Partie législative
 
@@ -32565,13 +32565,18 @@ des investissements.
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
 
+##### Section  2 : Dispositions spécifiques à l'électricité
+
+##### Sous-section 1 : Le bilan prévisionnel pluriannuel de l'offre et de la demande
+
 ###### Article D141-3
 
-Le gestionnaire du réseau public de transport d'électricité établit, tous les deux ans, le bilan prévisionnel pluriannuel
-prévu à l'article L. 141-8, sous le contrôle du ministre chargé de l'énergie.
+Le bilan prévisionnel pluriannuel prévu à l'article L. 141-8 a pour objet d'identifier les risques de déséquilibre entre les
+besoins de la France métropolitaine continentale et l'offre d'électricité disponible pour les satisfaire, et notamment les
+besoins en puissance permettant de garantir le respect du critère de défaillance mentionné à l'article L. 141-7. 
 
-Ce bilan a pour champ territorial la France métropolitaine continentale et porte sur les quinze années qui suivent la date à
-laquelle il est rendu public par le gestionnaire du réseau public de transport d'électricité.
+Il couvre la période de quinze années suivant la date à laquelle il est rendu public par le gestionnaire du réseau public de
+transport d'électricité.
 
 **Liens relatifs à cet article**
 
@@ -32579,24 +32584,36 @@ laquelle il est rendu public par le gestionnaire du réseau public de transport 
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D141-7 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-7 (V)
+	  - Code de l'énergie - art. L141-8 (V)
+
 
 ###### Article D141-4
 
-Le bilan prévisionnel pluriannuel établi par le gestionnaire du réseau public de transport a pour objet d'identifier les
-risques de déséquilibre entre les besoins de la France métropolitaine continentale et l'électricité disponible pour les
-satisfaire et, notamment, les besoins en puissance permettant de maintenir en dessous d'un seuil défini le risque de
-défaillance lié à une rupture de l'équilibre entre l'offre et la demande d'électricité.
+Le bilan prévisionnel pluriannuel de l'offre et de la demande comprend notamment : 
 
-Le seuil de défaillance utilisé pour l'établissement du bilan prévisionnel est défini par un arrêté du ministre chargé de
-l'énergie, après avis du Conseil supérieur de l'énergie.
+1° Une étude approfondie de l'équilibre entre l'offre et la demande d'électricité durant les cinq années suivant la date à
+laquelle il est rendu public ; 
+
+2° Une analyse, portant sur l'ensemble de la période qu'il couvre, de l'évolution de l'offre et de la demande d'électricité
+et des besoins d'investissements en moyens de production nécessaires pour assurer la sécurité de l'approvisionnement
+électrique de la France continentale ; cette analyse est actualisée tous les deux ans ; 
+
+3° Un volet géographique identifiant les zones où la production locale et les capacités de transport d'électricité peuvent
+s'avérer insuffisantes pour répondre à la demande locale ; 
+
+4° Une étude de la sensibilité des résultats de l'analyse mentionnée au 2° à d'autres critères de défaillance que celui
+mentionné à l'article L. 141-7.
 
 **Liens relatifs à cet article**
 
@@ -32604,31 +32621,45 @@ l'énergie, après avis du Conseil supérieur de l'énergie.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D141-5 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-7 (V)
+
 
 ###### Article D141-5
 
-Le bilan prévisionnel pluriannuel établi par le gestionnaire du réseau public de transport comprend notamment :
+L'étude mentionnée au 1° de l'article D. 141-4 caractérise le risque de défaillance du système électrique pour lequel elle
+précise, notamment, la durée moyenne de défaillance, sa traduction en fréquence de défaillance, la puissance moyenne de
+défaillance et l'énergie moyenne de défaillance. Elle analyse les scénarios dans lesquels une défaillance pourrait être
+constatée et détaille les circonstances dans lesquelles ce risque est le plus élevé. 
 
-1° Une étude approfondie relative à l'équilibre entre l'offre et la demande d'électricité sur les cinq années suivant la date
-à laquelle le bilan est rendu public ;
+Pour réaliser l'étude mentionnée au 1° et l'analyse mentionnée au 2° de l'article D. 141-4, le gestionnaire du réseau public
+de transport d'électricité prend en compte plusieurs scénarios d'évolution de la consommation électrique, en fonction
+notamment des actions de sobriété, d'efficacité énergétique et de substitution d'usages mises en œuvre ainsi que de
+l'évolution de la démographie et de la situation économique. 
 
-2° Une analyse, sur l'ensemble de la période sur laquelle porte le bilan, des besoins d'investissements en moyens de
-production d'électricité nécessaires pour assurer la sécurité d'approvisionnement électrique de la France métropolitaine
-continentale ;
+Il prend également en compte les évolutions des capacités de production et d'effacement de consommation ainsi que des
+échanges avec les réseaux électriques étrangers et étudie plusieurs scénarios d'importations et d'exportations
+d'électricité. 
 
-3° Un volet géographique relatif aux zones où la production locale et les capacités de transport d'électricité peuvent
-s'avérer insuffisantes pour répondre à la demande locale ;
+Pour déterminer les perspectives d'évolution des échanges avec les réseaux électriques étrangers, le gestionnaire du réseau
+public de transport d'électricité se fonde notamment sur les rapports prévus à l'article 4 de la directive 2009/72/CE du
+Parlement européen et du Conseil du 13 juillet 2009 concernant des règles communes pour le marché intérieur de l'électricité
+ainsi que sur les données transmises par les gestionnaires des réseaux européens. 
 
-4° Une étude de la sensibilité des résultats de l'analyse mentionnée au 2° à d'autres seuils de défaillance que celui utilisé
-pour cette dernière.
+Durant l'élaboration du bilan prévisionnel pluriannuel, le gestionnaire du réseau public de transport d'électricité informe
+le ministre chargé de l'énergie des hypothèses retenues en matière d'évolution de la consommation électrique, en détaillant
+notamment les effets attendus des actions de maîtrise de la demande électrique et des substitutions entre énergies et de
+l'évolution de l'offre de production. Le ministre chargé de l'énergie peut demander au gestionnaire du réseau public de
+transport d'étudier des variantes des hypothèses retenues.
 
 **Liens relatifs à cet article**
 
@@ -32636,71 +32667,20 @@ pour cette dernière.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D141-4 (V)
 
 
 ###### Article D141-6
 
-L'étude approfondie relative à l'équilibre entre l'offre et la demande d'électricité des cinq premières années suivant la
-date à laquelle le bilan prévisionnel est rendu public caractérise le risque de défaillance. Elle précise, notamment, la
-durée moyenne de défaillance, sa traduction en fréquence de défaillance, la puissance moyenne de défaillance et l'énergie
-moyenne de défaillance.
-
-Cette étude détaille les circonstances dans lesquelles le risque de défaillance est le plus élevé, en analysant les scénarios
-dans lesquels une défaillance est constatée.
-
-Elle est mise à jour annuellement par le gestionnaire du réseau public de transport, qui s'appuie sur les perspectives
-d'évolution les plus probables de l'offre et des échanges d'électricité avec les réseaux étrangers. Pour déterminer les
-perspectives d'évolution de ces échanges, le gestionnaire du réseau public de transport se fonde, notamment, sur les rapports
-prévus à l'article 4 de la directive 2009/72/CE du Parlement européen et du Conseil du 13 juillet 2009 ainsi que sur les
-données transmises par les gestionnaires des réseaux européens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-
-###### Article D141-7
-
-L'analyse des besoins d'investissements en moyens de production d'électricité nécessaires à la sécurité d'approvisionnement
-électrique de la France métropolitaine continentale prend en compte les évolutions de la consommation d'électricité, de
-l'offre de production et des échanges d'électricité avec les réseaux européens.
-
-Au cours de l'élaboration du bilan prévisionnel pluriannuel, le gestionnaire du réseau public de transport informe le
-ministre chargé de l'énergie des hypothèses retenues en matière d'évolution de la consommation électrique, en détaillant,
-notamment, les effets attendus des actions de maîtrise de la demande électrique et des substitutions entre énergies, et
-d'évolution de l'offre de production. Le ministre chargé de l'énergie peut demander au gestionnaire du réseau public de
-transport d'étudier des variantes aux hypothèses retenues.
-
-En matière d'échanges avec les réseaux étrangers, le bilan prévisionnel pluriannuel retient comme hypothèse centrale
-l'annulation du solde exportateur d'électricité à la pointe de consommation. Des variantes peuvent être étudiées par le
-gestionnaire du réseau public de transport d'électricité à son initiative ou à la demande du ministre chargé de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-
-###### Article D141-8
-
-Le volet géographique du bilan prévisionnel porte sur les zones où la production locale et les capacités de transport
-d'électricité peuvent s'avérer insuffisantes pour répondre à la demande locale. Ces zones sont déterminées par le
-gestionnaire du réseau public de transport en tenant compte des conclusions du schéma de développement du réseau public de
-transport prévu par l'article L. 321-6.
+Les zones où la production locale et les capacités de transport d'électricité peuvent s'avérer insuffisantes pour répondre à
+la demande locale sont déterminées par le gestionnaire du réseau public de transport d'électricité en tenant compte des
+conclusions du schéma décennal de développement du réseau prévu à l'article L. 321-6. 
 
 Des zones supplémentaires peuvent être étudiées à la demande du ministre chargé de l'énergie.
 
@@ -32710,62 +32690,20 @@ Des zones supplémentaires peuvent être étudiées à la demande du ministre ch
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-6 (V)
 
 
-###### Article D141-9
+###### Article D141-7
 
-Aux fins d'établissement du bilan prévisionnel pluriannuel, le gestionnaire du réseau public de transport a accès à toutes
-les informations utiles auprès des gestionnaires de réseaux publics de distribution, des producteurs, des fournisseurs et des
-consommateurs.
-
-Les producteurs exploitant ou envisageant d'exploiter des installations de production d'électricité raccordées directement au
-réseau public de transport ou indirectement, par l'intermédiaire d'installations appartenant à un autre utilisateur de ce
-réseau, sont tenus d'informer le gestionnaire de réseau de tout projet de mise en service d'installations nouvelles, de
-remise en service d'installations existantes temporairement arrêtées, de cessation d'exploitation d'installations existantes
-ou de toute modification ayant un effet sur les performances techniques d'une installation. Ils sont tenus de fournir au
-gestionnaire de réseau, à sa demande, les informations sur les caractéristiques techniques générales des installations, les
-dates d'effet envisagées pour les projets ainsi que, le cas échéant, l'état d'avancement des procédures administratives liées
-à ces projets.
-
-En outre, les producteurs informent, de leur propre initiative et dans les meilleurs délais, le gestionnaire du réseau public
-de transport de :
-
-1° La délivrance du permis de construire de l'ouvrage principal destiné à accueillir un nouvel équipement de production
-d'électricité ;
-
-2° La commande de fourniture de l'équipement principal d'une installation nouvelle ou l'ordre de livraison de cet équipement
-principal s'il a été acheté dans le cadre d'une commande groupée, dès notification au fournisseur ;
-
-3° Leur intention de cesser l'exploitation ou de modifier la puissance de certaines installations.
-
-Les producteurs exploitant ou envisageant d'exploiter des installations raccordées à un réseau public de distribution sont
-soumis à l'encontre du gestionnaire du réseau public de distribution concerné aux mêmes obligations que celles visées aux
-cinq alinéas précédents.
-
-Les fournisseurs d'énergie communiquent au gestionnaire du réseau public de transport, à sa demande, des informations sur les
-mécanismes qu'ils mettent en œuvre ou envisagent de mettre en œuvre susceptibles d'affecter la consommation de leurs clients,
-en particulier en application des articles L. 221-1 et L. 221-7. Ces mécanismes sont notamment les effacements de
-consommation en pointe, les incitations au transfert de consommation d'heures pleines vers les heures creuses et les
-incitations aux économies d'énergie. Les informations à fournir portent sur les modalités et le calendrier de mise en œuvre
-de ces mécanismes ainsi que sur les effets quantitatifs attendus.
-
-Les gestionnaires de réseau public de distribution communiquent au gestionnaire du réseau public de transport, à sa demande,
-des informations permettant de prévoir les soutirages et injections effectués par leur propre réseau de distribution aux
-points de livraison du réseau public de transport. Ces informations portent, notamment, sur les perspectives d'évolution des
-consommations locales et de développement d'installations de production raccordées aux réseaux publics de distribution.
-
-Les consommateurs d'électricité mettent à disposition du gestionnaire du réseau public de transport, à la demande de ce
-dernier, les éléments permettant d'apprécier l'évolution des soutirages des installations raccordées au réseau public de
-transport. Ces éléments portent sur les perspectives de puissance maximale et d'énergie soutirée annuellement et sur la
-capacité à effacer ponctuellement une partie des consommations, en précisant si cette capacité fait l'objet d'un contrat avec
-un fournisseur d'énergie et le nom de ce fournisseur.
-
-Le gestionnaire du réseau public de transport prend les dispositions nécessaires pour préserver la confidentialité des
-informations ainsi recueillies. Dans ce cadre, le bilan prévisionnel peut contenir des informations sous une forme agrégée ne
-portant pas atteinte à la confidentialité des informations élémentaires fournies par chaque acteur.
+Les gestionnaires des réseaux publics de distribution des zones non interconnectées au réseau métropolitain continental
+élaborent chaque année, sous le contrôle du ministre chargé de l'énergie, un bilan prévisionnel pluriannuel relatif à leur
+zone de desserte, selon les modalités définies aux articles D. 141-3 à D. 141-6.
 
 **Liens relatifs à cet article**
 
@@ -32773,19 +32711,89 @@ portant pas atteinte à la confidentialité des informations élémentaires four
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D141-3 (V)
+
+
+###### Article D141-8
+
+Le gestionnaire du réseau public de transport ou les gestionnaires des réseaux publics de distribution des zones non
+interconnectées au réseau métropolitain continental adressent au ministre chargé de l'énergie les bilans prévisionnels
+pluriannuels et les rendent publics selon des modalités qu'ils déterminent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+
+##### Sous-section 2 : Le bilan électrique national
+
+###### Article D141-9
+
+Le gestionnaire du réseau public de transport d'électricité établit chaque année le bilan électrique prévu à l'article L.
+141-8. Ce bilan couvre l'année précédant la date de sa publication. Il contient un volet relatif à la France métropolitaine
+et un volet relatif aux zones non interconnectées au réseau métropolitain continental. 
+
+Pour l'établissement du volet relatif aux zones non interconnectées au réseau continental, le gestionnaire du réseau public
+de transport d'électricité s'appuie sur les contributions transmises par les gestionnaires des réseaux publics de
+distribution d'électricité compétents sur ces territoires. 
+
+Le volet du bilan relatif à la France métropolitaine est publié avant le 1er février de chaque année. Le volet relatif aux
+zones non interconnectées au réseau métropolitain continental est publié avant le 1er mars de chaque année et est annexé au
+volet relatif à la France métropolitaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-8 (V)
 
 
 ###### Article D141-10
 
-En application de l'article L. 141-3, les gestionnaires des réseaux publics de distribution des zones non interconnectées au
-réseau métropolitain continental élaborent tous les deux ans, sous le contrôle du ministre chargé de l'énergie, un bilan
-prévisionnel pluriannuel relatif à leur zone de desserte respective.
+Le bilan électrique national porte sur : 
 
-Ce bilan porte sur les quinze années qui suivent la date à laquelle il est rendu public par le gestionnaire de réseau
-concerné. Il est mis à jour annuellement pour les cinq années à venir.
+1° La consommation d'électricité : il présente la consommation brute et corrigée des variations climatiques, l'évolution de
+la consommation par secteur d'activité et les principaux facteurs expliquant cette évolution, notamment les actions
+d'efficacité énergétique, les substitutions d'usage et les conditions économiques. Il indique également l'évolution de la
+pointe annuelle de consommation électrique et de la consommation annuelle de chaque région métropolitaine et de chaque zone
+non interconnectée au réseau métropolitain continental ; 
+
+2° La production d'électricité : il présente l'évolution des capacités de production par filière, en précisant notamment les
+nouvelles capacités de production à partir d'énergies renouvelables ainsi que la production électrique par filière et par
+région. Il comporte une estimation des émissions de dioxyde de carbone dues à la production électrique ; 
+
+3° L'effacement de consommation : il indique les capacités d'effacement de consommation et le volume d'énergie effacé, en
+distinguant les différentes filières d'effacement, notamment les effacements industriels et les effacements diffus. 
+
+Le volet relatif à la partie métropolitaine du bilan électrique comporte en outre les éléments suivants : 
+
+1° Les principales évolutions du réseau de transport d'électricité et des capacités d'interconnexion avec les autres pays ; 
+
+2° La description des échanges d'électricité avec les réseaux électriques étrangers ainsi qu'une synthèse de la situation des
+pays européens en termes de consommation et de production, notamment de production d'énergies renouvelables ; 
+
+3° L'analyse de la situation des marchés de l'électricité dans les pays européens dont le marché est couplé à celui de la
+France.
 
 **Liens relatifs à cet article**
 
@@ -32793,17 +32801,34 @@ concerné. Il est mis à jour annuellement pour les cinq années à venir.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
+
+##### Sous-section 3 : La transmission des données au gestionnaire du réseau de transport pour l'élaboration des bilans
 
 ###### Article D141-11
 
-Le gestionnaire du réseau public de transport ou les gestionnaires des réseaux publics de distribution des zones non
-interconnectées au réseau métropolitain continental adressent au ministre chargé de l'énergie les documents prévus aux
-articles D. 141-3 et D. 141-10 ainsi que les mises à jour annuelles prévues par les articles D. 141-6 et D. 141-10 et sont
-chargés de les rendre publics selon des modalités qu'ils déterminent.
+Les producteurs exploitant ou envisageant d'exploiter des installations de production d'électricité raccordées directement au
+réseau public de transport d'électricité ou raccordées indirectement par l'intermédiaire d'installations appartenant à un
+autre utilisateur de ce réseau informent le gestionnaire du réseau public de transport d'électricité de tout projet de mise
+en service d'installations nouvelles, de remise en service d'installations existantes, de cessation d'exploitation
+d'installations existantes ou de toute modification ayant un effet sur les performances techniques d'une installation. 
+
+Ils fournissent également au gestionnaire de réseau, à sa demande, les informations sur les caractéristiques techniques
+générales des installations, les dates d'effet envisagées pour les projets ainsi que, le cas échéant, l'état d'avancement des
+procédures administratives liées à ces projets. 
+
+En outre, les producteurs informent le gestionnaire du réseau public de transport, de leur propre initiative et dans les
+meilleurs délais, de : 
+
+1° La délivrance du permis de construire l'ouvrage principal destiné à accueillir un nouvel équipement de production
+d'électricité, ou de l'autorisation qui en tient lieu ; 
+
+2° La notification de la commande de l'équipement principal d'une installation nouvelle ou, s'il a été acheté dans le cadre
+d'une commande groupée, de l'ordre de livraison de cet équipement, dès sa réception par le fournisseur, en indiquant les
+caractéristiques techniques principales de l'équipement et sa date de livraison.
 
 **Liens relatifs à cet article**
 
@@ -32811,9 +32836,9 @@ chargés de les rendre publics selon des modalités qu'ils déterminent.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 	**Cité par**:
 
@@ -32822,14 +32847,9 @@ chargés de les rendre publics selon des modalités qu'ils déterminent.
 
 ###### Article D141-12
 
-Lorsqu'il adresse au ministre chargé de l'énergie le bilan prévisionnel mentionné à l'article D. 141-3 ainsi que la mise à
-jour annuelle de l'étude approfondie mentionnée au 1° de l'article D. 141-5, le gestionnaire du réseau public de transport
-accompagne ces documents d'une synthèse portant sur les risques de déséquilibre entre les besoins en électricité et
-l'électricité disponible pour les satisfaire.
-
-Les gestionnaires de réseaux publics de distribution des zones non interconnectées au réseau métropolitain continental
-procèdent de la même manière lorsqu'ils adressent au ministre chargé de l'énergie les bilans prévisionnels pluriannuels
-relatifs à leurs zones de desserte respectives ainsi que leurs mises à jour annuelles.
+Les producteurs exploitant ou envisageant d'exploiter des installations raccordées à un réseau public de distribution
+d'électricité sont soumis, à l'égard du gestionnaire du réseau public de distribution concerné, aux mêmes obligations que
+celles prévues à l'article D. 141-11.
 
 **Liens relatifs à cet article**
 
@@ -32837,12 +32857,120 @@ relatifs à leurs zones de desserte respectives ainsi que leurs mises à jour an
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D141-11 (V)
+
+
+###### Article D141-12-1
+
+Les fournisseurs d'énergie et les opérateurs d'effacement communiquent au gestionnaire du réseau public de transport
+d'électricité, à sa demande, des informations sur les mécanismes qu'ils mettent en œuvre ou envisagent de mettre en œuvre qui
+sont susceptibles d'affecter la consommation de leurs clients. Ces mécanismes sont notamment les effacements de consommation
+mentionnés à l'article L. 271-1, les incitations au transfert de consommation d'heures pleines vers les heures creuses et les
+actions d'économies d'énergie, en particulier celles mises en œuvre en application des articles L. 221-1 et L. 221-7. Ces
+informations comprennent les modalités et le calendrier de mise en œuvre de ces mécanismes ainsi qu'une évaluation
+quantitative des effets attendus.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L221-1 (V)
+	  - Code de l'énergie - art. L221-7 (V)
+	  - Code de l'énergie - art. L271-1 (V)
+
+
+###### Article D141-12-2
+
+Les gestionnaires de réseau public de distribution d'électricité communiquent au gestionnaire du réseau public de transport
+d'électricité, à sa demande, les informations permettant de prévoir les soutirages et injections effectués par leur propre
+réseau aux points de livraison du réseau public de transport.
+
+Ces informations comprennent :
+
+1° Les courbes de charge de chaque installation de production ou de stockage raccordée directement ou indirectement à un
+réseau public de distribution ou, si celles-ci sont inaccessibles, l'énergie produite et injectée semestriellement par
+chacune de ces installations ;
+
+2° Les données relatives à la consommation mensuelle des installations de consommation, définies comme les unités ou
+ensembles d'unités de consommation d'électricité installées sur un même site et exploitées par un même consommateur, qui sont
+raccordées directement ou indirectement à un réseau public de distribution d'électricité ; ces données sont agrégées au
+niveau départemental et regroupées en fonction du secteur d'activité concerné au sens de la nomenclature d'activités
+française (NAF) ;
+
+3° La répartition des flux d'électricité sortant des postes sources par commune, ou grille d'influencement ;
+
+4° Les perspectives d'évolution des consommations locales et de développement d'installations de production d'électricité
+raccordées aux réseaux publics de distribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+
+###### Article D141-12-3
+
+Les consommateurs d'électricité mettent à disposition du gestionnaire du réseau public de transport, à sa demande, les
+éléments permettant d'apprécier l'évolution des soutirages des installations raccordées au réseau public de transport. Ces
+éléments portent sur les perspectives de puissance maximale et d'énergie soutirée annuellement et sur la capacité à effacer
+ponctuellement une partie des consommations, et précisent si cette capacité fait l'objet d'un contrat avec un fournisseur
+d'énergie ou un opérateur d'effacement et le nom de ce fournisseur ou de cet opérateur d'effacement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+
+###### Article D141-12-4
+
+Les personnes qui transmettent des données au gestionnaire du réseau public de transport sont responsables de la qualité des
+données fournies qui relèvent de leurs compétences. Ces données sont transmises dans un délai compatible avec l'échéance de
+publication du bilan électrique national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
+
+
+###### Article D141-12-5
+
+Le gestionnaire du réseau public de transport préserve la confidentialité des informations recueillies.
+
+Les informations contenues dans le bilan prévisionnel pluriannuel et le bilan électrique national sont présentées sous une
+forme agrégée ne portant pas atteinte à la confidentialité des informations élémentaires fournies.
+
+Lorsque les informations recueillies concernent des personnes physiques, leur durée de conservation par le gestionnaire de
+réseau public de transport est déterminée conformément aux dispositions applicables aux données à caractère personnel.
+
+Les modalités de transmission des informations au gestionnaire du réseau public de transport sont définies par arrêté du
+ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
 ##### Section 2 : La programmation des capacités d'approvisionnement en gaz naturel
+
+
+##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel
 
 
 ###### Article D141-13
@@ -32869,6 +32997,8 @@ Il fait l'objet d'un rapport présenté chaque année au Parlement par le minist
 
 
 ##### Section 3 : La programmation des investissements pour la production de chaleur
+
+##### Section 4 : La programmation des investissements pour la production de chaleur
 
 ###### Article D141-14
 
@@ -32898,18 +33028,20 @@ d'énergies renouvelables et le cas échéant par zone géographique.
 
 
 
+##### Sous-section 1 : Dispositions communes
+
 ###### Article D142-1
 
 Les entreprises et organismes mentionnés à l'article L. 142-7 relèvent les données prévues aux 1° et 2° de ce même article le
 1er janvier et le 1er juillet de chaque année. Ces données, élaborées conformément aux dispositions prévues par les articles
 D. 142-2 à D. 142-9, sont communiquées dans les cinquante jours qui suivent au service statistique du ministère chargé de
-l'énergie qui en fait la synthèse et les communique à Eurostat sous dix jours.
+l'énergie qui en fait la synthèse et les communique à Eurostat sous dix jours. 
 
 Les mêmes entreprises et organismes communiquent, tous les deux ans, l'information prévue au 3° de l'article L. 142-7 au
-service statistique du ministère chargé de l'énergie, qui la transmet à Eurostat.
+service statistique du ministère chargé de l'énergie, qui la transmet à Eurostat. 
 
 Les informations mentionnées à l'avant-dernier alinéa de l'article L. 142-7 sont communiquées au service statistique du
-ministère chargé de l'énergie à sa demande.
+ministère chargé de l'énergie à sa demande. 
 
 Les informations mentionnées au dernier alinéa de l'article L. 142-7 sont communiquées au ministre chargé de l'énergie à sa
 demande.
@@ -32920,129 +33052,135 @@ demande.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D142-2 (V)
 	  - Code de l'énergie - art. D142-6 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-7 (V)
+
 
 ###### Article D142-2
 
 Les données relatives au gaz naturel, communiquées en application de l'article D. 142-1, sont élaborées conformément aux
-règles suivantes :
+règles suivantes : 
 
 1° Seule la distribution par canalisation est prise en considération ;
 
-2° Les prix qui doivent être communiqués sont les prix payés par le consommateur final ;
+2° Les prix qui doivent être communiqués sont les prix payés par le consommateur final ; 
 
-3° Les usages pris en considération sont tous les usages industriels ;
+3° Les usages pris en considération sont tous les usages industriels ; 
 
-4° Sont exclus du système les consommateurs qui utilisent du gaz :
+4° Sont exclus du système les consommateurs qui utilisent du gaz : 
 
-a) Pour la production d'électricité dans les centrales électriques, y compris de cogénération ;
+a) Pour la production d'électricité dans les centrales électriques, y compris de cogénération ; 
 
-b) Pour des usages non énergétiques (par exemple: l'industrie chimique) ;
+b) Pour des usages non énergétiques (par exemple : l'industrie chimique) ; 
 
-c) En quantité supérieure à 4 000 000 Gj/an :
+c) En quantité supérieure à 4 000 000 Gj/ an : 
 
 5° Les prix à consigner sont les prix moyens payés par les consommateurs finals industriels pour le gaz au cours du semestre
-précédent ;
+précédent ; 
 
 6° Les prix relevés ainsi que la répartition des consommateurs et des volumes sont fondés sur un système de tranches de
-consommation normalisées définies au 10° du présent article ;
+consommation normalisées définies au 10° du présent article ; 
 
 7° Les prix doivent inclure toutes les charges à payer : les redevances d'utilisation du réseau et l'énergie consommée
 diminuée des éventuels rabais ou primes, plus les autres charges (location de compteur, frais d'abonnement,...) ; n'y est pas
-inclus le coût du raccordement initial ;
+inclus le coût du raccordement initial ; 
 
 8 Les prix doivent être exprimés en euros par gigajoule (Gj). L'unité d'énergie utilisée est mesurée sur la base du pouvoir
-calorifique supérieur (PCS) ;
+calorifique supérieur (PCS) ; 
 
-9° Trois niveaux de prix doivent être présentés :
+9° Trois niveaux de prix doivent être présentés : 
 
-a) Le prix hors taxes et prélèvements ;
+a) Le prix hors taxes et prélèvements ; 
 
-b) Le prix hors TVA et autres taxes récupérables ;
+b) Le prix hors TVA et autres taxes récupérables ; 
 
-c) Le prix tous prélèvements, taxes et TVA compris ;
+c) Le prix tous prélèvements, taxes et TVA compris ; 
 
-10° Les prix du gaz sont relevés pour les catégories suivantes de consommateurs finals industriels :
+10° Les prix du gaz sont relevés pour les catégories suivantes de consommateurs finals industriels : 
 
 <table>
-      <tbody><tr>
-        <th rowspan="2">
+    <tbody>
+      <tr>
+        <th rowspan="2">Consommateurs finals industriels 
 
-Consommateurs finals industriels</th>
-        <th colspan="2">
+</th>
+        <th colspan="2">Consommation de gaz annuelle (en gigajoule) 
 
-Consommation de gaz annuelle (en gigajoule)</th>
+</th>
       </tr>
       <tr>
-        <th>
+        <th>Minimum 
 
-Minimum</th>
-        <th>
+</th>
+        <th>Maximum 
 
-Maximum</th>
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">Tranche I1 
 
-Tranche I1</td>
-        <td align="left">
-        </td><td align="center">
+</td>
+        <td align="left"> </td>
+        <td align="center">< 1 000 
 
-< 1 000</td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">Tranche I2 
 
-Tranche I2</td>
-        <td align="center">
+</td>
+        <td align="center">1 000 
 
-1 000</td>
-        <td align="center">
+</td>
+        <td align="center">< 10 000 
 
-< 10 000</td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">Tranche I3 
 
-Tranche I3</td>
-        <td align="center">
+</td>
+        <td align="center">10 000 
 
-10 000</td>
-        <td align="center">
+</td>
+        <td align="center">< 100 000 
 
-< 100 000</td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">Tranche I4 
 
-Tranche I4</td>
-        <td align="center">
+</td>
+        <td align="center">100 000 
 
-100 000</td>
-        <td align="center">
+</td>
+        <td align="center">< 1000 000 
 
-< 1000 000</td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">Tranche I5 
 
-Tranche I5</td>
-        <td align="center">
+</td>
+        <td align="center">1 000 000 
 
-1 000 000</td>
-        <td align="center">
+</td>
+        <td align="center">< = 4 000 000
 
-< = 4 000 000</td>
+</td>
       </tr>
-    </tbody></table>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -33050,9 +33188,9 @@ Tranche I5</td>
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -33081,9 +33219,9 @@ représenté) ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
 ###### Article D142-4
@@ -33109,16 +33247,16 @@ base du volume total livré et de la demande maximale moyenne ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
 ###### Article D142-5
 
 En ce qui concerne le gaz naturel, le service statistique du ministère chargé de l'énergie communique à Eurostat une fois par
 an, en même temps que les données du deuxième semestre, des informations sur les tarifs et la méthode de calcul ainsi qu'une
-description des taxes appliquées sur les ventes de gaz aux consommateurs finals industriels. 
+description des taxes appliquées sur les ventes de gaz aux consommateurs finals industriels.
 
 Cette transmission a également lieu si un changement majeur s'est produit lors du semestre précédent. 
 
@@ -33141,9 +33279,9 @@ industriels ; ces éléments sont inclus dans les chiffres pour le niveau de pri
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
 ###### Article D142-6
@@ -33165,7 +33303,7 @@ semestre précédent ;
 diminuée des éventuels rabais ou primes, plus les autres charges (coûts liés à la capacité, commercialisation, location du
 compteur, etc.) ; n'y est pas inclus le coût du raccordement initial ; 
 
-6° Les prix doivent être exprimés en euros par kWh ; 
+6° Les prix doivent être exprimés en euros par kWh ;
 
 7° Trois niveaux de prix sont indiqués : 
 
@@ -33188,87 +33326,89 @@ taxes ;
 8° Les prix de l'électricité sont relevés pour les catégories suivantes de consommateurs finals industriels : 
 
 <table>
-      <tbody><tr>
-        <th rowspan="2">
+    <tbody>
+      <tr>
+        <th rowspan="2">Consommateurs finals industriels 
 
-Consommateurs finals industriels </th>
-        <th colspan="2">
+</th>
+        <th colspan="2">Consommation d'électricité annuelle (en MWh) 
 
-Consommation d'électricité annuelle (en MWh) </th>
+</th>
       </tr>
       <tr>
-        <th>
+        <th>Minimum 
 
-Minimum </th>
-        <th>
+</th>
+        <th>Maximum 
 
-Maximum </th>
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">IA 
 
-IA </td>
-        <td align="left">
-        </td><td align="center">
+</td>
+        <td align="left"> </td>
+        <td align="center">< 20 
 
-< 20 </td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">IB 
 
-IB </td>
-        <td align="center">
+</td>
+        <td align="center">20 
 
-20 </td>
-        <td align="center">
+</td>
+        <td align="center">< 500 
 
-< 500 </td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">IC 
 
-IC </td>
-        <td align="center">
+</td>
+        <td align="center">500 
 
-500 </td>
-        <td align="center">
+</td>
+        <td align="center">< 2 000 
 
-< 2 000 </td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">ID 
 
-ID </td>
-        <td align="center">
+</td>
+        <td align="center">2 000 
 
-2 000 </td>
-        <td align="center">
+</td>
+        <td align="center">< 20 000 
 
-< 20 000 </td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">IE 
 
-IE </td>
-        <td align="center">
+</td>
+        <td align="center">20 000 
 
-20 000 </td>
-        <td align="center">
+</td>
+        <td align="center">< 70 000 
 
-< 70 000 </td>
+</td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center">IF 
 
-IF </td>
-        <td align="center">
+</td>
+        <td align="center">70 000 
 
-70 000 </td>
-        <td align="center">
+</td>
+        <td align="center">< = 150 000
 
-< = 150 000</td>
+</td>
       </tr>
-    </tbody></table>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -33276,9 +33416,13 @@ IF </td>
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D142-1 (V)
 
 
 ###### Article D142-7
@@ -33303,9 +33447,9 @@ représenté, etc.) ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
 ###### Article D142-8
@@ -33331,9 +33475,9 @@ base du volume total livré et de la demande maximale moyenne ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
 
 
 ###### Article D142-9
@@ -33364,9 +33508,125 @@ industriels ; ces éléments sont inclus dans les chiffres pour le niveau de pri
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-350 du 24 mars 2016 - art. 2
+
+
+##### Sous-section 2 : Dispositions spécifiques à l'électricité
+
+###### Article D142-9-1
+
+Le gestionnaire du réseau public de transport d'électricité tient à jour et à disposition du ministre chargé de l'énergie un
+registre national qui répertorie les installations de production et de stockage d'électricité raccordées directement ou
+indirectement aux réseaux publics d'électricité du territoire métropolitain continental et des zones non interconnectées.
+
+**Nota:**
+
+Décret n° 2016-350 du 24 mars 2016, Article 3 : Pour le renseignement des informations relatives aux installations raccordées
+antérieurement au 1er janvier 2017 dans le registre mentionné à l'article D. 142-9-1 du code de l'énergie, les gestionnaires
+de réseaux transmettent au gestionnaire du réseau public de transport d'électricité les données précisées par l'arrêté
+mentionné à l'article D. 142-9-2 du même code dont ils disposent à la date de publication du présent décret.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D142-9-2 (V)
+
+
+###### Article D142-9-2
+
+Pour chaque installation, le registre mentionné à l'article D. 142-9-1 comporte des informations relatives à :
+
+1° Ses données d'identification ; 
+
+2° Son historique ; 
+
+3° Ses caractéristiques techniques et celles de son raccordement. 
+
+Les éléments figurant dans le registre sont précisés par arrêté du ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D142-9-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D142-9-3 (V)
+
+
+###### Article D142-9-3
+
+Les gestionnaires de réseaux publics de distribution, la société concessionnaire de la distribution publique d'électricité à
+Mayotte et dans les îles Wallis et Futuna et Electricité de France pour les autres zones non interconnectées au territoire
+métropolitain continental transmettent au gestionnaire du réseau public de transport, pour chaque installation de production
+ou de stockage raccordée directement ou indirectement à leur réseau dont ils ont connaissance, les informations prévues par
+l'arrêté mentionné à l'article D. 142-9-2. 
+
+Les modalités de transmission de ces informations sont définies par arrêté du ministre chargé de l'énergie. 
+
+Les gestionnaires de réseaux publics de distribution, la société concessionnaire de la distribution publique d'électricité à
+Mayotte et dans les îles Wallis et Futuna et Electricité de France pour les zones non interconnectées sont responsables de la
+qualité des données fournies qui relèvent de leurs compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D142-9-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D142-9-4 (V)
+
+
+###### Article D142-9-4
+
+Lorsque les informations transmises en application de l'article D. 142-9-3 concernent des personnes physiques, leur durée de
+conservation par le gestionnaire du réseau public de transport est déterminée conformément aux dispositions applicables aux
+données à caractère personnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D142-9-3 (V)
+
+
+###### Article D142-9-5
+
+Les informations du registre sont mises à disposition du public par le gestionnaire du réseau public de transport selon des
+modalités définies par arrêté du ministre chargé de l'énergie, sous réserve du respect des dispositions de la sous-section 1
+de la section 4 du chapitre Ier du titre Ier du livre Ier de la partie réglementaire du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-350 du 24 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie -  Sous-section 1 : Informations détenues par les ... (V)
 
 
 ##### Section 2 : Pouvoirs de contrôle et sanctions administratives
