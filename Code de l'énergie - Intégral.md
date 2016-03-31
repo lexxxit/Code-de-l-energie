@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-03-27
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -23015,8 +23015,8 @@ produit de la hauteur de chute par le débit maximum de la dérivation par l'int
 
 ###### Article L511-6
 
-Les installations hydrauliques autorisées peuvent, à toute époque, par un accord entre l'Etat et le permissionnaire, être
-placées sous le régime de la concession. 
+Les installations hydrauliques autorisées peuvent, à toute époque, dans les conditions fixées par l'ordonnance n° 2016-65 du
+29 janvier 2016 relative aux contrats de concession, être placées par l'Etat  sous le régime de la concession. 
 
 Elles le sont obligatoirement lorsque, à raison d'une augmentation de puissance, elles viennent à entrer dans la catégorie de
 celles relevant du régime de la concession par l'article L. 511-5. 
@@ -23024,11 +23024,7 @@ celles relevant du régime de la concession par l'article L. 511-5.
 La puissance d'une installation autorisée peut être augmentée selon les dispositions applicables aux modifications
 d'installations existantes soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement. Cette augmentation ne
 modifie pas le régime sous lequel est placée l'installation, y compris lorsqu'elle a pour effet de porter pour la première
-fois la puissance de l'installation au-delà de 4 500 kilowatts, dans la limite de 20 % au-delà de ce seuil. 
-
-La puissance d'une installation concédée peut également être augmentée par déclaration à l'autorité administrative, sans que
-cette augmentation nécessite le renouvellement ou la modification de l'acte de concession, dans la limite de 20 % de sa
-puissance initiale.
+fois la puissance de l'installation au-delà de 4 500 kilowatts, dans la limite de 20 % au-delà de ce seuil.
 
 **Liens relatifs à cet article**
 
@@ -23036,15 +23032,15 @@ puissance initiale.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 147
-
 	**Cité par**:
 
 	  - Arrêté du 11 septembre 2015 - art. 2 (V)
 	  - Arrêté du 27 novembre 2015 - art. 1 (VD)
 	  - Code de l'énergie - art. L511-8 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
 
 	**Cite**:
 
@@ -23360,7 +23356,10 @@ et les règlements d'eau pris pour son application sont instruits en application
 par décret en Conseil d'Etat. 
 
 Ces actes doivent respecter les règles de fond prévues au titre Ier du livre II du code de l'environnement et valent
-autorisation au titre des articles L. 214-1 et suivants du même code.
+autorisation au titre des articles L. 214-1 et suivants du même code. 
+
+La passation et l'exécution des contrats de concession d'énergie hydraulique sont soumises aux dispositions prévues par
+l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession et par le présent titre.
 
 **Liens relatifs à cet article**
 
@@ -23368,14 +23367,15 @@ autorisation au titre des articles L. 214-1 et suivants du même code.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
-
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-1 (V)
-	  - Code de l'énergie - art. L511-5 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'énergie - art. L511-5
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
 
 
 ###### Article L521-2
@@ -23846,8 +23846,7 @@ charge du concessionnaire retenu en application de l'article L. 521-17.
 
 ###### Article L521-16
 
-La procédure de renouvellement des concessions, notamment les conditions dans lesquelles le concessionnaire doit présenter sa
-demande de renouvellement de la concession dont il est titulaire, est fixée par un décret en Conseil d'Etat.
+La procédure de renouvellement des concessions est fixée par un décret en Conseil d'Etat.
 
 Au plus tard trois ans avant l'expiration de la concession, l'autorité administrative prend la décision soit de mettre
 définitivement fin à la concession à la date normale de son expiration, soit d'instituer une concession nouvelle à compter de
@@ -23863,17 +23862,13 @@ actuelle est prorogée aux conditions antérieures, mais pour une durée équiva
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 13 (Ab), alinéas 1 à 3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
 
 	**Cité par**:
 
@@ -23882,7 +23877,7 @@ actuelle est prorogée aux conditions antérieures, mais pour une durée équiva
 	  - Code de l'énergie - art. L521-16-1 (V)
 	  - Code de l'énergie - art. L521-16-2 (V)
 	  - Code de l'énergie - art. L521-18 (T)
-	  - Code de l'énergie - art. L521-20 (V)
+	  - Code de l'énergie - art. L521-20 (VD)
 	  - Code de l'énergie - art. R521-2 (V)
 	  - Code de l'énergie - art. R521-53 (V)
 	  - Code de l'énergie - art. R521-57 (V)
@@ -24015,9 +24010,10 @@ catégories de dépenses éligibles au titre des investissements mentionnés au 
 ###### Article L521-16-3
 
 Lorsque la réalisation de travaux nécessaires à l'atteinte des objectifs mentionnés aux articles L. 100-1, L. 100-2 et L.
-100-4 et non prévus au contrat initial l'exige, la concession peut être prorogée, dans les limites énoncées à l'article 40 de
-la loi n° 93-122 du 29 janvier 1993 précitée, au besoin en dérogeant au 2° de l'article L. 521-4 du présent code et à
-l'article 2 de la loi du 27 mai 1921 précitée. A la demande de l'Etat, le concessionnaire transmet un programme de travaux. 
+100-4 et non prévus au contrat initial l'exige, la concession peut être prorogée, dans les limites énoncées à l'article 55 de
+l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession, au besoin en dérogeant au 2° de l'article L.
+521-4 du présent code et à l'article 2 de la loi du 27 mai 1921 précitée. A la demande de l'Etat, le concessionnaire transmet
+un programme de travaux. 
 
 Lorsque les travaux mentionnés au premier alinéa du présent article sont prévus sur une concession comprise dans une chaîne
 d'aménagements hydrauliquement liés concernée par l'application des articles L. 521-16-1 ou L. 521-16-2, le montant de ces
@@ -24028,18 +24024,18 @@ travaux peut être pris en compte pour la fixation de la nouvelle date d'échéa
 
 	**Cite**:
 
-	  - Loi du 27 mai 1921 - art. 2 (M)
-	  - Loi n°93-122 du 29 janvier 1993 - art. 40 (M)
-	  - Code de l'énergie - art. L100-1 (V)
-	  - Code de l'énergie - art. L100-2 (V)
-	  - Code de l'énergie - art. L100-4 (V)
-	  - Code de l'énergie - art. L521-16-1 (V)
-	  - Code de l'énergie - art. L521-16-2 (V)
-	  - Code de l'énergie - art. L521-4 (V)
+	  - Loi du 27 mai 1921 - art. 2
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 55
+	  - Code de l'énergie - art. L100-1
+	  - Code de l'énergie - art. L100-2
+	  - Code de l'énergie - art. L100-4
+	  - Code de l'énergie - art. L521-16-1
+	  - Code de l'énergie - art. L521-16-2
+	  - Code de l'énergie - art. L521-4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 116
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
 
 	**Cité par**:
 
@@ -24193,12 +24189,12 @@ assemblée délibérante ou de leur organe délibérant.
 
 ###### Article L521-20
 
-I.-La sélection de l'actionnaire opérateur mentionné au I de l'article L. 521-18 et l'attribution de la concession à la
+I. - La sélection de l'actionnaire opérateur mentionné au I de l'article L. 521-18 et l'attribution de la concession à la
 société d'économie mixte hydroélectrique interviennent au terme d'une procédure unique d'appel public à la concurrence, qui
 respecte les mêmes règles et critères d'attribution que la procédure prévue à l'article L. 521-16 et qui est conduite par
 l'Etat selon des modalités définies par décret en Conseil d'Etat. 
 
-II.-Dans le cadre des formalités de publicité prévues par le décret mentionné au I du présent article, l'Etat porte à la
+II. - Dans le cadre des formalités de publicité prévues par le décret mentionné au I du présent article, l'Etat porte à la
 connaissance de l'ensemble des candidats les principales conditions qu'il a définies pour la conclusion du contrat de
 concession avec la société d'économie mixte hydroélectrique. 
 
@@ -24218,32 +24214,27 @@ hydroélectrique et du cahier des charges annexé ;
 l'exécution de la concession, notamment des contrats de gré à gré avec l'actionnaire opérateur ou les filiales qui lui sont
 liées. 
 
-III.-Les offres des candidats à la procédure unique d'appel public à la concurrence indiquent, selon les modalités définies
+III. - Les offres des candidats à la procédure unique d'appel public à la concurrence indiquent, selon les modalités définies
 par l'Etat lors de cette procédure, les moyens techniques et financiers qu'ils s'engagent à apporter à la société d'économie
 mixte hydroélectrique pour lui permettre d'assurer l'exécution de la concession ainsi que les contrats qui doivent être
-conclus par cette société pour la réalisation de sa mission. 
-
-IV.-Ne peuvent soumissionner à la procédure unique d'appel public à la concurrence prévue au présent article les personnes
-mentionnées à l'article 8 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes
-publiques ou privées non soumises au code des marchés publics.
+conclus par cette société pour la réalisation de sa mission.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (M)
-	  - Code de l'énergie - art. L521-16 (V)
-	  - Code de l'énergie - art. L521-18 (V)
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 118
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. L551-1 (V)
 	  - Code de l'énergie - art. L521-19 (V)
 	  - Code de l'énergie - art. R521-70 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L521-16 (VD)
+	  - Code de l'énergie - art. L521-18
 
 
 #### Chapitre II : Les réserves en énergie
@@ -32967,9 +32958,6 @@ ministre chargé de l'énergie.
 	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
-##### Section 2 : La programmation des capacités d'approvisionnement en gaz naturel
-
-
 ##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel
 
 
@@ -32995,8 +32983,6 @@ Il fait l'objet d'un rapport présenté chaque année au Parlement par le minist
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-
-##### Section 3 : La programmation des investissements pour la production de chaleur
 
 ##### Section 4 : La programmation des investissements pour la production de chaleur
 
