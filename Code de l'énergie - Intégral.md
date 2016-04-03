@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-04
 
 # Partie législative
 
@@ -49435,12 +49435,14 @@ L'extension inclut les installations de comptage des utilisateurs raccordés dan
 
 ##### Section 2 : Indemnités en cas de retard de raccordement d'une installation de production d'énergie renouvelable
 
+##### Sous-section 1 : Dispositions applicables aux installations de production d'électricité d'une puissance installée inférieure ou égale à 3 kilovoltampères 
+
 ###### Article R342-3
 
 Dans les conditions fixées au premier alinéa de l'article L. 342-3, les indemnités dues au demandeur de raccordement par le
 gestionnaire du réseau public de distribution, en cas de dépassement du délai d'envoi de la convention de raccordement ou du
 délai de raccordement au réseau public de distribution d'électricité d'une installation de production d'électricité à partir
-de sources d'énergie renouvelable d'une puissance installée inférieure ou égale à 3 kilovoltampères, sont fixées : 
+de sources d'énergie renouvelable d'une puissance installée inférieure ou égale à 3 kilovoltampères, sont fixées :
 
 1° A 30 euros en cas de dépassement du délai fixé à un mois pour l'envoi de la convention de raccordement, à compter de la
 réception de la demande complète de raccordement ; 
@@ -49456,17 +49458,17 @@ délai précité.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-399 du 1er avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L342-3 (V)
+	  - Code de l'énergie - art. L342-3
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R342-4 (M)
+	  - Code de l'énergie - art. R342-4 (V)
 
 
 ###### Article R342-4
@@ -49482,14 +49484,161 @@ l'électricité mentionnés à l'article L. 341-3.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-399 du 1er avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L341-3 (V)
+	  - Code de l'énergie - art. L341-3
 	  - Code de l'énergie - art. R342-3 (V)
+
+
+##### Sous-section 2 : Dispositions applicables aux installations de production d'électricité d'une puissance installée supérieure à 3 kilovoltampères
+
+###### Article D342-4-1
+
+Le délai de dix-huit mois mentionné au deuxième alinéa de l'article L. 342-3 court à compter de la date de réception par le
+gestionnaire de réseau de la convention de raccordement mentionnée à l'article D. 342-10 signée par le demandeur. 
+
+Il ne comprend pas le délai nécessaire à la mise en service de l'installation de production.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D342-10
+	  - Code de l'énergie - art. L342-3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D342-4-2 (V)
+	  - Code de l'énergie - art. D342-4-9 (V)
+
+
+###### Article D342-4-2
+
+Le délai mentionné à l'article D. 342-4-1 est suspendu : 
+
+1° Lorsque le producteur et le gestionnaire de réseau constatent que la construction des ouvrages à réaliser par le
+producteur ne peut être effectuée dans le délai de dix-huit mois ou que le producteur décide de suspendre son projet ; 
+
+2° Lorsque la réalisation des travaux de raccordement est soumise à des sujétions nouvelles résultant d'une décision de
+l'autorité administrative. 
+
+Le délai court de nouveau, pour sa durée restante, à compter de la date de cessation de la situation mentionnée au 1° ou de
+l'accomplissement des formalités mentionnées au 2°, sauf si le producteur et le gestionnaire de réseau conviennent d'un
+nouveau délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D342-4-1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D342-4-6 (V)
+
+
+###### Article D342-4-3
+
+Lorsque, postérieurement à la signature de la convention de raccordement, il apparaît que les travaux nécessaires au
+raccordement comprennent des ouvrages de haute tension qui imposent l'obtention d'une autorisation administrative ou d'une
+déclaration d'utilité publique, y compris lorsque ces décisions sont nécessaires au gestionnaire du réseau amont dans le
+cadre de l'opération de raccordement, le délai court à compter de la date d'obtention de la plus tardive des autorisations,
+ou, lorsqu'une déclaration d'utilité publique est nécessaire, à compter de la date à laquelle le pétitionnaire est autorisé à
+exercer les servitudes conformément aux dispositions de la sous-section 2 de la section 1 du chapitre III du titre II du
+livre III du présent code. 
+
+En cas d'impossibilité matérielle d'exécuter les travaux, établie par tous moyens par le gestionnaire de réseau, le délai
+court à compter de la cessation de cette situation. 
+
+En cas de modification de l'installation de production nécessitant une modification de la convention de raccordement, le
+délai court à compter de la date de réception, par le gestionnaire de réseau, de la nouvelle convention de raccordement
+signée par le demandeur. 
+
+Lorsque les décisions nécessaires à la réalisation des ouvrages de raccordement font l'objet d'un recours juridictionnel, le
+délai court à compter de la date à laquelle le rejet de la requête devient définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie -  Sous-section 2 : Procédure d'établissement des ... (V)
+
+
+###### Article D342-4-4
+
+Lorsque la taille des installations et leur localisation par rapport au réseau le justifient, ou lorsque le retard pris pour
+le raccordement est imputable à des causes indépendantes de la volonté du gestionnaire de réseau, une prorogation du délai
+mentionné au deuxième alinéa de l'article L. 342-3 peut être accordée par le préfet du département où ont vocation à être
+situés les ouvrages, après consultation du producteur intéressé. 
+
+Toutefois :
+
+- lorsque plusieurs départements sont concernés, la prorogation est accordée par arrêté conjoint des préfets intéressés ;
+
+- lorsque la demande concerne un raccordement en mer, la prorogation est accordée par le préfet du département où a lieu
+l'atterrage des ouvrages de raccordement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D342-4-5 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L342-3
+
+
+###### Article D342-4-5
+
+La demande est motivée et accompagnée d'un dossier qui expose l'étendue des travaux projetés et qui comprend toute pièce de
+nature à la justifier au regard des critères mentionnés à l'article D. 342-4-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D342-4-4
+
+
+###### Article D342-4-6
+
+La prorogation du délai ne fait pas obstacle à sa suspension ou son interruption en application des dispositions des articles
+D. 342-4-2 et D. 342-4-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-399 du 1er avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D342-4-2
 
 
 ##### Section 3 : Raccordement des installations de production et de consommation aux réseaux publics d'électricité
