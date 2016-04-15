@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-04-15
+Version Consolidée au 2016-04-16
 
 # Partie législative
 
@@ -5938,13 +5938,12 @@ conditions d'approvisionnement par l'accès régulé à l'électricité nucléai
 peut formuler des avis et proposer toute mesure favorisant le bon fonctionnement et la transparence, notamment en matière de
 prix, du marché de détail. 
 
-La Commission de régulation de l'énergie garantit le respect, par toute personne qui effectue des transactions sur un ou
-plusieurs marchés de gros de l'énergie, des interdictions prévues aux articles 3 et 5 du règlement (UE) n° 1227/2011 du
-Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie,
-ainsi que de l'obligation prévue à l'article 4 de ce même règlement. 
+La Commission de régulation de l'énergie garantit le respect des articles 3, 4, 5, 8, 9 et 15 du règlement (UE) n° 1227/2011
+du Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de
+l'énergie. 
 
-Ces interdictions et obligations s'appliquent également aux garanties de capacité mentionnées à l'article L. 335-2 du présent
-code. La Commission de régulation de l'énergie garantit leur respect.
+Elle garantit également le respect des interdictions et des obligations prévues aux articles 3, 4 et 5 de ce même règlement
+dans le cadre du mécanisme d'obligation de capacité mentionné à l'article L. 335-2.
 
 **Nota:**
 
@@ -5958,7 +5957,7 @@ Au lieu de "431-6", il convient de lire "L. 431-6".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-130 du 10 février 2016 - art. 9
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
 
 	**Cite**:
 
@@ -6340,26 +6339,20 @@ recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entre
 
 Les membres et agents de la Commission de régulation de l'énergie sont tenus au secret professionnel pour les faits, actes et
 renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions. En particulier, les membres et agents de la
-commission ne communiquent pas les documents administratifs qui sont protégés par l'article 6 de la loi n° 78-753 du 17
-juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
-dispositions d'ordre administratif, social et fiscal. 
+commission ne communiquent pas les documents administratifs qui sont protégés par les articles L. 311-5 à L. 311-8 du code
+des relations entre le public et l'administration. 
 
 Le non-respect du secret professionnel, établi par une décision de justice, entraîne la cessation d'office des fonctions au
 sein de la Commission de régulation de l'énergie. 
 
 L'obligation de secret professionnel ne fait pas obstacle à la communication par la Commission de régulation de l'énergie des
 informations ou documents qu'elle détient aux commissions du Parlement compétentes en matière d'énergie, aux agents
-mentionnés à l'article L. 142-3, à l'Autorité des marchés financiers ou à une autorité d'un autre Etat membre de l'Union
-européenne exerçant des compétences analogues à celles de la Commission de régulation de l'énergie, sous réserve de
-réciprocité et à condition que ses membres et ses agents soient astreints aux mêmes obligations de secret professionnel que
-celles définies au présent article.
+mentionnés à l'article L. 142-3, à l'Autorité des marchés financiers, à l'agence de coopération des régulateurs de l'énergie
+ou à une autorité d'un autre Etat membre de l'Union européenne exerçant des compétences analogues à celles de la Commission
+de régulation de l'énergie, sous réserve de réciprocité et à condition que ses membres et ses agents soient astreints aux
+mêmes obligations de secret professionnel que celles définies au présent article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-	  - Code de l'énergie - art. L142-3 (V)
 
 	**Codifié par**:
 
@@ -6372,7 +6365,12 @@ celles définies au présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 179
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-3
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 #### Chapitre IV : Attributions
@@ -7144,7 +7142,7 @@ et II du présent livre et aux livres III et IV qu'il constate de la part des ge
 de distribution d'électricité, des opérateurs des ouvrages de transport ou de distribution de gaz naturel ou des exploitants
 des installations de stockage de gaz naturel ou des installations de gaz naturel liquéfié ou des exploitants de réseaux de
 transport et de stockage géologique de dioxyde de carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y
-compris les fournisseurs d'électricité, dans les conditions fixées aux articles suivants. 
+compris les fournisseurs d'électricité ou de gaz naturel, dans les conditions fixées aux articles suivants. 
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
 l'énergie, ou à la demande du président de la Commission de régulation de l'énergie, sanctionner les manquements répétés
@@ -7159,12 +7157,11 @@ Le comité de règlement des différends et des sanctions peut également, soit 
 l'énergie ou de l'environnement, d'une organisation professionnelle, du président de la Commission de régulation de
 l'énergie, de l'Agence de coopération des régulateurs de l'énergie instituée par le règlement (CE) n° 713/2009 du Parlement
 européen et du Conseil du 13 juillet 2009 instituant une agence de coopération des régulateurs de l'énergie ou de toute autre
-personne concernée, sanctionner les manquements aux règles définies aux articles 3,4 et 5 du règlement (UE) n° 1227/2011 du
-Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de
-l'électricité ou tout autre manquement de nature à porter gravement atteinte au fonctionnement du marché de l'énergie, y
+personne concernée, sanctionner les manquements aux règles définies aux articles 3, 4, 5, 8, 9 et 15 du règlement (UE) n°
+1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros
+de l'énergie ou tout autre manquement de nature à porter gravement atteinte au fonctionnement du marché de l'énergie, y
 compris du mécanisme d'obligation de capacité mentionné à l'article L. 335-2 du présent code, qu'il constate de la part de
-toute personne, dont les gestionnaires de réseau de transport, qui effectue des transactions, y compris des ordres, sur un ou
-plusieurs marchés de gros de l'énergie, dans les conditions fixées aux articles L. 134-26 à L. 134-34.
+toute personne concernée, dans les conditions fixées aux articles L. 134-26 à L. 134-34.
 
 **Liens relatifs à cet article**
 
@@ -7174,8 +7171,7 @@ plusieurs marchés de gros de l'énergie, dans les conditions fixées aux articl
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 21
-	  - Loi n°2013-312 du 15 avril 2013 - art. 22
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
 
 	**Cite**:
 
@@ -7187,7 +7183,7 @@ plusieurs marchés de gros de l'énergie, dans les conditions fixées aux articl
 	**Cité par**:
 
 	  - Code de l'énergie - art. L134-26 (V)
-	  - Code de l'énergie - art. L134-28 (M)
+	  - Code de l'énergie - art. L134-28 (V)
 	  - Code de l'énergie - art. L134-29 (V)
 	  - Code de l'énergie - art. L135-12 (V)
 
@@ -7199,26 +7195,22 @@ l'exercice de ce droit ou en cas de manquement d'un gestionnaire, d'un opérateu
 réseau, d'un ouvrage ou d'une installation mentionnés à l'article L. 134-19, à une disposition législative ou réglementaire
 relative à l'accès auxdits réseaux, ouvrages et installations ou à leur utilisation, à une décision prise par la Commission
 de régulation de l'énergie ou à une règle d'imputation, à un périmètre ou à un principe approuvés par elle en application des
-dispositions de la section 6 du chapitre Ier du titre Ier du livre Ier, ou aux règles et obligations mentionnées au deuxième
-alinéa de l'article L. 134-25, le président du comité désigne le membre du comité chargé de mettre, le cas échéant, l'auteur
-de l'abus, de l'entrave ou du manquement en demeure de se conformer à ces dispositions législatives ou réglementaires ou à
-ces décisions ou règles et obligations dans un délai déterminé. Il peut rendre publique cette mise en demeure. Est regardé
-comme un abus du droit d'accès régulé à l'électricité nucléaire historique tout achat d'électricité nucléaire historique dans
-le cadre du dispositif d'accès régulé à celle-ci sans intention de constituer un portefeuille de clients y ouvrant droit, en
-particulier tout achat de quantités d'électricité nucléaire historique excédant substantiellement celles nécessaires à
-l'approvisionnement de sa clientèle et sans rapport avec la réalité du développement de son activité et les moyens consacrés
-à celui-ci, et plus généralement toute action participant directement ou indirectement au détournement des capacités
-d'électricité nucléaire historique à prix régulé.
+dispositions de la section 6 du chapitre Ier du titre Ier du livre Ier, ou aux règles et obligations mentionnées aux premier
+et deuxième alinéas de l'article L. 134-25, le président du comité désigne le membre du comité chargé de mettre, le cas
+échéant, l'auteur de l'abus, de l'entrave ou du manquement en demeure de se conformer à ces dispositions législatives ou
+réglementaires ou à ces décisions ou règles et obligations dans un délai déterminé. Il peut rendre publique cette mise en
+demeure. Est regardé comme un abus du droit d'accès régulé à l'électricité nucléaire historique tout achat d'électricité
+nucléaire historique dans le cadre du dispositif d'accès régulé à celle-ci sans intention de constituer un portefeuille de
+clients y ouvrant droit, en particulier tout achat de quantités d'électricité nucléaire historique excédant substantiellement
+celles nécessaires à l'approvisionnement de sa clientèle et sans rapport avec la réalité du développement de son activité et
+les moyens consacrés à celui-ci, et plus généralement toute action participant directement ou indirectement au détournement
+des capacités d'électricité nucléaire historique à prix régulé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Modifié par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
 
 	**Cité par**:
 
@@ -7231,6 +7223,10 @@ d'électricité nucléaire historique à prix régulé.
 	  - Code de l'énergie - art. L335-7 (V)
 	  - Code de l'énergie - art. R134-30 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+
 	**Cite**:
 
 	  - Code de l'énergie - art. L134-19
@@ -7241,14 +7237,16 @@ d'électricité nucléaire historique à prix régulé.
 
 Lorsque l'intéressé ne se conforme pas dans les délais fixés à cette mise en demeure ou en cas de manquement constaté dans
 les conditions prévues à l'article L. 135-12, et après l'envoi d'une notification des griefs à l'intéressé, le comité peut
-prononcer à son encontre, en fonction de la gravité du manquement : 
+prononcer à son encontre, en fonction de la gravité du manquement :
 
-1° Soit une interdiction temporaire d'accès aux réseaux, ouvrages et installations mentionnés à l'article L. 134-19 pour une
-durée n'excédant pas un an ; 
+1° Soit une interdiction temporaire, pour une durée n'excédant pas un an, de l'accès aux réseaux, ouvrages et installations
+mentionnés à l'article L. 134-19 ou, en cas de manquement aux articles 3, 4 ou 5 du règlement (UE) n° 1227/2011 du Parlement
+européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie, de
+l'exercice de tout ou partie des activités professionnelles des personnes concernées ; 
 
 2° Soit, si le manquement n'est pas constitutif d'une infraction pénale, une sanction pécuniaire, dont le montant est
 proportionné à la gravité du manquement, à la situation de l'intéressé, à l'ampleur du dommage et aux avantages qui en sont
-tirés. 
+tirés.
 
 Ce montant ne peut excéder 3 % du chiffre d'affaires hors taxes lors du dernier exercice clos, porté à 5 % en cas de nouvelle
 violation de la même obligation dans le cas d'un manquement aux obligations de transmission d'informations ou de documents ou
@@ -7259,7 +7257,7 @@ l'article L. 135-1. A défaut d'activité permettant de déterminer ce plafond, 
 Dans le cas des autres manquements, il ne peut excéder 8 % du chiffre d'affaires hors taxes lors du dernier exercice clos,
 porté à 10 % en cas de nouvelle violation de la même obligation. A défaut d'activité permettant de déterminer ce plafond, le
 montant de la sanction ne peut excéder 150 000 euros, porté à 375 000 euros en cas de nouvelle violation de la même
-obligation. 
+obligation.
 
 Si le manquement a déjà fait l'objet d'une sanction pécuniaire au titre d'une autre législation, la sanction pécuniaire
 éventuellement prononcée par le comité est limitée de sorte que le montant global des sanctions pécuniaires ne dépasse pas le
@@ -7273,14 +7271,14 @@ montant le plus élevé de l'une des sanctions encourues.
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 21
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. L133-1 (V)
 	  - Code de l'énergie - art. L134-28 (V)
 	  - Code de l'énergie - art. L134-29 (V)
-	  - Code de l'énergie - art. L134-31 (M)
+	  - Code de l'énergie - art. L134-31 (V)
 
 	**Cite**:
 
@@ -7292,29 +7290,26 @@ montant le plus élevé de l'une des sanctions encourues.
 ###### Article L134-28
 
 Les sanctions énumérées à l'article L. 134-27 sont également encourues lorsque le gestionnaire, l'opérateur, l'exploitant ou
-l'utilisateur d'un réseau, d'un ouvrage ou d'une installation ou le fournisseur d'électricité mentionné à l'article L. 134-25
-ne s'est pas conformé dans les délais requis à une décision prise par le comité en application de l'article L. 134-20, sans
-qu'il y ait lieu de le mettre préalablement en demeure.
+l'utilisateur d'un réseau, d'un ouvrage ou d'une installation ou le fournisseur d'électricité ou de gaz naturel mentionné à
+l'article L. 134-25 ne s'est pas conformé dans les délais requis à une décision prise par le comité en application des
+articles L. 134-20 et L. 134-22, sans qu'il y ait lieu de le mettre préalablement en demeure.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 40 (Ab), alinéa 6
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L134-20 (V)
-	  - Code de l'énergie - art. L134-25 (V)
-	  - Code de l'énergie - art. L134-27 (V)
+	  - Code de l'énergie - art. L134-22 (V)
+	  - Code de l'énergie - art. L134-25 (M)
+	  - Code de l'énergie - art. L134-27
 
 	**Cité par**:
 
@@ -7393,9 +7388,10 @@ du titre III du livre IV pour le transport du gaz naturel.
 ###### Article L134-31
 
 Les sanctions énumérées à l'article L. 134-27 sont prononcées après que le gestionnaire, l'opérateur, l'exploitant ou
-l'utilisateur d'un réseau, d'un ouvrage ou d'une installation ou le fournisseur d'électricité ou de gaz naturel a reçu
-notification des griefs et a été mis à même de consulter le dossier et de présenter ses observations écrites et verbales,
-assisté par une personne de son choix.
+l'utilisateur d'un réseau, d'un ouvrage ou d'une installation, le fournisseur d'électricité ou de gaz naturel ou toute
+personne qui effectue ou organise des transactions sur un ou plusieurs marchés de gros de l'énergie ou portant sur des
+garanties de capacités mentionnées à l'article L. 335-2 a reçu notification des griefs et a été mis à même de consulter le
+dossier et de présenter ses observations écrites et verbales, assisté par une personne de son choix.
 
 **Liens relatifs à cet article**
 
@@ -7405,11 +7401,11 @@ assisté par une personne de son choix.
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-27
+	  - Code de l'énergie - art. L134-27 (V)
 
 	**Cité par**:
 
