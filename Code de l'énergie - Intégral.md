@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-04-16
+Version Consolidée au 2016-04-30
 
 # Partie législative
 
@@ -9184,22 +9184,18 @@ l'exercice de leur mission dans les conditions prévues aux articles L. 142-22 �
 
 Le ministre chargé de l'énergie et le ministre chargé de l'économie disposent, pour la mise en œuvre des compétences qui leur
 sont attribuées par les dispositions des livres Ier, III et IV du présent code relatives au marché de l'électricité et du
-marché du gaz, d'un pouvoir d'enquête dans les conditions fixées par les articles L. 142-22 à L. 142-29.
+marché du gaz et par les dispositions du livre V relatives à l'utilisation de l'énergie hydraulique, d'un pouvoir d'enquête
+dans les conditions fixées par les articles L. 142-22 à L. 142-29.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 33 (VT), I, alinéa 1, ecqc le gouvernement
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 31 (MMN) I
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 	**Cité par**:
 
@@ -9212,7 +9208,7 @@ marché du gaz, d'un pouvoir d'enquête dans les conditions fixées par les arti
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L142-22 (V)
+	  - Code de l'énergie - art. L142-22
 
 
 ###### Article L142-21
@@ -9535,7 +9531,7 @@ détention autorisant la visite.
 
 ###### Article L142-30
 
-Les manquements mentionnés aux titres II et III du présent livre et des livres III et IV du présent code relatifs aux
+Les manquements mentionnés aux titres II et III du présent livre et des livres III, IV et V du présent code relatifs aux
 secteurs de l'électricité et du gaz qui sont susceptibles de faire l'objet d'une sanction administrative sont constatés par
 les fonctionnaires et agents mentionnés aux articles L. 142-22 à L. 142-29. 
 
@@ -9548,10 +9544,6 @@ des droits prévus à l'article L. 142-33.
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -9575,10 +9567,14 @@ des droits prévus à l'article L. 142-33.
 	  - Code de l'énergie - art. R142-19 (V)
 	  - Code de l'énergie - art. R142-20 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L142-22 (V)
-	  - Code de l'énergie - art. L142-33 (V)
+	  - Code de l'énergie - art. L142-22
+	  - Code de l'énergie - art. L142-33
 
 
 ###### Article L142-31
@@ -9757,9 +9753,10 @@ d'une publication au Journal officiel de la République française. La décision
 ###### Article L142-37
 
 Sont qualifiés pour procéder, dans l'exercice de leurs fonctions, à la recherche et à la constatation des infractions aux
-dispositions des livres Ier, III et IV du présent code relatives aux secteurs de l'électricité et du gaz, outre les officiers
-et agents de police judiciaire, les fonctionnaires et agents publics habilités par le ministre chargé de l'énergie mentionnés
-à l'article L. 142-21 et assermentés dans des conditions définies par décret en Conseil d'Etat. 
+dispositions des livres Ier, III, IV et V du présent code relatives aux secteurs de l'électricité, du gaz, et des concessions
+hydrauliques et du gaz, outre les officiers et agents de police judiciaire, les fonctionnaires et agents publics habilités
+par le ministre chargé de l'énergie mentionnés à l'article L. 142-21 et assermentés dans des conditions définies par décret
+en Conseil d'Etat. 
 
 Pour la recherche et la constatation de ces infractions, ces fonctionnaires et agents disposent des pouvoirs d'enquête
 définis à l'article L. 142-21. 
@@ -9774,21 +9771,17 @@ peut s'opposer à ces opérations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 43 (Ab), ecqc le Gouvernement
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L142-21 (V)
+	  - Code de l'énergie - art. L142-21
 
 	**Cité par**:
 
@@ -22866,19 +22859,19 @@ décret.
 Sous réserve des dispositions de l'article L. 511-4, nul ne peut disposer de l'énergie des marées, des lacs et des cours
 d'eau, quel que soit leur classement, sans une concession ou une autorisation de l'Etat.
 
+Toutefois, les installations de production d'électricité à partir d'énergie renouvelable implantées sur le domaine public
+maritime naturel ou en zone économique exclusive, à l'exception des barrages utilisant l'énergie marémotrice, sont dispensées
+des régimes de concession ou d'autorisation au titre du présent livre.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 1 (Ab), alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 5
 
 	**Cité par**:
 
@@ -22886,7 +22879,7 @@ d'eau, quel que soit leur classement, sans une concession ou une autorisation de
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L511-4 (V)
+	  - Code de l'énergie - art. L511-4
 
 
 ###### Article L511-2
@@ -23230,44 +23223,53 @@ Le recours à cette procédure doit être autorisé par un décret en Conseil d'
 	  - Code civil - art. 2060
 
 
-#### Chapitre II : La constatation des infractions et les sanctions pénales
+#### Chapitre II : Les sanctions
 
-
-##### Section 1 : La constatation des infractions
+##### Section 1 : Les sanctions pénales
 
 ###### Article L512-1
 
-Les fonctionnaires et agents habilités par l'autorité administrative et assermentés en application de l'article L. 142-21
-sont qualifiés pour procéder, dans l'exercice de leurs fonctions, à la recherche et à la constatation des infractions au
-présent livre. 
+I.-Le fait d'exploiter une installation hydraulique placée sous le régime de la concession sans être titulaire d'un contrat
+de concession est puni d'un an d'emprisonnement et d'une amende de 150 000 €, sans préjudice des sanctions administratives
+mentionnées aux articles L. 311-14 et L. 311-15. 
 
-Pour la recherche et la constatation de ces infractions, ces fonctionnaires et agents disposent des pouvoirs d'enquête
-définis aux articles L. 142-21 et suivants. 
+II.-Le fait de ne pas se conformer à une mise en demeure édictée en application de l'article L. 142-31 ou de l'article L.
+311-15 est puni d'un an d'emprisonnement et d'une amende de 75 000 €. 
 
-Les infractions pénales prévues par le présent chapitre sont constatées par des procès-verbaux qui sont adressés, sous peine
-de nullité, dans les cinq jours qui suivent leur clôture, au procureur de la République. Une copie en est remise dans le même
-délai à l'intéressé. Ces procès-verbaux font foi jusqu'à preuve contraire. 
+III.-Le fait pour le concessionnaire de ne pas respecter les obligations prévues aux articles L. 511-7, L. 521-4, L. 521-5 ou
+L. 521-6 et aux dispositions réglementaires prises pour leur application, lorsque ce non-respect a pour effet de porter une
+atteinte grave à la santé ou à la sécurité des personnes ou aux milieux aquatiques, est puni de deux ans d'emprisonnement et
+d'une amende de 75 000 €. 
 
-Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions. Il
-peut s'y opposer.
+IV.-Sans préjudice des sanctions administratives mentionnées aux articles L. 311-14 et L. 311-15, le titulaire d'une
+autorisation mentionnée au I de l'article L. 531-1 ne respectant pas les obligations prévues par les articles L. 214-1 à L.
+214-11 du code de l'environnement et les dispositions réglementaires prises pour leur application encourt les sanctions
+pénales prévues aux articles L. 173-1 et suivants du code de l'environnement. 
+
+V.-Pour l'application du présent article, les installations concédées d'une puissance inférieure à 4 500 kilowatts sont
+assimilées à des entreprises hydrauliques autorisées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 16 octobre 1919 - art. 32-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L142-21 (V)
+	  - Code de l'environnement - art. L173-1 (V)
+	  - Code de l'environnement - art. L214-1 (V)
+	  - Code de l'énergie - art. L142-31 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L311-15 (V)
+	  - Code de l'énergie - art. L511-7 (V)
+	  - Code de l'énergie - art. L521-4 (V)
+	  - Code de l'énergie - art. L521-5 (V)
+	  - Code de l'énergie - art. L531-1 (V)
 
 	**Cité par**:
 
@@ -23275,25 +23277,14 @@ peut s'y opposer.
 	  - Code de l'énergie - art. L512-3 (V)
 
 
-##### Section 2 : Les sanctions
-
 ###### Article L512-2
 
-I. - Est puni d'une amende de 75 000 euros le fait : 
+En cas de condamnation prononcée en application du I de l'article L. 512-1, le tribunal fixe, le cas échéant, le délai
+imparti à l'exploitant pour faire cesser l'irrégularité ou mettre en conformité l'installation irrégulière et peut assortir
+cette injonction d'une astreinte d'un montant maximum de 300 euros par jour de retard. 
 
-1° D'exploiter une installation hydraulique sans concession, sans préjudice des sanctions administratives mentionnées aux
-articles L. 311-14 et L. 311-15 ; 
-
-2° De ne pas respecter pour le concessionnaire les dispositions du présent livre ou les prescriptions du cahier des charges. 
-
-II. - Les sanctions applicables au non-respect du régime d'autorisation mentionné au I de l'article L. 531-1 du présent code
-sont celles prévues au titre Ier du livre II du code de l'environnement, sans préjudice des sanctions administratives
-mentionnées aux articles L. 311-14 et L. 311-15 du présent code. 
-
-III. - (Abrogé). 
-
-IV. - Les installations concédées d'une puissance inférieure à 4 500 kilowatts sont assimilées à des entreprises hydrauliques
-autorisées pour l'application du présent article.
+L'astreinte est recouvrée dans les conditions prévues par les dispositions relatives au recouvrement des produits de l'Etat
+au profit du Trésor public.
 
 **Liens relatifs à cet article**
 
@@ -23309,22 +23300,21 @@ autorisées pour l'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-14
-	  - Code de l'énergie - art. L531-1 (V)
+	  - Code de l'énergie - art. L512-1 (V)
 
+
+##### Section 2 : Les sanctions administratives
 
 ###### Article L512-3
 
-En cas de condamnation prononcée en application du I de l'article L. 512-2, le tribunal fixe, le cas échéant, le délai
-imparti à l'exploitant pour faire cesser l'irrégularité ou mettre en conformité l'installation irrégulière qu'il peut
-assortir d'une astreinte, par jour de retard. 
-
-L'astreinte est recouvrée dans les conditions prévues par les dispositions relatives au recouvrement des produits de l'Etat
-au profit du Trésor public.
+L'autorité administrative peut prononcer, dans le respect de la procédure et des garanties prévues aux articles L. 142-30 et
+L. 142-33 à L. 142-36, les sanctions prévues aux articles L. 142-31, L. 311-14 et L. 311-15 lorsque les manquements constatés
+aux obligations du présent livre ou aux dispositions réglementaires prises pour leur application ne font pas l'objet des
+poursuites pénales prévues à l'article L. 512-1.
 
 **Liens relatifs à cet article**
 
@@ -23334,11 +23324,128 @@ au profit du Trésor public.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L512-2
+	  - Code de l'énergie - art. L142-30 (V)
+	  - Code de l'énergie - art. L142-31 (V)
+	  - Code de l'énergie - art. L142-33 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L512-1 (V)
+
+
+##### Section 3 : Dispositions diverses
+
+###### Article L512-4
+
+Les dispositions du présent chapitre s'appliquent également à la concession créée par la loi du 27 mai 1921 approuvant le
+programme des travaux d'aménagement du Rhône, de la frontière suisse à la mer, au triple point de vue des forces motrices, de
+la navigation et des irrigations et autres utilisations agricoles, et créant les ressources financières correspondantes. Les
+infractions et manquements aux obligations légales et réglementaires qui s'imposent à cette concession en vertu du présent
+livre peuvent être constatées et sanctionnées dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 27 mai 1921 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 1
+
+
+#### Chapitre III : La protection du domaine hydroélectrique concédé
+
+###### Article L513-1
+
+I.-Toute atteinte à l'intégrité, à l'utilisation et à la conservation du domaine public hydroélectrique concédé ou de nature
+à compromettre son usage ou toute atteinte à une servitude administrative mentionnée aux articles L. 521-8 et L. 521-9
+constitue une contravention de grande voirie. 
+
+II.-Le domaine public hydroélectrique concédé est constitué de l'ensemble des terrains, ouvrages ou installations, cours
+d'eau et lacs compris dans le périmètre d'une concession hydraulique, sans préjudice du classement de certains de ces
+éléments dans le domaine public fluvial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L513-4 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L521-8 (V)
+
+
+###### Article L513-2
+
+Les contraventions de grande voirie sont constatées, poursuivies et réprimées par voie administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 2
+
+
+###### Article L513-3
+
+Outre les agents mentionnés à l'article L. 2132-21 du code général de la propriété des personnes publiques, les
+fonctionnaires et agents de l'Etat habilités conformément à l'article L. 142-21 et les agents assermentés du concessionnaire
+ont compétence, sous le contrôle et la direction des services de l'Etat, pour constater les contraventions en matière de
+grande voirie mentionnées à l'article L. 513-1 et dans les textes pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2132-21
+	  - Code de l'énergie - art. L142-21 (V)
+
+
+###### Article L513-4
+
+I. - La procédure est celle prévue à l'article L. 2132-20 du code général de la propriété des personnes publiques. 
+
+II. - Sont applicables à la constatation de ces contraventions les dispositions du dernier alinéa de l'article L. 2132-24 du
+code général de la propriété des personnes publiques. 
+
+III. - Les personnes condamnées sont tenues de réparer les atteintes mentionnées à l'article L. 513-1. Elles supportent les
+frais des mesures provisoires et urgentes que l'Etat ou le concessionnaire a pu être conduit à prendre pour faire cesser le
+trouble apporté au domaine public par les infractions constatées. 
+
+IV. - Sans préjudice de l'article L. 2132-27 du code général de la propriété des personnes publiques, les atteintes au
+domaine public hydroélectrique concédé constatées conformément au présent chapitre sont passibles d'une amende de 150 € à 12
+000 €, sous réserve de ne pas avoir fait l'objet de l'une des amendes prévues aux articles L. 2132-5 à L. 2132-9 du même
+code. 
+
+Les dispositions de l'article L. 2132-28 de ce code sont applicables aux amendes prononcées en application du présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 2
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2132-20 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-24 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-27 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-28 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-5 (V)
+	  - Code de l'énergie - art. L513-1 (V)
 
 
 ### TITRE II : LES DISPOSITIONS RELATIVES  AUX INSTALLATIONS HYDRAULIQUES CONCEDEES
@@ -23548,8 +23655,9 @@ indemnisation pour ce motif.
 
 ###### Article L521-7
 
-Les travaux nécessaires à l'établissement et à l'entretien des ouvrages de la concession peuvent être, sur demande du
-concédant ou du concessionnaire, déclarés d'utilité publique par l'autorité administrative.
+Pour l'exécution des obligations afférentes à la concession, notamment pour les travaux nécessaires à l'établissement et à
+l'entretien des ouvrages de la concession, le concédant ou le concessionnaire peut demander à bénéficier d'une déclaration
+d'utilité publique prononcée par l'autorité administrative.
 
 La déclaration d'utilité publique est précédée d'une étude d'impact et d'une enquête publique lorsque la nécessité en résulte
 des dispositions du chapitre II ou du chapitre III du titre II du livre Ier du code de l'environnement.
@@ -23559,17 +23667,13 @@ publique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 15 juin 1906 - art. 12 (VT), alinéa 1 et alinéa 2, ecqc l'hydraulique
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 3
 
 	**Cité par**:
 
@@ -23578,36 +23682,27 @@ publique.
 
 ###### Article L521-8
 
-La déclaration d'utilité publique confère au concessionnaire le droit :
+La déclaration d'utilité publique confère au concessionnaire le droit : 
 
 1° D'occuper, dans l'intérieur du périmètre défini par l'acte de concession, les propriétés privées nécessaires à
-l'établissement des ouvrages de retenue ou de prise d'eau et des canaux d'adduction ou de fuite lorsque ces canaux sont
-souterrains ou, s'ils sont à ciel ouvert, en se conformant aux dispositions du chapitre II du titre IV du livre Ier du code
-rural et de la pêche maritime ;
+l'établissement ou à l'exploitation des ouvrages de retenue ou de prise d'eau et des canaux d'adduction ou de fuite lorsque
+ces canaux sont souterrains ou, s'ils sont à ciel ouvert, en se conformant aux dispositions du chapitre II du titre IV du
+livre Ier du code rural et de la pêche maritime ; 
 
-2° De submerger les berges par le relèvement du plan d'eau ;
+2° De submerger les berges par le relèvement du plan d'eau ; 
 
-3° Pour la restitution de l'énergie sous forme électrique, d'instituer des servitudes d'appui, de passage et d'ébranchage.
+3° Pour la restitution de l'énergie sous forme électrique, d'instituer des servitudes d'appui, de passage et d'ébranchage. 
 
 S'il s'agit d'une usine de plus de 10 000 kilowatts, la déclaration d'utilité publique investit, en outre, le
 concessionnaire, pour l'exécution des travaux déclarés d'utilité publique, de tous les droits que les lois et règlements
 confèrent à l'administration en matière de travaux publics. Le concessionnaire demeure en même temps soumis à toutes les
-obligations qui dérivent, pour l'administration, de ces lois et règlements.
+obligations qui dérivent, pour l'administration, de ces lois et règlements. 
 
 Sont exemptés les bâtiments, cours et jardins attenant aux habitations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 15 juin 1906 - art. 12 (VT), alinéa 3 à alinéa 7, ecqc l'hydraulique
-	  - Loi du 16 octobre 1919 - art. 4 (Ab), alinéas 1 à 5
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -23623,6 +23718,14 @@ Sont exemptés les bâtiments, cours et jardins attenant aux habitations.
 	  - Code de l'énergie - art. R521-41 (M)
 	  - Code de l'énergie - art. R521-50 (V)
 	  - Code général des impôts, CGI. - art. 1963 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code rural -  Chapitre II : Opérations immobilières et mobili... (V)
 
 
 ###### Article L521-9
@@ -23851,12 +23954,18 @@ définitivement fin à la concession à la date normale de son expiration, soit 
 l'expiration.
 
 La nouvelle concession doit être instituée au plus tard le jour de l'expiration du titre en cours, c'est-à-dire soit à la
-date normale d'expiration, soit si l'alinéa suivant est mis en œuvre à la nouvelle date déterminée selon les dispositions de
+date normale d'expiration, soit si le dernier alinéa est mis en œuvre à la nouvelle date déterminée selon les dispositions de
 cet alinéa. A défaut, pour assurer la continuité de l'exploitation, ce titre est prorogé aux conditions antérieures jusqu'au
 moment où est délivrée la nouvelle concession.
 
-A défaut par l'autorité administrative d'avoir, avant cette date, notifié sa décision au concessionnaire, la concession
-actuelle est prorogée aux conditions antérieures, mais pour une durée équivalente au dépassement.
+Dans le cas où l'autorité administrative décide de mettre définitivement fin à une concession dont la puissance est
+inférieure au seuil mentionné au premier alinéa de l'article L. 511-5, la concession actuelle est, en vue d'assurer la
+continuité de l'exploitation, prorogée aux conditions antérieures jusqu'à la délivrance d'une autorisation ou à la
+notification de la décision de l'autorité administrative de cesser l'exploitation de l'installation hydraulique.
+
+A défaut par l'autorité administrative d'avoir, trois ans avant la date d'expiration de la concession, notifié au
+concessionnaire la décision prise en application du deuxième alinéa, la concession actuelle est prorogée aux conditions
+antérieures, mais pour une durée équivalente au dépassement.
 
 **Liens relatifs à cet article**
 
@@ -23866,7 +23975,7 @@ actuelle est prorogée aux conditions antérieures, mais pour une durée équiva
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
+	  - Ordonnance n°2016-518 du 28 avril 2016 - art. 4
 
 	**Cité par**:
 
@@ -23875,7 +23984,7 @@ actuelle est prorogée aux conditions antérieures, mais pour une durée équiva
 	  - Code de l'énergie - art. L521-16-1 (V)
 	  - Code de l'énergie - art. L521-16-2 (V)
 	  - Code de l'énergie - art. L521-18 (T)
-	  - Code de l'énergie - art. L521-20 (VD)
+	  - Code de l'énergie - art. L521-20 (V)
 	  - Code de l'énergie - art. R521-2 (V)
 	  - Code de l'énergie - art. R521-53 (V)
 	  - Code de l'énergie - art. R521-57 (V)
