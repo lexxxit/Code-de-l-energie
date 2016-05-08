@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-05-09
 
 # Partie législative
 
@@ -31172,6 +31172,673 @@ vaut reconduction pour l'année suivante.
 	  - Code de l'énergie - art. R123-1 (Ab)
 	  - Code de l'énergie - art. R123-2 (Ab)
 	  - Code de l'énergie - art. R123-4 (Ab)
+
+
+#### Chapitre IV : La protection des consommateurs en situation de précarité énergétique
+
+###### Article R124-1
+
+Le bénéfice du chèque énergie est ouvert aux ménages dont le revenu fiscal de référence annuel par unité de consommation est
+inférieur à 7 700 euros, au titre de leur résidence principale. Ce montant peut être réévalué par arrêté des ministres
+chargés de l'économie et de l'énergie.
+
+Au sens du présent chapitre, le ménage désigne une ou plusieurs personnes physiques qui ont, au 1er janvier de l'année de
+l'imposition, la disposition ou la jouissance d'un local imposable à la taxe d'habitation prévue à l'article 1407 du code
+général des impôts. Le revenu fiscal de référence du ménage est la somme des revenus fiscaux de référence des contribuables
+ayant la disposition ou la jouissance du local.
+
+La première ou seule personne du ménage constitue une unité de consommation. La deuxième personne est prise en compte pour
+0,5 unité de consommation. Chaque personne supplémentaire est prise en compte pour 0,3 unité de consommation.
+
+Ces valeurs sont réduites de moitié pour les enfants mineurs en résidence alternée au domicile de chacun des parents
+lorsqu'ils sont réputés à la charge égale de l'un ou de l'autre parent en application du quatrième alinéa du I de l'article
+194 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1407
+	  - Code général des impôts, CGI. - art. 194
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R124-2 (VD)
+	  - Code de l'énergie - art. R124-7 (V)
+
+
+###### Article R124-2
+
+Le chèque énergie est émis au titre d'une année civile, sur un support papier ou sous forme dématérialisée. Sa valeur faciale
+est déterminée en fonction des revenus et de la composition du ménage, tels que définis à l'article R. 124-1. 
+
+Le chèque émis au titre d'une année civile comporte une échéance au 31 mars de l'année civile suivante. 
+
+Le chèque énergie est accompagné d'attestations, sous format papier ou dématérialisé, permettant, le cas échéant, de faire
+valoir les droits associés au bénéfice du chèque énergie, dans les conditions précisées à l'article R. 124-16. Ces
+attestations comportent une échéance d'utilisation correspondant au 30 avril suivant l'année civile de leur émission.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-780 du 13 août 2008 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-1
+	  - Code de l'énergie - art. R124-16
+
+
+###### Article R124-3
+
+La  valeur faciale du chèque énergie (TTC) est définie comme suit, selon le  revenu fiscal de référence (RFR) du ménage et le
+nombre d'unités de  consommation (UC) : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+</th>
+          <th colspan="3">
+
+NIVEAU DE RFR/ UC 
+
+</th>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="center">
+
+RFR/ UC < 5 600 € 
+
+</td>
+          <td align="center">
+
+5 600 € ≤ RFR/ UC < 6 700 € 
+
+</td>
+          <td align="center">
+
+6 700 € ≤ RFR/ UC < 7 700 € 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+1 UC 
+
+</td>
+          <td align="center">
+
+144 € 
+
+</td>
+          <td align="center">
+
+96 € 
+
+</td>
+          <td align="center">
+
+48 € 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+1 < UC < 2 
+
+</td>
+          <td align="center">
+
+190 € 
+
+</td>
+          <td align="center">
+
+126 € 
+
+</td>
+          <td align="center">
+
+63 € 
+
+</td>
+        </tr>
+        <tr>
+          <td align="justify">
+
+2 UC ou + 
+
+</td>
+          <td align="center">
+
+227 € 
+
+</td>
+          <td align="center">
+
+152 € 
+
+</td>
+          <td align="center">
+
+76 € 
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+Ces valeurs peuvent être modifiées par arrêté des ministres chargés de l'économie et de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+
+###### Article R124-4
+
+I. - Le chèque énergie permet d'acquitter à hauteur de sa valeur faciale, en tout ou en partie :
+
+- une dépense de fourniture d'énergie liée au logement ;
+
+- sous réserve des dispositions propres à certaines résidences sociales prévues à l'article R. 124-5, le montant acquitté
+pour l'occupation d'un logement dans un logement-foyer mentionné à l'article L. 633-1 du code de la construction et de
+l'habitation qui fait l'objet de la convention prévue à l'article L. 351-2 du même code ;
+
+- une dépense liée à l'acquisition ou à l'installation dans le logement des équipements, matériaux et appareils qui ouvrent
+droit au crédit d'impôt mentionné à l'article 200 quater du code général des impôts. 
+
+II. - Les personnes morales et organismes auxquels est ouvert le remboursement du chèque énergie sont :
+
+- les fournisseurs d'électricité ou de gaz naturel ;
+
+- les fournisseurs de gaz de pétrole liquéfié ;
+
+- les fournisseurs de fioul domestique ;
+
+- les fournisseurs de bois, de biomasse ou d'autres combustibles destinés à l'alimentation d'équipements de chauffage ou
+d'équipements de production d'eau chaude ;
+
+- les gestionnaires de réseaux de chaleur ;
+
+- les gestionnaires des logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation ayant
+conclu la convention prévue à l'article L. 351-2 du même code ;
+
+- les professionnels titulaires d'un signe de qualité mentionné à l'article 46 AX de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 7 juin 2016 - art. 1 (V)
+	  - Arrêté du 7 juin 2016 - art. 2 (V)
+	  - Code de l'énergie - art. R124-12 (V)
+	  - Code de l'énergie - art. R124-14 (VD)
+	  - Code de l'énergie - art. R124-6 (VD)
+	  - Code de l'énergie - art. R124-7 (VD)
+	  - Code de l'énergie - art. R124-8 (VD)
+	  - Code de l'énergie - art. R124-9 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AX
+	  - Code général des impôts, CGI. - art. 200 quater
+	  - Code de la construction et de l'habitation. - art. L351-2
+	  - Code de la construction et de l'habitation. - art. L633-1
+	  - Code de l'énergie - art. R124-5
+
+
+###### Article R124-5
+
+I. - La demande adressée par les gestionnaires des résidences sociales à l'Agence de services et de paiement, ou au
+prestataire agissant pour son compte, en vue d'assurer aux occupants de ces résidences le bénéfice de l'aide spécifique
+prévue au cinquième alinéa de l'article L. 124-1, est transmise avant le 1er novembre de chaque année pour l'année suivante
+et accompagnée des documents suivants :
+
+- la convention en cours prévue à l'article L. 351-2 du code de la construction et de l'habitation ;
+
+- l'attestation par les services départementaux de l'Etat que la convention n'a pas été dénoncée, qui précise sa date
+d'expiration. 
+
+L'Agence de services et de paiement accuse réception du dossier complet et fait connaître au demandeur, avant le 1er février
+de chaque année, le montant prévisionnel de l'aide auquel il aura droit pour l'année en cours. 
+
+II. - Le montant de l'aide spécifique versée par l'agence aux gestionnaires de résidences sociales, est établi en fonction du
+nombre de logements occupés de la résidence sociale concernés et sur la base d'un montant unitaire est égal à 144 € (TTC) par
+logement et par an, qui peut être modifié par arrêté conjoint des ministres chargés de l'économie, de l'énergie et du
+logement. 
+
+L'aide est versée en deux parts égales avant le 1er mars et le 1er septembre de chaque année. 
+
+Le montant de cette aide est, après diminution de 5 % au titre des frais de gestion, déduit, pendant une période de douze
+mois à compter de l'échéance du mois d'avril, des redevances mensuelles quittancées aux résidents. 
+
+Le montant de la déduction mensuelle, qui fait l'objet d'une mention spécifique sur l'avis d'échéance adressé au résident, ne
+peut excéder le montant mensuel à acquitter par celui-ci. Le montant de l'aide spécifique qui, le cas échéant, dépasse la
+somme annuelle des redevances mensuelles est déduit du deuxième versement effectué par l'Agence de services et de paiement
+pour l'année en cours, ou reversé par le gestionnaire de la résidence sociale à l'Agence de services et de paiement. 
+
+Avant le 1er mai de chaque année, un bilan de l'utilisation de l'aide au cours de l'année écoulée est adressé par le
+gestionnaire de la résidence sociale à l'Agence de services et de paiement, faisant apparaître les informations suivantes :
+
+- l'identification de la résidence ;
+
+- le nombre de logements concernés ;
+
+- le montant d'aide perçu en euros ;
+
+- le montant des frais de gestion correspondant à 5 % du montant d'aide perçu en euros ;
+
+- le montant à rembourser aux résidents correspondant à 95 % du montant d'aide perçu en euros ;
+
+- les montants effectivement remboursés aux résidents en euros ;
+
+- les montants perçus et non remboursés aux résidents, à déduire du deuxième versement ou à reverser à l'Agence de services
+et de paiement en euros. 
+
+III. - La demande d'aide prévue au I est réputée renouvelée chaque année au 1er novembre, jusqu'à la date d'expiration de la
+convention mentionnée sur l'attestation délivrée par les services de l'Etat. 
+
+Le gestionnaire de la résidence sociale signale toute interruption ou modification de la convention prévue à l'article L.
+351-2 du code de la construction et de l'habitation ainsi que toute évolution du nombre de logements au sein de la résidence.
+A défaut de signalement dans les deux mois suivant la modification, l'Agence de services et de paiements réclame les sommes
+indûment versées au gestionnaire de la résidence sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2
+	  - Code de l'énergie - art. L124-1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R124-4 (VD)
+
+
+###### Article R124-6
+
+L'Agence de services et de paiement mentionnée à l'article L. 313-1 du code rural et de la pêche maritime est chargée, dans
+le cadre d'une convention avec l'Etat : 
+
+1° D'éditer, d'émettre et de distribuer le chèque énergie ; 
+
+2° D'assurer son remboursement aux personnes morales et organismes mentionnés au II de l'article R. 124-4 ; 
+
+3° De constituer et de tenir à jour un répertoire des personnes morales et organismes pouvant accepter le chèque énergie en
+paiement, répondant aux critères du II de l'article R. 124-4 ; 
+
+4° De mettre en place les dispositions propres à assurer la sécurité physique et financière des titres ; 
+
+5° De fournir, d'une part, aux bénéficiaires du chèque énergie, d'autre part, aux personnes ou organismes qui acceptent ce
+chèque, les renseignements pratiques dont ils peuvent avoir besoin, y compris en matière de réclamation ; 
+
+6° De collecter et de restituer au ministre chargé de l'énergie les informations relatives à la mise en œuvre du chèque
+énergie, concernant notamment le nombre de bénéficiaires, le taux d'utilisation du chèque, le type de dépenses acquittées, et
+les coûts de gestion associés. 
+
+Ces missions peuvent être confiées, en tout ou partie, à un ou plusieurs prestataires, sous la responsabilité de l'Agence de
+services et de paiement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L313-1
+	  - Code de l'énergie - art. R124-4
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R124-7 (V)
+
+
+###### Article R124-7
+
+I. - L'administration fiscale adresse chaque année à l'Agence de services et de paiement, par voie électronique, le fichier,
+signé électroniquement, des ménages remplissant les conditions prévues à l'article R. 124-1 ; il comporte pour chacun d'eux
+les informations suivantes :
+
+- le nom et le prénom de la ou des personnes composant le ménage, correspondant à la ou aux personnes au nom desquelles
+l'imposition à la taxe d'habitation est établie ;
+
+- le nombre d'unités de consommation de chaque ménage bénéficiaire, calculé conformément à l'article 1er du présent décret ;
+
+- l'adresse postale de chaque ménage bénéficiaire ainsi que son adresse de taxation ;
+
+- un indicateur permettant de classer chaque ménage bénéficiaire par tranche de revenu et par unité de consommation ;
+
+- l'identifiant fiscal national individuel des contribuables constituant le ménage, dit “ numéro SPI ” ;
+
+- l'adresse électronique des personnes composant le ménage bénéficiaire du chèque énergie, lorsqu'elle est connue de
+l'administration fiscale. 
+
+L'Agence de services et de paiement peut transmettre ces informations, en tant que de besoin, aux prestataires mentionnés au
+dernier alinéa de l'article R. 124-6. 
+
+L'Agence de services et de paiement attribue les chèques énergie aux ménages bénéficiaires, à l'exception de ceux qui
+bénéficient du dispositif d'aide spécifique prévu à l'article R. 124-5. 
+
+A l'occasion de la distribution du chèque énergie, l'Agence de services et de paiement ou son prestataire informe le
+bénéficiaire de la transmission de ces informations par l'administration fiscale. Elle indique également au bénéficiaire les
+modalités lui permettant de faire valoir auprès d'elle ses droits d'accès, d'opposition ou de rectification, conformément à
+l'article 32 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
+II. - L'agence prend toutes les précautions nécessaires pour préserver la sécurité et la confidentialité des données sont
+prises, en particulier à l'occasion de leur transmission. Les personnes chargées de recueillir et exploiter ces données sont
+tenues à une obligation de confidentialité. 
+
+Les informations transmises par l'administration fiscale ne peuvent être conservées pendant une durée supérieure à vingt-
+quatre mois à compter de leur réception. Toutefois, lorsque le bénéficiaire fait usage du chèque qu'il reçoit, pour le
+paiement d'une dépense mentionnée au I de l'article R. 124-4 ou pour l'échanger contre le titre prévu à l'article R. 124-13,
+les informations qui le concernent sont conservées par l'Agence de services et de paiement conformément aux obligations
+relatives au délai de conservation des pièces justificatives de la dépense publique, en application de l'article 60 de la loi
+n° 63-156 du 23 février 1963 de finances pour 1963 et des articles 52 et 199 du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique. 
+
+III. - Lorsque la situation d'un ménage, au regard de l'administration fiscale, est corrigée et que cette correction permet
+au ménage de satisfaire les critères d'éligibilité prévus à l'article R. 124-1 ou lui donne droit à un montant d'aide plus
+élevé, l'Agence de services et de paiement, sur réclamation de ce ménage et au vu d'un justificatif d'imposition, selon le
+cas émet un chèque énergie ou échange le chèque initialement reçu par le ménage contre un nouveau chèque de la valeur à
+laquelle ce ménage a droit. 
+
+Pour être recevable, la réclamation doit être formulée avant le 31 décembre de l'année suivant l'année au titre de laquelle
+le chèque énergie a été émis ou aurait dû être émis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-156 du 23 février 1963 - art. 60
+	  - Loi n°78-17 du 6 janvier 1978 - art. 32
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 199
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 52
+	  - Code de l'énergie - art. R124-1
+	  - Code de l'énergie - art. R124-4
+	  - Code de l'énergie - art. R124-6
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+
+###### Article R124-8
+
+Le ministre chargé de l'énergie précise par arrêté les pièces que l'Agence de services et de paiement peut demander aux
+personnes morales et organismes concernés pour l'application du II de l'article R. 124-4. 
+
+Les modalités selon lesquelles l'Agence de services et de paiement rembourse les personnes morales et organismes acceptant le
+chèque énergie sont précisées par voie de conventions entre l'agence et ces personnes et organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 7 juin 2016 (V)
+	  - Arrêté du 7 juin 2016 - art. 1 (V)
+	  - Code de l'énergie - art. R124-10 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-4
+
+
+###### Article R124-9
+
+Les chèques énergie ne peuvent être présentés par leurs bénéficiaires qu'aux personnes morales et organismes mentionnés au II
+de l'article R. 124-4. Ceux-ci ne peuvent les recevoir qu'en paiement d'une dépense mentionnée au I de l'article R. 124-4. 
+
+Ces personnes morales et organismes présentent les titres, accompagnés d'un bordereau de remise valant demande de
+remboursement, à l'Agence de services et de paiement ou au prestataire agissant pour son compte. Cette demande de
+remboursement, qui peut être dématérialisée, atteste de l'utilisation du chèque pour le paiement d'une dépense prévue au I de
+l'article R. 124-4. 
+
+Sur la base des conventions passées avec les personnes morales et organismes ou des demandes de remboursement accompagnées
+des bordereaux de remise de chèques, l'Agence de services et de paiement effectue le paiement par virement bancaire. Le
+paiement est effectué dans un délai qui ne peut excéder quinze jours à compter de la date de réception d'une demande de
+remboursement conforme, hors délais interbancaires. 
+
+L'Agence de services et de paiement peut demander à la personne morale ou à l'organisme concerné des pièces complémentaires
+attestant de la nature des dépenses qui ont été payées avec un chèque énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-4
+
+
+###### Article R124-10
+
+Le bénéficiaire qui décide d'affecter son chèque énergie au paiement de dépenses d'électricité ou de gaz naturel peut
+demander à l'agence d'affecter directement la valeur du chèque auquel il aura droit les années suivantes au paiement des
+dépenses relevant du même contrat de fourniture. 
+
+Dans ce cas, tant que le ménage reste bénéficiaire du chèque énergie et titulaire du même contrat de fourniture, et sauf
+demande expresse de sa part, l'Agence de services et de paiement verse le montant du chèque énergie au fournisseur concerné.
+La valeur du chèque est déduite par le fournisseur de la ou des factures du bénéficiaire qui suivent ce versement. Pour les
+consommateurs mensualisés, le paiement des mensualités s'effectue selon les mêmes modalités que celles prévues à l'article R.
+124-11. 
+
+Les modalités d'échange, entre l'Agence de services et de paiement et le fournisseur d'électricité ou de gaz naturel, des
+informations nécessaires à l'application du présent article, sont prévues par la convention mentionnée à l'article R. 124-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-11
+	  - Code de l'énergie - art. R124-8
+
+
+###### Article R124-11
+
+I. - L'utilisation du chèque énergie comme moyen de paiement ne peut donner lieu à aucun remboursement en numéraire, ni total
+ni partiel.
+
+II. - Lorsque la valeur du chèque énergie utilisé par un bénéficiaire pour le paiement d'une facture d'électricité ou de gaz
+naturel est supérieure au montant de ladite facture, le trop-perçu est déduit de la ou, le cas échéant, des prochaines
+factures. Cela ne peut donner lieu à remboursement, sauf en cas d'émission d'une facture de clôture telle que prévue par
+l'article L. 121-89 du code de la consommation.
+
+Lorsque le chèque est adressé à un fournisseur en dehors d'une période de facturation, sa valeur est déduite de la facture
+suivante et, si elle est supérieure à son montant, de la ou des factures suivantes. Toutefois, elle est affectée par
+priorité, en totalité ou en partie selon le cas, à une facture antérieure non soldée par le client.
+
+Lorsque le bénéficiaire a opté pour un paiement de sa facture par mensualisation, le fournisseur qui reçoit le chèque énergie
+déduit la valeur du chèque de la première mensualité à échoir, et de la ou des mensualités suivante si la première mensualité
+est inférieure au montant du chèque. Le cas échéant, le montant résiduel est déduit de la facture de régularisation.
+
+III. - Lorsque le chèque énergie est présenté comme moyen de paiement à un gestionnaire de logement-foyer ou à un organisme
+gestionnaire d'habitation à loyer modéré, et que sa valeur est supérieure au montant à acquitter, le trop-perçu est affecté à
+l'échéance suivante. Il ne peut être reversé au résident qu'à l'issue du contrat de location.
+
+IV. - Les dispositions de la première phrase du II du présent article sont applicables au bénéficiaire du chèque énergie qui
+utilise celui-ci pour le paiement d'une dépense relative à la livraison de gaz de pétrole liquéfié livré en vrac. Le trop-
+perçu ne peut donner lieu à remboursement, sauf en cas de résiliation du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la consommation - art. L121-89
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R124-10 (VD)
+	  - Code de l'énergie - art. R124-14 (V)
+
+
+###### Article R124-12
+
+Les personnes morales et organismes mentionnés au II de l'article R. 124-4 ne sont tenues d'accepter un chèque énergie en
+paiement que jusqu'au 31 mars de l'année civile suivant l'année d'émission. 
+
+Les titres ne peuvent être présentés au remboursement que jusqu'au 31 mai de l'année suivant l'année civile de leur
+émission ; les titres présentés après cette date sont définitivement périmés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R124-13 (VD)
+	  - Code de l'énergie - art. R124-15 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-4
+
+
+###### Article R124-13
+
+Le bénéficiaire d'un chèque énergie qui souhaite affecter la valeur de son titre au financement de dépenses d'amélioration de
+la qualité environnementale ou de maîtrise de la consommation d'énergie de son logement peut remettre le chèque non utilisé à
+l'Agence de services et de paiement avant la fin de la période mentionnée au premier alinéa de l'article R. 124-12. Dans ce
+cas, l'Agence de services et de paiement échange gratuitement ce titre contre un titre de même valeur valable uniquement pour
+le financement des dépenses d'amélioration de la qualité environnementale ou de maîtrise de la consommation d'énergie du
+logement comprises parmi celles mentionnées à l'article 200 quater du code général des impôts. 
+
+La durée de validité de ce nouveau titre est augmentée de deux années par rapport à la durée de validité du titre initial
+remis par le bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 quater
+	  - Code de l'énergie - art. R124-12
+
+
+###### Article R124-14
+
+Le fait d'accepter un chèque énergie pour le paiement d'autres dépenses que celles définies au I de l'article R. 124-4, ou de
+contrevenir aux dispositions de l'article R. 124-11 sont punis de l'amende prévue pour les contraventions de la cinquième
+classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-11
+	  - Code de l'énergie - art. R124-4
+
+
+###### Article R124-15
+
+L'Agence de services et de paiement adresse chaque année, avant le 15 juin, au ministre chargé de l'énergie, une déclaration
+mentionnant le montant des dépenses et des frais de gestion, pour l'activité exercée au titre de l'année précédente. Cette
+déclaration précise le nombre et la valeur des chèques non utilisés et non échangés à l'échéance de la durée de validité
+prévue à l'article R. 124-12 ainsi que le nombre et la valeur des chèques échangés et valables pour le financement de travaux
+d'économies d'énergie. Elle est accompagnée d'une estimation des coûts de gestion prévisionnels pour l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R124-12
+
+
+###### Article R124-16
+
+I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
+leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un
+déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement. 
+
+Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues
+aux articles L. 121-8 et L. 121-36. 
+
+II.-Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
+alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 121-92-1 du code de la consommation
+et à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
+d'électricité, de gaz, de chaleur et d'eau, est ouvert à compter du 1er avril de l'année au titre de laquelle la personne a
+bénéficié du chèque énergie et jusqu'au 30 avril de l'année suivante, lorsque celle-ci s'est fait connaître auprès du
+fournisseur concerné, par le règlement d'une facture avec son chèque énergie ou par la transmission à ce fournisseur de
+l'attestation prévue à l'article R. 124-2. 
+
+L'offre de transmission des données de consommation au moyen d'un dispositif déporté d'affichage, prévue à l'article L. 124-5
+du code de l'énergie, est proposée par les fournisseurs d'électricité et de gaz aux ménages bénéficiaires du chèque énergie
+qui se sont fait connaître auprès d'eux dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2008-780 du 13 août 2008 - art. 2 (VT)
+	  - Code de la consommation - art. L121-92-1
+	  - Code de l'action sociale et des familles - art. L115-3
+	  - Code de l'énergie - art. L121-36
+	  - Code de l'énergie - art. L121-8
+	  - Code de l'énergie - art. L124-5
+
+	**Cité par**:
+
+	  - Décret n°2008-780 du 13 août 2008 - art. 1 (V)
+	  - Code de l'énergie - art. R124-2 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
 
 
 ### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE
