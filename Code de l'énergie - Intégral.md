@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-05-09
+Version Consolidée au 2016-05-12
 
 # Partie législative
 
@@ -24192,7 +24192,7 @@ Le droit ainsi établi est recouvré selon les procédures prévues en applicati
 
 ###### Article L521-18
 
-I.-Pour assurer l'exécution d'une concession prévue à l'article L. 511-5, l'Etat peut créer, avec au moins un opérateur
+I. - Pour assurer l'exécution d'une concession prévue à l'article L. 511-5, l'Etat peut créer, avec au moins un opérateur
 économique, qualifié d'actionnaire opérateur, et, le cas échéant, avec les personnes morales mentionnées aux III et IV du
 présent article, une société d'économie mixte hydroélectrique. 
 
@@ -24202,11 +24202,10 @@ l'exploitation, selon les modalités fixées au cahier des charges prévu à l'a
 installations constituant une chaîne d'aménagements hydrauliquement liés. Cet objet unique ne peut pas être modifié pendant
 toute la durée du contrat. 
 
-II.-La société d'économie mixte hydroélectrique revêt la forme d'une société anonyme régie par le chapitre V du titre II et
-le titre III du livre II du code de commerce, sous réserve de la présente section. Elle est composée, par dérogation à
-l'article L. 225-1 du même code, d'au moins deux actionnaires. 
+II. - La société d'économie mixte hydroélectrique revêt la forme d'une société anonyme régie par le chapitre V du titre II et
+le titre III du livre II du code de commerce, sous réserve de la présente section. 
 
-III.-Dans le cadre des compétences qui leur sont reconnues par la loi en matière de gestion équilibrée des usages de l'eau,
+III. - Dans le cadre des compétences qui leur sont reconnues par la loi en matière de gestion équilibrée des usages de l'eau,
 de distribution publique d'électricité ou de production d'énergie renouvelable, les collectivités territoriales ou les
 groupements de collectivités territoriales riveraines des cours d'eau dont la force hydraulique est exploitée en application
 de la concession mentionnée au I peuvent, si l'Etat approuve leur demande à cet effet, devenir actionnaires de la société
@@ -24216,12 +24215,12 @@ Les modalités de participation de ces collectivités territoriales ou de leurs 
 mixte hydroélectrique, notamment leurs concours financiers, sont régies par le titre II du livre V de la première partie du
 code général des collectivités territoriales, sous réserve de la présente section. 
 
-IV.-Si l'Etat le leur demande et si elles y consentent, d'autres personnes morales de droit public et des entreprises ou des
-organismes dont le capital est exclusivement détenu par des personnes morales de droit public, à l'exception des sociétés
+IV. - Si l'Etat le leur demande et si elles y consentent, d'autres personnes morales de droit public et des entreprises ou
+des organismes dont le capital est exclusivement détenu par des personnes morales de droit public, à l'exception des sociétés
 mentionnées à l'article L. 1531-1 du code général des collectivités territoriales, qualifiés de partenaires publics, peuvent
 également devenir actionnaires de la société d'économie mixte hydroélectrique. 
 
-V.-Les statuts de la société d'économie mixte hydroélectrique ou un pacte d'actionnaires fixent le nombre de sièges
+V. - Les statuts de la société d'économie mixte hydroélectrique ou un pacte d'actionnaires fixent le nombre de sièges
 d'administrateur ou de membres du conseil de surveillance attribués à chaque actionnaire. 
 
 L'Etat et, le cas échéant, les collectivités territoriales mentionnées au III et les partenaires publics mentionnés au IV
@@ -24233,20 +24232,21 @@ Les règles régissant l'évolution du capital de la société d'économie mixte
 de la société ou par le pacte d'actionnaires. Ces règles ne peuvent faire obstacle à ce que l'Etat reste actionnaire de la
 société pendant toute la durée de la concession. 
 
-VI.-La société d'économie mixte hydroélectrique est dissoute de plein droit au terme de l'exécution de la concession ou à la
-suite de sa résiliation.
+VI. - La société d'économie mixte hydroélectrique est dissoute de plein droit au terme de l'exécution de la concession ou à
+la suite de sa résiliation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 118
+	  - Loi n°2016-563 du 10 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de commerce - art. L225-1 (V)
-	  - Code général des collectivités territoriales - art. L1531-1 (V)
-	  - Code de l'énergie - art. L521-4 (V)
+	  - Code général des collectivités territoriales -  TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES (V)
+	  - Code général des collectivités territoriales - art. L1531-1
+	  - Code de l'énergie - art. L511-5
+	  - Code de l'énergie - art. L521-4
 
 	**Cité par**:
 
