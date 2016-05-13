@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-05-12
+Version Consolidée au 2016-05-14
 
 # Partie législative
 
@@ -1919,19 +1919,12 @@ de la séparation entre leurs activités de gestion de réseau public de distrib
 fourniture, en application de l'article L. 111-57 ou de l'article L. 111-58 ; 
 
 3° Le gestionnaire du réseau public de distribution d'électricité est, dans les zones non interconnectées au réseau
-métropolitain continental, l'entreprise Electricité de France ainsi que la société mentionnée à l'article L. 151-2.
+métropolitain continental, l'entreprise Electricité de France ainsi que les sociétés mentionnées aux articles L. 151-2 et L.
+152-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 18 al 1 (VT)
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -1957,12 +1950,17 @@ métropolitain continental, l'entreprise Electricité de France ainsi que la soc
 	  - Code de l'énergie - art. R151-2 (V)
 	  - Code de l'énergie - art. R151-9 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-54 (V)
-	  - Code de l'énergie - art. L111-57 (V)
-	  - Code de l'énergie - art. L111-58 (V)
+	  - Code de l'énergie - art. L111-54
+	  - Code de l'énergie - art. L111-57
+	  - Code de l'énergie - art. L111-58
 	  - Code de l'énergie - art. L151-2 (V)
+	  - Code de l'énergie - art. L152-4 (V)
 
 
 ###### Article L111-53
@@ -2195,16 +2193,16 @@ Conseil d'Etat.
 Le comité du système de distribution publique d'électricité des zones non interconnectées est chargé d'examiner la politique
 d'investissement : 
 
-1° De l'entreprise et de la société mentionnées au 3° de l'article L. 111-52. Le comité est obligatoirement consulté par le
-conseil d'administration, le conseil de surveillance ou l'organe délibérant en tenant lieu de l'entreprise et de la société
-sur les points qui relèvent de sa compétence. Si le conseil s'écarte de l'avis du comité, il doit motiver sa décision ; 
+1° Des sociétés mentionnées au 3° de l'article L. 111-52. Le comité est obligatoirement consulté par le conseil
+d'administration, le conseil de surveillance ou l'organe délibérant en tenant lieu de l'entreprise et de la société sur les
+points qui relèvent de sa compétence. Si le conseil s'écarte de l'avis du comité, il doit motiver sa décision ; 
 
-2° Des autorités organisatrices de la distribution publique d'électricité mentionnées aux articles L. 322-1 et L. 362-2 du
-présent code. Le comité est destinataire des programmes prévisionnels de tous les investissements envisagés sur le réseau de
-distribution, établis par les conférences départementales mentionnées au 
-troisième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales 
-et, à sa demande, des comptes rendus et des bilans détaillés mentionnés à ce même alinéa. Si les autorités organisatrices
-concernées s'écartent de l'avis du comité sur ces programmes d'investissements, elles doivent motiver leur décision. 
+2° Des autorités organisatrices de la distribution publique d'électricité mentionnées aux articles L. 322-1, L. 362-2 et à
+l'article L. 152-4. Le comité est destinataire, le cas échéant, des programmes prévisionnels de tous les investissements
+envisagés sur le réseau de distribution, établis par les conférences départementales mentionnées au troisième alinéa du I de
+l'article L. 2224-31 du code général des collectivités territoriales et, à sa demande, des comptes rendus et des bilans
+détaillés mentionnés à ce même alinéa. Si les autorités organisatrices concernées s'écartent de l'avis du comité sur ces
+programmes d'investissements, elles doivent motiver leur décision. 
 
 Le comité est informé annuellement des investissements réalisés par les gestionnaires des réseaux publics de distribution
 pour l'année en cours. 
@@ -2226,9 +2224,9 @@ prise en compte de ses avis par la société gestionnaire des réseaux publics d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 153
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -2243,8 +2241,9 @@ prise en compte de ses avis par la société gestionnaire des réseaux publics d
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31 (M)
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
 	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L152-4 (V)
 	  - Code de l'énergie - art. L322-1 (V)
 	  - Code de l'énergie - art. L362-2 (V)
 
@@ -8203,22 +8202,22 @@ de l'énergie.
 
 ###### Article L141-5
 
-I.-La Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte, La Réunion et Saint-Pierre-et-Miquelon font chacun l'objet
-d'une programmation pluriannuelle de l'énergie distincte, qui s'appuie sur le bilan prévisionnel mentionné à l'article L.
-141-9 du présent code et fixe notamment la date d'application des obligations prévues aux articles L. 224-7 et L. 224-8 du
-code de l'environnement et les objectifs de déploiement des dispositifs de charge pour les véhicules électriques et hybrides
-rechargeables, ainsi que les objectifs de développement des véhicules à faibles émissions définis au 1° de l'article L. 224-7
-et au premier alinéa de l'article L. 224-8 du même code dans les flottes de véhicules publiques. Cette date d'application et
-ces objectifs sont établis de façon à maîtriser les impacts sur le réseau public de distribution électrique et à ne pas
-augmenter les émissions de gaz à effet de serre. 
+I. - La Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte, La Réunion, Saint-Pierre-et-Miquelon et les îles Wallis et
+Futuna font chacun l'objet d'une programmation pluriannuelle de l'énergie distincte, qui s'appuie sur le bilan prévisionnel
+mentionné à l'article L. 141-9 du présent code et fixe le cas échéant la date d'application des obligations prévues aux
+articles L. 224-7 et L. 224-8 du code de l'environnement et les objectifs de déploiement des dispositifs de charge pour les
+véhicules électriques et hybrides rechargeables, ainsi que les objectifs de développement des véhicules à faibles émissions
+définis au 1° de l'article L. 224-7 et au premier alinéa de l'article L. 224-8 du même code dans les flottes de véhicules
+publiques. Cette date d'application et ces objectifs sont établis de façon à maîtriser les impacts sur le réseau public de
+distribution électrique et à ne pas augmenter les émissions de gaz à effet de serre. 
 
 Sauf mention contraire, cette programmation contient les volets mentionnés à l'article L. 141-2 du présent code, est établie
 et peut être révisée selon les modalités mentionnées aux articles L. 141-3 et L. 141-4. 
 
-II.-Dans les collectivités mentionnées au I du présent article, à l'exception de la Corse, la programmation pluriannuelle de
-l'énergie constitue le volet énergie du schéma régional du climat, de l'air et de l'énergie, mentionné au 3° du I de
-l'article L. 222-1 du code de l'environnement. Dans les collectivités mentionnées au I du présent article, elle contient,
-outre les informations mentionnées au même I, des volets relatifs : 
+II. - Dans les collectivités mentionnées au I du présent article, à l'exception de la Corse et des îles Wallis et Futuna, la
+programmation pluriannuelle de l'énergie constitue le volet énergie du schéma régional du climat, de l'air et de l'énergie,
+mentionné au 3° du I de l'article L. 222-1 du code de l'environnement. Dans les collectivités mentionnées au I du présent
+article, elle contient, outre les informations mentionnées au même I, des volets relatifs : 
 
 1° A la sécurité d'approvisionnement en carburants et à la baisse de la consommation d'énergie primaire fossile dans le
 secteur des transports ; 
@@ -8244,7 +8243,7 @@ territoires, de mobilisation des ressources énergétiques locales et de créati
 
 Les objectifs quantitatifs des volets mentionnés aux 4° et 5° sont exprimés par filière. 
 
-III.-Par dérogation aux articles L. 141-3 et L. 141-4, dans les collectivités mentionnées au I du présent article, le
+III. - Par dérogation aux articles L. 141-3 et L. 141-4, dans les collectivités mentionnées au I du présent article, le
 président de la collectivité et le représentant de l'Etat dans la région élaborent conjointement le projet de programmation
 pluriannuelle de l'énergie. Le volet de ce projet mentionné au 4° de l'article L. 141-2 est soumis pour avis au comité du
 système de la distribution publique d'électricité mentionné à l'article L. 111-56-2. La présente consultation n'est pas
@@ -8261,15 +8260,15 @@ L'enveloppe maximale indicative des ressources publiques mentionnées à l'artic
 missions de service public mentionnées aux articles L. 121-7 et L. 121-8 ainsi que les dépenses de l'Etat et de la région, du
 département ou de la collectivité. 
 
-IV.-Les zones non interconnectées au réseau métropolitain continental, à l'exception de Saint-Martin, de Saint-Barthélemy et
-des zones mentionnées au I du présent article, font l'objet d'un volet annexé à la programmation pluriannuelle de l'énergie
-mentionnée à l'article L. 141-1, selon des modalités fixées par le décret mentionné à l'article L. 141-6.
+IV. - Les zones non interconnectées au réseau métropolitain continental, à l'exception de Saint-Martin, de Saint-Barthélemy
+et des zones mentionnées au I du présent article, font l'objet d'un volet annexé à la programmation pluriannuelle de
+l'énergie mentionnée à l'article L. 141-1, selon des modalités fixées par le décret mentionné à l'article L. 141-6.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 203
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -8286,6 +8285,20 @@ mentionnée à l'article L. 141-1, selon des modalités fixées par le décret m
 	  - Code de l'énergie - art. L311-11-1 (V)
 	  - Code de l'énergie - art. L311-5-8 (V)
 	  - Code de l'énergie - art. L314-4 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-33
+	  - Code de l'environnement - art. L222-1
+	  - Code de l'environnement - art. L224-7
+	  - Code de l'environnement - art. L224-8
+	  - Code de l'énergie - art. L111-56-2 (V)
+	  - Code de l'énergie - art. L141-1 (V)
+	  - Code de l'énergie - art. L141-2 (V)
+	  - Code de l'énergie - art. L141-3 (V)
+	  - Code de l'énergie - art. L141-6 (V)
+	  - Code de l'énergie - art. L141-7 (V)
+	  - Code de l'énergie - art. L141-9 (V)
 
 
 ###### Article L141-6
@@ -10518,16 +10531,22 @@ Pour l'application du présent livre à Mayotte et à Saint-Pierre-et-Miquelon, 
 
 #### Chapitre II : Dispositions applicables aux îles Wallis et Futuna
 
+##### Section 1 : Dispositions particulières aux îles Wallis et Futuna
+
 ###### Article L152-1
 
-Sous réserve des adaptations prévues au présent chapitre, les articles L. 121-1 à L. 121-28 sont applicables dans les îles
-Wallis et Futuna.
+Dans les îles Wallis et Futuna, le service public de l'électricité est organisé, chacun pour ce qui le concerne, par l'Etat
+et la collectivité.
+
+Le territoire des îles Wallis et Futuna est l'autorité concédante de la distribution publique d'électricité. Il négocie et
+conclut le contrat de concession et contrôle le bon accomplissement des missions de service public définies par son cahier
+des charges.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -10537,34 +10556,1347 @@ Wallis et Futuna.
 
 ###### Article L152-2
 
-Dans les îles Wallis et Futuna, le service public de l'électricité est organisé, chacun pour ce qui le concerne, par l'Etat
-et la collectivité. 
-
-Le territoire des îles Wallis et Futuna, autorité concédante de la distribution publique d'électricité, négocie et conclut un
-contrat de concession et exerce le contrôle du bon accomplissement des missions de service public fixées par le cahier des
-charges.
+Un réseau public de distribution d'électricité a pour fonction de desservir les consommateurs finals et les producteurs
+d'électricité raccordés en moyenne et basse tension. Un réseau public de distribution est constitué par les ouvrages de
+tension inférieure à 50 kilovolts situés sur le territoire de l'autorité organisatrice de la distribution d'électricité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
 
 
 ###### Article L152-3
 
-Pour l'application de l'article L. 121-4 dans les îles Wallis et Futuna, la collectivité est l'autorité organisatrice de la
-distribution publique de l'électricité. 
+Le territoire des îles Wallis et Futuna est l'autorité organisatrice de la distribution publique de l'électricité.
 
-Pour l'application des articles L. 121-4, L. 121-5 et L. 121-7 dans les îles Wallis et Futuna, les droits et obligations
-impartis dans les zones non interconnectées du territoire métropolitain à Electricité de France sont conférés à la société
-concessionnaire de la distribution publique d'électricité.
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+
+###### Article L152-4
+
+Les droits et obligations impartis dans les zones non interconnectées du territoire métropolitain à la société Electricité de
+France sont conférés, à Wallis et Futuna, à la société concessionnaire de la distribution publique d'électricité désignée
+conformément aux compétences dévolues aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-56-2 (V)
+
+
+###### Article L152-5
+
+Dans le cadre de la distribution publique d'électricité, sous réserve de l'autorisation prévue à l'article L. 311-5,
+l'autorité concédante de la distribution d'électricité peut, conformément à ses compétences, choisir d'aménager, d'exploiter
+directement ou de faire exploiter par des concessionnaires toute installation de production d'électricité de proximité d'une
+puissance inférieure à un seuil fixé par décret, lorsque cette installation est de nature à éviter, dans de bonnes conditions
+économiques, de qualité, de sécurité et de sûreté de l'alimentation électrique, l'extension ou le renforcement des réseaux
+publics de distribution d'électricité relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-5 (V)
+
+
+##### Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna
+
+##### Sous-section 1 : Dispositions applicables de plein droit
+
+
+###### Article L152-6
+
+Sont, de plein droit, applicables aux îles Wallis et Futuna les dispositions des articles L. 143-2 et L. 143-3. 
+
+Autres dispositions applicables 
+
+Art. L. 152-11.-Sont applicables aux îles Wallis et Futuna, sous réserve des dispositions particulières prévues à la section
+1 et des adaptations prévues à la section 3 du présent chapitre, les dispositions des articles du livre Ier mentionnés dans
+la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans sa colonne de droite : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION RÉSULTANT 
+
+</th>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE Ier 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 100-1 sauf le 7° 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 100-2 sauf le 4° 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Les 1° à 3° de l'article L. 100-4 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 111-51 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Le 3° de l'article L. 111-52 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 111-56-2 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 111-75 sauf la deuxième phrase 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 111-84 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-994 du 17 août 2015 relative au dialogue social et à l'emploi 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 111-85 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 111-86 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+L. 111-87 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE II 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 121-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-3 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-4 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-5 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Les 2° à 4° de l'article L. 121-6 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 121-7 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-8, sauf les 2° et 3° 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-9 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-16 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 121-19 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 121-19-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 121-27 et L. 121-28 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-28-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-29 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 121-30 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 122-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2015-1033 du 20 août 2015 relative au règlement extrajudiciaire des litiges de consommation 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+TITRE III 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Les 3e et 4e alinéas de l'article L. 131-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 131-2, sauf les 2e, 4e et 5e alinéas 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2016-130 du 10 février 2016 portant adaptation des livres Ier et III du code de l'énergie au droit de
+l'Union européenne et relatif aux marchés intérieurs de l'électricité et du gaz 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 132-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-1, sauf les 5°, 7°, 8° et 9° 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-5 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-6 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-10, sauf la seconde phrase 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-11 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-13 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-15 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-18 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Le 1° de l'article L. 134-19 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 134-20 à L. 134-24 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-25, sauf les 2e et 3e alinéas 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-26, sauf la dernière phrase 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-27 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-28 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-29 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 134-30 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 134-31 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 134-32 à L. 134-34 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 135-1 et L. 135-2 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 135-3 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 135-4 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 135-5 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 135-6 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 135-7 à L. 135-11 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 135-12 et L. 135-13 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 135-14 à L. 135-16 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+TITRE IV 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 141-1, sauf le 1° 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 141-2 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 141-3 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-1786 du 29 décembre 2015 de finances rectificative pour 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 141-4 à 
+
+L. 141-6 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 141-7 à 
+
+L. 141-9 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 141-11 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-2 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 142-3 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-4 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 142-5 à L. 142-9 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 142-9-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 142-20 et L. 142-21 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-22 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le
+domaine du développement durable 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 142-23 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 142-24 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 142-25 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-26 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 142-27 à L. 142-31 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 142-32 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 142-33 à L. 142-40 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 143-1
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 143-4 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 143-5 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2016-130 du 10 février 2016 portant adaptation des livres Ier et III du code de l'énergie au droit de
+l'Union européenne et relatif aux marchés intérieurs de l'électricité et du gaz</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L100-1 (V)
+	  - Code de l'énergie - art. L111-51 (V)
+	  - Code de l'énergie - art. L121-1 (V)
+	  - Code de l'énergie - art. L122-1 (V)
+	  - Code de l'énergie - art. L131-1 (V)
+	  - Code de l'énergie - art. L132-1 (V)
+	  - Code de l'énergie - art. L134-1 (V)
+	  - Code de l'énergie - art. L135-1 (V)
+	  - Code de l'énergie - art. L141-1 (V)
+	  - Code de l'énergie - art. L142-1 (V)
+	  - Code de l'énergie - art. L143-1 (V)
+	  - Code de l'énergie - art. L143-2 (V)
+
+
+##### Section 3 : Dispositions d'adaptation
+
+##### Sous-section 1 : Dispositions générales d'adaptation
+
+
+###### Article L152-8
+
+Pour l'application du livre Ier dans les îles Wallis et Futuna, les références au tribunal de grande instance sont remplacées
+par la référence au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+
+##### Sous-section 2 : Dispositions d'adaptation du titre Ier
+
+
+###### Article L152-9
+
+Pour l'application du titre Ier du livre Ier dans les îles Wallis et Futuna : 
+
+1° A l'article L. 100-4 : 
+
+a) Au I :
+
+- la seconde phrase du 1° est supprimée ;
+
+- aux 2° et 3° la référence à l'année 2012 est remplacée par la référence à la date fixée par la programmation pluriannuelle
+de l'énergie propre aux îles Wallis et Futuna ;
+
+- il est inséré, après le 3°, un 3° bis ainsi rédigé : 
+
+“ 3° bis Dans le respect des compétences dévolues au territoire, de parvenir à l'autonomie énergétique à Wallis-et-Futuna à
+l'horizon 2050, avec, comme objectif intermédiaire, 50 % d'énergies renouvelables à l'horizon 2030 ; ”
+
+- le 9° ne s'applique qu'en ce qui concerne le froid ; 
+
+b) Le II est supprimé ; 
+
+2° A l'article L. 111-51, les mots : “ à l'article L. 2224-31 du code général des collectivités territoriales ” sont
+remplacés par les mots : “ aux articles L. 152-1 et suivants ” ; 
+
+3° L'article L. 111-56-2 est ainsi modifié : 
+
+a) Le 2° est remplacé par les dispositions suivantes : 
+
+“ 2° De l'autorité organisatrice de la distribution publique d'électricité mentionnée à l'article L. 152-3. Le comité est
+destinataire des programmes prévisionnels de tous les investissements envisagés sur le réseau de distribution, et, à sa
+demande, des comptes rendus et des bilans détaillés mentionnés à ce même alinéa. Si l'autorité organisatrice s'écarte de
+l'avis du comité sur ces programmes d'investissements, elle doit motiver sa décision. ” ; 
+
+b) Au cinquième alinéa, les mots : “ au même troisième alinéa du I de l'article L. 2224-31 du même code ” sont remplacés par
+les mots : “ à l'article L. 152-4 ” ; 
+
+c) Au sixième alinéa de l'article L. 111-56-2, les mots : “ élaborées par les conférences départementales mentionnées audit
+troisième alinéa du I de l'article L. 2224-31 ” sont remplacés par les mots : “ élaborées conformément aux dispositions
+prises par l'autorité concédante mentionnée à l'article L. 152-1 ” et les mots : “ et les collectivités concédantes
+mentionnés à l'avant-dernier alinéa du I du même article L. 2224-31 ” sont remplacés par les mots : “ et la collectivité
+concédante mentionnés à l'article L. 152-1 ” ; 
+
+4° A l'article L. 111-81, les mots : “ du cinquième alinéa du I de l'article L. 2224-31 du code général des collectivités
+territoriales et procédant à un contrôle en application du I de ce même article ” sont supprimés ; 
+
+5° Au premier alinéa de l'article L. 111-83, les mots : “ aux articles L. 111-75 et L. 111-78 ” sont remplacés par les mots :
+“ à l'article L. 111-75 ” et au second alinéa de ce même article, les mots : “ ou de gaz ” sont supprimés ; 
+
+6° Au deuxième alinéa de l'article L. 111-84, les mots : “ le seuil d'assujettissement prévu à l'article L. 2323-20 du code
+du travail ” sont remplacés par les mots : “ le seuil de trois cents salariés ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L100-4 (V)
+	  - Code de l'énergie - art. L111-51 (V)
+	  - Code de l'énergie - art. L111-56-2 (V)
+	  - Code de l'énergie - art. L111-81 (V)
+	  - Code de l'énergie - art. L111-83 (V)
+	  - Code de l'énergie - art. L111-84 (V)
+
+
+##### Sous-section 3 : Dispositions d'adaptation du titre II
+
+
+###### Article L152-10
+
+Pour l'application du titre II du livre Ier dans les îles Wallis et Futuna : 
+
+1° Au II de l'article L. 121-4, les mots : “ ou des règlements de service des régies mentionnés au II de l'article L. 2224-31
+du code général des collectivités territoriales ” sont supprimés ; 
+
+2° Au premier alinéa de l'article L. 121-5, les mots : “ à l'article L. 2224-33 du code général des collectivités
+territoriales ” sont remplacés par les mots : “ à l'article L. 152-5 ” ; 
+
+3° Au troisième alinéa de l'article L. 121-5, les mots : “ ou des règlements de service des régies mentionnés au II de
+l'article L. 2224-31 du code général des collectivités territoriales ” sont supprimés ; 
+
+4° Au a de l'article L. 121-28-1, les mots : “ aux articles L. 314-1 et L. 314-18 ” sont remplacés par les mots : “ à
+l'article L. 314-1 ” et les mots : “ aux articles L. 271-4 et L. 311-10 ” sont remplacés par les mots : “ à l'article L.
+311-10 ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-28-1 (V)
+	  - Code de l'énergie - art. L121-4 (V)
+	  - Code de l'énergie - art. L121-5 (VT)
+
+
+##### Sous-section 4 : Dispositions d'adaptation du titre III
+
+
+###### Article L152-11
+
+Pour l'application du titre III du livre Ier dans les îles Wallis et Futuna : 
+
+1° Le troisième alinéa de l'article L. 131-1 n'est pas applicable en tant qu'il concerne les garanties de capacités et
+l'accès régulé à l'électricité nucléaire historique ; 
+
+2° L'article L. 134-5 n'est applicable qu'en tant qu'il concerne les tarifs réglementés de vente d'électricité mentionnés à
+l'article L. 337-4 ; 
+
+3° L'article L. 134-6 n'est applicable qu'en tant qu'il concerne le calcul des barèmes de raccordement mentionnés à l'article
+L. 342-8 ; 
+
+4° A l'article L. 135-6, les mots : “ acte d'huissier de justice ” sont remplacés par les mots : “ l'autorité administrative
+habilitée à cet effet ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L131-1 (V)
+	  - Code de l'énergie - art. L134-5 (V)
+	  - Code de l'énergie - art. L134-6 (V)
+	  - Code de l'énergie - art. L135-6 (V)
+	  - Code de l'énergie - art. L337-4 (V)
+	  - Code de l'énergie - art. L342-8 (V)
+
+
+##### Sous-section 5 : Dispositions d'adaptation du titre IV
+
+
+###### Article L152-12
+
+Pour l'application du titre IV du livre Ier dans les îles Wallis et Futuna : 
+
+1° Au premier alinéa du I de l'article L. 141-5, les mots : “ la date d'application des obligations prévues aux articles L.
+224-7 et L. 224-8 du code de l'environnement et les objectifs de déploiement des dispositifs de charge pour les véhicules
+électriques et hybrides rechargeables, ainsi que les objectifs de développement des véhicules à faibles émissions définis au
+1° de l'article L. 224-7 et au premier alinéa de l'article L. 224-8 du même code dans les flottes de véhicules publiques.
+Cette date d'application et ces objectifs ” sont remplacés par les mots : “ les objectifs et le calendrier de développement
+des véhicules à faibles émissions dans les flottes de véhicules publiques et de déploiement des dispositifs de charge pour
+les véhicules électriques et hybrides rechargeables. Ces objectifs et ce calendrier ” ; 
+
+2° Au III de l'article L. 141-5, les mots : “ président de la collectivité ” sont remplacés par les mots : “ président de
+l'assemblée territoriale ” et au premier alinéa du même III, les mots : “ dans la région ” sont supprimés ; 
+
+3° L'article L. 141-11 n'est applicable qu'en tant qu'il concerne le froid ; 
+
+4° A l'article L. 142-2, le second alinéa est supprimé ; 
+
+5° A l'article L. 142-3, les mots : “ Sans préjudice du chapitre IV du titre II du livre Ier du code de l'environnement,
+lorsque “ sont remplacés par le mot : “ Lorsque ” ; 
+
+6° Les articles L. 142-4 à L. 142-9 et L. 142-20 à L. 142-40 ne sont applicables qu'en tant qu'ils concernent le secteur de
+l'électricité ; 
+
+7° A l'article L. 142-24, après les mots : “ avec demande d'avis de réception ”, sont insérés les mots : “ ou contre remise
+en mains propres contre décharge ” et les mots : “ acte d'huissier ” sont remplacés par les mots : “ l'autorité
+administrative habilitée à cet effet ” ; 
+
+8° A l'article L. 142-26, après les mots : “ avec demande d'avis de réception ”, sont insérés les mots : “ ou contre remise
+en mains propres contre décharge ” ; 
+
+9° Au troisième alinéa de l'article L. 143-1, les mots : “ Sous réserve des dispositions des articles L. 224-1 et L. 224-2 du
+code de l'environnement et des textes pris pour leur application, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-11 (V)
+	  - Code de l'énergie - art. L141-5 (V)
+	  - Code de l'énergie - art. L142-2 (V)
+	  - Code de l'énergie - art. L142-20 (V)
+	  - Code de l'énergie - art. L142-24 (V)
+	  - Code de l'énergie - art. L142-26 (V)
+	  - Code de l'énergie - art. L142-3 (V)
+	  - Code de l'énergie - art. L142-4 (V)
+	  - Code de l'énergie - art. L143-1 (V)
 
 
 ### TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL  DES ENTREPRISES ELECTRIQUES ET GAZIERES
@@ -12335,6 +13667,10 @@ Les dispositions techniques concernant les véhicules en matière d'énergie, d'
 
 #### Chapitre unique
 
+### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER
+
+#### Chapitre Ier : Dispositions particulières à Mayotte
+
 ###### Article L261-1
 
 A Mayotte, les articles L. 241-2 à L. 241-8 sont applicables à compter du renouvellement ou de la reconduction des contrats
@@ -12357,6 +13693,75 @@ en cours au 1er janvier 2008.
 	**Cite**:
 
 	  - Code de l'énergie - art. L241-2 (V)
+
+
+#### Chapitre II : Dispositions applicables aux îles Wallis et Futuna
+
+##### Section 1 : Dispositions particulières aux îles Wallis et Futuna
+
+###### Article L262-1
+
+L'Agence de l'environnement et de la maîtrise de l'énergie exerce, dans  les îles Wallis et Futuna, les missions qui lui sont
+dévolues, dans les  domaines définis aux 4° et 5° du II de l'article L. 131-3 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L131-3
+
+
+##### Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna
+
+
+###### Article L262-2
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations  prévues au présent chapitre, les dispositions
+des articles mentionnés  dans la colonne de gauche du tableau ci-après, dans leur rédaction  indiquée dans sa colonne de
+droite :
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION RÉSULTANT 
+
+</th>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 211-2 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011portant codification de la partie législative du code de l'énergie
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011
+	  - Code de l'énergie
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 2
 
 
 ### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ
@@ -13011,20 +14416,20 @@ Elle a la faculté de ne pas donner suite à l'appel d'offres.
 
 ###### Article L311-11-1
 
-En Corse, en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité administrative associe le président
-de la collectivité à la définition des modalités de l'appel d'offres. Lorsque le développement d'une filière de production
-est inférieur aux objectifs inscrits dans les volets de la programmation pluriannuelle de l'énergie mentionnés aux 4° et 5°
-du II de l'article L. 141-5, le président de la collectivité peut demander à l'autorité administrative l'organisation d'un
-appel d'offres pour cette filière. Le rejet de la demande fait l'objet d'un avis motivé des ministres chargés de l'énergie,
-de l'économie et des outre-mer. 
+En Corse, en Guadeloupe, en Guyane, en Martinique,     à Mayotte, à La Réunion et aux îles Wallis et Futuna, l'autorité
+administrative associe le président de la collectivité à la définition des modalités de l'appel d'offres. Lorsque le
+développement d'une filière de production est inférieur aux objectifs inscrits dans les volets de la programmation
+pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le président de la collectivité peut demander
+à l'autorité administrative l'organisation d'un appel d'offres pour cette filière. Le rejet de la demande fait l'objet d'un
+avis motivé des ministres chargés de l'énergie, de l'économie et des outre-mer. 
 
 Les modalités d'application du présent article sont précisées par décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -13033,7 +14438,7 @@ Les modalités d'application du présent article sont précisées par décret.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L141-5 (V)
+	  - Code de l'énergie - art. L141-5
 
 
 ###### Article L311-12
@@ -13873,15 +15278,15 @@ et suivants.
 Les conditions dans lesquelles les ministres chargés de l'économie et de l'énergie arrêtent, après avis de la Commission de
 régulation de l'énergie, les conditions d'achat de l'électricité produite par les installations mentionnées à l'article L.
 314-1, sont précisées par voie réglementaire. Ces conditions d'achat sont établies en tenant compte, notamment, des frais de
-contrôle mentionnés à l'article L. 314-7-1.
+contrôle mentionnés à l'article L. 314-7-1. 
 
-Pour la Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte, La Réunion et Saint-Pierre-et-Miquelon, les ministres
-chargés de l'économie, de l'énergie et de l'outre-mer peuvent arrêter, après avis du président de la collectivité et de la
-Commission de régulation de l'énergie, des conditions d'achat propres à la région, au département ou à la collectivité.
-Lorsque le développement d'une filière de production est inférieur aux objectifs inscrits dans les volets de la programmation
-pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le président de la collectivité peut
-solliciter l'avis de la Commission de régulation de l'énergie sur l'adéquation des conditions d'achat aux coûts
-d'investissement et d'exploitation des installations.
+Pour la Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte,          La Réunion, Saint-Pierre-et-Miquelon et les îles
+Wallis et Futuna  les ministres chargés de l'économie, de l'énergie et de l'outre-mer peuvent arrêter, après avis du
+président de la collectivité et de la Commission de régulation de l'énergie, des conditions d'achat propres à la région, au
+département ou à la collectivité. Lorsque le développement d'une filière de production est inférieur aux objectifs inscrits
+dans les volets de la programmation pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le
+président de la collectivité peut solliciter l'avis de la Commission de régulation de l'énergie sur l'adéquation des
+conditions d'achat aux coûts d'investissement et d'exploitation des installations.
 
 **Liens relatifs à cet article**
 
@@ -13891,7 +15296,7 @@ d'investissement et d'exploitation des installations.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 	**Cite**:
 
@@ -19544,46 +20949,938 @@ Le deuxième alinéa de l'article L. 311-6 et le chapitre Ier du titre II du pr�
 
 #### Chapitre III : Dispositions applicables aux îles Wallis et Futuna
 
+##### Section 1 : Dispositions particulières aux îles Wallis et Futuna 
+
 ###### Article L363-1
 
-Sous réserve des adaptations prévues au présent chapitre, les articles L. 311-5 et L. 337-8 sont applicables dans les îles
-Wallis et Futuna.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
-
-
-###### Article L363-2
-
-Dans les îles Wallis et Futuna, les installations de production d'électricité régulièrement établies à la date d'entrée en
-vigueur de la 
-loi n° 2015-992 du 17 août 2015
-relative à la transition énergétique pour la croissance verte sont réputées autorisées au titre de l'article L. 311-5.
+Dans les îles Wallis et Futuna, les installations de production d'électricité régulièrement établies à la date de publication
+de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte sont réputées autorisées
+au titre de l'article L. 311-5.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2015-992 du 17 août 2015
+	  - Code de l'énergie - art. L311-5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
 
 
-###### Article L363-3
+###### Article L363-2
 
 Les conditions de rémunération du capital immobilisé dans des moyens de production d'électricité mentionnées à l'article L.
 121-7 sont déterminées de façon à favoriser le développement du système électrique.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-7 (V)
+
+
+###### Article L363-3
+
+Le schéma prévu à l'article L. 321-7 est élaboré par le gestionnaire du réseau public de distribution. Il est dénommé "
+schéma de raccordement au réseau des énergies renouvelables ". 
+
+Le montant de la quote-part mentionnée à l'article L. 342-1 et exigible dans le cadre des raccordements est plafonné à
+hauteur du montant de la quote-part la plus élevée, augmentée de 30 %, constaté dans les schémas adoptés sur le territoire
+métropolitain continental à la date d'approbation du schéma de raccordement au réseau des énergies renouvelables. 
+
+Lorsque plusieurs quotes-parts sont établies au sein d'un même schéma de raccordement, le montant de la quote-part auquel est
+appliqué le plafonnement est égal à la moyenne pondérée des quotes-parts. 
+
+La différence entre le montant de cette quote-part et le coût réel des ouvrages créés en application du schéma est couverte
+par le tarif d'utilisation des réseaux publics mentionné à l'article L. 341-2. 
+
+Les conditions d'application du présent article, en particulier le mode de calcul des moyennes pondérées des quotes-parts,
+sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-7 (V)
+	  - Code de l'énergie - art. L341-2 (V)
+	  - Code de l'énergie - art. L342-1 (V)
+
+
+###### Article L363-5
+
+Sous réserve de l'autorisation prévue à l'article L. 311-5, la collectivité peut aménager, exploiter, faire aménager et faire
+exploiter dans les conditions prévues par le présent code toute nouvelle installation hydroélectrique, toute nouvelle
+installation utilisant les autres énergies renouvelables, toute nouvelle installation de valorisation énergétique des déchets
+ménagers ou assimilés lorsque ces nouvelles installations se traduisent par une économie d'énergie et une réduction des
+pollutions atmosphériques. 
+
+Pour les installations mentionnées au présent article, la collectivité bénéficie, à sa demande, de l'obligation d'achat de
+l'électricité produite dans les conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 214
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L363-8 (V)
+
+
+###### Article L363-6
+
+Dans les îles Wallis et Futuna, les installations de production hydroélectriques ne sont soumises, au regard de la
+réglementation sur l'hydroélectricité, qu'à l'autorisation prévue à l'article L. 311-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-5 (V)
+
+
+##### Section 2 : Dispositions du droit métropolitain applicables aux îles Wallis et Futuna
+
+###### Article L363-7
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des dispositions particulières prévues à la section 1 et des
+adaptations prévues à la section 3 du présent chapitre, les dispositions des articles mentionnés dans la colonne de gauche du
+tableau ci-après, dans leur rédaction indiquée dans sa colonne de droite : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION RÉSULTANT 
+
+</th>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+TITRE Ier 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 311-2 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-3 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Le second alinéa de l'article L. 311-4 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-5 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-5-8 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-6, sauf le dernier alinéa 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 311-7 et L. 311-8 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 311-10, sauf le troisième alinéa 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 311-11 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-11-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 311-12 à L. 311-13-6 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-14 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-15 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 311-16 à L. 311-18 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 311-19 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 314-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 314-1-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises et portant diverses
+dispositions de simplification et de clarification du droit et des procédures administratives 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 314-2 à L. 314-3 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 314-4 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 314-5 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 314-6 à L. 314-7-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 314-10 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses
+dispositions sur la tarification de l'eau et sur les éoliennes 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 314-11 et L. 314-12 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE II 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 321-7 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 322-1 et L. 322-2 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Le premier alinéa de l'article L. 322-4 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Le premier alinéa de l'article L. 322-5 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 322-6 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 322-8 
+
+</td>
+        <td align="justify" valign="middle">
+
+de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 322-9 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 322-12 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE III 
+
+</td>
+        <td valign="middle" align="justify">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 337-1 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 337-4 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 337-5 et L. 337-6 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 337-8 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 337-9 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+TITRE IV 
+
+</td>
+        <td align="justify" valign="middle">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 341-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 341-2 à 
+
+L. 341-4-1 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 341-4-2, sauf le 1° 
+
+</td>
+        <td align="justify" valign="middle">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Articles L. 342-1 et L. 342-2
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 342-3, sauf le dernier alinéa 
+
+</td>
+        <td valign="middle" align="justify">
+
+De la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 342-5 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2016-130 du 10 février 2016 portant adaptation des livres Ier et III du code de l'énergie au droit de
+l'Union européenne et relatif aux marchés intérieurs de l'électricité et du gaz 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Article L. 342-6 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Articles L. 342-8 à 
+
+L. 342-10 
+
+</td>
+        <td valign="middle" align="justify">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Article L. 342-12, sauf le dernier alinéa 
+
+</td>
+        <td align="justify" valign="middle">
+
+De l'ordonnance n° 2011-504 du 9 mai 2011 portant codification de la partie législative du code de l'énergie</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-1 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L321-7 (V)
+	  - Code de l'énergie - art. L322-1 (V)
+	  - Code de l'énergie - art. L337-1 (V)
+	  - Code de l'énergie - art. L341-1 (V)
+	  - Code de l'énergie - art. L342-1 (V)
+
+
+##### Section 3 : Dispositions d'adaptation
+
+##### Sous-section 1 : Dispositions d'adaptation générales
+
+###### Article L363-8
+
+Pour l'application des dispositions du livre III dans les îles Wallis et Futuna, les références aux articles L. 2224-31, L.
+2224-32 et L. 2224-33 du code général des collectivités territoriales sont remplacées, respectivement, par les références aux
+articles L. 152-1 à L. 152-5 et L. 363-5 du présent code, sauf s'il en est expressément disposé autrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code général des collectivités territoriales - art. L2224-32
+	  - Code général des collectivités territoriales - art. L2224-33
+	  - Code de l'énergie - art. L152-1 (V)
+	  - Code de l'énergie - art. L363-5 (V)
+
+
+##### Sous-section 2 : Dispositions d'adaptation du titre Ier
+
+
+###### Article L363-9
+
+Pour l'application du titre Ier du livre III dans les îles Wallis et Futuna : 
+
+1° A l'article L. 311-3, les mots : “ et à l'article 88 de la loi n° 2010-788 du 12 juillet 2010 portant engagement national
+pour l'environnement ” sont supprimés ; 
+
+2° A l'article L. 311-11-1, les mots : “ le président de la collectivité ” sont remplacés par les mots : “ le président de
+l'assemblée territoriale ” ; 
+
+3° A l'article L. 311-14 : 
+
+a) Au premier alinéa, les mots : “ et, le cas échéant, par le 2° du I de l'article L. 214-17 et par l'article L. 214-18 du
+code de l'environnement, ” sont supprimés ; 
+
+b) Au deuxième alinéa, les deux occurrences des mots : “ L. 314-18 à ” sont supprimées ; 
+
+c) Au quatrième alinéa, les mots : “ une des infractions mentionnées à l'article L. 8221-1 du code du travail ou dans les cas
+où un procès-verbal est dressé en application de l'article L. 4721-2 du même code ” sont remplacés par les mots : “ une
+infraction au titre du travail dissimulé au regard du code du travail applicable dans les îles Wallis et Futuna ou dans le
+cas d'un procès-verbal dressé en matière de situation dangereuse en application du même code ” ; 
+
+d) Au sixième alinéa, les mots : “ et L. 314-25 ” sont supprimés ; 
+
+4° A l'article L. 314-4, les mots : “ le président de la collectivité ” sont remplacés par les mots : “ le président de
+l'assemblée territoriale ” ; 
+
+5° L'article L. 314-10 est ainsi rédigé : 
+
+“ Art. L. 314-10.-Un schéma éolien définit les parties du territoire des îles Wallis et Futuna favorables au développement de
+l'énergie éolienne. Le représentant de l'Etat est compétent pour élaborer et arrêter ce schéma en concertation avec la
+collectivité selon des modalités déterminées par décret. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-11-1 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L311-3 (V)
+	  - Code de l'énergie - art. L314-10 (V)
+	  - Code de l'énergie - art. L314-4 (V)
+
+
+##### Sous-section 3 : Dispositions d'adaptation du titre II
+
+
+###### Article L363-11
+
+Pour l'application du titre II du livre III dans les îles Wallis et Futuna : 
+
+1° L'article L. 321-7 est ainsi rédigé : 
+
+“ Art. L. 321-7.-Le gestionnaire du réseau public mentionné à l'article L. 152-1 élabore, après avis de l'autorité
+organisatrice de la distribution, un schéma de raccordement au réseau des énergies renouvelables, qu'il soumet à
+l'approbation du représentant de l'Etat dans un délai de six mois suivant l'établissement de la programmation pluriannuelle
+de l'énergie. 
+
+“ Le schéma de raccordement définit les ouvrages à créer ou à renforcer pour atteindre les objectifs fixés par la
+programmation pluriannuelle de l'énergie. Il mentionne, pour chacun des postes du réseau, qu'ils soient existants ou à créer,
+les capacités d'accueil de production permettant d'atteindre les objectifs définis par la programmation pluriannuelle de
+l'énergie. Il évalue le coût prévisionnel d'établissement des capacités d'accueil nouvelles nécessaires à l'atteinte des
+objectifs. Les méthodes de calcul de ce coût prévisionnel sont soumises à l'approbation de la Commission de régulation de
+l'énergie par les gestionnaires du réseau public de transport et des réseaux publics de distribution. 
+
+“ Les capacités d'accueil de la production prévues dans le schéma de raccordement au réseau sont réservées pendant une
+période de dix ans au bénéfice des installations de production d'électricité à partir de sources d'énergie renouvelable. 
+
+“ Les conditions d'application en mer du présent article sont précisées par décret. ” 
+
+2° A l'article L. 322-6, la référence à l'article L. 3232-2 du code général des collectivités territoriales est supprimée ; 
+
+3° Au l'article L. 322-9 : 
+
+a) Au deuxième alinéa, les mots : “ et dans le cadre des dispositions de l'article L. 321-9 ” sont supprimés ; 
+
+b) Au troisième alinéa, les mots : “ et sous réserve des dispositions de l'article L. 337-10 ” sont supprimés ; 
+
+4° A l'article L. 322-12, les mots : “ et les règlements de service des régies ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-7 (V)
+	  - Code de l'énergie - art. L322-12 (VT)
+	  - Code de l'énergie - art. L322-6 (V)
+	  - Code de l'énergie - art. L322-9 (V)
+
+
+##### Sous-section 4 : Dispositions d'adaptation du titre III
+
+
+###### Article L363-12
+
+Pour l'application du titre III du livre III dans les îles Wallis et Futuna : 
+
+1° L'article L. 337-1 est ainsi rédigé : 
+
+“ Art. L. 337-1.-Le deuxième alinéa de l'article L. 410-2 du code du commerce s'applique aux tarifs réglementés de vente
+d'électricité. ” ; 
+
+2° A l'article L. 337-8, les mots : “, à leur demande, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L337-1 (V)
+	  - Code de l'énergie - art. L337-8 (V)
+
+
+##### Sous-section 5 : Dispositions d'adaptation du titre IV
+
+
+###### Article L363-13
+
+Pour l'application du titre IV du livre III dans les îles Wallis et Futuna : 
+
+1° Les articles L. 341-2, L. 341-3, L. 341-4, L. 341-4-1 et L. 341-4-2 ne sont applicables qu'en tant qu'ils concernent le
+réseau de distribution d'électricité. 
+
+2° L'article L. 342-5 est ainsi rédigé : 
+
+“ Art. L. 342-5.-Afin d'assurer la sécurité et la sûreté du réseau et la qualité de son fonctionnement, les prescriptions
+techniques générales de conception et de fonctionnement auxquelles doivent satisfaire les installations des utilisateurs du
+réseau, en vigueur en métropole, sont applicables à Wallis et Futuna, sous réserve d'adaptation justifiées au regard des
+conditions locales. ” ; 
+
+3° A l'article L. 342-6, les mots : “ ou par les redevables définis à l'article L. 342-11 ” et les mots : “ qu'il s'agisse
+d'un gestionnaire de réseau, d'une collectivité territoriale, d'un établissement public de coopération intercommunale ou d'un
+syndicat mixte ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-2 (V)
+	  - Code de l'énergie - art. L342-5 (V)
+	  - Code de l'énergie - art. L342-6 (V)
 
 
 ## LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ
