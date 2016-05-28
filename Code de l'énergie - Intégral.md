@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-05-14
+Version Consolidée au 2016-05-29
 
 # Partie législative
 
@@ -13662,10 +13662,6 @@ Les dispositions techniques concernant les véhicules en matière d'énergie, d'
 
 	  - Code de la route. - art. L318-1 (V)
 
-
-### TITRE VI : LES DISPOSITIONS PARTICULIERES A MAYOTTE
-
-#### Chapitre unique
 
 ### TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER
 
@@ -31785,13 +31781,17 @@ maximal par ménage fixé par un arrêté du ministre chargé de l'énergie.
 
 ###### Article R121-27
 
-I.-Les surcoûts qui peuvent résulter de contrats conclus à la suite d'un appel d'offres prévu aux articles L. 311-10 à L.
-311-13-1 ou en application de l'obligation d'achat prévue par l'article L. 314-1 ainsi que des contrats d'achat mentionnés à
-l'article L. 121-27 correspondent pour une année donnée : 
+I.-Les surcoûts qui peuvent résulter de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des contrats
+conclus en application du 1° de l'article L. 311-12 ou de la mise en œuvre de l'obligation d'achat prévue par les articles L.
+314-1 ou L. 314-26 ainsi que des contrats d'achat mentionnés à l'article L. 121-27 correspondent pour une année donnée : 
 
-1° Lorsqu'ils sont supportés par Electricité de France dans les zones interconnectées au réseau métropolitain continental, à
-la différence entre le prix d'acquisition de l'électricité payé en exécution des contrats en cause et les prix de marché de
-l'électricité ; 
+1° Lorsqu'ils sont supportés par Electricité de France ou par les organismes agréés mentionnés à l'article L. 314-6-1 dans
+les zones interconnectées au réseau métropolitain continental, à la différence entre le prix d'acquisition de l'électricité
+payé en exécution des contrats en cause et les prix de marché de l'électricité ;
+
+1° bis Lorsqu'ils sont supportés par l'acheteur de dernier recours mentionné à l'article L. 314-26, à la différence entre le
+prix d'acquisition de l'électricité payé en exécution des contrats en cause et les prix de marché de l'électricité, augmentée
+des frais de gestion de cet organisme ; 
 
 2° Lorsqu'ils sont supportés par Electricité de France ou Electricité de Mayotte dans les zones non interconnectées au réseau
 métropolitain continental, à la différence entre le prix d'acquisition de l'électricité payé en exécution des contrats en
@@ -31808,12 +31808,26 @@ l'objet des contrats mentionnés au 4° ;
 
 4° Lorsqu'ils sont supportés par Electricité de France en raison de l'achat à une entreprise locale de distribution d'un
 surplus d'électricité en application de l'article L. 314-5, à la différence entre le prix d'acquisition de l'électricité payé
-en exécution des contrats en cause et les prix de marché de l'électricité. 
+en exécution des contrats en cause et les prix de marché de l'électricité ;
 
-II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution ou Electricité de Mayotte
-lorsqu'ils sont retenus à la suite d'un appel d'offres prévu aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent
-une installation mentionnée aux 1° et 2° de l'article L. 314-1 sont évalués selon les règles prévues, selon le cas, aux 1°,
-2° et 3° du I. 
+5° Aux coûts supportés par Electricité de France, les entreprises locales de distribution et les organismes agréés mentionnés
+à l'article L. 314-6-1 correspondant au montant intégral de la prime mentionnée à l'article L. 314-7 applicable aux
+producteurs également consommateurs de tout ou partie de l'électricité qu'ils produisent.
+
+I bis.-Les surcoûts mentionnés au I sont, le cas échéant, diminués des indemnités de résiliation mentionnées à l'article R.
+314-9 et à l'article R. 311-27-3. 
+
+I ter.-Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse de
+contrats conclus à la suite d'un appel d'offres relevant du 2° de l'article L. 311-12 ou des contrats prévus à l'article L.
+314-18, correspondent pour une année civile donnée aux sommes versées au titre du complément de rémunération par Electricité
+de France aux producteurs bénéficiaires de tels contrats, diminuées le cas échéant des sommes dues par les producteurs à
+Electricité de France au titre des dispositions de l'article R. 314-49 et des indemnités de résiliation mentionnées à
+l'article R. 314-9 et à l'article R. 311-27-3. 
+
+II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
+mentionné L. 314-6-1 du code de l'énergie ou Electricité de Mayotte lorsqu'ils sont retenus à la suite d'un appel d'offres
+prévu aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent une installation mentionnée aux 1° et 2° de l'article L.
+314-1 sont évalués selon les règles prévues, selon le cas, aux 1°, 2° et 3° du I. 
 
 A cet effet, ils établissent des protocoles qui règlent les conditions de cession interne de l'électricité. Les conditions de
 durée et d'équivalent de prix y figurant sont conformes, dans les cas d'application des articles L. 311-10 à L. 311-13-1, aux
@@ -31828,9 +31842,9 @@ directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 3
+	  - Décret n°2016-682 du 27 mai 2016 - art. 5
 
 	**Cite**:
 
@@ -32066,10 +32080,10 @@ même année, de la gestion des comptes spécifiques mentionnées à l'article R
 
 ###### Article R121-31
 
-I.-La Commission de régulation de l'énergie constate, chaque année, le montant des charges imputables aux missions de service
-public de l'énergie ayant incombé aux opérateurs au titre de l'année précédente et évalue, pour l'année suivante, le montant
-prévisionnel de ces mêmes charges, à partir des informations fournies par les déclarations prévues au I de l'article R.
-121-30. Elle réalise par ailleurs une mise à jour de l'évaluation des charges imputables aux missions de service public de
+I. - La Commission de régulation de l'énergie constate, chaque année, le montant des charges imputables aux missions de
+service public de l'énergie ayant incombé aux opérateurs au titre de l'année précédente et évalue, pour l'année suivante, le
+montant prévisionnel de ces mêmes charges, à partir des informations fournies par les déclarations prévues au I de l'article
+R. 121-30. Elle réalise par ailleurs une mise à jour de l'évaluation des charges imputables aux missions de service public de
 l'énergie incombant aux opérateurs au titre de l'année en cours. 
 
 Le montant des charges imputables aux missions de service public pour l'année suivante correspond : 
@@ -32095,8 +32109,9 @@ garanties d'origine délivrées, en application des articles L. 446-3 et L. 446-
 
 g) Réduit du montant de la valorisation financière des garanties d'origine délivrées au cours de l'année précédente, en
 application de l'article L. 314-14 pour l'électricité acquise ou compensée en application du I et du II de l'article R.
-121-27 et du II de l'article R. 121-28. Les modalités d'évaluation de cette valorisation financière sont fixées par arrêté du
-ministre en charge de l'énergie ; 
+121-27 et du II de l'article R. 121-28 et du montant de la valorisation financière des garanties de capacités, en application
+de l'article L. 121-24. Les modalités d'évaluation de la valorisation financière des garanties d'origine sont fixées par
+arrêté du ministre en charge de l'énergie ; 
 
 h) Augmenté ou diminué des intérêts prévus aux articles L. 121-19-1 et L. 121-41, calculés opérateur par opérateur, par
 application, à la moyenne du déficit ou de l'excédent de compensation constaté l'année précédente, du taux de 1,72 %, qui
@@ -32111,26 +32126,29 @@ La CRE distingue le montant des charges relevant du compte " Transition énergé
 public de l'énergie " mentionnés à l'article R. 121-22. Par défaut, les charges qui ne sont pas mentionnées à l'article 5 de
 la loi du 29 décembre 2015 précitée relèvent du compte " Service public de l'énergie ". 
 
-II.-Avant le 15 juillet de chaque année, la Commission de régulation de l'énergie adresse au ministre chargé de l'énergie ses
-évaluations du montant des charges établies conformément au I, avec l'indication des règles employées et toutes les
+II. - Avant le 15 juillet de chaque année, la Commission de régulation de l'énergie adresse au ministre chargé de l'énergie
+ses évaluations du montant des charges établies conformément au I, avec l'indication des règles employées et toutes les
 informations nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 3
-
 	**Cite**:
 
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
 	  - Code de l'énergie - art. L121-19-1
+	  - Code de l'énergie - art. L121-24 (V)
 	  - Code de l'énergie - art. L121-41
 	  - Code de l'énergie - art. L314-14
 	  - Code de l'énergie - art. L446-3
 	  - Code de l'énergie - art. L446-4
-	  - Code de l'énergie - art. R121-22 (V)
-	  - Code de l'énergie - art. R121-27 (V)
-	  - Code de l'énergie - art. R121-30 (V)
+	  - Code de l'énergie - art. R121-22
+	  - Code de l'énergie - art. R121-27
+	  - Code de l'énergie - art. R121-28 (V)
+	  - Code de l'énergie - art. R121-30
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 6
 
 	**Cité par**:
 
@@ -43039,6 +43057,240 @@ demande qui en est faite par le candidat retenu, conformément aux engagements c
 	  - Code de l'énergie - art. L311-12
 
 
+##### Sous-section 3 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
+
+###### Article R311-27-1
+
+Les contrats mentionnés au 1° ou au 2° de l'article L. 311-12 sont conclus pour l'installation et restent en vigueur tout au
+long de la vie de cette installation dans la limite de la durée mentionnée dans le cahier des charges de l'appel d'offres,
+sous réserve de la résiliation ou de la suspension de ce contrat. Les modèles de contrat sont établis par Electricité de
+France, le cas échéant avec les entreprises locales de distribution, et approuvés par le ministre chargé de l'énergie. 
+
+La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à Electricité de France ou, le cas échéant, à
+l'entreprise locale de distribution, d'une attestation de conformité de son installation aux prescriptions fixées par le
+cahier des charges de l'appel d'offres et aux caractéristiques figurant dans son contrat. Cette attestation est établie sur
+la base d'un modèle approuvé par le ministre chargé de l'énergie, à la demande du producteur, par un organisme agréé en
+application de l'article L. 311-13-5. Elle n'est délivrée que lorsque l'installation est achevée à la puissance installée
+figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse à Electricité de France ou,
+le cas échéant, à l'entreprise locale de distribution. 
+
+Le contrat prend effet à la date souhaitée par le producteur après fourniture de cette attestation, cette date étant
+nécessairement un premier du mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 7 (V)
+	  - Code de l'énergie - art. R311-27-8 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R311-44 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+
+###### Article R311-27-2
+
+Le contrat peut être suspendu, sans prolongation de la durée totale du contrat, par Electricité de France pour un contrat
+conclu en application du 1° ou du 2° de l'article L. 311-12 ou, le cas échéant, par les entreprises locales de distribution
+pour un contrat conclu en application du 1° de l'article L. 311-12, dans les cas suivants : 
+
+- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
+dispositions de l'article L. 311-14 ; 
+
+- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ; 
+
+- absence de notification par le producteur à Electricité de France ou, le cas échéant, à l'entreprise locale de
+distribution, de modifications par rapport aux clauses du contrat ; 
+
+- refus du producteur de répondre aux demandes d'Electricité de France ou, le cas échéant, de l'entreprise locale de
+distribution, destinées à vérifier la bonne application des clauses du contrat ; 
+
+- non-respect par un producteur de ses obligations et engagements au titre de l'article R. 311-27-6 ; 
+
+- absence de production pendant une durée de plus de dix-huit mois. 
+
+Les modèles de contrat mentionnés à l'article R. 311-27-1 précisent les cas dans lesquels les suspensions susmentionnées
+conduisent à une résiliation. 
+
+Le contrat peut être résilié sur injonction du ministre chargé de l'énergie ou du préfet en cas de décision de justice ou en
+cas de décision administrative intervenant dans le cadre des dispositions de l'article L. 311-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-30 (V)
+
+
+###### Article R311-27-3
+
+Le contrat conclu en application du 1° ou du 2° de l'article L. 311-12 précise les modalités relatives aux indemnités dues en
+cas de résiliation de celui-ci par le producteur avant le terme prévu. Celles-ci sont égales :
+
+- dans le cas d'un contrat conclu en application du 2° de l'article L. 311-12, aux sommes actualisées perçues et versées au
+titre du complément de rémunération depuis la date de prise d'effet du contrat jusqu'à sa résiliation ;
+
+- dans le cas d'un contrat conclu en application du 1° de l'article L. 311-12, aux sommes actualisées perçues et versées au
+titre de l'obligation d'achat depuis la date de prise d'effet du contrat jusqu'à sa résiliation dans la limite des surcoûts,
+mentionnés au 1° de l'article L. 121-7, en résultant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-27 (V)
+
+
+###### Article R311-27-4
+
+Electricité de France et les entreprises locales de distribution transmettent au ministre chargé de l'énergie et au préfet,
+sur leur demande, les informations concernant les caractéristiques des installations pour lesquelles un contrat conclu en
+application du 1° ou du 2° de l'article L. 311-12 est signé. Ces informations ne sont accessibles qu'aux agents dûment
+habilités mentionnés à l'article L. 142-21. 
+
+Electricité de France et les entreprises locales de distribution transmettent trimestriellement, au ministre chargé de
+l'énergie et au préfet, un bilan par filière des contrats conclus en application du 1° ou du 2° de l'article L. 311-12 ainsi
+que les capacités correspondantes en mégawatt, sur l'année écoulée à l'échelle départementale pour le préfet et à l'échelle
+nationale pour le ministre. 
+
+Electricité de France et les entreprises locales de distribution préservent la confidentialité des informations d'ordre
+économique, commercial, industriel, financier ou technique dont le service chargé de la négociation et de la conclusion du
+contrat d'achat d'électricité ou du contrat de complément de rémunération a connaissance dans l'accomplissement de ses
+missions et dont la communication serait de nature à porter atteinte aux règles de concurrence libre et loyale et de non-
+discrimination. En particulier, ce service prend les mesures nécessaires pour que ces informations ne soient pas divulguées
+en dehors de lui. Il peut toutefois transmettre au ministre chargé de l'énergie ou au préfet, à leur demande, les
+informations nécessaires à l'exercice de leurs missions. Le ministre ou le préfet préservent, dans les mêmes conditions, la
+confidentialité de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-21
+	  - Code de l'énergie - art. L311-12
+
+
+###### Article R311-27-5
+
+En cas de changement de producteur sur une installation bénéficiant d'un contrat conclu en application du 1° ou du 2° de
+l'article L. 311-12, les clauses et conditions du contrat existant pour cette installation s'imposent pour la durée souscrite
+restant au nouveau producteur. Un avenant est conclu en ce sens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+
+###### Article R311-27-6
+
+Le producteur ayant conclu un contrat en application du 1° ou du 2° de l'article L. 311-12 s'engage à faire réaliser, sur
+demande du préfet, les contrôles mentionnés à l'article L. 311-13-5. 
+
+Il tient à disposition du préfet les documents relatifs aux caractéristiques de l'installation de production, à ses
+performances et aux résultats des contrôles mentionnés à l'alinéa précédent ainsi que les documents relatifs aux autres
+contrôles réalisés sur l'installation le cas échéant. Le préfet adresse ces documents à la Commission de régulation de
+l'énergie sur demande de celle-ci. 
+
+Le producteur transmet chaque année à la Commission de régulation de l'énergie et tient à disposition du ministre chargé de
+l'énergie le détail des coûts et des recettes relatifs à son installation dans les conditions et dans un format proposés par
+la Commission de régulation de l'énergie et approuvés par le ministre chargé de l'énergie. Il tient à disposition de la
+Commission de régulation de l'énergie les documents contractuels et comptables justifiant ces données, qu'il lui transmet sur
+demande dans un délai d'un mois. 
+
+Le producteur ayant conclu un contrat de complément de rémunération en application du 2° de l'article L. 311-12 autorise les
+gestionnaires des réseaux publics de distribution ou de transport à transmettre à Electricité de France les données de
+production nécessaire au calcul et à la facturation du complément de rémunération. Le cas échéant, les gestionnaires du
+réseau public de distribution peuvent transmettre au gestionnaire du réseau public de transport les données de comptage. Les
+formats de transmission de données sont élaborés conjointement par les gestionnaires des réseaux publics de distribution et
+de transport et Electricité de France et approuvés par le ministre chargé de l'énergie. 
+
+Pour bénéficier d'un contrat de complément de rémunération en application du 2° de l'article L. 311-12, le producteur renonce
+au préalable au droit d'obtenir la délivrance des garanties d'origine pour l'électricité produite à partir d'énergies
+renouvelables ou de cogénération de son installation pendant la durée de son contrat. Par suite, il ne peut ni demander, ni
+transférer, ni acquérir, ni utiliser des garanties d'origine pour la production de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. L311-13-5
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-27-2 (V)
+
+
+###### Article R311-27-7
+
+Pour les contrats conclus en application du 2° de l'article L. 311-12, les modalités de calcul et de versement du complément
+de rémunération sont fixées dans le cahier des charges des appels d'offres. Les données nécessaires à la facturation sont
+communiquées au producteur dans les conditions mentionnées aux articles R. 314-43 à R. 314-46.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+
+###### Article R311-27-8
+
+Les installations bénéficiant d'un contrat conclu en application du 2° de l'article L. 311-12 peuvent bénéficier du
+dispositif d'acheteur de dernier recours mentionné à l'article R. 314-52 dans les conditions prévues par cet article. Le
+tarif d'achat de l'électricité produite est défini dans le cahier des charges de l'appel d'offres. Les conditions
+contractuelles de cet achat sont définies par des modèles de contrat établis par l'acheteur et approuvés par le ministre
+chargé de l'énergie. Les conditions de suspension et de reprise du contrat de complément de rémunération dans le cadre de
+l'achat mentionné au présent article sont définies par les modèles de contrat mentionnés à l'article R. 311-27-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+
+
 ##### Section 3 : Sanctions administratives et pénales
 
 ###### Article R311-28
@@ -43133,15 +43385,42 @@ connaître que la situation de l'installation est désormais régulière au rega
 
 #### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables
 
-##### Section 1 : L'obligation d'achat
+##### Section 1 : Les dispositifs de soutien aux énergies renouvelables
 
-##### Sous-section 1 : Catégories d'installations bénéficiant de l'obligation d'achat
+##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération
 
 ###### Article R314-1
 
-Lorsque les conditions posées par l'article L. 314-1 sont réunies, les producteurs qui en font la demande bénéficient de
-l'obligation d'achat d'électricité prévue par cet article pour les catégories d'installations qu'il mentionne dans les
-conditions fixées à la présente section.
+Au sens de la présente section, on entend par : 
+
+1° " Acheteur " : Electricité de France ou les entreprises locales de distribution qui exploitent le réseau public auquel est
+raccordée l'installation de production ; 
+
+2° " Agrégateur " : personne morale ou physique chargée de la vente sur les marchés de l'électricité produite par
+l'installation, pour le compte du producteur ; 
+
+3° " Coûts d'exploitation " : coûts liés au fonctionnement de l'installation, tels que les coûts d'opération, notamment
+d'approvisionnement et d'acheminement du combustible, les coûts de main-d'œuvre, de maintenance, le paiement des loyers le
+cas échéant, le coût des assurances ainsi que le paiement des diverses impositions et redevances ; 
+
+4° " Cocontractant " : Electricité de France dans le cas d'un contrat de complément de rémunération et l'acheteur dans le cas
+d'un contrat d'achat ; 
+
+5° " Filière " : ensemble des installations régies par le même arrêté pris en application de l'article R. 314-12 ; 
+
+6° " Installation " : ensemble des machines électrogènes appartenant à la même filière de production et répondant aux
+caractéristiques définies par les arrêtés mentionnés à l'article R. 314-12, complété le cas échéant des ouvrages précisés par
+ces arrêtés ; 
+
+7° " Nouvelle installation " : sauf disposition spécifique prévue par les arrêtés mentionnés à l'article R. 314-12,
+installation mise en service pour la première fois et dont aucun des organes fondamentaux définis par ces arrêtés n'a jamais
+servi au moment du dépôt de la demande mentionnée à l'article R. 314-3 ; 
+
+8° " Producteur " : personne morale ou physique responsable de l'exploitation de l'installation ; 
+
+9° " Puissance installée " : sauf mention différente prévue dans les arrêtés pris en application de l'article R. 314-12,
+somme des puissances électriques unitaires maximales des machines électrogènes appartenant à une filière de production et
+susceptibles de fonctionner simultanément sur une même installation.
 
 **Liens relatifs à cet article**
 
@@ -43149,9 +43428,9 @@ conditions fixées à la présente section.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43164,27 +43443,18 @@ conditions fixées à la présente section.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
 
 
 ###### Article R314-2
 
-Pour les installations soumises à une limite de puissance en application du 2° de l'article L. 314-1, ces limites sont les
-suivantes : 
+Les contrats ouvrant droit à l'obligation d'achat prévue à l'article L. 314-1 ou au complément de rémunération prévu à
+l'article L. 314-18 sont établis entre le producteur et le cocontractant conformément aux dispositions de la présente section
+et à l'arrêté de la filière concernée pris en application de l'article R. 314-12. 
 
-1° Installations utilisant l'énergie hydraulique des lacs, cours d'eau et mers : puissance installée inférieure ou égale à 12
-mégawatts ; 
-
-2° Installations utilisant l'énergie radiative du soleil : puissance installée inférieure ou égale à 12 mégawatts ; 
-
-3° Installations utilisant, à titre principal, l'énergie dégagée par la combustion ou l'explosion de matières non fossiles
-d'origine animale ou végétale : puissance installée inférieure ou égale à 12 mégawatts ; un arrêté du ministre chargé de
-l'énergie fixe les limites dans lesquelles ces installations peuvent utiliser une fraction d'énergie non renouvelable ; 
-
-4° Installations utilisant, à titre principal, l'énergie dégagée par la combustion ou l'explosion de gaz résultant de la
-décomposition ou de la fermentation de déchets issus de l'agriculture ou du traitement des eaux : puissance installée
-inférieure ou égale à 12 mégawatts ; un arrêté du ministre chargé de l'énergie fixe les limites dans lesquelles ces
-installations peuvent utiliser une fraction d'énergie non renouvelable.
+Les modèles de contrat d'achat et de contrat de complément de rémunération sont établis par Electricité de France, le cas
+échéant avec les organisations représentatives des entreprises locales de distribution et approuvés par le ministre chargé de
+l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -43192,9 +43462,9 @@ installations peuvent utiliser une fraction d'énergie non renouvelable.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43212,21 +43482,18 @@ installations peuvent utiliser une fraction d'énergie non renouvelable.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. R314-12 (V)
 
 
 ###### Article R314-3
 
-Lorsque les conditions fixées par l'article L. 314-1 sont réunies, les producteurs qui en font la demande bénéficient de
-l'obligation d'achat d'électricité prévue par cet article pour les installations de production d'électricité, d'une puissance
-installée inférieure ou égale à 12 mégawatts, présentant une efficacité énergétique particulière, soit du fait de
-l'utilisation de certains combustibles, soit du fait de leurs caractéristiques intrinsèques, notamment dans le cas de
-cogénération d'électricité et de chaleur valorisée. 
+Le producteur souhaitant bénéficier de l'obligation d'achat prévue à l'article L. 314-1 ou du complément de rémunération
+prévu à l'article L. 314-18 adresse une demande complète de contrat au cocontractant. 
 
-Des arrêtés du ministre chargé de l'énergie fixent les caractéristiques techniques auxquelles doivent répondre les
-installations mentionnées au précédent alinéa, notamment en ce qui concerne le rendement énergétique. En tant que de besoin,
-ils fixent également les modalités selon lesquelles est délivré et retiré l'acte par lequel le respect de ces
-caractéristiques est reconnu pour chaque installation.
+Les arrêtés mentionnés à l'article R. 314-12 peuvent prévoir que la demande de contrat peut être transmise par
+l'intermédiaire du gestionnaire de réseau public de distribution.
 
 **Liens relatifs à cet article**
 
@@ -43234,9 +43501,9 @@ caractéristiques est reconnu pour chaque installation.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43265,17 +43532,38 @@ caractéristiques est reconnu pour chaque installation.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
 
 
 ###### Article R314-4
 
-Lorsque les conditions fixées par les articles L. 314-1 à L. 314-13 sont réunies, les producteurs qui en font la demande
-bénéficient de l'obligation d'achat d'électricité prévue par l'article L. 314-1 pour les installations de production
-d'électricité, d'une puissance installée inférieure ou égale à 12 mégawatts, utilisant l'énergie dégagée par la combustion ou
-l'explosion du gaz de mine, à la condition qu'il s'agisse d'un gaz de récupération et que cette récupération se fasse sans
-intervention autre que celle rendue nécessaire par l'aspiration de ce gaz sur les vides miniers afin de maintenir ceux-ci en
-dépression.
+La demande mentionnée à l'article R. 314-3, établie par le producteur, comprend : 
+
+1° Les données relatives au producteur : s'il s'agit d'une personne physique, ses nom, prénoms et domicile et, s'il s'agit
+d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, le numéro d'identité de l'établissement
+auquel appartient l'installation au répertoire national des entreprises et des établissements, l'adresse de son siège social
+ainsi que la qualité du signataire de la demande, et lorsque le dossier est déposé par un mandataire, la preuve d'un mandat
+exprès autorisant le mandataire à agir au nom et pour le compte du producteur ; 
+
+2° Les caractéristiques principales de l'installation de production objet du contrat d'achat ou du contrat de complément de
+rémunération :
+
+- sa localisation ;
+
+- la puissance installée. 
+
+3° La référence à l'arrêté pris en application de l'article R. 314-12 dont relève la demande. 
+
+Les arrêtés mentionnés à l'article R. 314-12 peuvent prévoir que cette demande est complétée et précisée par d'autres
+éléments qu'ils définissent. 
+
+La demande est adressée par voie postale ou par voie dématérialisée au cocontractant, la charge de la preuve de l'envoi ou de
+la transmission reposant sur le producteur en cas de litige. Seule est recevable une demande complète, comprenant l'ensemble
+des pièces mentionnées au présent article et celles prévues par les arrêtés mentionnés à l'article R. 314-12. 
+
+Le cocontractant est tenu d'accuser réception de la demande ou le cas échéant de préciser les motifs d'incomplétude de la
+demande.
 
 **Liens relatifs à cet article**
 
@@ -43283,9 +43571,9 @@ dépression.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43308,16 +43596,34 @@ dépression.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
 
 
 ###### Article R314-5
 
-Sans préjudice des dispositions du quatrième alinéa de l'article L. 314-1, pour l'application de la présente section, la
-puissance installée d'une installation de production d'électricité est définie comme la somme des puissances électriques
-unitaires maximales des machines électrogènes qui appartiennent à une même catégorie telle que définie à l'article L. 314-1
-et qui sont susceptibles de fonctionner simultanément dans un même établissement, identifié par son numéro d'identité au
-répertoire national des entreprises et des établissements défini par les articles R. 123-220 et suivants du code de commerce.
+I.-Jusqu'à la transmission de l'attestation de conformité mentionnée à l'article R. 314-7, le producteur peut modifier sa
+demande de contrat. La demande de modification de la demande initiale transmise au cocontractant comporte exclusivement les
+éléments objet de modifications. 
+
+Seuls les éléments suivants peuvent faire l'objet d'une demande modificative :
+
+- les données relatives au producteur ;
+
+- la puissance, dans la limite du seuil d'éligibilité à l'obligation d'achat ou au complément de rémunération et dans les
+limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite, dans tous les cas, de 30 % de la
+puissance déclarée dans la demande initiale ;
+
+- les autres éléments éventuellement prévus par les arrêtés mentionnés à l'article R. 314-12. 
+
+Tout autre élément de la demande ne peut être modifié que dans le cadre d'une nouvelle demande de contrat. 
+
+Si le contrat a été signé, il peut être modifié par avenant, dans les mêmes limites que ci-dessus. La demande d'avenant
+comporte exclusivement les éléments objet de modifications. 
+
+II.-Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels et les modalités selon lesquelles le
+producteur peut demander des modifications de son contrat d'achat ou de son contrat de complément de rémunération après la
+transmission de l'attestation de conformité mentionnée à l'article R. 314-7.
 
 **Liens relatifs à cet article**
 
@@ -43325,9 +43631,9 @@ répertoire national des entreprises et des établissements défini par les arti
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43343,20 +43649,19 @@ répertoire national des entreprises et des établissements défini par les arti
 
 	**Cite**:
 
-	  - Code de commerce - art. R123-220 (V)
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-7 (V)
 
-
-##### Sous-section 2 : Conditions de l'obligation d'achat
 
 ###### Article R314-6
 
-En dehors, le cas échéant, de l'électricité qu'il consomme lui-même, des restitutions et réserves relevant respectivement des
-articles L. 521-14 et L. 522-1 et suivants ou de l'électricité vendue dans le cadre des dispositions de l'article L. 314-11,
-un producteur d'électricité bénéficiant de l'obligation d'achat prévue par l'article L. 314-1, ci-après dénommé " le
-producteur ", est tenu de vendre la totalité de l'électricité produite par l'installation considérée à la société EDF ou à
-l'entreprise locale de distribution qui exploite le réseau public auquel est raccordée l'installation de production, ci-après
-dénommé " l'acheteur ".
+Après instruction et dans un délai de trois mois à compter de la réception de l'ensemble des éléments mentionnés à l'article
+R. 314-4, le cocontractant transmet au producteur le projet de contrat relatif à l'installation concernée. Le producteur
+retourne le projet signé au cocontractant, qui le signe à son tour. 
+
+En application des articles L. 314-1 et L. 314-18, le contrat conclu pour une installation reste en vigueur tout au long de
+la vie de cette installation, dans la limite de la durée fixée par les arrêtés mentionnés à l'article R. 314-12 et sous
+réserve de la résiliation ou de la suspension de ce contrat.
 
 **Liens relatifs à cet article**
 
@@ -43364,16 +43669,15 @@ dénommé " l'acheteur ".
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. L314-11 (V)
-	  - Code de l'énergie - art. L521-14 (V)
-	  - Code de l'énergie - art. L522-1 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. R314-4 (V)
 
 	**Cité par**:
 
@@ -43384,20 +43688,18 @@ dénommé " l'acheteur ".
 
 ###### Article R314-7
 
-Une personne demandant à bénéficier de l'obligation d'achat doit adresser au préfet un dossier comportant : 
+La prise d'effet du contrat est subordonnée à la transmission par le producteur au cocontractant d'une attestation de
+conformité de son installation aux prescriptions fixées par les arrêtés mentionnés à l'article R. 314-12 et aux
+caractéristiques figurant dans le contrat. Cette attestation est établie, sur la base d'un modèle approuvé par le ministre
+chargé de l'énergie et à la demande du producteur, par un organisme agréé en application, selon le cas, de l'article L.
+314-7-1 ou de l'article L. 314-25. Elle n'est délivrée que lorsque l'installation est achevée à la puissance installée
+figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse au cocontractant. 
 
-1° S'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou
-sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire du dossier et,
-lorsque le dossier est déposé par un mandataire, la preuve d'un mandat exprès autorisant le mandataire à agir pour le compte
-du demandeur ; 
+En cas de dépassement du délai fixé par les arrêtés mentionnés à l'article R. 314-12, dans lequel doit être fournie
+l'attestation, la durée du contrat est réduite dans les conditions prévues par ces mêmes arrêtés. 
 
-2° La localisation de l'installation de production d'électricité concernée, ainsi que, s'il s'agit d'une personne morale, le
-numéro d'identité de l'établissement considéré au répertoire national des entreprises et des établissements défini par les
-articles R. 123-220 et suivants du code de commerce ; 
-
-3° La ou les énergies primaires et la technique de production utilisées ; 
-
-4° La puissance installée, la capacité de production de l'installation de production d'électricité.
+Le contrat prend effet, après fourniture de cette attestation, le premier jour du mois souhaité par le producteur, sauf
+disposition spécifique prévue par les arrêtés mentionnés ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -43405,9 +43707,9 @@ articles R. 123-220 et suivants du code de commerce ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43434,7 +43736,6 @@ articles R. 123-220 et suivants du code de commerce ;
 	  - Arrêté du 9 mai 2017 - art. 6 (V)
 	  - Code de l'énergie - art. R311-44 (V)
 	  - Code de l'énergie - art. R314-10 (M)
-	  - Code de l'énergie - art. R314-12 (M)
 	  - Code de l'énergie - art. R314-13 (M)
 	  - Code de l'énergie - art. R314-14 (M)
 	  - Code de l'énergie - art. R314-20 (V)
@@ -43449,15 +43750,36 @@ articles R. 123-220 et suivants du code de commerce ;
 
 	**Cite**:
 
-	  - Code de commerce - art. R123-220 (V)
+	  - Code de l'énergie - art. L314-25
+	  - Code de l'énergie - art. L314-7-1
+	  - Code de l'énergie - art. R314-12 (V)
 
 
 ###### Article R314-8
 
-Une personne demandant à bénéficier de l'obligation d'achat en application du 1° de l'article L. 314-1, lorsque
-l'installation est destinée à l'alimentation d'un réseau de chaleur, doit adresser au préfet un dossier comportant l'ensemble
-des éléments mentionnés à l'article R. 314-7, ainsi que les éléments établissant que la puissance installée de l'installation
-est en rapport avec la taille du réseau de chaleur, existant ou à créer, qui sera alimenté par cette installation.
+Le contrat peut être suspendu, sans prolongation de sa durée, par le cocontractant dans les cas suivants :
+
+- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
+dispositions de l'article L. 311-14 ;
+
+- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ;
+
+- absence de notification par le producteur au cocontractant de modifications par rapport aux termes de la demande initiale
+de contrat ou aux clauses du contrat ;
+
+- refus du producteur de répondre aux demandes du cocontractant destinées à vérifier la bonne application des clauses du
+contrat ;
+
+- non-respect par le producteur de ses obligations et engagements au titre de l'article R. 314-14 et le cas échéant de
+l'article R. 314-17 ou de l'article R. 314-32 ;
+
+- absence de production pendant une durée de plus de dix-huit mois. 
+
+Les modèles de contrat mentionnés à l'article R. 314-2 précisent les cas dans lesquels ces suspensions conduisent à une
+résiliation. 
+
+Le contrat peut être résilié en cas de décision de justice ou en cas de décision administrative intervenant dans le cadre des
+dispositions de l'article L. 311-14.
 
 **Liens relatifs à cet article**
 
@@ -43465,14 +43787,17 @@ est en rapport avec la taille du réseau de chaleur, existant ou à créer, qui 
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. L311-14
+	  - Code de l'énergie - art. R314-14 (V)
+	  - Code de l'énergie - art. R314-17 (V)
+	  - Code de l'énergie - art. R314-2 (V)
+	  - Code de l'énergie - art. R314-32 (V)
 
 	**Cité par**:
 
@@ -43483,16 +43808,14 @@ est en rapport avec la taille du réseau de chaleur, existant ou à créer, qui 
 
 ###### Article R314-9
 
-Une personne demandant à bénéficier de l'obligation d'achat en application du 2° de l'article L. 314-1 doit adresser au
-préfet un dossier comportant l'ensemble des éléments mentionnés à l'article R. 314-7 ainsi que : 
+Les contrats mentionnés à l'article R. 314-2 précisent les modalités relatives aux indemnités dues en cas de résiliation par
+le producteur avant le terme prévu. Ces indemnités sont égales :
 
-1° Les éléments permettant d'apprécier la plus petite distance qui sépare une machine électrogène appartenant à
-l'installation considérée d'une machine électrogène appartenant à une autre installation de la même catégorie, exploitées par
-la même personne ou par les sociétés qu'elle contrôle directement ou indirectement au sens de l'article L. 233-3 du code de
-commerce et bénéficiant de l'obligation d'achat ; 
+- pour un contrat de complément de rémunération, aux sommes actualisées perçues et versées au titre du complément de
+rémunération depuis la date de prise d'effet du contrat jusqu'à sa résiliation ;
 
-2° En outre, pour toute installation mettant en œuvre des techniques performantes en termes d'efficacité énergétique au sens
-de l'article R. 314-3, les éléments fixas par les arrêtés prévus à cet article.
+- pour un contrat d'achat, aux sommes actualisées perçues et versées au titre de l'obligation d'achat depuis la date de prise
+d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentionnés au 1° de l'article L. 121-7 en résultant.
 
 **Liens relatifs à cet article**
 
@@ -43500,9 +43823,9 @@ de l'article R. 314-3, les éléments fixas par les arrêtés prévus à cet art
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43520,17 +43843,15 @@ de l'article R. 314-3, les éléments fixas par les arrêtés prévus à cet art
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-3 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R314-3 (V)
-	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. R314-2 (V)
 
 
 ###### Article R314-10
 
-Une personne demandant à bénéficier de l'obligation d'achat pour l'électricité produite par une installation photovoltaïque
-d'une puissance installée inférieure ou égale à " 250 kW crête " est dispensée de la production du dossier prévu à l'article
-R. 314-7 et de l'obtention du certificat prévu à l'article R. 314-12.
+En cas de changement du producteur exploitant une installation bénéficiant du contrat prévu à l'article R. 314-2, les clauses
+et conditions du contrat conclu pour cette installation s'appliquent au nouveau producteur pour la durée souscrite restante.
+Un avenant est conclu en ce sens.
 
 **Liens relatifs à cet article**
 
@@ -43538,28 +43859,23 @@ R. 314-7 et de l'obtention du certificat prévu à l'article R. 314-12.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-12 (V)
-	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. R314-2 (V)
 
 
 ###### Article R314-11
 
-Pour l'application du 2° de l'article L. 314-1 et du 1° de l'article R. 314-9, deux machines électrogènes ne peuvent être
-considérées comme installées sur deux sites distincts si la distance qui les sépare est inférieure à la distance suivante : 
+La suspension partielle ou totale de l'obligation de conclure un contrat d'achat ou un contrat de complément de rémunération,
+prévue par les articles L. 314-6 et L. 314-23, est arrêtée par le ministre chargé de l'énergie. L'arrêté précise, le cas
+échéant, les catégories d'installations concernées, la période de suspension et les modalités d'application de la
+suspension. 
 
-1° Dans le cas d'installations mentionnées au 4° de l'article R. 314-2 et à l'article R. 314-4 : 
-
-1 500 mètres ; 
-
-2° Dans le cas d'installations mentionnées aux 2°, 3° et 5° de l'article R. 314-2 et à l'article R. 314-3 : 500 mètres ; 
-
-3° Dans le cas d'installations mentionnées au 1° de l'article R. 314-2 : 250 mètres.
+Cet arrêté n'est pas soumis à la consultation du Conseil supérieur de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -43567,29 +43883,45 @@ considérées comme installées sur deux sites distincts si la distance qui les 
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R314-2 (V)
-	  - Code de l'énergie - art. R314-3 (V)
-	  - Code de l'énergie - art. R314-4 (V)
-	  - Code de l'énergie - art. R314-9 (V)
+	  - Code de l'énergie - art. L314-23
+	  - Code de l'énergie - art. L314-6
 
 
 ###### Article R314-12
 
-Dans un délai de deux mois à compter de la réception du dossier et des éléments mentionnés aux articles R. 314-7, R. 314-8 ou
-R. 314-9, le préfet délivre, s'il y a lieu, un certificat ouvrant droit à l'obligation d'achat d'électricité. Le certificat
-mentionne les informations prévues à l'article R. 314-7 et, s'il y a lieu, au 1° de l'article R. 314-9. Le certificat est
-notifié au demandeur et à l'acheteur définis à l'article R. 314-6. 
+Les arrêtés prévus par les articles L. 314-4 et L. 314-20 par lesquels les ministres chargés de l'énergie et de l'économie
+fixent les conditions d'achat et les conditions spécifiques du complément de rémunération pour l'électricité produite par les
+installations éligibles précisent notamment : 
 
-Pour une installation mettant en œuvre des techniques performantes en termes d'efficacité énergétique au sens de l'article R.
-314-3, le certificat atteste également le respect des caractéristiques techniques fixées par les arrêtés prévus à cet
-article.
+1° Selon le cas, le tarif d'achat de l'électricité ou les caractéristiques du complément de rémunération mentionnées aux
+articles R. 314-33 à R. 314-42 ainsi que le tarif d'achat en dernier recours prévu à l'article R. 314-52, pour la filière
+considérée ; 
+
+2° La durée du contrat ; 
+
+3° Le cas échéant, les éléments complémentaires que doit fournir le producteur en application de l'article R. 314-4 à l'appui
+de sa demande ; 
+
+4° Le cas échéant, les exigences techniques, environnementales et financières à satisfaire pour pouvoir bénéficier du
+contrat, qui peuvent inclure des garanties financières de réalisation de l'installation ; 
+
+5° Le cas échéant, les limites dans lesquelles les installations qui valorisent des déchets ménagers ou assimilés mentionnés
+aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales peuvent utiliser, en plus des déchets
+ménagers qu'elles valorisent, une fraction d'énergie non renouvelable. 
+
+Pour émettre son avis sur un projet d'arrêté, la Commission de régulation de l'énergie dispose, à compter de la date à
+laquelle elle est saisie par le ministre chargé de l'énergie, d'un délai d'un mois, qui peut être porté à deux mois à sa
+demande sous réserve de l'accord du ministre chargé de l'énergie. En l'absence d'avis émis dans ces délais, l'avis est réputé
+favorable. 
+
+L'avis de la Commission de régulation de l'énergie est publié au Journal officiel de la République française en même temps
+que l'arrêté.
 
 **Liens relatifs à cet article**
 
@@ -43597,9 +43929,9 @@ article.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43638,19 +43970,32 @@ article.
 	  - Code de l'énergie - art. R314-7 (V)
 	  - Code de l'énergie - art. R314-9 (V)
 
+	**Cite**:
 
-###### Article R314-12-1
+	  - Code général des collectivités territoriales - art. L2224-13
+	  - Code général des collectivités territoriales - art. L2224-14
+	  - Code de l'énergie - art. L314-20
+	  - Code de l'énergie - art. L314-4
 
-Pour les installations de production d'électricité utilisant l'énergie mécanique du vent implantées à terre mentionnées au 3°
-de l'article L. 314-1, et nonobstant toute mention contraire portée sur le certificat, la durée de validité du certificat
-correspond à la durée du contrat d'achat d'électricité mentionné à l'article R. 314-15. 
 
-Aucune distance minimale n'est requise pour considérer deux machines électrogène comme situées sur deux sites distincts.
-Aucune limite de puissance installée n'est prévue pour bénéficier de l'obligation d'achat. 
+###### Article R314-13
 
-Le certificat ouvrant droit à l'obligation d'achat ne vaut pas autorisation d'exploiter au titre de l'article L. 311-1. 
+Le cocontractant transmet au ministre chargé de l'énergie et au préfet, sur leur demande, les informations concernant les
+caractéristiques des installations pour lesquelles un contrat d'achat ou de complément de rémunération a été signé, ainsi que
+les demandes qui n'ont pu aboutir à la signature d'un contrat. Ces informations ne sont accessibles qu'aux agents dûment
+habilités mentionnés à l'article L. 142-21. 
 
-Le certificat ouvrant droit à l'obligation d'achat est nominatif et incessible.
+Le cocontractant transmet au ministre chargé de l'énergie et au préfet, trimestriellement, un bilan par filière des demandes
+de contrat d'achat et de contrat de complément de rémunération et des contrats signés par trimestre ainsi que les capacités
+correspondantes en mégawatt, à l'échelle départementale pour le préfet et à l'échelle nationale pour le ministre. 
+
+Le cocontractant préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou
+technique dont le service chargé de la négociation et de la conclusion du contrat d'achat d'électricité ou du contrat de
+complément de rémunération a connaissance dans l'accomplissement de ses missions et dont la communication serait de nature à
+porter atteinte aux règles de concurrence libre et loyale et de non-discrimination. En particulier, ce service prend les
+mesures nécessaires pour que ces informations ne soient pas divulguées en dehors de lui. Il peut toutefois transmettre au
+ministre chargé de l'énergie ou au préfet, à leur demande, les informations nécessaires à l'exercice de leurs missions. Le
+ministre ou le préfet préservent, dans les mêmes conditions, la confidentialité de ces informations.
 
 **Liens relatifs à cet article**
 
@@ -43658,67 +44003,39 @@ Le certificat ouvrant droit à l'obligation d'achat est nominatif et incessible.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-1
-	  - Code de l'énergie - art. L314-1
-	  - Code de l'énergie - art. R314-15
-
-
-###### Article R314-13
-
-Le certificat ouvrant droit à l'obligation d'achat peut être transféré par décision préfectorale. Le titulaire du certificat
-et le nouveau pétitionnaire adressent au préfet une demande de transfert du certificat. Cette demande comporte, s'agissant du
-nouveau pétitionnaire, les éléments mentionnés aux 1° et 2° de l'article R. 314-7 et, s'il y a lieu, au 1° de l'article R.
-314-9. Le préfet statue sur la demande dans un délai de quatre mois à compter de sa réception. Le transfert de certificat
-vaut pour la durée du certificat restant à courir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Code de l'énergie - art. L142-21 (V)
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R314-17 (M)
 
-	**Cite**:
-
-	  - Code de l'énergie - art. R314-7 (V)
-	  - Code de l'énergie - art. R314-9 (V)
-
 
 ###### Article R314-14
 
-Toute modification portant sur les caractéristiques de l'installation mentionnées aux 3° et 4° de l'article R. 314-7 fait
-l'objet, avant sa réalisation, d'une demande de modification de certificat, sauf pour les installations entrant dans le champ
-d'application de l'article R. 314-10. 
+Le producteur qui a conclu le contrat mentionné à l'article R. 314-2 s'engage à faire réaliser, sur demande du préfet, les
+contrôles mentionnés à l'article L. 314-7-1 ou à l'article L. 314-25. 
 
-Les demandes sont adressées au préfet. Ces demandes sont présentées et instruites selon la procédure définie par les articles
-R. 314-6 à R. 314-12. Dans le cas d'une demande de modification du certificat, le préfet délivre dans un délai de quatre
-mois, s'il y a lieu, un certificat modificatif pour la durée du contrat restant à courir. 
+Il tient à disposition du préfet les documents relatifs aux caractéristiques de l'installation de production, à ses
+performances et aux résultats des contrôles mentionnés à l'alinéa précédent ainsi que les documents relatifs aux autres
+contrôles réalisés sur l'installation le cas échéant. Le préfet adresse ces documents à la Commission de régulation de
+l'énergie sur demande de celle-ci. 
 
-Lorsqu'une augmentation de la puissance installée entraîne un dépassement de la limite de puissance fixée par les articles R.
-314-2 à R. 314-4 pour la catégorie d'installations à laquelle appartient l'installation concernée, le certificat existant est
-abrogé. 
+Pour les installations de puissance installée supérieure à 100 kW, le producteur transmet chaque année à la Commission de
+régulation de l'énergie et tient à disposition du ministre chargé de l'énergie le détail des coûts et des recettes relatifs à
+son installation, dans les conditions et dans un format proposés par la Commission de régulation de l'énergie et approuvés
+par le ministre chargé de l'énergie. Il tient à disposition de la Commission de régulation de l'énergie les documents
+contractuels et comptables justifiant ces données, qu'il lui transmet sur demande dans un délai d'un mois. 
 
-Toute modification d'une installation entrant dans le champ d'application de l'article R. 314-10 portant sa puissance au-delà
-du seuil de " 250 kW crête " rend nécessaire le dépôt, avant sa réalisation, d'une demande d'un certificat d'obligation
-d'achat pour l'installation concernée, dans les conditions prévues à l'article R. 314-7. Le préfet délivre, s'il y a lieu, un
-certificat pour la durée du contrat restant à courir.
+Pour les installations de puissance installée inférieure ou égale à 100 kW, le producteur tient à disposition du ministre
+chargé de l'énergie et de la Commission de régulation de l'énergie le détail des coûts et des recettes relatifs à son
+installation ainsi que les documents contractuels et comptables justifiant ces données, qu'il lui transmet sur demande dans
+un délai d'un mois.
 
 **Liens relatifs à cet article**
 
@@ -43726,9 +44043,9 @@ certificat pour la durée du contrat restant à courir.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43745,84 +44062,21 @@ certificat pour la durée du contrat restant à courir.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-18 (V)
-	  - Code de l'énergie - art. R314-2 (V)
-	  - Code de l'énergie - art. R314-6 (V)
-	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. L314-25
+	  - Code de l'énergie - art. L314-7-1
 
 
-###### Article R314-15
+##### Sous-section 2 : Dispositions propres à l'obligation d'achat
 
-Les relations entre le producteur et l'acheteur font l'objet d'un contrat d'achat de l'électricité établi conformément à la
-présente section et à l'arrêté correspondant à la filière concernée, pris en application de l'article R. 314-18. La prise
-d'effet du contrat d'achat est subordonnée au raccordement de l'installation au réseau. 
-
-Pour les installations entrant dans le champ d'application du 2° ou du 3° de l'article L. 314-1 ou qui sont destinées à
-l'alimentation d'un réseau de chaleur, le certificat ouvrant droit à l'obligation d'achat est annexé au contrat. Lorsque les
-modifications de l'installation font qu'elle ne respecte plus les conditions qui découlent de l'article L. 314-1 et qu'il y a
-abrogation du certificat, cette abrogation entraîne, de plein droit, la résiliation du contrat d'achat. 
-
-Le ministre chargé de l'énergie approuve des modèles indicatifs de contrats d'achat de l'électricité produite par les
-diverses installations bénéficiant de l'obligation d'achat prévue par l'article L. 314-1, établis conjointement par la
-société EDF et par les organisations représentatives des entreprises locales de distribution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L314-1
-	  - Code de l'énergie - art. R314-18
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R314-12-1 (Ab)
-	  - Code de l'énergie - art. R314-16 (Ab)
-	  - Code de l'énergie - art. R314-17 (M)
-
-
-###### Article R314-16
-
-Le contrat d'achat mentionné à l'article R. 314-15 peut préciser les modalités relatives aux indemnités dues en cas de
-résiliation du contrat par le producteur avant le terme prévu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R314-15 (Ab)
-
+##### Paragraphe 2 : Conditions de l'obligation d'achat
 
 ###### Article R314-17
 
-En cas de cession d'une installation pour laquelle le producteur bénéficie d'un contrat d'achat mentionné à l'article R.
-314-15, le nouveau producteur, s'il en fait la demande auprès de l'acheteur, bénéficie, sous réserve des dispositions de
-l'article R. 314-13 pour les installations entrant dans le champ d'application du 2° de l'article L. 314-1 et de l'article R.
-314-3 ou qui sont destinées à l'alimentation d'un réseau de chaleur, des clauses et conditions du contrat d'achat existant
-pour la durée souscrite restante ; un avenant au contrat d'achat est établi.
+En dehors, le cas échéant, de l'électricité qu'il consomme lui-même, des restitutions et réserves relevant respectivement des
+articles L. 521-14 et L. 522-1 et suivants ou de l'électricité vendue dans le cadre des dispositions de l'article L. 314-11,
+le producteur ayant conclu le contrat prévu à l'article L. 314-1 est tenu de vendre la totalité de l'électricité produite par
+l'installation concernée à la société Electricité de France ou à l'entreprise locale de distribution qui exploite le réseau
+public auquel est raccordée l'installation de production.
 
 **Liens relatifs à cet article**
 
@@ -43830,9 +44084,9 @@ pour la durée souscrite restante ; un avenant au contrat d'achat est établi.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43841,33 +44095,16 @@ pour la durée souscrite restante ; un avenant au contrat d'achat est établi.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R314-13 (V)
-	  - Code de l'énergie - art. R314-15 (V)
-	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-11
+	  - Code de l'énergie - art. L521-14
+	  - Code de l'énergie - art. L522-1
 
 
 ###### Article R314-18
 
-Des arrêtés des ministres chargés de l'économie et de l'énergie, pris après avis de la Commission de régulation de l'énergie
-et du Conseil supérieur de l'énergie, fixent les conditions d'achat de l'électricité produite par les installations
-bénéficiant de l'obligation d'achat prévue par l'article L. 314-1. Ces conditions d'achat précisent, notamment : 
-
-1° En tant que de besoin, les conditions relatives à la fourniture de l'électricité par le producteur ; 
-
-2° Les tarifs d'achat de l'électricité ; 
-
-3° La durée du contrat ; 
-
-4° Les exigences techniques et financières à satisfaire pour pouvoir bénéficier de l'obligation d'achat. Ces exigences
-peuvent notamment inclure la fourniture de documents attestant de la faisabilité économique du projet, la fourniture
-d'éléments attestant de l'impact environnemental du projet ainsi que le respect de critères techniques ou architecturaux de
-réalisation du projet. 
-
-A compter de la date à laquelle la Commission de régulation de l'énergie a été saisie d'un projet d'arrêté par les ministres,
-elle dispose d'un délai d'un mois pour rendre son avis, délai que les ministres peuvent porter à deux mois à la demande de la
-commission. Passé ce délai, l'avis est réputé donné. L'avis de la Commission de régulation de l'énergie est, le cas échéant,
-publié au Journal officiel de la République française en même temps que l'arrêté.
+Par exception, les installations mentionnées au 7° de l'article L. 314-1 bénéficient de l'obligation d'achat dans les
+conditions prévues aux articles R. 361-1 à R. 361-7.
 
 **Liens relatifs à cet article**
 
@@ -43875,13 +44112,14 @@ publié au Journal officiel de la République française en même temps que l'ar
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. R361-1 (V)
 
 	**Cité par**:
 
@@ -43891,9 +44129,20 @@ publié au Journal officiel de la République française en même temps que l'ar
 
 ###### Article R314-19
 
-Un arrêté du ministre chargé de l'énergie fixe les limites dans lesquelles les installations qui valorisent des déchets
-ménagers ou assimilés mentionnés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales
-peuvent utiliser, en plus des déchets ménagers qu'elles valorisent, une fraction d'énergie non renouvelable.
+Le producteur exploitant une installation mentionnée à la deuxième phrase du premier alinéa de l'article L. 314-2 qui
+souhaite bénéficier une seconde fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat adresse à l'acheteur,
+dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande de contrat assortie d'un engagement de réaliser
+un programme d'investissement sur l'installation. La prise d'effet du contrat d'achat est subordonnée à la fourniture par le
+producteur à l'acheteur de l'attestation de conformité mentionnée à l'article R. 314-7. 
+
+Les caractéristiques de l'installation, les conditions d'achat, le programme d'investissement ainsi que les modalités de sa
+mise en œuvre sont définis par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
+l'installation. Les conditions d'achat sont notamment fondées sur des niveaux de coûts d'investissement et d'exploitation
+d'une installation performante représentative de la filière à laquelle elle appartient. Elles tiennent compte de l'ensemble
+des recettes de cette installation, y compris des aides financières et fiscales auxquelles elle est éligible. 
+
+Si le programme d'investissement n'est pas réalisé dans les conditions prévues, le contrat peut être suspendu ou résilié
+conformément aux dispositions de l'article R. 314-8.
 
 **Liens relatifs à cet article**
 
@@ -43901,23 +44150,33 @@ peuvent utiliser, en plus des déchets ménagers qu'elles valorisent, une fracti
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-13 (M)
-	  - Code général des collectivités territoriales - art. L2224-14 (M)
+	  - Code de l'énergie - art. L314-2
 
 
 ###### Article R314-20
 
-Pour l'application de l'article L. 314-2, les producteurs qui, à la date du 11 août 2004, avaient déposé une demande écrite
-de contrat d'achat auprès de l'acheteur concerné et qui disposaient, pour l'installation en cause, d'un certificat ouvrant
-droit à l'obligation d'achat d'électricité dans le cas où un tel certificat est requis peuvent bénéficier d'un contrat
-d'achat aux tarifs définis par l'arrêté de la filière concernée ou des dispositions correspondantes. Ce contrat prend effet à
-la date d'échéance du contrat précédent.
+Le producteur exploitant une installation située sur le territoire métropolitain continental mentionnée au second alinéa de
+l'article L. 314-2 qui souhaite bénéficier une nouvelle fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat
+adresse une demande de contrat à l'acheteur dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet
+du contrat est subordonnée à la fourniture par le producteur à l'acheteur de l'attestation de conformité mentionnée à
+l'article R. 314-7. 
+
+Les caractéristiques de l'installation et les conditions d'achat sont définies par celui des arrêtés mentionnés à l'article
+R. 314-12 applicable à la filière dont relève l'installation. Ces conditions sont adaptées aux conditions économiques de
+fonctionnement et basées sur des niveaux de coûts d'exploitation d'une installation amortie, performante et représentative de
+la filière à laquelle elles appartiennent. Elles tiennent compte de l'ensemble des recettes de cette installation, y compris
+des aides financières et fiscales auxquelles elle est éligible, et permettent de couvrir au maximum la différence entre ces
+coûts et ces recettes.
 
 **Liens relatifs à cet article**
 
@@ -43925,9 +44184,9 @@ la date d'échéance du contrat précédent.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -43935,17 +44194,13 @@ la date d'échéance du contrat précédent.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-2 (V)
+	  - Code de l'énergie - art. L314-2
 
 
 ###### Article R314-21
 
-Est considérée comme mise en service pour la première fois une installation existante ayant fait l'objet d'investissements de
-rénovation dont le montant et la nature correspondent, pour la filière considérée, aux critères fixés par des arrêtés du
-ministre chargé de l'économie et du ministre chargé de l'énergie. Sous réserve de disposer d'une autorisation d'exploiter
-prévue par l'article L. 311-1 et, dans le cas où il est requis, d'un certificat ouvrant droit à l'obligation d'achat prévu
-par la présente section, cette installation peut prétendre au bénéfice d'un contrat d'achat aux tarifs définis par l'arrêté
-de la filière concernée ou des dispositions correspondantes.
+L'autorité administrative compétente pour ordonner l'appel en priorité à certaines installations de production mentionnées à
+l'article L. 314-8 est le ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -43953,44 +44208,19 @@ de la filière concernée ou des dispositions correspondantes.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-1 (V)
+	  - Code de l'énergie - art. L314-8
 
 
 ###### Article R314-22
 
-Les producteurs bénéficiant de l'obligation d'achat en application de l'article R. 314-3 communiquent au préfet un bilan
-annuel dont le contenu et les modalités de transmission sont fixés par les arrêtés prévus au deuxième alinéa de ce même
-article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R314-3 (V)
-
-
-###### Article R314-23
-
-L'autorité administrative compétente pour suspendre l'obligation de conclure un contrat d'obligation d'achat conformément à
-l'article L. 314-6, ainsi que pour ordonner l'appel en priorité à certaines installations de production conformément à
-l'article L. 314-8 est le ministre chargé de l'énergie. 
-
 La conclusion d'un contrat d'îlotage mentionné à l'article L. 314-11 doit être précédée de l'information du ministre chargé
-de l'énergie, de la Commission de régulation de l'énergie et de l'acquéreur de l'électricité produite par l'installation de
+de l'énergie, de la Commission de régulation de l'énergie et de l'acheteur de l'électricité produite par l'installation de
 production dans le cadre du contrat d'obligation d'achat.
 
 **Liens relatifs à cet article**
@@ -43999,28 +44229,1122 @@ production dans le cadre du contrat d'obligation d'achat.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-11
-	  - Code de l'énergie - art. L314-6
-	  - Code de l'énergie - art. L314-8
+
+
+##### Sous-section 3 : Dispositions propres au complément de rémunération
+
+##### Paragraphe 2 : Conditions propres au complément de rémunération
+
+###### Article R314-26
+
+Peuvent bénéficier du complément de rémunération les nouvelles installations mentionnées à l'article L. 314-18, dans les
+conditions mentionnées aux articles R. 314-33 à R. 314-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. R314-33 (V)
+
+
+###### Article R314-27
+
+Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
+mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
+d'un contrat de complément de rémunération, s'il souhaite bénéficier d'un contrat de rémunération, adresse à Electricité de
+France, dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande assortie d'un engagement de réaliser un
+programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est subordonnée à la
+fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+
+Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
+314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
+mentionnés à l'article R. 314-12 applicable à la filière dont relève l'installation. Ces conditions sont notamment fondées
+sur des niveaux de coûts d'investissement et d'exploitation d'une installation performante représentative de la filière à
+laquelle elle appartient. Elles tiennent compte de l'ensemble des recettes de cette installation, y compris des aides
+financières et fiscales auxquelles elle est éligible. 
+
+Si le programme d'investissement n'est pas réalisé dans les conditions prévues, le contrat peut être suspendu ou résilié
+conformément aux dispositions de l'article R. 314-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
+	  - Arrêté du 13 décembre 2016 - art. 14 (V)
+	  - Code de l'énergie - art. D314-23-1 (V)
+	  - Code de l'énergie - art. R314-31 (V)
+	  - Code de l'énergie - art. R314-32 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-19
+
+
+###### Article R314-28
+
+Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
+mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
+d'un contrat de complément de rémunération, peut, si le niveau des coûts d'exploitation d'une installation performante et
+représentative de la filière est supérieur au niveau de l'ensemble de ses recettes y compris les aides financières et
+fiscales auxquelles l'installation est éligible, adresser une demande de contrat de complément de rémunération à Electricité
+de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat est subordonnée à la
+fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+
+Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
+R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
+l'installation. Ces conditions sont adaptées aux conditions économiques de fonctionnement et basées sur des niveaux de coûts
+d'exploitation d'une installation amortie, performante et représentative de la filière à laquelle appartient l'installation.
+Elles tiennent compte de l'ensemble des recettes de cette installation, y compris des aides financières et fiscales
+auxquelles elle est éligible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D314-24 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-19
+
+
+###### Article R314-29
+
+Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
+mentionnées aux 1° à 6° de l'article L. 314-1 bénéficiant d'un contrat d'achat peut, pendant une certaine période d'exécution
+du contrat dont la durée est fixée par arrêté du ministre chargé de l'énergie, le résilier par anticipation pour bénéficier
+du complément de rémunération en lieu et place de l'obligation d'achat. Dans ce cas, il adresse à Electricité de France une
+demande de contrat de complément de rémunération contenant l'ensemble des éléments mentionnés à l'article R. 314-4,
+accompagnée d'une demande de suspension de son contrat d'achat, ou d'une copie de la demande de suspension du contrat d'achat
+dans le cas où celui-ci a été conclu avec une entreprise locale de distribution. 
+
+Le contrat d'achat est suspendu, sans modification de son terme, à compter de la prise d'effet du contrat de complément de
+rémunération. La prise d'effet du contrat, qui est subordonnée à la fourniture de l'attestation de conformité mentionnée à
+l'article R. 314-7, intervient six mois au plus tard après la demande de suspension. 
+
+Le contrat de complément de rémunération est conclu pour la durée du contrat d'achat initial restant à courir à la date de sa
+prise d'effet. Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux
+articles R. 314-33 à R. 314-42 sont définies par arrêté. 
+
+Le contrat d'achat suspendu est résilié dans un délai fixé par arrêté, qui ne peut dépasser trois ans à compter de la demande
+de suspension. L'installation n'est pas soumise aux indemnités de résiliation prévues, le cas échéant, par les arrêtés
+mentionnés à l'article R. 314-12 ou par le contrat d'achat. 
+
+Pendant ce délai, le producteur peut résilier son contrat de complément de rémunération sans être soumis aux indemnités de
+résiliation prévue par ce contrat, sous réserve qu'il reprenne son contrat d'achat initial, qui n'est dans ce cas pas
+résilié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2016-691 du 28 mai 2016 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-19
+
+
+###### Article R314-30
+
+Le producteur d'une installation mentionnée au 1° de l'article L. 314-21 dont le contrat de complément de rémunération est
+arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse à Electricité de France, dans les conditions
+définies aux articles R. 314-3 et R. 314-4, une demande de contrat de complément de rémunération assortie d'un engagement de
+réaliser un programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est
+subordonnée à la fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article
+R. 314-7. 
+
+Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
+314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
+mentionnés à l'article R. 314-12 applicable à la filière dont relève l'installation. 
+
+Les conditions du complément de rémunération sont notamment fondées sur des niveaux de coûts d'investissement et
+d'exploitation d'une installation performante représentative de la filière à laquelle elle appartient. Elles tiennent compte
+de l'ensemble des recettes de cette installation, y compris des aides financières et fiscales auxquelles elle est éligible. 
+
+Si le programme d'investissement n'est pas réalisé dans les conditions prévues par l'arrêté mentionné à l'article R. 314-12,
+le contrat peut être suspendu ou résilié conformément aux dispositions de l'article R. 314-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-21
+
+
+###### Article R314-31
+
+Le producteur d'une installation mentionnée au 2° de l'article L. 314-21 dont le contrat de complément de rémunération est
+arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse une demande de contrat de complément de
+rémunération à Electricité de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du
+contrat de complément de rémunération est subordonnée à la fourniture par le producteur à Electricité de France de
+l'attestation de conformité mentionnée à l'article R. 314-7. 
+
+Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
+R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
+l'installation. Ces conditions sont adaptées aux conditions économiques de fonctionnement et basées sur des niveaux de coûts
+d'exploitation d'une installation amortie, performante et représentative de la filière à laquelle appartient l'installation.
+Elles tiennent compte de l'ensemble des recettes de cette installation, y compris des aides financières et fiscales
+auxquelles elle est éligible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D314-25 (V)
+	  - Code de l'énergie - art. R314-30 (V)
+	  - Code de l'énergie - art. R314-34 (V)
+	  - Code de l'énergie - art. R314-39 (V)
+	  - Code de l'énergie - art. R314-40 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-21
+
+
+###### Article R314-32
+
+Le producteur ayant conclu un contrat de complément de rémunération autorise les gestionnaires des réseaux publics de
+distribution ou de transport à transmettre à Electricité de France les données de production nécessaires au calcul et à la
+facturation du complément de rémunération définies aux articles R. 314-33 et R. 314-48. Le cas échéant, les gestionnaires du
+réseau public de distribution peuvent transmettre au gestionnaire du réseau public de transport les données de comptage. Les
+formats de transmission de données sont élaborés conjointement par les gestionnaires des réseaux publics de distribution et
+de transport et Electricité de France et approuvés par le ministre chargé de l'énergie. 
+
+Pour bénéficier d'un contrat de complément de rémunération, le producteur renonce au préalable au droit d'obtenir la
+délivrance des garanties d'origine pour l'électricité produite par l'installation pendant la durée du contrat. Par suite, il
+ne peut ni demander, ni transférer, ni acquérir, ni utiliser des garanties d'origine pour la production de cette
+installation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. 11 (V)
+	  - Arrêté du 13 décembre 2016 - art. 11 (VT)
+	  - Arrêté du 6 mai 2017 - art. 12 (V)
+	  - Arrêté du 9 mai 2017 - art. 12 (V)
+	  - Code de l'énergie - art. R314-8 (M)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+
+
+##### Paragraphe 3 : Calcul du complément de rémunération
+
+###### Article R314-33
+
+I.-Sauf pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au complément de
+rémunération, pour lesquelles le complément de rémunération est défini pour une année calendaire fixée dans l'arrêté pris au
+titre de l'article R. 314-12, le complément de rémunération est défini pour une année civile sous la forme suivante : 
+
+Vous pouvez consulter l'image dans le fac-similé du 
+
+JO n º 0123 du 28/05/2016, texte n º 1 
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+
+Formule dans laquelle les paramètres correspondent aux grandeurs suivantes : 
+
+a) n est un nombre entier compris entre 1 et 12, correspondant au nombre de périodes de calcul dans l'année. Dans le cas où
+le pas de temps de calcul est annuel, n vaut 1 et dans le cas où le pas de temps de calcul est mensuel, n vaut 12 ; 
+
+b) i est un nombre entier compris entre 1 et n, correspondant au pas de temps de calcul de la prime à l'énergie définie ci-
+après. Ce pas de temps peut être annuel, pluri-mensuel ou mensuel et est fixé pour chaque filière dans les arrêtés mentionnés
+à l'article R. 314-12 ; 
+
+c) Ei représente la production nette d'électricité de l'installation, telle que définie à l'article R. 314-35, sur une année
+civile et, le cas échéant, sur une année calendaire de sorte que 
+
+Vous pouvez consulter l'image dans le fac-similé du 
+
+JO n º 0123 du 28/05/2016, texte n º 1 
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142 ; 
+
+d) α correspond à un coefficient sans dimension défini conformément à l'article R. 314-36 ; 
+
+e) Te correspond à un tarif de référence exprimé en €/ MWh, défini conformément à l'article R. 314-37 ; 
+
+f) M0 i correspond au prix de marché de référence représentatif de la valorisation de l'électricité produite sur les marchés
+de l'électricité exprimé en €/ MWh sur le pas de temps i et défini conformément à l'article R. 314-38 ; 
+
+g) Nb capa correspond au nombre de garanties de capacités de l'installation pour une année de livraison, en mégawatt ; 
+
+h) Pref capa correspond à un prix de référence représentatif du prix de la garantie de capacité échangée pour l'année de
+livraison considérée, en €/ MW ; 
+
+i) Pgestion correspond à une prime unitaire de gestion, exprimée en €/ MWh et définie conformément à l'article R. 314-41. 
+
+Le terme Ei. (α Te-M0 i) représente une prime à l'énergie et le terme 
+
+Vous pouvez consulter l'image dans le fac-similé du 
+
+JO n º 0123 du 28/05/2016, texte n º 1 
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+
+représente une prime à l'énergie annuelle. 
+
+Les valeurs des paramètres α, Te et Pgestion du complément de rémunération sont définies dans les arrêtés mentionnés à
+l'article R. 314-12, dans les limites fixées par le présent chapitre, le cas échéant, de façon à couvrir les coûts
+indispensables au maintien en fonctionnement de l'installation et notamment les coûts d'exploitation. 
+
+II.-Les conditions du complément de rémunération sont révisées périodiquement dans les arrêtés mentionnés à l'article R.
+314-12. Ces révisions prennent en compte les niveaux de coûts et de recettes des installations performantes et
+représentatives des filières au moment de la révision, ainsi que, le cas échéant, les résultats des audits menés par la
+Commission de régulation de l'énergie. 
+
+Ces révisions des conditions du complément de rémunération s'appliquent aux demandes de contrat postérieures, mais ni aux
+installations faisant l'objet d'un contrat de complément de rémunération en cours ni aux installations ayant fait l'objet
+antérieurement d'une demande complète de contrat de complément de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-26 (V)
+	  - Code de l'énergie - art. R314-27 (V)
+	  - Code de l'énergie - art. R314-28 (V)
+	  - Code de l'énergie - art. R314-29 (V)
+	  - Code de l'énergie - art. R314-30 (V)
+	  - Code de l'énergie - art. R314-31 (V)
+	  - Code de l'énergie - art. R314-32 (V)
+	  - Code de l'énergie - art. R314-39 (V)
+	  - Code de l'énergie - art. R314-40 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+
+
+###### Article R314-34
+
+Quel que soit le pas de temps de calcul de la prime à l'énergie mentionnée au I de l'article R. 314-33 il est défini une
+prime à l'énergie mensuelle par la relation "Ej. (α Te-M0 j)" où j est un indice compris entre 1 et 12 représentant le mois
+de l'année considérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-31
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R314-38 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+	  - Code de l'énergie - art. R314-49 (V)
+
+
+###### Article R314-35
+
+Les paramètres E et Ei représentent, respectivement sur une année civile, le cas échéant calendaire, et sur le pas de temps
+i, la somme, sur les heures à cours au comptant positif ou nul sur la plate-forme de marché organisé français de
+l'électricité pour livraison le lendemain, des volumes d'électricité affectés par le gestionnaire de réseau, le cas échéant
+par une formule de calcul de pertes ou une convention de décompte, au périmètre d'équilibre désigné par le producteur pour la
+production de son installation. Ces volumes sont nets des consommations des auxiliaires nécessaires au fonctionnement de
+l'installation. 
+
+Le paramètre Ej représente la somme, sur les heures à cours au comptant positif ou nul sur la plate-forme de marché organisé
+français de l'électricité pour livraison le lendemain du mois j, des volumes d'électricité affectés par le gestionnaire de
+réseau, le cas échéant par une formule de calcul de pertes ou une convention de décompte, au périmètre d'équilibre désigné
+par le producteur pour la production de son installation. Ces volumes sont nets des consommations des auxiliaires nécessaires
+au fonctionnement de l'installation. 
+
+La production prise en compte pour le calcul du complément de rémunération peut être plafonnée dans les conditions fixées
+dans les arrêtés mentionnés à l'article R. 314-12. Ce plafonnement peut tenir compte de la performance technologique des
+installations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-41 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+
+
+###### Article R314-36
+
+Le coefficient α est soit égal à un, soit défini de façon à ce qu'il présente une évolution sur la durée de vie du contrat
+comportant une dégressivité en fin de contrat. Cette dégressivité ne doit pas faire obstacle à ce que le complément de
+rémunération couvre les coûts indispensables au maintien en fonctionnement de l'installation, notamment ses coûts
+d'exploitation. 
+
+Ce coefficient ainsi que le rythme et les périodes de dégressivité sont définis par les arrêtés mentionnés à l'article R.
+314-12. 
+
+La dégressivité du coefficient α peut être basée sur des périodes calendaires ou sur des volumes de production définis ex
+ante dans le cadre des arrêtés susmentionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Code de l'énergie - art. R314-33 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+
+
+###### Article R314-37
+
+Le tarif de référence (Te) est basé sur les coûts d'investissement et d'exploitation moyens d'une installation performante et
+représentative de la filière considérée. 
+
+Le tarif de référence (Te) est déterminé de façon à prendre en compte l'ensemble des coûts et recettes de l'installation de
+référence ainsi que des aides financières ou fiscales auxquelles elle est éligible. Il est déterminé de façon normative dans
+les arrêtés mentionnés à l'article R. 314-12. Ces arrêtés prévoient une indexation du terme Te destinée à tenir compte de
+l'évolution des coûts d'exploitation. 
+
+Les arrêtés mentionnés à l'article R. 314-12 peuvent prévoir un ajustement automatique du tarif de référence applicable aux
+nouvelles demandes de contrat de complément de rémunération, qui pourra dépendre du rythme de développement de la filière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-35 (V)
+	  - Code de l'énergie - art. R314-38 (V)
+	  - Code de l'énergie - art. R314-52 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+
+
+###### Article R314-38
+
+Le prix de marché de référence M0 i est défini par les arrêtés mentionnés à l'article R. 314-12 pour chaque filière sur le
+pas de temps i : 
+
+1° Soit comme la moyenne des prix positifs et nuls constatés sur la plate-forme de marché organisé français de l'électricité
+pour livraison le lendemain, éventuellement pondérée par une production représentative des installations au pas horaire ; 
+
+2° Soit comme une moyenne de prix à terme de l'électricité sur la plate-forme de marché organisé français de l'électricité,
+calculée dans les conditions fixées par les arrêtés susmentionnés ; 
+
+3° Soit comme une combinaison des 1° et 2°. 
+
+Ces paramètres sont fixés pour chaque filière par les arrêtés prévus à l'article R. 314-12. Pour le calcul de la prime à
+l'énergie mensuelle mentionnée à l'article R. 314-34, si le pas de temps i est supérieur à un pas de temps mensuel, le prix
+de marché M0 j est calculé sur une période mensuelle selon la même méthodologie que le prix de référence M0 i.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-44 (V)
+	  - Code de l'énergie - art. R314-46 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-34 (V)
+
+
+###### Article R314-39
+
+Si le nombre d'heures de prix strictement négatifs constaté sur une année civile ou calendaire suivant la référence retenue
+en application du I de l'article R. 314-33 est supérieur à un nombre d'heures, consécutives ou non, défini pour chaque
+filière dans les arrêtés prévus à l'article R. 314-12, l'installation qui n'a pas produit pendant ces heures peut recevoir
+une prime dans la limite d'un nombre d'heures de fonctionnement de référence de l'installation sur l'année. Le niveau de
+cette prime ainsi que ses modalités d'attribution sont définies dans les arrêtés susmentionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Code de l'énergie - art. R314-43 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+
+
+###### Article R314-40
+
+Pour chaque installation bénéficiant du contrat mentionné à l'article R. 314-2, la valorisation des garanties de capacités au
+titre d'une année de livraison donnée, utilisée pour le calcul du complément de rémunération défini à l'article R. 314-33,
+est définie comme le produit d'un nombre de garanties de capacités de l'installation, noté Nbcapa, pour une année de
+livraison par un prix de référence, noté Pref capa, représentatif de la valorisation de la garantie de capacité échangée pour
+l'année de livraison donnée. Les éléments Nbcapa, et Pref capa sont définis dans les arrêtés mentionnés à l'article R.
+314-12. 
+
+Le cas échéant, un arrêté précise les modalités de transmission de données entre les gestionnaires des réseaux publics de
+distribution et le gestionnaire du réseau public de transport pour le calcul du nombre de garanties de capacités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Code de l'énergie - art. R314-46 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+	  - Code de l'énergie - art. R314-49 (V)
+	  - Code de l'énergie - art. R314-52 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-2 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+
+
+###### Article R314-41
+
+La prime unitaire de gestion est représentative des coûts supportés par le producteur pour valoriser sa production sur les
+marchés de l'énergie et de capacité. 
+
+Cette prime unitaire couvre notamment les coûts suivants :
+
+- coûts forfaitaires des écarts liés à la différence entre l'électricité réellement produite et la prévision de production ;
+
+- coûts variables et coûts fixes liés à l'accès au marché de l'électricité et à l'accès au marché de capacité comprenant
+notamment les frais d'inscription sur les différents registres ;
+
+- coûts des contrôles par les organismes agréés mentionnés à l'article L. 314-25. 
+
+Le montant de la prime unitaire de gestion est défini par les arrêtés mentionnés à l'article R. 314-12. 
+
+Cette prime unitaire est fixée pour toute la durée du contrat d'une installation et ne peut faire l'objet d'une variation
+rétroactive. 
+
+La prime de gestion est versée mensuellement sur la base de la production mensuelle Ej définie à l'article R. 314-35 et est
+définie par la relation suivante : Ej. Pgestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-25 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-35 (V)
+
+
+###### Article R314-42
+
+Pendant la première et la dernière année civile du contrat de complément de rémunération, la prime à l'énergie est calculée,
+par exception à la période de référence fixée dans les arrêtés mentionnés à l'article R. 314-12, sur un pas de temps mensuel.
+Elle est versée selon les modalités prévues à l'article R. 314-47. 
+
+Par dérogation, pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au
+complément de rémunération, pendant la première et la dernière année calendaire du contrat de complément de rémunération, si
+le contrat prend effet à une date postérieure au 15 septembre, la prime à l'énergie est calculée sur un pas de temps mensuel,
+par exception à la période de référence fixée dans les arrêtés mentionnés à l'article R. 314-12. Elle est versée selon les
+modalités prévues à l'article R. 314-47.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+
+
+##### Paragraphe 4 : Modalités de transmission des données
+
+###### Article R314-43
+
+Dans les deux premières semaines de chaque mois, les gestionnaires des réseaux publics de distribution et de transport
+transmettent à Electricité de France : 
+
+1° Pour chaque installation ayant conclu le contrat prévu à l'article R. 314-2 ou un contrat au titre du 2° de l'article L.
+311-12, la valeur de la production mensuelle nette d'électricité de l'installation Ej. Electricité de France transmet cette
+valeur à chaque installation ayant conclu les contrats susmentionnés dans les cinq jours ouvrés suivant cette transmission ; 
+
+2° Pour chaque installation ayant conclu le contrat prévu à l'article R. 314-2 ou un contrat au titre du 2° de l'article L.
+311-12, dès lors que le plafond d'heures mentionnées à l'article R. 314-39 a été atteint, le nombre d'heures au-delà de ce
+plafond pendant lesquelles les prix ont été strictement négatifs et où l'installation n'a pas produit. Electricité de France
+transmet cette valeur à chaque installation ayant conclu les contrats susmentionnés dans les cinq jours ouvrés suivant cette
+transmission. 
+
+Pour l'identification de ces installations, Electricité de France transmet aux gestionnaires de réseaux les informations leur
+permettant d'identifier les installations bénéficiant d'un contrat de complément de rémunération, en distinguant celles ayant
+conclu un contrat au titre de l'article L. 314-18 de celles ayant conclu un contrat au titre du 2° de l'article L. 311-12.
+Les gestionnaires des réseaux publics de distribution peuvent mandater un autre gestionnaire du réseau public de distribution
+ou une entité regroupant plusieurs gestionnaires des réseaux publics de distribution pour le calcul des valeurs mentionnées
+aux 1° et 2° et pour leur transmission à Electricité de France. Ils en informent Electricité de France. 
+
+Les gestionnaires des réseaux publics de distribution, le gestionnaire du réseau public de transport et l'entité de
+regroupement le cas échéant, sont responsables des données qu'ils transmettent à Electricité de France. En cas d'erreur sur
+la valeur de la production mensuelle nette d'électricité de l'installation Ej transmise par les gestionnaires de réseau ou,
+le cas échéant, par l'entité de regroupement à Electricité de France, les gestionnaires de réseaux transmettent la valeur
+corrigée à Electricité de France qui la transmet à son tour au producteur de l'installation concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. R314-2 (V)
+	  - Code de l'énergie - art. R314-39 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-27-7 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+
+
+###### Article R314-44
+
+Dans les deux premières semaines de chaque mois, les gestionnaires des réseaux publics de distribution d'électricité
+transmettent au gestionnaire du réseau public de transport les courbes de charge au pas horaire ou demi-horaire, pour le
+dernier mois écoulé, des installations au périmètre requis par les arrêtés mentionnés à l'article R. 314-12 ou par les
+modalités de l'appel d'offres lorsqu'il est prévu une pondération du prix de marché de référence conformément à l'article R.
+314-38. Les gestionnaires de réseau de distribution peuvent choisir de transmettre une courbe de charge agrégée par filière
+et agrégée sur plusieurs zones de desserte exclusives. Ils informent le gestionnaire du réseau public de transport du
+périmètre retenu. 
+
+Le gestionnaire du réseau public de transport transmet à la Commission de régulation de l'énergie, dans les cinq jours ouvrés
+suivant cet envoi, les données agrégées de production au pas horaire ou demi-horaire sur le dernier mois écoulé nécessaires
+au calcul du prix de marché de référence pondéré mentionné à l'article R. 314-38, lorsque cela est prévu par les arrêtés
+mentionnés à l'article R. 314-12 ou par les modalités de l'appel d'offres. 
+
+Les gestionnaires des réseaux publics de distribution sont responsables des données qu'ils transmettent au gestionnaire du
+réseau public de transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+
+###### Article R314-45
+
+Avant le 15 février, ou par exception avant le 15 juin pour les installations de cogénération d'électricité et de chaleur à
+partir de gaz naturel éligibles au complément de rémunération, dans le cas où les gestionnaires des réseaux publics de
+distribution ou de transport procèdent à des régularisations de la production de l'installation, ces derniers transmettent à
+Electricité de France, pour chaque installation ayant conclu le contrat prévu à l'article R. 314-2 ou le contrat prévu au 2°
+de l'article L. 311-12, les valeurs régularisées de production mensuelle nette d'électricité de l'installation Ej
+respectivement pour l'année civile écoulée ou, le cas échéant, pour l'année calendaire écoulée. Electricité de France
+transmet ces valeurs régularisées à chaque installation ayant conclu le contrat dans les cinq jours ouvrés suivant cette
+transmission. 
+
+Les gestionnaires des réseaux publics de distribution peuvent mandater un autre gestionnaire du réseau public de distribution
+ou une entité regroupant plusieurs gestionnaires des réseaux publics de distribution pour le calcul des valeurs régularisées
+et leur transmission à Electricité de France. Ils en informent Electricité de France. 
+
+Les gestionnaires des réseaux publics de distribution, le gestionnaire du réseau public de transport et l'entité de
+regroupement le cas échéant sont responsables des données qu'ils transmettent à Electricité de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. R314-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R314-47 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+
+
+###### Article R314-46
+
+Dans les cinq jours ouvrés suivant la fin de chaque mois, la Commission de régulation de l'énergie détermine et publie pour
+chacune des filières le prix de référence M0j mentionné à l'article R. 314-38. Lorsque celui-ci fait l'objet de la
+pondération mentionnée à cet article, ce délai est porté à quatre semaines. 
+
+La Commission de régulation de l'énergie émet dans les cinq jours ouvrés suivant la fin de chaque mois un état récapitulatif
+des heures de prix négatifs constatées sur le mois écoulé sur le marché organisé français pour livraison le lendemain. 
+
+Lorsque le pas de temps i est pluri-mensuel ou annuel, la Commission de régulation de l'énergie détermine et publie le prix
+de référence M0i, dans les cinq jours ouvrés suivant la fin de la période de calcul, ce délai pouvant être porté à quatre
+semaines si le prix fait l'objet de la pondération par la production de la filière mentionnée à l'article R. 314-38. 
+
+Avant le 15 janvier de chaque année, la Commission de régulation de l'énergie détermine et publie pour l'année de livraison
+précédente le ou les prix de référence des garanties de capacités mentionnés à l'article R. 314-40 pour chaque filière. 
+
+La CRE réalise annuellement des audits visant à s'assurer que les conditions du complément de rémunération mentionnées à
+l'article L. 314-20 n'ont pas évolué. Elle propose, le cas échéant, des conditions révisées du complément de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-20
+	  - Code de l'énergie - art. R314-38 (V)
+	  - Code de l'énergie - art. R314-40 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R314-48 (V)
+
+
+##### Paragraphe 5 : Modalités de versement du complément de rémunération
+
+###### Article R314-47
+
+Le complément de rémunération est versé mensuellement, sur la base de la prime à l'énergie mensuelle définie à l'article R.
+314-34 et de la prime de gestion définie à l'article R. 314-41, le cas échéant, dans la limite du plafond mentionné à
+l'article R. 314-35. 
+
+Une régularisation intervient à l'issue de chaque année civile, sauf pour les installations de cogénération d'électricité et
+de chaleur à partir de gaz naturel éligibles au complément de rémunération, pour lesquelles cette régularisation intervient à
+l'issue de l'année calendaire. 
+
+Cette régularisation correspond : 
+
+1° Pour les filières dont le pas de temps de calcul i n'est pas mensuel, à la différence entre la prime à l'énergie annuelle
+définie au I de l'article R. 314-33 et la somme des primes à l'énergie mensuelles versées en application du premier alinéa du
+présent article. Dans le cas où les gestionnaires de réseaux procèdent à des régularisations de la production de
+l'installation, la prime à l'énergie annuelle est calculée à partir des valeurs régularisées de production mensuelle nette
+d'électricité de l'installation Ej transmises par Electricité de France à l'installation, conformément à l'article R.
+314-45 ; 
+
+2° Pour les filières dont le pas de temps de calcul i est mensuel, dans le cas où les gestionnaires de réseaux procèdent à
+des régularisations de la production de l'installation, à la différence entre la somme des primes à l'énergie mensuelles
+recalculées à partir des valeurs régularisées de production mensuelle nette d'électricité de l'installation Ej transmises par
+Electricité de France à l'installation, conformément à l'article R. 314-45 et la somme des primes à l'énergie mensuelles
+versées en application du premier alinéa ; 
+
+3° Pour toutes les filières, dans le cas où les gestionnaires de réseaux procèdent à des régularisations de la production de
+l'installation, à la différence entre la somme des primes de gestion recalculées à partir des valeurs régularisées de
+production mensuelle nette d'électricité de l'installation Ej transmises par Electricité de France à l'installation,
+conformément à l'article R. 314-45 et la somme des primes de gestion versées mensuellement en application du premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Arrêté du 13 décembre 2016 - art. 5 (V)
+	  - Arrêté du 13 décembre 2016 - art. 7 (VT)
+	  - Arrêté du 9 mai 2017 - art. 5 (V)
+	  - Code de l'énergie - art. R314-42 (V)
+	  - Code de l'énergie - art. R314-48 (V)
+	  - Code de l'énergie - art. R314-49 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-34 (V)
+	  - Code de l'énergie - art. R314-35 (V)
+	  - Code de l'énergie - art. R314-41 (V)
+	  - Code de l'énergie - art. R314-45 (V)
+
+
+###### Article R314-48
+
+Sur la base des éléments publiés par la Commission de régulation de l'énergie conformément à l'article R. 314-46 et transmis
+par Electricité de France conformément à l'article R. 314-43, les producteurs ayant conclu un contrat de complément de
+rémunération calculent et facturent à Electricité de France la prime à l'énergie mensuelle mentionnée à l'article R. 314-34
+et la prime de gestion mentionnée à l'article R. 314-41. 
+
+Lorsqu'un producteur a reçu une valeur corrigée de production mensuelle nette d'électricité de l'installation Ej à la suite
+d'une erreur, le producteur facture à Electricité de France la régularisation correspondante. 
+
+Par ailleurs, sur la base des éléments mentionnés à l'article R. 314-45 et transmis par Electricité de France, les
+producteurs calculent et facturent pour l'année civile écoulée la régularisation prévue à l'article R. 314-47 diminuée de la
+valorisation des garanties de capacités définie à l'article R. 314-40. 
+
+Par dérogation au troisième alinéa, pour les installations de cogénération d'électricité et de chaleur à partir de gaz
+naturel éligibles au complément de rémunération, après transmission par Electricité de France des éléments mentionnés au
+dernier alinéa de l'article R. 314-45, les producteurs calculent et facturent, à l'issue de l'année calendaire définie dans
+l'arrêté correspondant, la régularisation prévue à l'article R. 314-47, diminuée de la valorisation des garanties de
+capacités définie à l'article R. 314-40. 
+
+Les factures sont payées dans un délai de trente jours à compter de leur date de réception par Electricité de France. Les
+sommes versées après cette échéance sont augmentées des intérêts au taux légal défini à l'article L. 441-6 du code du
+commerce. 
+
+La Commission de régulation de l'énergie rend public chaque année un état récapitulatif des versements effectués pour chacune
+des filières bénéficiant du complément de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Arrêté du 13 décembre 2016 - art. 11 (V)
+	  - Arrêté du 13 décembre 2016 - art. 11 (VT)
+	  - Arrêté du 6 mai 2017 - art. 12 (V)
+	  - Arrêté du 9 mai 2017 - art. 12 (V)
+	  - Code de l'énergie - art. R314-32 (V)
+	  - Code de l'énergie - art. R314-52 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L441-6
+	  - Code de l'énergie - art. R314-40 (V)
+	  - Code de l'énergie - art. R314-41 (V)
+	  - Code de l'énergie - art. R314-43 (V)
+	  - Code de l'énergie - art. R314-45 (V)
+	  - Code de l'énergie - art. R314-46 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+
+
+###### Article R314-49
+
+Dans les cas où la prime à l'énergie mensuelle mentionnée à l'article R. 314-34 est négative, le producteur est redevable de
+cette somme dans la limite des montants totaux perçus depuis le début du contrat au titre du complément de rémunération. Ce
+montant est versé par le producteur à Electricité de France sous forme d'avoir accompagné du règlement correspondant. Il est
+déduit des charges de service public de l'électricité constatées pour Electricité de France pour l'exercice considéré. 
+
+Dans le cas où le montant correspondant à la régularisation prévue au deuxième alinéa de l'article R. 314-47 diminuée de la
+valorisation des garanties de capacités définie à l'article R. 314-40 est négatif, le producteur est redevable de cette somme
+dans la limite des montants totaux perçus depuis la prise d'effet du contrat au titre du complément de rémunération. Le
+producteur émet un avoir accompagné du règlement correspondant au profit d'Electricité de France selon les mêmes modalités
+que celles prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. 11 (V)
+	  - Arrêté du 13 décembre 2016 - art. 11 (VT)
+	  - Arrêté du 6 mai 2017 - art. 12 (V)
+	  - Arrêté du 9 mai 2017 - art. 12 (V)
 	  - Code de l'énergie - art. R121-27 (V)
+	  - Code de l'énergie - art. R311-32-1 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-34 (V)
+	  - Code de l'énergie - art. R314-40 (V)
+	  - Code de l'énergie - art. R314-47 (V)
+
+
+##### Paragraphe 6 : Evaluation du dispositif
+
+###### Article R314-50
+
+La Commission de régulation de l'énergie remet au ministre chargé de l'énergie avant le 30 juin 2018 un rapport relatif à la
+mise en œuvre du complément de rémunération. Ce rapport est mis à jour tous les deux ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 novembre 2016 - art. (V)
+
+
+##### Paragraphe 7 : Modalités d'achat en dernier recours
+
+###### Article R314-51
+
+I. - L'acheteur en dernier recours prévu par l'article L. 314-26 est désigné, après mise en concurrence et pour une durée
+maximum de cinq ans, par le ministre chargé de l'énergie. 
+
+II. - A cet effet, le ministre chargé de l'énergie adresse à l'Office des publications officielles de l'Union européenne,
+pour publication au Journal officiel de l'Union européenne, un appel public à la concurrence ayant pour objet l'achat en
+dernier recours de l'électricité produite par les installations bénéficiant du contrat de complément de rémunération
+mentionné pour les producteurs qui en font la demande. 
+
+L'avis d'appel public à la concurrence mentionne notamment : 
+
+1° L'objet de l'appel public à la concurrence ; 
+
+2° La période sur laquelle porte l'objet de l'appel public ; 
+
+3° Les critères d'appréciation des dossiers de candidature ; 
+
+4° La liste des pièces devant être remises à l'appui de la candidature ; 
+
+5° La date limite d'envoi des dossiers de candidature qui doit être fixée quarante jours au moins à compter de la date de
+publication de l'avis au Journal officiel de l'Union européenne ; 
+
+6° Les modalités de remise des dossiers de candidature ; 
+
+7° Le montant des garanties financières pouvant être demandées au candidat pour la réalisation de cette mission. 
+
+III. - Après réception des dossiers de candidature, le ministre chargé de l'énergie évalue les candidatures en fonction des
+critères suivants : 
+
+1° Les capacités techniques et financières du candidat et notamment la cotation financière minimale à respecter ; 
+
+2° Les frais de gestion proposés par le candidat pour assurer la mission d'acheteur de dernier recours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. 13 (V)
+	  - Arrêté du 13 décembre 2016 - art. 13 (VT)
+	  - Arrêté du 13 décembre 2016 - art. 17 (V)
+	  - Arrêté du 6 mai 2017 - art. 14 (V)
+	  - Arrêté du 9 mai 2017 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-26
+
+
+###### Article R314-52
+
+L'acheteur désigné par le ministre en application de l'article R. 314-51 est tenu de conclure un contrat d'achat de
+l'électricité produite par une installation bénéficiant d'un contrat de complément de rémunération avec les producteurs qui
+en font la demande dans les cas suivants : 
+
+1° Impossibilité pour le producteur de contractualiser avec un agrégateur tiers ou de vendre lui-même sur le marché. La
+démonstration de cette impossibilité est à la charge du producteur ; 
+
+2° Défaillance de l'agrégateur tiers, matérialisée par le retrait ou la suspension du contrat mentionné à l'article L. 321-15
+ou, le cas échéant, du contrat le liant à un responsable d'équilibre au sens de l'article L. 321-15. 
+
+Le contrat d'achat conclu avec l'acheteur de dernier recours s'applique sur une durée définie par le producteur dans sa
+demande, qui ne peut excéder trois mois. Il peut être renouvelé à la demande du producteur sous réserve qu'il démontre qu'il
+n'a pas réussi à contractualiser avec un agrégateur tiers. 
+
+Pendant la période d'application du contrat d'achat, le contrat de complément de rémunération est suspendu sans prolongation
+de sa durée. En particulier, le versement du complément de rémunération est suspendu. A cette fin, l'acheteur désigné en
+application de l'article R. 314-51 informe Electricité de France de la conclusion de tout contrat d'achat dans les quinze
+jours suivant sa signature et du terme de ces contrats d'achat dans les cinq jours suivant leur échéance. 
+
+Le producteur autorise la transmission des données de comptage du gestionnaire du réseau public de distribution ou de
+transport à l'acheteur de dernier recours mentionné à l'article R. 314-51. Les formats de transmission de données sont
+élaborés conjointement par les gestionnaires des réseaux publics de distribution et de transport et l'acheteur de dernier
+recours et approuvés par le ministre chargé de l'énergie. 
+
+Le tarif d'achat de cette électricité, qui ne peut être supérieur à 80 % du niveau du tarif de référence Te défini à
+l'article R. 314-37, est défini dans les arrêtés prévus à l'article R. 314-12. L'acheteur n'est pas subrogé au producteur
+pour la valorisation des garanties de capacités. La déduction de la valorisation des garanties de capacité s'effectue
+conformément aux articles R. 314-40 et R. 314-48. 
+
+Les conditions contractuelles de cet achat sont définies par des modèles de contrat établis par l'acheteur et approuvés par
+le ministre chargé de l'énergie. Ces modèles définissent notamment les conditions de suspension et de reprise du contrat de
+complément de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. (V)
+	  - Arrêté du 13 décembre 2016 - art. (VT)
+	  - Arrêté du 13 décembre 2016 - art. 13 (V)
+	  - Arrêté du 13 décembre 2016 - art. 13 (VT)
+	  - Arrêté du 13 décembre 2016 - art. 17 (V)
+	  - Arrêté du 6 mai 2017 - art. 14 (V)
+	  - Arrêté du 9 mai 2017 - art. 14 (V)
+	  - Code de l'énergie - art. R311-27-8 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-15
+	  - Code de l'énergie - art. R314-37 (V)
+	  - Code de l'énergie - art. R314-40 (V)
+	  - Code de l'énergie - art. R314-48 (V)
 
 
 ##### Section 2 : Les garanties d'origine
 
-###### Article R314-24
+###### Article R314-53
 
 L'électricité produite à partir de sources renouvelables ou par cogénération par des installations de production
 d'électricité régulièrement déclarées ou autorisées peut bénéficier de garanties d'origine, à la demande du producteur ou
@@ -44032,30 +45356,16 @@ déterminée d'énergie a été produite à partir de sources renouvelables ou p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L121-27
-	  - Code de l'énergie - art. L311-12
-	  - Code de l'énergie - art. L314-1
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-53 (M)
+	  - Code de l'énergie - art. R314-24 (T)
 
 
-###### Article R314-25
+###### Article R314-54
 
 L'organisme prévu à l'article L. 314-14 est désigné par le ministre chargé de l'énergie, après mise en concurrence et pour
 une durée qui ne peut dépasser cinq ans. 
@@ -44069,7 +45379,7 @@ articles L. 314-14 à L. 314-16 et de la présente section.
 
 Il mentionne : 
 
-1° L'objet de l'appel public à la concurrence ; 
+1° L'objet de l'appel public à la concurrence ;
 
 2° La période sur laquelle porte l'objet de l'appel public ; 
 
@@ -44087,28 +45397,20 @@ proportionnelle par mégawattheure garanti.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
+	  - Arrêté du 3 novembre 2016 - art. (V)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. L314-14
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-54 (V)
+	  - Code de l'énergie - art. R314-25 (T)
 
 
-###### Article R314-26
+###### Article R314-55
 
 Après réception des dossiers de candidature, le ministre chargé de l'énergie évalue les candidatures en fonction des critères
 suivants :
@@ -44126,24 +45428,16 @@ de l'énergie, l'organisme chargé des prestations prévues à la présente sect
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-55 (V)
+	  - Code de l'énergie - art. R314-26 (T)
 
 
-###### Article R314-27
+###### Article R314-56
 
 Le ministre chargé de l'énergie fixe par arrêté :
 
@@ -44156,88 +45450,54 @@ d'identifier l'électricité produite par ce moyen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
+	  - Code de l'énergie - art. R314-27 (T)
 
 	**Cité par**:
 
-	  - Arrêté du 13 décembre 2016 - art. 14 (V)
-	  - Code de l'énergie - art. D314-23-1 (V)
-	  - Code de l'énergie - art. R314-31 (V)
-	  - Code de l'énergie - art. R314-32 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-56 (V)
+	  - Code de l'énergie - art. R314-60 (V)
+	  - Code de l'énergie - art. R314-61 (V)
 
 
-###### Article R314-28
+###### Article R314-57
 
 Toute installation de production d'électricité pour laquelle des garanties d'origine sont demandées doit être équipée d'un
 dispositif de comptage de l'électricité produite.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. D314-24 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-57 (V)
+	  - Code de l'énergie - art. R314-28 (T)
 
 
-###### Article R314-29
+###### Article R314-58
 
 La demande de garanties d'origine est adressée à l'organisme chargé d'assurer la délivrance de celles-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-691 du 28 mai 2016 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-58 (V)
+	  - Code de l'énergie - art. R314-29 (T)
 
 
-###### Article R314-30
+###### Article R314-59
 
-Lorsqu'il reçoit une demande de garanties d'origine satisfaisant aux conditions de l'article R. 314-31, l'organisme délivre
+Lorsqu'il reçoit une demande de garanties d'origine satisfaisant aux conditions de l'article R. 314-60, l'organisme délivre
 un nombre de garanties d'origine égal au nombre de mégawattheures d'électricité produites durant la période, avec arrondi à
 l'entier inférieuR. Les dates de début et de fin de la période de production d'électricité pour laquelle des garanties
 d'origine peuvent être demandées doivent correspondre à des dates de relevés des données de comptage stipulées par les
@@ -44245,34 +45505,18 @@ contrats liant l'installation de production d'électricité au gestionnaire du r
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. 14 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R314-31 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-59 (M)
+	  - Code de l'énergie - art. R314-30 (T)
 
 
-###### Article R314-31
+###### Article R314-60
 
-La demande de garantie d'origine doit comporter : 
+La demande de garantie d'origine doit comporter :
 
 1° Le nom et l'adresse du demandeur ou, s'il s'agit d'une personne morale, sa dénomination ou raison sociale et l'adresse de
 son siège social ; 
@@ -44296,7 +45540,7 @@ ayant conclu un contrat d'achat régi par les dispositions des articles L. 121-2
 9° La quantité d'électricité produite pendant la période sur laquelle porte la demande de garanties d'origine. Lorsque
 l'électricité a été produite par une station de transfert d'énergie par pompage, par une installation mixte de production
 d'électricité à partir de biomasse et de combustibles fossiles, par une usine d'incinération d'ordures ménagères ou par
-cogénération, elle est comptabilisée selon les modalités fixées par les arrêtés prévus à l'article R. 314-27 ; 
+cogénération, elle est comptabilisée selon les modalités fixées par les arrêtés prévus à l'article R. 314-56 ; 
 
 10° Le nom et les coordonnées du gestionnaire du réseau public d'électricité auquel l'installation dispose d'un accès ou d'un
 service de décompte lorsque celle-ci dispose d'un tel service ; 
@@ -44307,38 +45551,26 @@ dispositions des articles L. 121-27, L. 311-12 et L. 314-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. D314-25 (V)
-	  - Code de l'énergie - art. R314-30 (V)
-	  - Code de l'énergie - art. R314-34 (V)
-	  - Code de l'énergie - art. R314-39 (V)
+	  - Code de l'énergie - art. R314-31 (T)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L311-12 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R314-27 (V)
+	  - Code de l'énergie - art. R314-56 (V)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'énergie - art. R314-60 (V)
+	  - Code de l'énergie - art. R314-63 (V)
+	  - Code de l'énergie - art. R314-68 (V)
+	  - Code de l'énergie - art. R314-69 (V)
 
 
-###### Article R314-32
+###### Article R314-61
 
 La demande indique également : 
 
@@ -44364,79 +45596,40 @@ e) La quantité de chaleur produite au cours de la période pour laquelle la gar
 f) L'utilisation de la chaleur produite en même temps que l'électricité ; 
 
 g) Les économies d'énergie primaire réalisées, calculées conformément aux dispositions des arrêtés prévus à l'article R.
-314-27.
+314-56.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. 11 (V)
-	  - Arrêté du 13 décembre 2016 - art. 11 (VT)
-	  - Arrêté du 6 mai 2017 - art. 12 (V)
-	  - Arrêté du 9 mai 2017 - art. 12 (V)
-	  - Code de l'énergie - art. R314-8 (M)
+	  - Code de l'énergie - art. R314-32 (T)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-27 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-61 (V)
+	  - Code de l'énergie - art. R314-56 (V)
 
 
-###### Article R314-33
+###### Article R314-62
 
 Le demandeur d'une garantie d'origine doit conserver toutes informations et documents utiles pendant trois ans à compter de
 la date de sa demande.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Code de l'énergie - art. R314-12 (V)
-	  - Code de l'énergie - art. R314-26 (V)
-	  - Code de l'énergie - art. R314-27 (V)
-	  - Code de l'énergie - art. R314-28 (V)
-	  - Code de l'énergie - art. R314-29 (V)
-	  - Code de l'énergie - art. R314-30 (V)
-	  - Code de l'énergie - art. R314-31 (V)
-	  - Code de l'énergie - art. R314-32 (V)
-	  - Code de l'énergie - art. R314-39 (V)
-	  - Code de l'énergie - art. R314-40 (V)
-	  - Code de l'énergie - art. R314-47 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-62 (V)
+	  - Code de l'énergie - art. R314-33 (T)
 
 
-###### Article R314-34
+###### Article R314-63
 
 Lorsque l'installation au titre de laquelle est faite la demande est raccordée au réseau public de transport d'électricité,
 l'organisme chargé de la délivrance des garanties d'origine dispose, pour délivrer ces garanties, d'un délai de trente jours
@@ -44448,38 +45641,24 @@ que le réseau public de transport d'électricité.
 
 Chaque garantie d'origine mentionne qu'elle concerne de l'électricité et comporte au moins la date et le pays d'émission, un
 numéro d'identification unique, la nature de la source d'énergie à partir de laquelle l'électricité a été produite et les
-mentions correspondant aux éléments figurant aux 2°, 3°, 4°, 8° et 11° de l'article R. 314-31.
+mentions correspondant aux éléments figurant aux 2°, 3°, 4°, 8° et 11° de l'article R. 314-60.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
+	  - Code de l'énergie - art. R314-34 (T)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-31 (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R314-38 (V)
-	  - Code de l'énergie - art. R314-47 (V)
-	  - Code de l'énergie - art. R314-49 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-63 (V)
+	  - Code de l'énergie - art. R314-60 (V)
 
 
-###### Article R314-35
+###### Article R314-64
 
 L'organisme chargé de la délivrance des garanties d'origine inscrit les garanties d'origine délivrées sur le registre
 national des garanties d'origine prévu à l'article L. 314-14. 
@@ -44505,7 +45684,7 @@ accessibles au public sont :
 niveau du tarif d'achat et la durée du contrat lorsque l'installation fait l'objet d'un contrat d'achat régi par les
 dispositions des articles L. 311-12, L. 314-1 et L. 121-27 ; 
 
-9° Le cas échéant, la mention de l'enregistrement prévu à l'article R. 314-37. 
+9° Le cas échéant, la mention de l'enregistrement prévu à l'article R. 314-66. 
 
 L'organisme procède, au moins tous les mois, à la mise à jour du registre. 
 
@@ -44514,67 +45693,32 @@ de l'année précédente.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L311-12 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. L314-14 (V)
-	  - Code de l'énergie - art. R314-37 (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R314-33 (V)
-	  - Code de l'énergie - art. R314-41 (V)
-	  - Code de l'énergie - art. R314-47 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-64 (M)
+	  - Code de l'énergie - art. R314-35 (T)
 
 
-###### Article R314-36
+###### Article R314-65
 
 Une garantie d'origine peut, après sa délivrance, être transférée. L'organisme chargé de la délivrance des garanties
 d'origine est informé du transfert. Il conserve les noms et coordonnées des titulaires successifs d'une garantie d'origine.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Code de l'énergie - art. R314-33 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-65 (V)
+	  - Code de l'énergie - art. R314-36 (T)
 
 
-###### Article R314-37
+###### Article R314-66
 
 Une garantie d'origine peut être utilisée par son titulaire pour attester de la source renouvelable de l'électricité ou de sa
 production par cogénération. Dans ce cas, le titulaire indique à l'organisme chargé de la délivrance des garanties d'origine,
@@ -44595,36 +45739,23 @@ Les garanties d'origine doivent être délivrées, transférées et annulées de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
+	  - Code de l'énergie - art. R314-37 (T)
 
 	**Cité par**:
 
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Arrêté du 13 décembre 2016 - art. (VT)
-	  - Code de l'énergie - art. R314-33 (V)
-	  - Code de l'énergie - art. R314-35 (V)
-	  - Code de l'énergie - art. R314-38 (V)
-	  - Code de l'énergie - art. R314-52 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-66 (M)
+	  - Code de l'énergie - art. R314-64 (V)
 
 
-###### Article R314-38
+###### Article R314-67
 
 Les garanties d'origine délivrées dans d'autres Etats membres de l'Union européenne peuvent être utilisées dans les
-conditions prévues à l'article R. 314-37. 
+conditions prévues à l'article R. 314-66. 
 
 En cas de doute sur l'exactitude, la fiabilité ou la véracité d'une garantie d'origine provenant d'un autre Etat membre de
 l'Union européenne, l'organisme chargé de la délivrance des garanties d'origine informe le ministre chargé de l'énergie. Le
@@ -44632,36 +45763,16 @@ ministre chargé de l'énergie notifie à la Commission européenne son refus de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Arrêté du 13 décembre 2016 - art. (VT)
-	  - Code de l'énergie - art. R314-33 (V)
-	  - Code de l'énergie - art. R314-44 (V)
-	  - Code de l'énergie - art. R314-46 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R314-37 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-67 (V)
+	  - Code de l'énergie - art. R314-38 (T)
 
 
-###### Article R314-39
+###### Article R314-68
 
 L'organisme vérifie par sondage l'exactitude des éléments figurant dans les dossiers de demandes de garanties d'origine qu'il
 a reçus. Cette vérification ne peut porter que sur des garanties d'origine délivrées depuis moins de trois ans. 
@@ -44672,7 +45783,7 @@ d'habilitation vaut décision d'acceptation. L'habilitation est délivrée pour 
 ou retirée lorsque les conditions au vu desquelles l'habilitation a été délivrée cessent d'être remplies. 
 
 Les contrôleurs peuvent recueillir auprès des demandeurs de garanties d'origine les éléments permettant de vérifier
-l'exactitude des informations mentionnées aux articles R. 314-31 et R. 314-32. Dans les conditions générales prévues aux
+l'exactitude des informations mentionnées aux articles R. 314-60 et R. 314-61. Dans les conditions générales prévues aux
 articles L. 142-20 à L. 142-29, ils ont accès, entre 8 heures et 20 heures, aux installations de production d'électricité
 pour lesquelles une garantie d'origine a été demandée ou obtenue, à l'exception de tous locaux servant de domicile. Ils sont
 tenus de préserver la confidentialité des informations dont ils ont connaissance à l'occasion de leurs contrôles. 
@@ -44685,44 +45796,30 @@ préfet de la région où est située l'installation, par lettre recommandée av
 Si le contrôle établit que la garantie d'origine repose sur des informations erronées, l'électricité produite postérieurement
 à la période sur laquelle portait la dernière garantie d'origine émise ne peut donner lieu à délivrance d'une garantie
 d'origine. Une nouvelle garantie d'origine ne pourra être délivrée que pour une période postérieure à un nouveau contrôle
-établissant la conformité aux éléments de la demande de garantie d'origine figurant aux articles R. 314-31 et R. 314-32. Ce
+établissant la conformité aux éléments de la demande de garantie d'origine figurant aux articles R. 314-60 et R. 314-61. Ce
 nouveau contrôle sera réalisé à la demande et aux frais du demandeur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Arrêté du 13 décembre 2016 - art. (VT)
-	  - Code de l'énergie - art. R314-43 (V)
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L142-20 (V)
-	  - Code de l'énergie - art. R314-31 (V)
+	  - Code de l'énergie - art. R314-60 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R314-68 (V)
+	  - Code de l'énergie - art. R314-39 (T)
 
 
-###### Article R314-40
+###### Article R314-69
 
 A la demande de l'organisme pour l'exécution de sa mission de délivrance et de suivi des garanties d'origine ainsi que pour
 la vérification des éléments figurant dans les dossiers de demandes de garanties d'origine, chaque gestionnaire de réseau
-public d'électricité vérifie l'exactitude des éléments mentionnés aux 1° à 11° de l'article R. 314-31 à partir des données
+public d'électricité vérifie l'exactitude des éléments mentionnés aux 1° à 11° de l'article R. 314-60 à partir des données
 dont ils disposent relatives aux installations ayant fait l'objet de demandes de garanties d'origine. Les gestionnaires de
 réseau public d'électricité communiquent à l'organisme le résultat de leur vérification, au plus tard trente jours après la
 sollicitation de l'organisme. 
@@ -44738,66 +45835,33 @@ loi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Arrêté du 13 décembre 2016 - art. (VT)
-	  - Code de l'énergie - art. R314-46 (V)
-	  - Code de l'énergie - art. R314-48 (V)
-	  - Code de l'énergie - art. R314-49 (V)
-	  - Code de l'énergie - art. R314-52 (V)
+	  - Code de l'énergie - art. R314-40 (T)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-31 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-69 (V)
+	  - Code de l'énergie - art. R314-60 (V)
 
 
-###### Article R314-41
+###### Article R314-70
 
 Les conditions et les modalités de délivrance des garanties d'origine prévues par la présente section sont applicables dans
 les zones non interconnectées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-682 du 27 mai 2016 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2016-682 du 27 mai 2016 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 13 décembre 2016 - art. (V)
-	  - Arrêté du 13 décembre 2016 - art. (VT)
-	  - Code de l'énergie - art. R314-33 (V)
-	  - Code de l'énergie - art. R314-47 (V)
-	  - Code de l'énergie - art. R314-48 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R314-70 (V)
+	  - Code de l'énergie - art. R314-41 (T)
 
 
 ### TITRE II : LE TRANSPORT ET LA DISTRIBUTION
