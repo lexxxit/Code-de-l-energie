@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-05-30
+Version Consolidée au 2016-06-01
 
 # Partie législative
 
@@ -29721,6 +29721,8 @@ sa saisine, l'avis de la Commission de régulation de l'énergie est réputé do
 
 ##### Sous-section 2 : Comité du système de distribution publique d'électricité
 
+##### Sous-section 2 : Comité du système public de distribution d'électricité des zones interconnectées au réseau métropolitain continental
+
 ###### Article R111-19-1
 
 Les membres du comité du système de distribution publique d'électricité sont nommés par arrêté du ministre chargé de
@@ -29984,6 +29986,214 @@ publication de ses travaux.
 	**Créé par**:
 
 	  - Décret n°2016-43 du 26 janvier 2016 - art. 1
+
+
+##### Sous-section 3 : Comité du système public de distribution d'électricité de la collectivité territoriale de Corse
+
+###### Article R111-19-15
+
+Il est institué, pour la collectivité territoriale de Corse, un comité du système de distribution publique d'électricité,
+dont les membres sont nommés par arrêté du préfet de Corse. Le comité comprend : 
+
+1° Le préfet de Corse et un représentant du service déconcentré chargé de l'énergie en fonctions dans la collectivité ; 
+
+2° Sur proposition de l'exécutif de la collectivité territoriale de Corse, un représentant de cette collectivité et deux
+représentants des communes ou des intercommunalités ; 
+
+3° Sur proposition des autorités organisatrices du réseau public de distribution d'électricité, définies à l'article L.
+2224-31 du code général des collectivités territoriales, trois représentants de ces autorités ; 
+
+4° Sur proposition du président du conseil d'administration ou de surveillance de la société gestionnaire du réseau de
+distribution d'électricité desservant le territoire de la collectivité, trois représentants de cette société.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+
+
+###### Article R111-19-16
+
+Le président du comité du système de distribution publique d'électricité est désigné, par le préfet de Corse, parmi les
+membres mentionnés aux 2° et 3° de l'article R. 111-19-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-17
+
+Les membres du comité du système de distribution publique d'électricité, ainsi que son président, sont nommés pour une durée
+de cinq ans. 
+
+Lorsqu'un membre ne peut exercer son mandat pour cette durée, son successeur est nommé pour la durée restant à courir. 
+
+Le mandat des membres mentionnés au 2° de l'article R. 111-19-15 prend fin à l'expiration de leur mandat électif dans la
+collectivité au titre de laquelle ils ont été désignés. 
+
+Le mandat des membres du comité est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-18
+
+En cas d'empêchement, les membres titulaires du comité du système de distribution publique d'électricité peuvent être
+remplacés par un suppléant. Les suppléants, dont le nombre est limité à un par titulaire, sont désignés dans les mêmes formes
+et pour la même durée que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-19
+
+Les fonctions de membre du comité du système de distribution publique d'électricité sont gratuites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-20
+
+Le comité du système de distribution publique d'électricité se réunit, au moins une fois par an, sur convocation de son
+président. Le président arrête l'ordre du jour sur proposition du secrétariat du comité. En outre, le président inscrit à
+l'ordre du jour les points demandés par au moins un quart des membres du comité. 
+
+Le comité délibère à la majorité des membres présents. 
+
+Le comité peut, sur proposition de son président ou de la majorité de ses membres, entendre toute personne extérieure dont
+l'audition est de nature à éclairer ses délibérations. Les personnes ainsi entendues ne participent pas au vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-21
+
+Le comité du système de distribution publique d'électricité dispose d'un secrétariat assuré par la société gestionnaire du
+réseau de distribution d'électricité desservant le territoire de la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-22
+
+Le secrétariat du comité du système de distribution publique d'électricité prépare les documents nécessaires au comité pour
+exercer sa mission et est chargé de leur diffusion auprès de ses membres. 
+
+A cet effet, il est destinataire des documents mentionnés à l'article L. 111-56-2, notamment :
+
+- des saisines du conseil d'administration ou de surveillance de la société gestionnaire du réseau de distribution
+d'électricité desservant le territoire de la collectivité, sur les sujets concernant sa politique d'investissement sur cette
+zone ;
+
+- des programmes prévisionnels de tous les investissements envisagés sur le réseau de distribution, établis par la conférence
+départementale, mentionnée au troisième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales ;
+
+- à la demande du comité, des comptes rendus de la politique d'investissement et des bilans détaillés de la mise en œuvre des
+programmes mentionnés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-56-2
+
+
+###### Article R111-19-23
+
+Les avis du comité prévus à l'article L. 111-56-2, signés par son président, sont adressés dans un délai de quinze jours, par
+le secrétariat, à l'autorité organisatrice du réseau public de distribution d'électricité ou à la société gestionnaire du
+réseau de distribution d'électricité desservant le territoire de la collectivité. 
+
+L'organisme concerné dispose d'un délai de deux mois pour faire part de ses observations écrites au comité lorsqu'il n'entend
+pas se conformer à son avis. La lettre d'observations est inscrite à l'ordre du jour du comité suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-56-2
+
+
+###### Article R111-19-24
+
+Le secrétariat du comité du système de distribution publique d'électricité établit les comptes rendus des réunions et élabore
+chaque année un rapport d'activité portant sur les travaux du comité et sur le suivi des avis. 
+
+Il est chargé de la publication des travaux de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-25
+
+Le comité du système de distribution publique d'électricité peut adresser au ministre chargé de l'énergie des propositions
+d'orientations générales sur les politiques d'investissements sur les réseaux publics d'électricité desservant la
+collectivité et leur contribution à la qualité de service et à la transition énergétique. 
+
+Le comité peut être consulté par le ministre chargé de l'énergie sur toute question concernant la politique d'investissement
+sur les réseaux publics d'électricité ou l'organisation de la distribution publique d'électricité sur le périmètre de la
+collectivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+
+
+###### Article R111-19-26
+
+Le comité du système de distribution publique d'électricité adopte son règlement intérieur dans un délai de six mois à
+compter de son installation. Ce texte porte notamment sur les délais et modalités de convocation du comité, sur les règles de
+diffusion par le secrétariat des documents nécessaires au comité pour exercer sa mission ainsi que sur les modalités de
+publication de ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
 
 
 ##### Section 3 : Dispositions particulières à l'entreprise venant aux droits de GDF-Suez
@@ -38108,9 +38318,242 @@ les examens et les conditions d'obtention des diplômes.
 
 ### TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER
 
-#### Chapitre unique
+#### Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon
+
+##### Section unique : Comités du système public de distribution d'électricité des zones non interconnectées au réseau métropolitain continental
 
 ###### Article R151-1
+
+Les dispositions de la présente section s'appliquent à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à
+Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R121-27
+	  - Code de l'énergie - art. R121-29
+
+
+###### Article R151-2
+
+Il est institué, pour chaque collectivité territoriale mentionnée à l'article R. 151-1, un comité du système de distribution
+publique d'électricité, dont les membres sont nommés par arrêté du préfet de région en fonctions dans la collectivité
+concernée. Chaque comité comprend : 
+
+1° Le préfet de région et un représentant du service déconcentré chargé de l'énergie en fonctions dans la collectivité
+concernée ; 
+
+2° Sur proposition de l'exécutif de la collectivité territoriale ou de l'exécutif régional en Guadeloupe et à La Réunion, un
+représentant de cette collectivité et deux représentants des communes ou des intercommunalités ; 
+
+3° Sur proposition des autorités organisatrices du réseau public de distribution d'électricité, définies à l'article L.
+2224-31 du code général des collectivités territoriales, trois représentants de ces autorités ; 
+
+4° Sur proposition du président du conseil d'administration ou de surveillance de chacune des sociétés mentionnées au 3° de
+l'article L. 111-52, gestionnaire de réseau de la zone non interconnectée concernée, trois représentants de cette société.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-52
+
+
+###### Article R151-3
+
+Le président du comité du système de distribution publique d'électricité est désigné, par le préfet de région, parmi les
+membres mentionnés aux 2° et 3° de l'article R. 151-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-4
+
+Les membres du comité du système de distribution publique d'électricité, ainsi que son président, sont nommés pour une durée
+de cinq ans. 
+
+Lorsqu'un membre ne peut exercer son mandat pour cette durée, son successeur est nommé pour la durée restant à courir. 
+
+Le mandat des membres mentionnés au 2° de l'article R. 151-2 prend fin à l'expiration de leur mandat électif dans la
+collectivité au titre de laquelle ils ont été désignés. 
+
+Le mandat des membres du comité est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-5
+
+En cas d'empêchement, les membres titulaires du comité du système de distribution publique d'électricité peuvent être
+remplacés par un suppléant. Les suppléants, dont le nombre est limité à un par titulaire, sont désignés dans les mêmes formes
+et pour la même durée que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-6
+
+Les fonctions de membre du comité du système de distribution publique d'électricité sont gratuites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-7
+
+Le comité du système de distribution publique d'électricité se réunit, au moins une fois par an, sur convocation de son
+président. Le président arrête l'ordre du jour sur proposition du secrétariat du comité. En outre, le président inscrit à
+l'ordre du jour les points demandés par au moins un quart des membres du comité. 
+
+Le comité délibère à la majorité des membres présents. 
+
+Le comité peut, sur proposition de son président ou de la majorité de ses membres, entendre toute personne extérieure dont
+l'audition est de nature à éclairer ses délibérations. Les personnes ainsi entendues ne participent pas au vote.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-8
+
+Le comité du système de distribution publique d'électricité dispose d'un secrétariat assuré par la société gestionnaire de
+réseau de la zone non interconnectée concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-9
+
+Le secrétariat du comité du système de distribution publique d'électricité prépare les documents nécessaires au comité pour
+exercer sa mission et est chargé de leur diffusion auprès de ses membres. 
+
+A cet effet, il est destinataire des documents mentionnés à l'article L. 111-56-2, notamment :
+
+- des saisines du conseil d'administration ou de surveillance des sociétés mentionnées au 3° de l'article L. 111-52,
+gestionnaire du réseau public de distribution de la zone non interconnectée concernée, sur les sujets concernant sa politique
+d'investissement sur cette zone ;
+
+- des programmes prévisionnels de tous les investissements envisagés sur le réseau de distribution, établis par la conférence
+départementale, mentionnée au troisième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales,
+pour la zone non interconnectée concernée ;
+
+- à la demande du comité, des comptes rendus de la politique d'investissement et des bilans détaillés de la mise en œuvre des
+programmes mentionnés à l'alinéa précédent, pour la zone interconnectée concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-56-2 (V)
+
+
+###### Article R151-10
+
+Les avis du comité prévus à l'article L. 111-56-2, signés par son président, sont adressés dans un délai de quinze jours, par
+le secrétariat, à l'autorité organisatrice du réseau public de distribution d'électricité ou aux sociétés mentionnées au 3°
+de l'article L. 111-52. 
+
+L'organisme concerné dispose d'un délai de deux mois pour faire part de ses observations écrites au comité lorsqu'il n'entend
+pas se conformer à son avis. La lettre d'observations est inscrite à l'ordre du jour du comité suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52
+	  - Code de l'énergie - art. L111-56-2
+
+
+###### Article R151-11
+
+Le secrétariat du comité du système de distribution publique d'électricité établit les comptes rendus des réunions et élabore
+chaque année un rapport d'activité portant sur les travaux du comité et sur le suivi des avis. 
+
+Il est chargé de la publication des travaux de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-12
+
+Le comité du système de distribution publique d'électricité peut adresser au ministre chargé de l'énergie des propositions
+d'orientations générales concernant les politiques d'investissements sur les réseaux publics d'électricité de la zone non
+interconnectée considérée et leur contribution à la qualité de service et à la transition énergétique. 
+
+Le comité peut être consulté par le ministre chargé de l'énergie sur toute question concernant la politique d'investissement
+sur les réseaux publics d'électricité ou l'organisation de la distribution publique d'électricité de la zone non
+interconnectée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+###### Article R151-13
+
+Chaque comité du système de distribution publique d'électricité adopte son règlement intérieur dans un délai de six mois à
+compter de son installation. Ce texte porte notamment sur les délais et modalités de convocation du comité, sur les règles de
+diffusion par le secrétariat des documents nécessaires au comité pour exercer sa mission ainsi que sur les modalités de
+publication de ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+
+
+#### Chapitre II : Dispositions applicables aux îles Wallis et Futuna
+
+###### Article R152-1
 
 Les dispositions des articles R. 121-27 à l'exception de son III, R. 121-28 et R. 121-29 sont applicables à la société
 concessionnaire de la distribution publique d'électricité dans les îles Wallis et Futuna selon des modalités fixées par
@@ -38120,20 +38563,15 @@ décret.
 
 	**Créé par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 4
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-705 du 30 mai 2016 - art. 2
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. R121-27 (V)
-	  - Code de l'énergie - art. R121-29 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. R152-1 (V)
+	  - Code de l'énergie - art. R151-1 (T)
 
 
 ### TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES
@@ -40558,19 +40996,16 @@ de personnes physiques ou morales.
 
 ###### Article R241-7
 
-Tout immeuble collectif à usage principal d'habitation équipé d'un chauffage commun à tout ou partie des locaux occupés à
-titre privatif et fournissant à chacun de ces locaux une quantité de chaleur réglable par l'occupant est muni d'appareils
-permettant d'individualiser les frais de chauffage collectif.
+Tout immeuble collectif équipé d'un chauffage commun à tout ou partie des locaux occupés à titre privatif et fournissant à
+chacun de ces locaux une quantité de chaleur réglable par l'occupant est muni d'appareils de mesure permettant de déterminer
+la quantité de chaleur fournie à chaque local occupé à titre privatif et ainsi d'individualiser les frais de chauffage
+collectif. 
 
-Ces appareils permettent de mesurer la quantité de chaleur fournie ou une grandeur représentative de celle-ci.
+Les relevés de ces appareils doivent pouvoir être effectués sans qu'il soit besoin de pénétrer dans les locaux privatifs.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -40581,8 +41016,12 @@ Ces appareils permettent de mesurer la quantité de chaleur fournie ou une grand
 	  - Code de l'énergie - art. R241-11 (V)
 	  - Code de l'énergie - art. R241-12 (V)
 	  - Code de l'énergie - art. R241-13 (V)
-	  - Code de l'énergie - art. R241-8 (M)
+	  - Code de l'énergie - art. R241-8 (V)
 	  - Code de l'énergie - art. R241-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-710 du 30 mai 2016 - art. 1
 
 
 ###### Article R241-8
@@ -40591,25 +41030,14 @@ Les dispositions de l'article R. 241-7 ne sont pas applicables :
 
 1° Aux établissements d'hôtellerie et aux logements-foyers ; 
 
-2° Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire déposée après le 1er juin 2001 ; 
+2° Aux immeubles dans lesquels il est techniquement impossible de mesurer la chaleur consommée par chaque local pris
+séparément ou de poser un appareil permettant aux occupants de chaque local de moduler la chaleur fournie par le chauffage
+collectif ; 
 
-3° Aux immeubles dans lesquels il est techniquement impossible de mesurer la chaleur consommée par chaque local pris
-séparément ; 
+3° Aux immeubles dont l'individualisation des frais de chauffage entraînerait un coût excessif résultant de la nécessité de
+modifier l'ensemble de l'installation de chauffage. 
 
-4° Aux immeubles dans lesquels il est techniquement impossible de poser un appareil permettant aux occupants de chaque local
-de moduler significativement la chaleur fournie ; 
-
-5° Aux immeubles pourvus d'une installation de chauffage mixte comprenant un équipement collectif complété par des
-équipements fixes de chauffage dont les frais d'utilisation sont pris en charge directement par les occupants ; 
-
-6° Aux immeubles collectifs ayant fait l'objet d'une demande de permis de construire déposée avant le 1er juin 2001 dont la
-consommation de chauffage est inférieure à un seuil fixé par arrêté. Si cette condition n'est pas respectée lors de la
-première détermination de la consommation, seuls d'importants travaux d'amélioration de la performance énergétique peuvent
-justifier un nouvel examen du respect de cette condition. 
-
-Un arrêté conjoint des ministres chargés de l'énergie et de la construction définit les cas d'impossibilité mentionnés aux 3°
-et 4° ainsi que le seuil prévu au 6°. Il précise également les modalités de répartition des frais de chauffage en application
-de l'article R. 241-13 ainsi que les modalités d'information des occupants.
+Un arrêté conjoint des ministres chargés de l'énergie et de la construction précise les cas d'impossibilité mentionnés au 2°.
 
 **Liens relatifs à cet article**
 
@@ -40617,14 +41045,14 @@ de l'article R. 241-13 ainsi que les modalités d'information des occupants.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 30 mai 2016 - art. 2
 	  - Code de l'énergie - art. R241-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-710 du 30 mai 2016 - art. 1
 
 	**Cite**:
 
@@ -40634,10 +41062,9 @@ de l'article R. 241-13 ainsi que les modalités d'information des occupants.
 
 ###### Article R241-9
 
-Si le seuil défini à l'article R. 241-8 est dépassé, et avant toute installation des appareils prévus à l'article R. 241-7,
-les émetteurs de chaleur, quand cela est techniquement possible, sont munis, à la charge du propriétaire, d'organes de
-régulation en fonction de la température intérieure de la pièce, notamment de robinets thermostatiques en état de
-fonctionnement.
+Avant toute installation des appareils prévus à l'article R. 241-7, les émetteurs de chaleur, quand cela est techniquement
+possible, sont munis, à la charge du propriétaire, d'organes de régulation en fonction de la température intérieure de la
+pièce, notamment de robinets thermostatiques en état de fonctionnement.
 
 **Liens relatifs à cet article**
 
@@ -40645,29 +41072,26 @@ fonctionnement.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-710 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R241-7 (V)
-	  - Code de l'énergie - art. R241-8 (V)
+	  - Code de l'énergie - art. R241-7
+	  - Code de l'énergie - art. R241-8
 
 
 ###### Article R241-10
 
-La mise en service des appareils prévus à l'article R. 241-7 doit avoir lieu au plus tard le 31 décembre 2016. 
-
-Les relevés de ces appareils peuvent être effectués sans qu'il soit besoin de pénétrer dans les locaux privatifs.
+La mise en service des appareils mentionnés à l'article R. 241-7 doit avoir lieu au plus tard le 31 mars 2017. Toutefois,
+pour les immeubles dont les valeurs de consommation en chauffage sont inférieures à des seuils fixés par arrêté conjoint des
+ministres chargés de l'énergie et de la construction, des délais supplémentaires sont accordés jusqu'au 31 décembre 2017 ou
+jusqu'au 31 décembre 2019. Le même arrêté précise les méthodes de calcul de la consommation en chauffage prise en compte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -40675,9 +41099,9 @@ Les relevés de ces appareils peuvent être effectués sans qu'il soit besoin de
 
 	  - Arrêté du 30 mai 2016 - art. 3
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'énergie - art. R241-7 (V)
+	  - Décret n°2016-710 du 30 mai 2016 - art. 3
 
 
 ###### Article R241-11
@@ -40743,24 +41167,27 @@ Le total des frais individuels s'obtient par différence entre le total des frai
 communs. Ce total est réparti en fonction des indications fournies par les appareils prévus à l'article R. 241-7, les
 situations ou configurations thermiquement défavorables des locaux pouvant être prises en compte.
 
+Un arrêté conjoint des ministres chargés de l'énergie et de la construction précise les modalités de répartition des frais de
+chauffage et d'information des occupants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 30 mai 2016 - art. 4
-	  - Code de l'énergie - art. R241-8 (M)
+	  - Code de l'énergie - art. R241-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-710 du 30 mai 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R241-7 (V)
+	  - Code de l'énergie - art. R241-7
 
 
 ###### Article R241-14
@@ -43242,6 +43669,59 @@ l'achat mentionné au présent article sont définies par les modèles de contra
 	**Cite**:
 
 	  - Code de l'énergie - art. L311-12
+
+
+##### Sous-section 4 : Dispositions spécifiques aux appels d'offres dans la collectivité territoriale de Corse 
+
+###### Article D311-27-9
+
+Lorsque le rythme de développement d'une filière de production d'électricité est de nature à compromettre l'atteinte des
+objectifs inscrits dans la programmation pluriannuelle de l'énergie relative à la collectivité territoriale de Corse, le
+président du conseil exécutif peut demander au ministre chargé de l'énergie d'organiser un appel d'offres sur le territoire
+de sa collectivité pour cette filière. 
+
+La demande précise : 
+
+1° Le ou les types d'installations concernées par l'appel d'offres ; 
+
+2° Le volume alloué à cet appel d'offres en MW ; 
+
+3° Le cas échéant, les caractéristiques énergétiques et techniques de ces installations ; 
+
+4° Le cas échéant, les modalités de fonctionnement de ces installations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 1
+
+
+###### Article D311-27-10
+
+Le rejet de la demande fait l'objet d'un avis motivé des ministres chargés de l'énergie, de l'économie et de l'outre-mer dans
+un délai de deux mois à compter de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 1
+
+
+###### Article D311-27-11
+
+Pour les appels d'offres portant sur le territoire de la collectivité territoriale de Corse, le ministre chargé de l'énergie
+consulte la collectivité sur le projet de cahier des charges. 
+
+A compter de la date de saisine du ministre chargé de l'énergie, la collectivité dispose de deux mois pour émettre son avis
+sur le projet de cahier des charges. Son avis est réputé favorable à l'issue de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 1
 
 
 ##### Section 3 : Sanctions administratives et pénales
@@ -55878,45 +56358,7 @@ aux 6° et 7° de l'article D. 341-9 sont remplies.
 
 #### Chapitre Ier : Dispositions relatives à l'outre-mer
 
-###### Article D361-7-1
-
-En Guadeloupe, en Guyane, à la Martinique et à La Réunion, le schéma de raccordement ne peut faire l'objet d'une adaptation
-lorsque celle-ci aurait pour effet : 
-
-- d'augmenter sa capacité d'accueil globale de plus de 100 MW ; ou 
-
-- d'augmenter la quote-part unitaire de plus de 10 000 €/ MW ; ou 
-
-- d'augmenter le coût des investissements supplémentaires des gestionnaires de réseau de plus de 130 000 € par MW de capacité
-créée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-434 du 11 avril 2016 - art. 11
-
-
-###### Article D361-7-2
-
-En Guadeloupe, en Guyane, à la Martinique et à La Réunion, lorsqu'un schéma de raccordement comporte plusieurs volets
-particuliers, le montant de la quote-part unitaire auquel est appliqué le plafonnement mentionné à l'article L. 361-1 est
-égal à la moyenne des quotes-parts unitaires pondérée par la puissance prévue pour chaque volet particulier. 
-
-Lorsque la moyenne pondérée des quotes-parts unitaires ainsi obtenue est supérieure au plafond mentionné à l'article L.
-361-1, ces quotes-parts unitaires sont diminuées dans une proportion identique de sorte que leur moyenne pondérée soit égale
-au plafond.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-434 du 11 avril 2016 - art. 11
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L361-1
-
+##### Section 1 : Dispositions relatives à l'obligation d'achat
 
 ###### Article R361-1
 
@@ -55934,18 +56376,18 @@ ne s'applique alors qu'aux périodes où ces conditions sont remplies.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R314-18 (V)
-	  - Code de l'énergie - art. R361-2 (M)
+	  - Code de l'énergie - art. R361-2 (V)
 
 
 ###### Article R361-2
@@ -55960,9 +56402,9 @@ lesquelles ces installations peuvent utiliser une fraction d'énergie non renouv
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
@@ -55982,13 +56424,13 @@ l'installation considérée à la société EDF, désigné par le présent chapi
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
 
 
 ###### Article R361-4
@@ -56010,19 +56452,19 @@ prévue par le 7° de l'article L. 314-1, établis par Electricité de France.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. R361-7 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. R361-7
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R361-5 (V)
-	  - Code de l'énergie - art. R361-6 (M)
+	  - Code de l'énergie - art. R361-6 (V)
 
 
 ###### Article R361-5
@@ -56036,13 +56478,13 @@ résiliation du contrat par le producteur avant le terme prévu.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R361-4 (V)
+	  - Code de l'énergie - art. R361-4
 
 
 ###### Article R361-6
@@ -56057,9 +56499,9 @@ d'achat existant pour la durée souscrite restante ; un avenant au contrat d'ach
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
@@ -56078,7 +56520,8 @@ l'article L. 314-1. Ces conditions d'achat précisent, notamment :
 2° Les tarifs d'achat de l'électricité ; 
 
 3° Les modalités de révision des tarifs d'achat de l'électricité, en fonction de l'évolution des prix du marché du charbon et
-des coûts évités par rapport à l'utilisation d'énergies fossiles, en particulier du coût des émissions de CO2 évité ; 
+des coûts évités par rapport à l'utilisation d'énergies fossiles, en particulier du coût des émissions de CO
+  <sub>2</sub> évité ; 
 
 4° La durée du contrat ; 
 
@@ -56093,17 +56536,116 @@ Journal officiel de la République française en même temps que l'arrêté.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R361-4 (V)
+
+
+##### Section 2 : Schémas de raccordement
+
+###### Article D361-7-1
+
+En Guadeloupe, en Guyane, à la Martinique et à La Réunion, le schéma de raccordement ne peut faire l'objet d'une adaptation
+lorsque celle-ci aurait pour effet : 
+
+- d'augmenter sa capacité d'accueil globale de plus de 100 MW ; ou 
+
+- d'augmenter la quote-part unitaire de plus de 10 000 €/ MW ; ou 
+
+- d'augmenter le coût des investissements supplémentaires des gestionnaires de réseau de plus de 130 000 € par MW de capacité
+créée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 3
+
+
+###### Article D361-7-2
+
+En Guadeloupe, en Guyane, à la Martinique et à La Réunion, lorsqu'un schéma de raccordement comporte plusieurs volets
+particuliers, le montant de la quote-part unitaire auquel est appliqué le plafonnement mentionné à l'article L. 361-1 est
+égal à la moyenne des quotes-parts unitaires pondérée par la puissance prévue pour chaque volet particulier. 
+
+Lorsque la moyenne pondérée des quotes-parts unitaires ainsi obtenue est supérieure au plafond mentionné à l'article L.
+361-1, ces quotes-parts unitaires sont diminuées dans une proportion identique de sorte que leur moyenne pondérée soit égale
+au plafond.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-706 du 30 mai 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L361-1
+
+
+##### Section 3 : Dispositions spécifiques aux appels d'offres dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion 
+
+
+
+###### Article D361-7-3
+
+Lorsque le rythme de développement d'une filière de production d'électricité sur les territoires de la Guadeloupe, de la
+Guyane, de la Martinique ou de La Réunion est de nature à compromettre l'atteinte des objectifs inscrits dans les
+programmations pluriannuelles de l'énergie relatives à ces collectivités, le président du conseil régional de Guadeloupe, le
+président de l'assemblée de Guyane, le président du conseil exécutif de Martinique, le président du conseil départemental de
+Mayotte ou le président du conseil régional de La Réunion peut demander au ministre chargé de l'énergie d'organiser un appel
+d'offres sur le territoire de sa collectivité pour cette filière. 
+
+La demande précise : 
+
+1° Le ou les types d'installations concernées par l'appel d'offres ; 
+
+2° Le volume en MW alloué à cet appel d'offres ; 
+
+3° Le cas échéant, les caractéristiques énergétiques et techniques de ces installations ; 
+
+4° Le cas échéant, les modalités de fonctionnement de ces installations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 4
+
+
+###### Article D361-7-4
+
+Le rejet de la demande fait l'objet d'un avis motivé des ministres chargés de l'énergie, de l'économie et de l'outre-mer dans
+un délai de deux mois à compter de la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 4
+
+
+###### Article D361-7-5
+
+Pour les appels d'offres portant sur le territoire des collectivités de Guadeloupe, de Guyane, de Martinique, de Mayotte ou
+de La Réunion, le ministre chargé de l'énergie consulte les collectivités concernées sur le projet de cahier des charges. 
+
+A compter de la date de saisine du ministre, les collectivités disposent de deux mois pour émettre leur avis sur le projet de
+cahier des charges. Leur avis est réputé favorable à l'issue de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 4
 
 
 #### Chapitre II : Dispositions relatives à Mayotte
@@ -56145,6 +56687,18 @@ au plafond.
 	**Cite**:
 
 	  - Code de l'énergie - art. L361-1
+
+
+###### Article D361-11
+
+Les dispositions spécifiques aux appels d'offres mentionnées à la section 3 du chapitre Ier du présent titre sont applicables
+à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-706 du 30 mai 2016 - art. 5
 
 
 ###### Article R361-8
