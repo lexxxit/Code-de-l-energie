@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -24490,6 +24490,73 @@ Sont fixés par voie réglementaire, après avis de la Commission de régulation
 	  - Code de l'énergie - art. R121-31 (V)
 
 
+###### Article L446-5
+
+I. - Lorsque les capacités de production de biogaz destiné à être injecté dans le réseau de gaz ne répondent pas aux
+objectifs chiffrés de la programmation pluriannuelle de l'énergie, notamment ceux concernant les techniques de production et
+la localisation géographique des installations, l'autorité administrative peut recourir à une procédure d'appel d'offres. 
+
+II. - Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne
+exploitant ou désirant construire et exploiter une unité de production, installée sur le territoire d'un Etat membre de
+l'Union européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire de tout autre Etat, peut
+participer à l'appel d'offres. 
+
+III. - Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités définies par l'appel
+d'offres, d'un contrat d'achat pour le biogaz injecté. L'acheteur du biogaz est un fournisseur de gaz naturel titulaire de
+l'autorisation administrative mentionnée à l'article L. 443-1 ou l'acheteur de dernier recours mentionné à l'article L.
+446-2. L'achat du biogaz s'effectue au prix résultant de l'appel d'offres. Les surcoûts éventuels qui en résultent pour le
+fournisseur font l'objet d'une compensation. 
+
+IV. - Pour examiner, au titre de la recevabilité ou de la sélection, les offres soumises, l'autorité administrative se fonde
+notamment sur les critères suivants : 
+
+1° Le prix du biogaz injecté ; 
+
+2° La sécurité et la sûreté des réseaux de gaz naturel, des installations et des équipements associés ; 
+
+3° Les capacités techniques, économiques et financières du candidat ; 
+
+4° Le choix des sites, l'occupation des sols et l'utilisation du domaine public ; 
+
+5° L'efficacité énergétique ; 
+
+6° La compatibilité avec les principes et les missions de service public, notamment avec les objectifs de programmation
+pluriannuelle de l'énergie et la protection de l'environnement ; 
+
+7° Les ressources destinées à la méthanisation disponibles dans chacun des territoires sur lesquels porte l'appel d'offres ; 
+
+8° Dans une mesure limitée, à titre de critère de sélection, la part du capital détenue par les habitants résidant à
+proximité du projet d'injection de biogaz ou par les collectivités territoriales ou leurs groupements sur le territoire
+desquels le projet doit être implanté par les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de
+commerce, par les articles L. 1521-1 et suivants du code général des collectivités territoriales ou par la loi n° 47-1775 du
+10 septembre 1947 portant statut de la coopération, ainsi que la part du capital proposée à ces habitants, collectivités ou
+groupements. 
+
+V. - Les modalités de l'appel d'offres, notamment la pondération du critère de sélection mentionné au 8° du IV, sont définies
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 (V)
+	  - Code de commerce -  LIVRE II : Des sociétés commerciales et des gro... (V)
+	  - Code général des collectivités territoriales - art. L1521-1 (V)
+	  - Code général des collectivités territoriales - art. L2224-32
+	  - Code général des collectivités territoriales - art. L2224-33
+	  - Code de l'énergie - art. L443-1 (V)
+	  - Code de l'énergie - art. L446-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-411 du 7 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. 4 (V)
+	  - Arrêté du 9 mai 2017 - art. 4 (V)
+
+
 ### TITRE V : L'ACCES ET LE RACCORDEMENT AUX RESEAUX  ET INSTALLATIONS
 
 #### Chapitre Ier : L'accès aux réseaux et installations
@@ -34203,39 +34270,39 @@ informations nécessaires à l'application du présent article, sont prévues pa
 
 ###### Article R124-11
 
-I. - L'utilisation du chèque énergie comme moyen de paiement ne peut donner lieu à aucun remboursement en numéraire, ni total
-ni partiel.
+I.-L'utilisation du chèque énergie comme moyen de paiement ne peut donner lieu à aucun remboursement en numéraire, ni total
+ni partiel. 
 
-II. - Lorsque la valeur du chèque énergie utilisé par un bénéficiaire pour le paiement d'une facture d'électricité ou de gaz
+II.-Lorsque la valeur du chèque énergie utilisé par un bénéficiaire pour le paiement d'une facture d'électricité ou de gaz
 naturel est supérieure au montant de ladite facture, le trop-perçu est déduit de la ou, le cas échéant, des prochaines
 factures. Cela ne peut donner lieu à remboursement, sauf en cas d'émission d'une facture de clôture telle que prévue par
-l'article L. 121-89 du code de la consommation.
+l'article L. 224-15 du code de la consommation. 
 
 Lorsque le chèque est adressé à un fournisseur en dehors d'une période de facturation, sa valeur est déduite de la facture
 suivante et, si elle est supérieure à son montant, de la ou des factures suivantes. Toutefois, elle est affectée par
-priorité, en totalité ou en partie selon le cas, à une facture antérieure non soldée par le client.
+priorité, en totalité ou en partie selon le cas, à une facture antérieure non soldée par le client. 
 
 Lorsque le bénéficiaire a opté pour un paiement de sa facture par mensualisation, le fournisseur qui reçoit le chèque énergie
 déduit la valeur du chèque de la première mensualité à échoir, et de la ou des mensualités suivante si la première mensualité
-est inférieure au montant du chèque. Le cas échéant, le montant résiduel est déduit de la facture de régularisation.
+est inférieure au montant du chèque. Le cas échéant, le montant résiduel est déduit de la facture de régularisation. 
 
-III. - Lorsque le chèque énergie est présenté comme moyen de paiement à un gestionnaire de logement-foyer ou à un organisme
+III.-Lorsque le chèque énergie est présenté comme moyen de paiement à un gestionnaire de logement-foyer ou à un organisme
 gestionnaire d'habitation à loyer modéré, et que sa valeur est supérieure au montant à acquitter, le trop-perçu est affecté à
-l'échéance suivante. Il ne peut être reversé au résident qu'à l'issue du contrat de location.
+l'échéance suivante. Il ne peut être reversé au résident qu'à l'issue du contrat de location. 
 
-IV. - Les dispositions de la première phrase du II du présent article sont applicables au bénéficiaire du chèque énergie qui
+IV.-Les dispositions de la première phrase du II du présent article sont applicables au bénéficiaire du chèque énergie qui
 utilise celui-ci pour le paiement d'une dépense relative à la livraison de gaz de pétrole liquéfié livré en vrac. Le trop-
 perçu ne peut donner lieu à remboursement, sauf en cas de résiliation du contrat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code de la consommation - art. L121-89
+	  - Code de la consommation - art. L224-15 (VD)
 
 	**Cité par**:
 
@@ -34330,16 +34397,16 @@ d'économies d'énergie. Elle est accompagnée d'une estimation des coûts de ge
 
 ###### Article R124-16
 
-I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
+I. - Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
 leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un
 déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement. 
 
 Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues
 aux articles L. 121-8 et L. 121-36. 
 
-II.-Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
-alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 121-92-1 du code de la consommation
-et à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
+II. - Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
+alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 224-13 du code de la consommation et
+à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
 d'électricité, de gaz, de chaleur et d'eau, est ouvert à compter du 1er avril de l'année au titre de laquelle la personne a
 bénéficié du chèque énergie et jusqu'au 30 avril de l'année suivante, lorsque celle-ci s'est fait connaître auprès du
 fournisseur concerné, par le règlement d'une facture avec son chèque énergie ou par la transmission à ce fournisseur de
@@ -34354,7 +34421,7 @@ qui se sont fait connaître auprès d'eux dans les mêmes conditions.
 	**Cite**:
 
 	  - Décret n°2008-780 du 13 août 2008 - art. 2 (VT)
-	  - Code de la consommation - art. L121-92-1
+	  - Code de la consommation - art. L224-13 (VD)
 	  - Code de l'action sociale et des familles - art. L115-3
 	  - Code de l'énergie - art. L121-36
 	  - Code de l'énergie - art. L121-8
@@ -34365,9 +34432,9 @@ qui se sont fait connaître auprès d'eux dans les mêmes conditions.
 	  - Décret n°2008-780 du 13 août 2008 - art. 1 (V)
 	  - Code de l'énergie - art. R124-2 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
 
 
 ### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE
