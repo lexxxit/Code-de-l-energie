@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -13091,13 +13091,15 @@ Les conseils fournis sont personnalisés, gratuits et indépendants.
 Ces plateformes peuvent favoriser la mobilisation des professionnels et du secteur bancaire, animer un réseau de
 professionnels et d'acteurs locaux et mettre en place des actions facilitant la montée en compétences des professionnels.
 Elles orientent les consommateurs, en fonction de leurs besoins, vers des professionnels compétents tout au long du projet de
-rénovation.
+rénovation et recommandent à tout maître d'ouvrage, public ou privé, de recourir au conseil architectural délivré par les
+conseils d'architecture, d'urbanisme et de l'environnement, lorsque les conseils mentionnés au troisième alinéa du présent
+article n'ont pas été délivrés par l'un de ces organismes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 22
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 80
 
 	**Cité par**:
 
