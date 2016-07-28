@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-07-21
+Version Consolidée au 2016-07-29
 
 # Partie législative
 
@@ -3408,7 +3408,9 @@ pour assurer :
 2° L'exécution des contrats d'achat d'électricité ; 
 
 3° L'exécution des contrats d'exportation d'électricité conclus par un producteur ou par un fournisseur installés sur le
-territoire national. 
+territoire national ;
+
+4° Les opérations d'autoconsommation mentionnées au chapitre V du titre Ier du livre III.
 
 II. ― Pour mettre en œuvre les dispositions du I, des contrats sont conclus entre les gestionnaires des réseaux publics de
 transport et de distribution concernés et les utilisateurs de ces réseaux. 
@@ -3421,15 +3423,7 @@ Ces contrats et ces protocoles sont transmis à la Commission de régulation de 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 23 (Ab), alinéa 1 à alinéa 6
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -3443,9 +3437,13 @@ Ces contrats et ces protocoles sont transmis à la Commission de régulation de 
 	  - Code de l'énergie - art. R111-26 (V)
 	  - Code de l'énergie - art. R134-9 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-5 (V)
+	  - Code de l'énergie - art. L121-5
 
 
 ###### Article L111-92
@@ -8127,7 +8125,7 @@ réalisations. Elle peut être répartie par objectif et par filière industriel
 Les objectifs quantitatifs du volet mentionné au 3° du même article L. 141-2 sont exprimés par filière industrielle et
 peuvent l'être par zone géographique, auquel cas ils tiennent compte des ressources identifiées dans les schémas régionaux du
 climat, de l'air et de l'énergie établis en application de la sous-section 2 de la section 1 du chapitre II du titre II du
-livre II du code de l'environnement. 
+livre II du code de l'environnement ou dans les schémas régionaux en tenant lieu. 
 
 La programmation pluriannuelle de l'énergie comporte une étude d'impact qui évalue notamment l'impact économique, social et
 environnemental de la programmation, ainsi que son impact sur la soutenabilité des finances publiques, sur les modalités de
@@ -8144,7 +8142,8 @@ service public de l'électricité, qui est soumis, préalablement à son adoptio
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 12
 
 	**Cité par**:
 
@@ -8152,17 +8151,22 @@ service public de l'électricité, qui est soumis, préalablement à son adoptio
 	  - Code de l'énergie - art. L141-5 (V)
 	  - Code de l'énergie - art. L311-5-7 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-28-1 (V)
+
 
 ###### Article L141-4
 
-I.-La programmation pluriannuelle de l'énergie est révisée au moins tous les cinq ans pour deux périodes de cinq ans et, le
+I. - La programmation pluriannuelle de l'énergie est révisée au moins tous les cinq ans pour deux périodes de cinq ans et, le
 cas échéant, les années restant à courir de la période pendant laquelle intervient la révision. 
 
-II.-Avant l'échéance de la première période de la programmation en cours, le comité d'experts mentionné à l'article L. 145-1
-du présent code rend un avis sur cette programmation et élabore une synthèse des schémas régionaux du climat, de l'air et de
-l'énergie prévus à la sous-section 2 de la section 1 du chapitre II du titre II du livre II du code de l'environnement. 
+II. - Avant l'échéance de la première période de la programmation en cours, le comité d'experts mentionné à l'article L.
+145-1 du présent code rend un avis sur cette programmation et élabore une synthèse des schémas régionaux du climat, de l'air
+et de l'énergie prévus à la sous-section 2 de la section 1 du chapitre II du titre II du livre II du code de l'environnement
+et des schémas régionaux en ce qu'ils en tiennent lieu. 
 
-III.-Le projet de programmation pluriannuelle de l'énergie est soumis pour avis au Conseil national de la transition
+III. - Le projet de programmation pluriannuelle de l'énergie est soumis pour avis au Conseil national de la transition
 écologique mentionné à l'article L. 133-1 du code de l'environnement et au comité d'experts mentionné à l'article L. 145-1 du
 présent code. 
 
@@ -8185,14 +8189,16 @@ de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 176
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 12
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L133-1
-	  - sous-section 2 de la section 1 du chapitre II du titre II du livre II du code de l'environnement
+	  - Code de l'énergie - art. L111-56-1 (V)
+	  - Code de l'énergie - art. L141-2 (V)
+	  - Code de l'énergie - art. L145-1 (V)
 
 	**Cité par**:
 
@@ -16187,6 +16193,144 @@ de l'énergie s'applique à compter du 1er juillet 2016.
 	  - Code de l'énergie - art. L314-28 (M)
 
 
+#### Chapitre V : L'autoconsommation
+
+###### Article L315-1
+
+Une opération d'autoconsommation est le fait pour un producteur, dit autoproducteur, de consommer lui-même tout ou partie de
+l'électricité produite par son installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 (V)
+
+
+###### Article L315-2
+
+L'opération d'autoconsommation est collective lorsque la fourniture d'électricité est effectuée entre un ou plusieurs
+producteurs et un ou plusieurs consommateurs finals liés entre eux au sein d'une personne morale et dont les points de
+soutirage et d'injection sont situés sur une même antenne basse tension du réseau public de distribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 9 mai 2017 - art. 8 (V)
+	  - Code de l'énergie - art. D315-6 (V)
+	  - Code de l'énergie - art. D315-9 (V)
+	  - Code de l'énergie - art. L315-4 (V)
+
+
+###### Article L315-3
+
+La Commission de régulation de l'énergie établit des tarifs d'utilisation des réseaux publics de distribution d'électricité
+spécifiques pour les consommateurs participants à des opérations d'autoconsommation, lorsque la puissance installée de
+l'installation de production qui les alimente est inférieure à 100 kilowatts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D315-2 (V)
+
+
+###### Article L315-4
+
+La personne morale mentionnée à l'article L. 315-2 organisatrice d'une opération d'autoconsommation collective indique au
+gestionnaire de réseau public de distribution compétent la répartition de la production autoconsommée entre les consommateurs
+finals concernés. 
+
+Lorsqu'un consommateur participant à une opération d'autoconsommation collective fait appel à un fournisseur pour compléter
+son alimentation en électricité, le gestionnaire du réseau public de distribution d'électricité concerné établit les index de
+consommation de l'électricité relevant de ce fournisseur en prenant en compte la répartition mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L315-2 (V)
+
+
+###### Article L315-5
+
+Les injections d'électricité sur le réseau public de distribution effectuées dans le cadre d'une opération d'autoconsommation
+à partir d'une installation de production d'électricité, dont la puissance installée maximale est fixée par décret, et qui
+excèdent la consommation associée à cette opération d'autoconsommation sont, à défaut d'être vendues à un tiers, cédées à
+titre gratuit au gestionnaire du réseau public de distribution d'électricité auquel cette installation de production est
+raccordée. 
+
+Ces injections sont alors affectées aux pertes techniques de ce réseau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D315-10 (V)
+
+
+###### Article L315-6
+
+Les gestionnaires de réseaux publics de distribution d'électricité mettent en œuvre les dispositifs techniques et
+contractuels nécessaires, notamment en ce qui concerne le comptage de l'électricité, pour permettre la réalisation dans des
+conditions transparentes et non discriminatoires des opérations d'autoconsommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+
+###### Article L315-7
+
+Les exploitants d'installations de production d'électricité participant à une opération d'autoconsommation déclarent ces
+installations au gestionnaire du réseau public d'électricité compétent, préalablement à leur mise en service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 3 (V)
+	  - Code de l'énergie - art. D315-11 (V)
+
+
+###### Article L315-8
+
+Les conditions d'application du présent chapitre sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+
+
 ### TITRE II : LE TRANSPORT ET LA DISTRIBUTION
 
 #### Chapitre Ier : Le transport
@@ -16454,20 +16598,20 @@ Le gestionnaire du réseau public de transport met en œuvre des actions d'effic
 Le gestionnaire du réseau public de transport élabore, en accord avec les gestionnaires des réseaux publics de distribution
 et après avis des autorités organisatrices de la distribution concernés dans leur domaine de compétence, un schéma régional
 de raccordement au réseau des énergies renouvelables, qu'il soumet à l'approbation du préfet de région dans un délai de six
-mois suivant l'établissement du schéma régional du climat, de l'air et de l'énergie. 
+mois suivant l'établissement du schéma régional du climat, de l'air et de l'énergie ou du schéma régional en tenant lieu. 
 
 Le schéma régional de raccordement définit les ouvrages à créer ou à renforcer pour atteindre les objectifs fixés par le
-schéma régional du climat, de l'air et de l'énergie. Il définit également un périmètre de mutualisation des postes du réseau
-public de transport, des postes de transformation entre les réseaux publics de distribution et le réseau public de transport
-et des liaisons de raccordement de ces postes au réseau public de transport. Il mentionne, pour chacun d'eux, qu'ils soient
-existants ou à créer, les capacités d'accueil de production permettant d'atteindre les objectifs définis par le schéma
-régional du climat, de l'air et de l'énergie et, s'il existe, par le document stratégique de façade mentionné à l'article L.
-219-3 du code de l'environnement. Il évalue le coût prévisionnel d'établissement des capacités d'accueil nouvelles
-nécessaires à l'atteinte des objectifs quantitatifs visés au 3° du I de l'article L. 222-1 du même code. Les méthodes de
-calcul de ce coût prévisionnel sont soumises à l'approbation de la Commission de régulation de l'énergie par les
-gestionnaires du réseau public de transport et des réseaux publics de distribution. Il peut, pour des raisons de cohérence
-propres aux réseaux électriques, comprendre un volet spécifique à plusieurs régions administratives ou, le cas échéant, à un
-niveau infrarégional.
+schéma régional du climat, de l'air et de l'énergie ou par le schéma régional en tenant lieu. Il définit également un
+périmètre de mutualisation des postes du réseau public de transport, des postes de transformation entre les réseaux publics
+de distribution et le réseau public de transport et des liaisons de raccordement de ces postes au réseau public de transport.
+Il mentionne, pour chacun d'eux, qu'ils soient existants ou à créer, les capacités d'accueil de production permettant
+d'atteindre les objectifs définis par le schéma régional du climat, de l'air et de l'énergie ou par le schéma régional en
+tenant lieu et, s'il existe, par le document stratégique de façade mentionné à l'article L. 219-3 du code de l'environnement.
+Il évalue le coût prévisionnel d'établissement des capacités d'accueil nouvelles nécessaires à l'atteinte des objectifs
+quantitatifs visés au 3° du I de l'article L. 222-1 du même code. Les méthodes de calcul de ce coût prévisionnel sont
+soumises à l'approbation de la Commission de régulation de l'énergie par les gestionnaires du réseau public de transport et
+des réseaux publics de distribution. Il peut, pour des raisons de cohérence propres aux réseaux électriques, comprendre un
+volet spécifique à plusieurs régions administratives ou, le cas échéant, à un niveau infrarégional.
 
 Les capacités d'accueil de la production prévues dans le schéma régional de raccordement au réseau sont réservées pendant une
 période de dix ans au bénéfice des installations de production d'électricité à partir de sources d'énergie renouvelable. 
@@ -16497,8 +16641,7 @@ Les conditions d'application en mer du présent article sont précisées par voi
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 148
-	  - Loi n°2015-992 du 17 août 2015 - art. 203
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 12
 
 	**Cite**:
 
