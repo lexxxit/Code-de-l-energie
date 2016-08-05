@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-07-29
+Version Consolidée au 2016-08-06
 
 # Partie législative
 
@@ -4763,8 +4763,8 @@ l'ensemble des charges de service public de l'électricité.
 A ce titre : 
 
 a) Il assure un suivi semestriel des engagements pluriannuels pris au titre des charges de service public de l'électricité,
-notamment dans le cadre des contrats mentionnés aux articles L. 314-1 et L. 314-18 et des appels d'offres prévus aux articles
-L. 271-4 et L. 311-10 ; 
+notamment dans le cadre des contrats mentionnés aux articles L. 314-1 et L. 314-18 et des appels d'offres et procédures de
+mise en concurrence prévus aux articles L. 271-4 et L. 311-10 ; 
 
 b) Il estime, tous les ans, au regard du cadre réglementaire et du comportement des acteurs, l'évolution prévisible de ces
 engagements sur une période de cinq ans ; 
@@ -4797,7 +4797,8 @@ fonctionnement ainsi que l'autorité à laquelle il est rattaché.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
@@ -14330,20 +14331,17 @@ Des décrets en Conseil d'Etat fixent les modalités d'application de la présen
 ##### Section 3 : L'appel d'offres
 
 
+##### Section 3 : Procédure de mise en concurrence
+
 ###### Article L311-10
 
 Lorsque les capacités de production ne répondent pas aux objectifs de la programmation pluriannuelle de l'énergie, notamment
 ceux concernant les techniques de production et la localisation géographique des installations, l'autorité administrative
-peut recourir à la procédure d'appel d'offres. 
+peut recourir à une procédure de mise en concurrence dont les modalités sont définies par décret en Conseil d'Etat. 
 
-Les critères mentionnés à l'article L. 311-5 servent à l'élaboration du cahier des charges de l'appel d'offres. 
-
-Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne exploitant
-ou désirant construire et exploiter une unité de production, installée sur le territoire d'un Etat membre de l'Union
-européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le territoire de tout autre Etat, peut participer à
-l'appel d'offres. 
-
-Les modalités de l'appel d'offres sont définies par décret en Conseil d'Etat.
+Toute personne installée sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre de l'exécution d'accords
+internationaux, sur le territoire de tout autre Etat et désirant exploiter une unité de production peut participer à cette
+procédure de mise en concurrence.
 
 **Liens relatifs à cet article**
 
@@ -14384,12 +14382,66 @@ Les modalités de l'appel d'offres sont définies par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 9
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-32 (V)
-	  - Code de l'énergie - art. L311-5 (V)
+	  - Code général des collectivités territoriales - art. L2224-32
+	  - Code de l'énergie - art. L311-5
+
+
+###### Article L311-10-1
+
+La procédure de mise en concurrence mentionnée à l'article L. 311-10 est conduite dans le respect des principes de
+transparence et d'égalité de traitement des candidats. 
+
+Pour désigner le ou les candidats retenus, l'autorité administrative se fonde sur le prix ainsi que, le cas échéant, sur
+d'autres critères objectifs, non discriminatoires et liés à l'objet de la procédure de mise en concurrence, tels que : 
+
+1° La qualité de l'offre, y compris la valeur technique, les performances en matière de protection de l'environnement,
+l'efficacité énergétique et le caractère innovant du projet ; 
+
+2° La rentabilité du projet ; 
+
+3° La sécurité d'approvisionnement ; 
+
+4° Dans une mesure limitée, la part du capital détenue par les habitants résidant à proximité du projet ou par les
+collectivités territoriales ou leurs groupements sur le territoire desquels le projet doit être implanté par les sociétés
+porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles L. 1521-1 et suivants du
+code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
+ainsi que la part du capital proposée à ces habitants, collectivités ou groupements. 
+
+Les conditions d'exécution peuvent prendre en compte des considérations à caractère social ou environnemental et poursuivre
+des objectifs de développement durable conciliant développement économique, protection et mise en valeur de l'environnement
+et progrès social. Ces conditions d'exécution ne peuvent pas avoir d'effet discriminatoire entre les candidats potentiels.
+Elles sont mentionnées dans le cahier des charges.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Code général des collectivités territoriales - art. L1521-1
+	  - Code de l'énergie - art. L311-10
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 10
+
+
+###### Article L311-10-2
+
+Les dépenses supportées par l'Etat pour réaliser les études techniques de qualification des sites d'implantation sur lesquels
+portent les procédures de mise en concurrence ou celles relatives à l'organisation matérielle des consultations du public en
+lien avec la mise en œuvre de ces procédures, notamment s'agissant du choix des sites d'implantation, peuvent en tout ou
+partie faire l'objet d'un remboursement par les candidats retenus. Dans ce cas, les conditions de ce remboursement sont
+mentionnées dans le cahier des charges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 10
 
 
 ###### Article L311-11
@@ -14397,48 +14449,44 @@ Les modalités de l'appel d'offres sont définies par décret en Conseil d'Etat.
 L'autorité administrative désigne le ou les candidats retenus et délivre les autorisations prévues à l'article L. 311-5 dans
 des conditions fixées par voie réglementaire. 
 
-Elle a la faculté de ne pas donner suite à l'appel d'offres.
+Elle a la faculté de ne pas donner suite à la procédure de mise en concurrence.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 8 (VT), alinéas 2 et 4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-5 (V)
+	  - Code de l'énergie - art. L311-5
 
 
 ###### Article L311-11-1
 
-En Corse, en Guadeloupe, en Guyane, en Martinique,     à Mayotte, à La Réunion et aux îles Wallis et Futuna, l'autorité
-administrative associe le président de la collectivité à la définition des modalités de l'appel d'offres. Lorsque le
-développement d'une filière de production est inférieur aux objectifs inscrits dans les volets de la programmation
+En Corse, en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et aux îles Wallis et Futuna, l'autorité
+administrative associe le président de la collectivité à la définition des modalités de la procédure de mise en concurrence.
+Lorsque le développement d'une filière de production est inférieur aux objectifs inscrits dans les volets de la programmation
 pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le président de la collectivité peut demander
-à l'autorité administrative l'organisation d'un appel d'offres pour cette filière. Le rejet de la demande fait l'objet d'un
-avis motivé des ministres chargés de l'énergie, de l'économie et des outre-mer. 
+à l'autorité administrative l'organisation de la procédure de mise en concurrence pour cette filière. Le rejet de la demande
+fait l'objet d'un avis motivé des ministres chargés de l'énergie, de l'économie et des outre-mer. 
 
 Les modalités d'application du présent article sont précisées par décret.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
-
 	**Cité par**:
 
 	  - Décret n°2016-706 du 30 mai 2016 (V)
 	  - Code de l'énergie - art. L363-9 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
@@ -14447,7 +14495,8 @@ Les modalités d'application du présent article sont précisées par décret.
 
 ###### Article L311-12
 
-Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités prévues par l'appel d'offres :
+Les candidats retenus désignés par l'autorité administrative bénéficient, selon les modalités prévues par la procédure de
+mise en concurrence :
 
 1° Soit d'un contrat d'achat pour l'électricité produite ;
 
@@ -14514,16 +14563,17 @@ Les candidats retenus désignés par l'autorité administrative bénéficient, s
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 
 ###### Article L311-13
 
-Lorsque les modalités de l'appel d'offres prévoient un contrat conclu en application du 1° de l'article L. 311-12 et
-lorsqu'elles ne sont pas retenues à l'issue de l'appel d'offres, Electricité de France et, si les installations de production
-sont raccordées aux réseaux de distribution dans leur zone de desserte, les entreprises locales de distribution chargées de
-la fourniture sont tenues de conclure, dans les conditions fixées par l'appel d'offres, un contrat d'achat de l'électricité
-avec le candidat retenu, en tenant compte du résultat de l'appel d'offres. 
+Lorsque les modalités de la procédure de mise en concurrence prévoient un contrat conclu en application du 1° de l'article L.
+311-12 et lorsqu'elles ne sont pas retenues à l'issue de la procédure de mise en concurrence, Electricité de France et, si
+les installations de production sont raccordées aux réseaux de distribution dans leur zone de desserte, les entreprises
+locales de distribution chargées de la fourniture sont tenues de conclure, dans les conditions fixées par la procédure de
+mise en concurrence, un contrat d'achat de l'électricité avec le candidat retenu, en tenant compte du résultat de la
+procédure de mise en concurrence. 
 
 Electricité de France ou, le cas échéant, les entreprises locales de distribution mentionnées au premier alinéa du présent
 article préservent la confidentialité des informations d'ordre économique, commercial, industriel, financier ou technique
@@ -14541,36 +14591,37 @@ informations.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-12
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. L311-13-4 (V)
-	  - Code de l'énergie - art. L311-19 (V)
 	  - Code de l'énergie - art. L314-14 (M)
 	  - Code de l'énergie - art. L335-5 (V)
 
 
 ###### Article L311-13-1
 
-Lorsque les modalités de l'appel d'offres prévoient un contrat conclu en application du 1° de l'article L. 311-12 et lorsque
-Electricité de France et les entreprises locales de distribution sont retenues à l'issue de l'appel d'offres, les surcoûts
-éventuels des installations qu'elles exploitent font l'objet d'une compensation au titre des obligations de service public,
-dans les conditions prévues à la sous-section 2 de la section 1 du chapitre Ier du titre II du livre Ier.
+Lorsque les modalités de la procédure de mise en concurrence prévoient un contrat conclu en application du 1° de l'article L.
+311-12 et lorsque Electricité de France et les entreprises locales de distribution sont retenues à l'issue de la procédure de
+mise en concurrence, les surcoûts éventuels des installations qu'elles exploitent font l'objet d'une compensation au titre
+des obligations de service public, dans les conditions prévues à la sous-section 2 de la section 1 du chapitre Ier du titre
+II du livre Ier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie -  Sous-section 2 : Compensation des charges résul... (V)
+	  - Code de l'énergie - art. L311-12
 
 	**Cité par**:
 
@@ -14579,10 +14630,11 @@ dans les conditions prévues à la sous-section 2 de la section 1 du chapitre Ie
 
 ###### Article L311-13-2
 
-Lorsque les modalités de l'appel d'offres prévoient un contrat conclu en application du 2° de l'article L. 311-12 et
-lorsqu'elle n'est pas retenue à l'issue de l'appel d'offres, Electricité de France est tenue de conclure, dans les conditions
-fixées par l'appel d'offres, un contrat offrant un complément de rémunération à l'électricité produite avec le candidat
-retenu, en tenant compte du résultat de l'appel d'offres. 
+Lorsque les modalités de la procédure de mise en concurrence prévoient un contrat conclu en application du 2° de l'article L.
+311-12 et lorsqu'elle n'est pas retenue à l'issue de la procédure de mise en concurrence, Electricité de France est tenue de
+conclure, dans les conditions fixées par la procédure de mise en concurrence, un contrat offrant un complément de
+rémunération à l'électricité produite avec le candidat retenu, en tenant compte du résultat de la procédure de mise en
+concurrence. 
 
 Electricité de France préserve la confidentialité des informations d'ordre économique, commercial, industriel, financier ou
 technique dont le service qui négocie et conclut le contrat a connaissance dans l'accomplissement de ses missions et dont la
@@ -14592,13 +14644,13 @@ missions. L'autorité administrative préserve, dans les mêmes conditions, la c
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-12
 
 	**Cité par**:
 
@@ -14607,20 +14659,22 @@ missions. L'autorité administrative préserve, dans les mêmes conditions, la c
 
 ###### Article L311-13-3
 
-Lorsque les modalités de l'appel d'offres prévoient un contrat conclu en application du 2° de l'article L. 311-12 et lorsque
-Electricité de France est retenue à l'issue de l'appel d'offres, le complément de rémunération prévu pour les installations
-qu'elle exploite et tenant compte du résultat de l'appel d'offres fait l'objet d'une compensation au titre des obligations de
-service public, dans les conditions prévues à la sous-section 2 de la section 1 du chapitre Ier du titre II du livre Ier.
+Lorsque les modalités de la procédure de mise en concurrence prévoient un contrat conclu en application du 2° de l'article L.
+311-12 et lorsque Electricité de France est retenue à l'issue de la procédure de mise en concurrence, le complément de
+rémunération prévu pour les installations qu'elle exploite et tenant compte du résultat de la procédure de mise en
+concurrence fait l'objet d'une compensation au titre des obligations de service public, dans les conditions prévues à la
+sous-section 2 de la section 1 du chapitre Ier du titre II du livre Ier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie -  Sous-section 2 : Compensation des charges résul... (V)
+	  - Code de l'énergie - art. L311-12
 
 
 ###### Article L311-13-4
@@ -14645,8 +14699,8 @@ conclus et qui n'engagent les parties qu'à compter de leur signature.
 Les installations pour lesquelles une demande de contrat a été faite en application de l'article L. 311-12 peuvent être
 soumises à un contrôle lors de leur mise en service ou à des contrôles périodiques, permettant de s'assurer que ces
 installations ont été construites ou fonctionnent dans les conditions requises par la réglementation, par les conditions de
-l'appel d'offres ou par le contrat dont elles bénéficient en application du même article L. 311-12. Ces contrôles sont
-effectués aux frais du producteur par des organismes agréés. 
+la procédure de mise en concurrence ou par le contrat dont elles bénéficient en application du même article L. 311-12. Ces
+contrôles sont effectués aux frais du producteur par des organismes agréés. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article. Il fixe notamment, selon les
 caractéristiques des installations, la périodicité, les modalités de fonctionnement du système de contrôle et, en
@@ -14656,15 +14710,15 @@ administrative compétente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 106
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cité par**:
 
 	  - Décret n°2016-1726 du 14 décembre 2016 (V)
 	  - Décret n°2016-1726 du 14 décembre 2016 - art. 3 (V)
-	  - Code de l'énergie - art. L311-14 (M)
+	  - Code de l'énergie - art. L311-14 (V)
 	  - Code de l'énergie - art. R311-27-1 (V)
 	  - Code de l'énergie - art. R311-27-6 (V)
 	  - Code de l'énergie - art. R311-33 (V)
@@ -14673,7 +14727,7 @@ administrative compétente.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-12
 
 
 ###### Article L311-13-6
@@ -14704,7 +14758,7 @@ Le contrat conclu avec Electricité de France, une entreprise locale de distribu
 l'article L. 314-6-1 en application des articles L. 311-12, L. 314-1 à L. 314-13 ou L. 314-18 à L. 314-27 peut également être
 suspendu ou résilié par l'autorité administrative si elle constate que l'exploitant ne respecte pas les prescriptions
 définies par les textes réglementaires pris pour l'application des articles L. 314-1 à L. 314-13 ou L. 314-18 à L. 314-27, ou
-par le cahier des charges d'un appel d'offres mentionné à l'article L. 311-10. 
+par le cahier des charges d'une procédure de mise en concurrence mentionnée à l'article L. 311-10. 
 
 La résiliation du contrat prononcée en application des deux premiers alinéas du présent article peut s'accompagner du
 remboursement par l'exploitant de tout ou partie des sommes perçues en application de ce contrat pendant la période de non-
@@ -14739,7 +14793,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 107
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cité par**:
 
@@ -14761,18 +14815,18 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Cite**:
 
-	  - Code du travail - art. L4721-2 (V)
-	  - Code du travail - art. L8221-1 (V)
-	  - Code de l'environnement - art. L214-17 (M)
-	  - Code de l'énergie - art. L121-7 (V)
-	  - Code de l'énergie - art. L311-10 (V)
-	  - Code de l'énergie - art. L311-12 (V)
+	  - Code du travail - art. L4721-2
+	  - Code du travail - art. L8221-1
+	  - Code de l'environnement - art. L214-17
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. L311-12
 	  - Code de l'énergie - art. L311-13-5 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. L314-18 (V)
-	  - Code de l'énergie - art. L314-25 (V)
-	  - Code de l'énergie - art. L314-6-1 (V)
-	  - Code de l'énergie - art. L314-7-1 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. L314-25
+	  - Code de l'énergie - art. L314-6-1
+	  - Code de l'énergie - art. L314-7-1
 
 
 ###### Article L311-15
@@ -15031,26 +15085,21 @@ chapitre IV du titre IX du livre V du code de l'environnement ainsi qu'aux artic
 
 ###### Article L314-1
 
-Sous réserve de  la nécessité de préserver le fonctionnement des réseaux, Electricité de France et, si les installations de
+Sous réserve de la nécessité de préserver le fonctionnement des réseaux, Electricité de France et, si les installations de
 production sont raccordées aux réseaux publics de distribution dans leur zone de desserte, les entreprises locales de
 distribution chargées de la fourniture sont tenues de conclure, lorsque les producteurs intéressés en font la demande, un
 contrat pour l'achat de l'électricité produite sur le territoire national par les installations dont la liste et les
-caractéristiques sont précisées par décret parmi les installations suivantes :  
+caractéristiques sont précisées par décret parmi les installations suivantes : 
 
 1° Les installations qui valorisent des déchets ménagers ou assimilés mentionnés aux articles L. 2224-13 et L. 2224-14 du
 code général des collectivités territoriales ou qui visent l'alimentation d'un réseau de chaleur ; dans ce dernier cas, la
 puissance installée de ces installations doit être en rapport avec la taille du réseau existant ou à créer ; 
 
 2° Les installations de production d'électricité qui utilisent des énergies renouvelables, à l'exception des énergies
-mentionnées au 3° ou les installations qui mettent en œuvre des techniques performantes en termes d'efficacité énergétique
-telles que la cogénération. Un décret fixe les limites de puissance installée des installations de production qui peuvent
-bénéficier de l'obligation d'achat. Ces limites, qui ne peuvent excéder 12 mégawatts, sont fixées pour chaque catégorie
-d'installation pouvant bénéficier de l'obligation d'achat sur un site de production. Pour apprécier le respect de ces
-limites, deux machines électrogènes, appartenant à une même catégorie d'installations, exploitées par une même personne ou
-par les sociétés qu'elle contrôle directement ou indirectement au sens de l'article L. 233-3 du code de commerce, ne peuvent
-être considérées comme situées sur deux sites distincts si la distance qui les sépare est inférieure à une distance minimale
-fixée par voie réglementaire. Ces limites sont révisées pour prendre en compte l'ouverture progressive du marché national de
-l'électricité. 
+mentionnées au 3°, ou les installations qui mettent en œuvre des techniques performantes en termes d'efficacité énergétique
+telles que la cogénération. Les limites de puissance installée des installations de production qui peuvent bénéficier de
+l'obligation d'achat sont fixées par décret. Les règles de détermination du périmètre d'une installation de production sont
+fixées par arrêté du ministre chargé de l'énergie. 
 
 Les nouvelles installations destinées au turbinage des débits minimaux mentionnés à l'article L. 214-18 du code de
 l'environnement réalisées par le titulaire d'une autorisation ou d'une concession hydroélectrique en cours bénéficient de
@@ -15164,7 +15213,7 @@ dont celle issue de la canne à sucre.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 1
 
 	**Cite**:
 
@@ -15182,7 +15231,7 @@ décembre 2016. Ce contrat est signé avec Electricité de France. La rémunéra
 jusqu'au 31 décembre 2016 et de la rentabilité propre des installations incluant toutes les recettes prévisionnelles futures.
 Elle tient aussi compte de l'impact positif de ces installations sur l'environnement. Cette rémunération est plafonnée par un
 montant maximal annuel et ne peut être cumulée avec celle résultant d'un contrat d'obligation d'achat mentionné à l'article
-L. 314-1 ou d'un appel d'offres mentionné à l'article L. 311-10. 
+L. 314-1 ou d'une procédure de mise en concurrence mentionnée à l'article L. 311-10. 
 
 Les termes de ce contrat et le plafond de rémunération sont fixés par arrêté des ministres chargés de l'économie et de
 l'énergie, après avis de la Commission de régulation de l'énergie.
@@ -15198,30 +15247,33 @@ l'énergie, après avis de la Commission de régulation de l'énergie.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 21
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-10 (V)
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L311-10
+	  - Code de l'énergie - art. L314-1
 
 
 ###### Article L314-2
 
 Sous réserve du maintien des contrats d'obligation d'achat en cours au 11 août 2004, les installations bénéficiant de
 l'obligation d'achat au titre de l'article L. 121-27 ou de l'article L. 314-1 ne peuvent bénéficier qu'une seule fois d'un
-contrat d'obligation d'achat. Cette disposition ne s'applique pas aux contrats d'achat d'une durée de quinze ans, qui
-arrivent à échéance à partir de 2012, dont bénéficient les installations de production hydroélectrique qui pourront être
-renouvelés une fois à leur échéance aux mêmes conditions et pour une durée de quinze ans, sous réserve de la réalisation d'un
-programme d'investissement défini par arrêté. 
+contrat d'obligation d'achat. 
 
-Cette disposition ne s'applique pas non plus aux installations situées dans les zones non interconnectées au réseau
-métropolitain continental, ni aux installations, définies par décret, situées sur le territoire métropolitain continental
-ayant été amorties et pour lesquelles le niveau des coûts d'exploitation d'une installation performante représentative de la
-filière est supérieur au niveau de l'ensemble de ses recettes, y compris les aides financières et fiscales auxquelles elle
-est éligible, tant que ces coûts restent supérieurs à ces recettes. Lorsque ces installations demandent à bénéficier une
-nouvelle fois de l'obligation d'achat, les conditions d'achat mentionnées à l'article L. 314-7 sont adaptées à leurs
-nouvelles conditions économiques de fonctionnement.
+Par dérogation au premier alinéa, peuvent bénéficier plusieurs fois d'un contrat d'obligation d'achat : 
+
+1° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 7° de l'article L. 314-1, situées dans les zones non interconnectées au réseau métropolitain continental ; 
+
+2° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 6° de l'article L. 314-1, situées sur le territoire métropolitain continental et qui sont amorties, tant que le niveau
+des coûts d'exploitation d'une installation performante représentative de la filière reste supérieur au niveau de l'ensemble
+de ses recettes, y compris les aides financières et fiscales auxquelles celle-ci est éligible. 
+
+Les conditions d'achat, prévues à l'article L. 314-7, de l'électricité produite par les installations mentionnées aux 1° et
+2° tiennent compte des conditions économiques de fonctionnement des installations performantes représentatives des filières
+concernées.
 
 **Liens relatifs à cet article**
 
@@ -15244,7 +15296,7 @@ nouvelles conditions économiques de fonctionnement.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 2
 
 	**Cite**:
 
@@ -15281,16 +15333,41 @@ et suivants.
 
 Les conditions dans lesquelles les ministres chargés de l'économie et de l'énergie arrêtent, après avis de la Commission de
 régulation de l'énergie, les conditions d'achat de l'électricité produite par les installations mentionnées à l'article L.
-314-1, sont précisées par voie réglementaire. Ces conditions d'achat sont établies en tenant compte, notamment, des frais de
-contrôle mentionnés à l'article L. 314-7-1. 
+314-1, sont précisées par voie réglementaire. 
 
-Pour la Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte,          La Réunion, Saint-Pierre-et-Miquelon et les îles
-Wallis et Futuna  les ministres chargés de l'économie, de l'énergie et de l'outre-mer peuvent arrêter, après avis du
-président de la collectivité et de la Commission de régulation de l'énergie, des conditions d'achat propres à la région, au
-département ou à la collectivité. Lorsque le développement d'une filière de production est inférieur aux objectifs inscrits
-dans les volets de la programmation pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le
-président de la collectivité peut solliciter l'avis de la Commission de régulation de l'énergie sur l'adéquation des
-conditions d'achat aux coûts d'investissement et d'exploitation des installations.
+Les conditions d'achat prennent en compte notamment : 
+
+a) Les frais de contrôle prévus à l'article L. 314-7-1 ; 
+
+b) Les investissements et les charges d'exploitation d'installations performantes représentatives de chaque filière ; 
+
+c) La compatibilité de l'installation bénéficiant du contrat d'obligation d'achat avec les objectifs mentionnés aux articles
+L. 100-1 et L. 100-2. 
+
+Lorsque le producteur consomme tout ou partie de l'électricité produite par l'installation, les conditions d'achat peuvent
+comprendre une prime tenant compte des coûts qui ne sont pas couverts par la vente à l'acheteur de l'électricité non
+consommée par le producteur. 
+
+Pour les installations de démonstration ou les fermes précommerciales, le bénéfice de l'obligation d'achat peut être
+subordonné à la condition d'être le candidat retenu à l'issue d'une procédure de mise en concurrence. Dans ce cas, les
+conditions d'achat tiennent compte, le cas échéant, des aides financières octroyées dans le cadre de cette procédure. 
+
+Les conditions d'achat ne peuvent conduire à ce que la rémunération totale des capitaux immobilisés, résultant du cumul de
+toutes les recettes de l'installation et des aides financières ou fiscales octroyées au titre de celle-ci, excède une
+rémunération raisonnable des capitaux, compte tenu des risques inhérents à son exploitation. Le bénéfice de l'obligation
+d'achat peut, à cette fin, être subordonné à la renonciation, par le producteur, à certaines de ces aides financières ou
+fiscales. 
+
+Les conditions d'achat font l'objet d'une révision périodique afin de tenir compte de l'évolution des conditions économiques
+de fonctionnement des installations performantes représentatives des filières concernées. 
+
+Pour la Corse, la Guadeloupe, la Guyane, la Martinique, Mayotte, La Réunion, Saint-Pierre-et-Miquelon et les îles Wallis et
+Futuna les ministres chargés de l'économie, de l'énergie et de l'outre-mer peuvent arrêter, après avis du président de la
+collectivité et de la Commission de régulation de l'énergie, des conditions d'achat propres à la région, au département ou à
+la collectivité. Lorsque le développement d'une filière de production est inférieur aux objectifs inscrits dans les volets de
+la programmation pluriannuelle de l'énergie mentionnés aux 4° et 5° du II de l'article L. 141-5, le président de la
+collectivité peut solliciter l'avis de la Commission de régulation de l'énergie sur l'adéquation des conditions d'achat aux
+coûts d'investissement et d'exploitation des installations.
 
 **Liens relatifs à cet article**
 
@@ -15300,11 +15377,14 @@ conditions d'achat aux coûts d'investissement et d'exploitation des installatio
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 3
 
 	**Cite**:
 
+	  - Code de l'énergie - art. L100-1
+	  - Code de l'énergie - art. L141-5 (V)
 	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-7-1
 
 	**Cité par**:
 
@@ -15376,19 +15456,18 @@ cette obligation ne répond plus aux objectifs de la programmation pluriannuelle
 ###### Article L314-6-1
 
 A l'exception des contrats concernant des installations situées dans les zones non interconnectées, l'autorité administrative
-peut agréer des organismes qui, lorsqu'un producteur en fait la demande dans un délai de six mois après la signature d'un
-contrat d'achat conclu avec Electricité de France ou des entreprises locales de distribution, peuvent se voir céder ce
-contrat. Cette cession ne peut prendre effet qu'au 1er janvier suivant la demande de cession par le producteur. Toute cession
-est définitive et n'emporte aucune modification des droits et obligations des parties. Le décret en Conseil d'Etat mentionné
-à l'article L. 314-13 précise les conditions de l'agrément et les modalités de cession. Il prévoit également les modalités de
-calcul des frais exposés, par l'acheteur cédant, pour la signature et la gestion d'un contrat d'achat jusqu'à la cession de
-celui-ci et devant être remboursés par l'organisme agréé cessionnaire.
+peut agréer des organismes qui, lorsqu'un producteur en fait la demande après la signature d'un contrat d'achat conclu en
+application de l'article L. 314-1 et du 1° de l'article L. 311-12 avec Electricité de France ou des entreprises locales de
+distribution, peuvent se voir céder ce contrat. Cette cession ne peut prendre effet qu'au 1er janvier suivant la demande de
+cession par le producteur. Toute cession est définitive et n'emporte aucune modification des droits et obligations des
+parties. Le décret en Conseil d'Etat mentionné à l'article L. 314-13 précise les conditions de l'agrément et les modalités de
+cession. Il prévoit également les modalités de calcul des frais exposés, par l'acheteur cédant, pour la signature et la
+gestion d'un contrat d'achat jusqu'à la cession de celui-ci et devant être remboursés par l'organisme agréé cessionnaire. 
+
+Le contrôle, à la demande du ministre chargé de l'énergie, du respect des engagements pris par un organisme pour l'obtention
+de l'agrément prévu au premier alinéa est réalisé aux frais de celui-ci.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
 
 	**Cité par**:
 
@@ -15409,9 +15488,15 @@ celui-ci et devant être remboursés par l'organisme agréé cessionnaire.
 	  - Code de l'énergie - art. R314-52-2 (V)
 	  - Code de l'énergie - art. R314-52-3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 4
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-13 (V)
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-13
 
 
 ###### Article L314-7
@@ -15422,19 +15507,7 @@ signature.
 
 Les contrats prévoient les conditions dans lesquelles ils peuvent être suspendus ou résiliés par Electricité de France, les
 entreprises locales de distribution ou les organismes agréés mentionnés à l'article L. 314-6-1, dans des conditions
-approuvées par l'autorité administrative. 
-
-Ils prévoient des conditions d'achat prenant en compte les coûts d'investissement et d'exploitation évités par Electricité de
-France, les entreprises locales de distribution ou les organismes agréés mentionnés à l'article L. 314-6-1, auxquels peut
-s'ajouter une prime prenant en compte la contribution de la production livrée ou des filières à la réalisation des objectifs
-définis au deuxième alinéa de l'article L. 121-1, ou une prime prenant en compte les cas dans lesquels les producteurs sont
-également consommateurs de tout ou partie de l'électricité produite. Le niveau de cette prime ne peut conduire à ce que la
-rémunération des capitaux immobilisés dans les installations bénéficiant de ces conditions d'achat excède une rémunération
-normale des capitaux, compte tenu des risques inhérents à ces activités et de la garantie dont bénéficient ces installations
-d'écouler l'intégralité de leur production à un tarif déterminé. 
-
-Les conditions d'achat font l'objet d'une révision périodique afin de tenir compte de l'évolution des coûts évités et des
-charges mentionnées aux articles L. 121-7 et L. 121-8.
+approuvées par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -15444,17 +15517,17 @@ charges mentionnées aux articles L. 121-7 et L. 121-8.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-1 (V)
-	  - Code de l'énergie - art. L121-7 (M)
-	  - Code de l'énergie - art. L314-6-1 (V)
+	  - Code de l'énergie - art. L121-1
+	  - Code de l'énergie - art. L121-7
+	  - Code de l'énergie - art. L314-6-1
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. L314-2 (M)
+	  - Code de l'énergie - art. L314-2 (V)
 	  - Code de l'énergie - art. R121-27 (V)
 
 
@@ -15492,43 +15565,6 @@ administrative compétente.
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-1 (V)
-
-
-###### Article L314-8
-
-L'autorité administrative peut, pour des raisons de sécurité d'approvisionnement, ordonner que les installations de
-production existantes à la date du 11 février 2000, qui utilisent du charbon produit en France comme énergie primaire, soient
-appelées en priorité par le gestionnaire du réseau public de transport dans une proportion n'excédant pas, au cours d'une
-année civile, 10 % de la quantité totale d'énergie primaire nécessaire pour produire l'électricité consommée en France. 
-
-Les surcoûts éventuels qui en découlent sont compensés dans les conditions prévues aux articles L. 121-6 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 10 (VT), alinéas 16 et 17
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L121-6
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R314-21 (V)
-	  - Code de l'énergie - art. R314-23 (Ab)
 
 
 ###### Article L314-10
@@ -15833,26 +15869,32 @@ parmi les installations mentionnées aux 1° à 7° de l'article L. 314-1.
 
 ###### Article L314-19
 
-Les installations qui bénéficient d'un contrat d'achat au titre de l'article L. 121-27, du 1° de l'article L. 311-12 ou de
-l'article L. 314-1 ne peuvent bénéficier du complément de rémunération prévu à l'article L. 314-18. 
+Les installations qui bénéficient ou ont bénéficié d'un contrat d'achat au titre de l'article L. 121-27, du 1° de l'article
+L. 311-12 ou de l'article L. 314-1 ne peuvent bénéficier du complément de rémunération prévu à l'article L. 314-18. 
 
-Le décret mentionné à l'article L. 314-27 précise les conditions dans lesquelles certaines installations qui ont bénéficié
-d'un contrat d'achat au titre de l'article L. 121-27, du 1° de l'article L. 311-12 ou de l'article L. 314-1 peuvent
-bénéficier une seule fois, à la demande de l'exploitant, à l'expiration ou à la rupture du contrat, du complément de
-rémunération prévu à l'article L. 314-18. La réalisation d'un programme d'investissement est une des conditions à respecter
-pour pouvoir bénéficier de ce complément, à l'exception des installations pour lesquelles les producteurs souhaitent rompre
-leur contrat d'achat pour un contrat de complément de rémunération sur la durée restante du contrat d'achat initial et des
-installations, définies par décret, ayant été amorties et pour lesquelles le niveau des coûts d'exploitation d'une
-installation performante représentative de la filière est supérieur au niveau de l'ensemble de ses recettes, y compris les
-aides financières et fiscales auxquelles elle est éligible. Les conditions de rémunération mentionnées à l'article L. 314-20
-applicables aux installations mentionnées au présent alinéa tiennent compte de leurs conditions économiques de
-fonctionnement.
+Par dérogation au premier alinéa, peuvent bénéficier du complément de rémunération prévu à l'article L. 314-18 : 
+
+1° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 6° de l'article L. 314-1, ayant bénéficié d'un contrat d'achat au titre de l'article L. 121-27, du 1° de l'article L.
+311-12 ou de l'article L. 314-1, qui s'engagent à réaliser un programme d'investissement défini par arrêté ; 
+
+2° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 6° de l'article L. 314-1, ayant bénéficié d'un contrat d'achat au titre de l'article L. 121-27, du 1° de l'article L.
+311-12 ou de l'article L. 314-1 et qui sont amorties, tant que le niveau des coûts d'exploitation d'une installation
+performante représentative de la filière reste supérieur au niveau de l'ensemble de ses recettes, y compris les aides
+financières et fiscales auxquelles celle-ci est éligible ; 
+
+3° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 6° de l'article L. 314-1, souhaitant rompre leur contrat d'achat pour un contrat de complément de rémunération sur la
+durée restante du contrat d'achat initial. 
+
+Le décret mentionné à l'article L. 314-27 précise les conditions dans lesquelles les installations mentionnées aux 1° à 3°
+peuvent bénéficier, à la demande de l'exploitant, du complément de rémunération prévu à l'article L. 314-18. 
+
+Les conditions de rémunération, prévues à l'article L. 314-20, des installations mentionnées aux 1° à 3° tiennent compte des
+conditions économiques de fonctionnement des installations performantes représentatives des filières concernées.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
 
 	**Cité par**:
 
@@ -15867,12 +15909,18 @@ fonctionnement.
 	  - Code de l'énergie - art. R314-28 (V)
 	  - Code de l'énergie - art. R314-29 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 6
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L311-12 (V)
-	  - Code de l'énergie - art. L314-1 (V)
-	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. L314-20
+	  - Code de l'énergie - art. L314-27
 
 
 ###### Article L314-20
@@ -15940,23 +15988,20 @@ régulation de l'énergie, les conditions du complément de rémunération pour 
 Sous réserve du maintien des contrats en cours, les installations bénéficiant du complément de rémunération au titre de
 l'article L. 314-18 ne peuvent bénéficier qu'une seule fois du complément de rémunération. 
 
-Par dérogation au premier alinéa du présent article, peuvent bénéficier plusieurs fois d'un contrat offrant un complément de
-rémunération lorsque le niveau des coûts d'une installation performante représentative de la filière est supérieur au niveau
-de l'ensemble de ses recettes, y compris les aides financières et fiscales auxquelles elle est éligible, tant que ces coûts
-restent supérieurs à ces recettes : 
+Par dérogation au premier alinéa, peuvent bénéficier plusieurs fois d'un contrat offrant un complément de rémunération : 
 
-1° Les installations hydroélectriques, sous réserve de la réalisation d'un programme d'investissement défini par arrêté ; 
+1° Les installations hydroélectriques dont les caractéristiques sont définies par décret, qui s'engagent à réaliser un
+programme d'investissement défini par arrêté ; 
 
-2° Les installations, définies par décret, ayant été amorties. 
+2° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
+1° à 6° de l'article L. 314-1 et qui sont amorties, tant que le niveau des coûts d'exploitation d'une installation
+performante représentative de la filière reste supérieur au niveau de l'ensemble de ses recettes, y compris les aides
+financières et fiscales auxquelles celle-ci est éligible. 
 
-Les conditions de rémunération mentionnées à l'article L. 314-20 applicables aux installations mentionnées aux 1° et 2° du
-présent article tiennent compte de leurs conditions économiques de fonctionnement.
+Les conditions de rémunération, prévues à l'article L. 314-20, des installations mentionnées aux 1° et 2° tiennent compte des
+conditions économiques de fonctionnement des installations performantes représentatives des filières concernées.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
 
 	**Cité par**:
 
@@ -15969,10 +16014,15 @@ présent article tiennent compte de leurs conditions économiques de fonctionnem
 	  - Code de l'énergie - art. R314-30 (V)
 	  - Code de l'énergie - art. R314-31 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 7
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-18 (V)
-	  - Code de l'énergie - art. L314-20 (V)
+	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. L314-20
 
 
 ###### Article L314-22
@@ -16120,45 +16170,41 @@ après avis de la Commission de régulation de l'énergie.
 
 ##### Section 4 : Investissement participatif dans les projets de production d'énergie renouvelable
 
-###### Article L314-27
+###### Article L314-28
 
-I.-Les sociétés par actions régies par le livre II du code de commerce ou par le titre II du livre V de la première partie du
-code général des collectivités territoriales constituées pour porter un projet de production d'énergie renouvelable peuvent,
-lors de la constitution ou de l'évolution de leur capital, en proposer une part aux personnes physiques, notamment aux
-habitants dont la résidence est à proximité du lieu d'implantation du projet, ainsi qu'aux collectivités territoriales et à
-leurs groupements sur le territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de
+I. - Les sociétés par actions régies par le livre II du code de commerce ou par le titre II du livre V de la première partie
+du code général des collectivités territoriales constituées pour porter un projet de production d'énergie renouvelable
+peuvent, lors de la constitution ou de l'évolution de leur capital, en proposer une part aux personnes physiques, notamment
+aux habitants dont la résidence est à proximité du lieu d'implantation du projet, ainsi qu'aux collectivités territoriales et
+à leurs groupements sur le territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de
 participer au financement du projet de production d'énergie renouvelable. 
 
-II.-Les sociétés coopératives régies par la 
-loi n° 47-1775 du 10 septembre 1947 
-portant statut de la coopération constituées pour porter un projet de production d'énergie renouvelable peuvent, lors de la
-constitution ou de l'évolution de leur capital, en proposer une part aux personnes physiques, notamment aux habitants dont la
-résidence est à proximité du lieu d'implantation du projet, ainsi qu'aux collectivités territoriales et à leurs groupements
-sur le territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement
-du projet de production d'énergie renouvelable. 
+II. - Les sociétés coopératives régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération
+constituées pour porter un projet de production d'énergie renouvelable peuvent, lors de la constitution ou de l'évolution de
+leur capital, en proposer une part aux personnes physiques, notamment aux habitants dont la résidence est à proximité du lieu
+d'implantation du projet, ainsi qu'aux collectivités territoriales et à leurs groupements sur le territoire desquels il se
+situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement du projet de production d'énergie
+renouvelable. 
 
-III.-Les offres de participation au capital ou au financement mentionnées aux I et II du présent article peuvent être faites
-par les porteurs des projets directement auprès des personnes mentionnées au même I ou en recourant à un fonds qui a reçu
-l'autorisation d'utiliser la dénomination de fonds d'entrepreunariat social éligible en application de l'
-article L. 214-153-1 du code monétaire et financier
-, spécialisé dans l'investissement en capital dans les énergies renouvelables ou à une société ayant pour objet le
-développement des énergies renouvelables et bénéficiant de l'agrément " entreprise solidaire d'utilité sociale ". 
+III. - Les offres de participation au capital ou au financement mentionnées aux I et II du présent article peuvent être
+faites par les porteurs des projets directement auprès des personnes mentionnées au même I ou en recourant à un fonds qui a
+reçu l'autorisation d'utiliser la dénomination de fonds d'entrepreunariat social éligible en application de l'article L.
+214-153-1 du code monétaire et financier, spécialisé dans l'investissement en capital dans les énergies renouvelables ou à
+une société ayant pour objet le développement des énergies renouvelables et bénéficiant de l'agrément " entreprise solidaire
+d'utilité sociale ". 
 
 Les offres de participation au capital ou au financement peuvent être faites par les porteurs des projets directement auprès
 des personnes mentionnées au I du présent article ou en recourant à des conseillers en investissements participatifs
-mentionnés au 
-I de l'article L. 547-1 du code monétaire et financier
-, à des intermédiaires en financement participatif mentionnés au I de l'article L. 548-2 du même code ou à des prestataires
-de services d'investissement mentionnés à l'article L. 531-1 dudit code. 
+mentionnés au I de l'article L. 547-1 du code monétaire et financier, à des intermédiaires en financement participatif
+mentionnés au I de l'article L. 548-2 du même code ou à des prestataires de services d'investissement mentionnés à l'article
+L. 531-1 dudit code. 
 
 Un décret en Conseil d'Etat fixe les montants des offres, les valeurs nominales de titres, les catégories de titres et les
 catégories d'investisseurs pour lesquels les offres mentionnées au présent III ne constituent pas une offre au public, au
-sens de l'
-article L. 411-1 du code monétaire et financier
-. 
+sens de l'article L. 411-1 du code monétaire et financier. 
 
-IV.-Les collectivités territoriales peuvent souscrire la participation en capital prévue au I du présent article par décision
-prise par leur organe délibérant. Cette décision peut faire l'objet d'une délégation à l'exécutif.
+IV. - Les collectivités territoriales peuvent souscrire la participation en capital prévue au I du présent article par
+décision prise par leur organe délibérant. Cette décision peut faire l'objet d'une délégation à l'exécutif.
 
 **Nota:**
 
@@ -16169,28 +16215,27 @@ de l'énergie s'applique à compter du 1er juillet 2016.
 
 	**Cite**:
 
-	  - Loi n°47-1775 du 10 septembre 1947
-	  - Code monétaire et financier - art. L214-153-1
-	  - Code monétaire et financier - art. L411-1
-	  - Code monétaire et financier - art. L531-1
-	  - Code monétaire et financier - art. L547-1
-
-	**Cité par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 119 (V)
-	  - Code de l'énergie - art. L314-26 (V)
+	  - Loi n°47-1775 du 10 septembre 1947 (V)
+	  - Code de commerce -  LIVRE II : Des sociétés commerciales et des gro... (V)
+	  - Code général des collectivités territoriales -  TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES (V)
+	  - Code monétaire et financier - art. L214-153-1 (V)
+	  - Code monétaire et financier - art. L411-1 (V)
+	  - Code monétaire et financier - art. L531-1 (V)
+	  - Code monétaire et financier - art. L547-1 (V)
+	  - Code monétaire et financier - art. L548-2 (V)
 
 	**Créé par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 111
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 5
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Ordonnance n°2016-1059 du 3 août 2016 - art. 5
+	  - Décret n°2016-1272 du 29 septembre 2016 (V)
+	  - Code de l'énergie - art. R314-71 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de l'énergie - art. L314-28 (M)
+	  - Code de l'énergie - art. L314-27 (T)
 
 
 #### Chapitre V : L'autoconsommation
@@ -16687,34 +16732,33 @@ approuvées par la Commission de régulation de l'énergie.
 ###### Article L321-9
 
 Pour assurer techniquement l'accès au réseau public de transport, prévu à l'article L. 111-91, le gestionnaire du réseau met
-en œuvre les programmes d'appel et les programmes d'approvisionnement préalablement établis. 
+en œuvre les programmes d'appel et les programmes d'approvisionnement préalablement établis.
 
-Les programmes d'appel sont établis par les producteurs et par les personnes qui ont recours à des sources ayant fait l'objet
-de contrats d'acquisition intracommunautaire ou d'importation. Ils portent sur les quantités d'électricité que ces personnes
-prévoient de livrer au cours de la journée suivante. Ils précisent les propositions d'ajustement mentionnées à l'article L.
-321-10. 
+Les programmes d'appel sont établis par les producteurs pour chaque installation raccordée au réseau public de transport et,
+lorsqu'elles sont non marginales, pour chaque installation raccordée à un réseau public de distribution, et par les personnes
+qui ont recours à des sources ayant fait l'objet de contrats d'acquisition intracommunautaire ou d'importation. Ils portent
+sur les quantités d'électricité que ces personnes prévoient de livrer au cours de la journée suivante. Ils précisent les
+propositions d'ajustement mentionnées à l'article L. 321-10.
+
+Le périmètre des installations non marginales est fixé par arrêté du ministre chargé de l'énergie.
 
 Les programmes d'approvisionnement sont établis par les organismes en charge de la fourniture aux clients n'ayant pas exercé
 leur droit prévu à l'article L. 331-1, les propriétaires et les gestionnaires de réseaux ferroviaires ou de réseaux de
 transports collectifs urbains et les fournisseurs mentionnés à l'article L. 333-1. Ces programmes portent sur les quantités
-d'électricité qu'il est prévu de leur livrer et qu'ils prévoient de livrer au cours de la journée suivante. 
+d'électricité qu'il est prévu de leur livrer et qu'ils prévoient de livrer au cours de la journée suivante.
 
 Les programmes d'appel et les programmes d'approvisionnement sont soumis au gestionnaire du réseau public de transport qui
-s'assure avant leur mise en œuvre de leur équilibre avec ses prévisions de la consommation nationale. 
+s'assure avant leur mise en œuvre de leur équilibre avec ses prévisions de la consommation nationale.
+
+Lorsque les installations raccordées au réseau public de distribution participent au mécanisme d'ajustement défini à
+l'article L. 321-10, les programmes d'appel de ces installations sont transmis directement au gestionnaire de réseau de
+transport.
 
 La durée des contrats doit être compatible avec l'équilibre global des réseaux publics de transport et de distribution.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 15 (VT) I
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -16730,11 +16774,15 @@ La durée des contrats doit être compatible avec l'équilibre global des résea
 	  - Code de l'énergie - art. L322-9 (V)
 	  - Code de l'énergie - art. R111-26 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 12
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-91 (V)
-	  - Code de l'énergie - art. L331-1 (V)
-	  - Code de l'énergie - art. L333-1 (V)
+	  - Code de l'énergie - art. L111-91
+	  - Code de l'énergie - art. L331-1
+	  - Code de l'énergie - art. L333-1
 
 
 ###### Article L321-10
@@ -17447,7 +17495,11 @@ d'électricité, à l'efficacité, à la sécurité et à la sûreté du réseau
 pesant sur ce dernier. 
 
 Il assure, de manière non discriminatoire, l'appel des installations de production reliées au réseau public de distribution
-en liaison avec le gestionnaire du réseau public de transport et dans le cadre des dispositions de l'article L. 321-9. 
+en liaison avec le gestionnaire du réseau public de transport et dans le cadre des dispositions de l'article L. 321-9. A
+cette fin, le gestionnaire du réseau public de distribution est destinataire des programmes d'appel de ces installations. Il
+intègre les informations dont il dispose pour constituer un programme d'appel agrégé qu'il transmet au gestionnaire du réseau
+public de transport. La maille d'agrégation et les modalités de transmission du programme d'appel agrégé sont définies par le
+gestionnaire du réseau public de transport selon les modalités prévues au dernier alinéa de l'article L. 321-10. 
 
 Lorsqu'il assure cette fonction et sous réserve des dispositions de l'article L. 337-10, il négocie librement avec les
 producteurs et les fournisseurs de son choix les contrats nécessaires à la couverture des pertes sur le réseau qu'il
@@ -17456,26 +17508,24 @@ consultations publiques ou le recours à des marchés organisés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 19 (Ab), I et II
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 13
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-10
+	  - Code de l'énergie - art. L321-9
+	  - Code de l'énergie - art. L337-10
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. L322-9 (M)
 	  - Code de l'énergie - art. L363-11 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L337-10 (V)
 
 
 ###### Article L322-10
@@ -17508,6 +17558,31 @@ missions.
 	**Cité par**:
 
 	  - Code de l'énergie - art. L322-11 (Ab)
+
+
+###### Article L322-10-1
+
+Dans les zones non interconnectées au territoire métropolitain continental, sous réserve des contraintes techniques du réseau
+ainsi que des obligations de sûreté, de sécurité et de qualité du service public de l'électricité, notamment du seuil de
+déconnexion mentionné à l'article L. 141-9, le gestionnaire du réseau de distribution d'électricité donne la priorité, lors
+de l'appel des moyens de production d'électricité, aux installations qui utilisent des énergies renouvelables. La liste et
+les caractéristiques de ces installations sont définies par décret. 
+
+L'appel de ces installations est fonction de l'ordre de préséance économique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 14
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D322-16 (VD)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-9
 
 
 ##### Section 3 : La qualité de l'électricité
@@ -20442,8 +20517,8 @@ d'une collectivité territoriale, d'un établissement public de coopération int
 ###### Article L342-7
 
 Lorsque le gestionnaire du réseau public de transport est le maître d'ouvrage des travaux, les principes généraux de calcul
-de la contribution qui lui est due sont arrêtés par les ministres chargés de l'économie et de l'énergie sur proposition de la
-Commission de régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
+de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de régulation
+de l'énergie. Ils peuvent prendre la forme de barèmes.
 
 Les méthodes de calcul des coûts de la contribution mentionnée à l'alinéa précédent, établies par le gestionnaire du réseau
 public de transport, sont soumises à l'approbation de la Commission de régulation de l'énergie.
@@ -20452,15 +20527,7 @@ Le demandeur d'un raccordement au réseau public de transport d'électricité es
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 14 (Ab), alinéas 8 et 9
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -20470,12 +20537,16 @@ Le demandeur d'un raccordement au réseau public de transport d'électricité es
 	  - Code de l'énergie - art. L342-2 (V)
 	  - Code de l'énergie - art. L342-6 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 15
+
 
 ###### Article L342-8
 
 Lorsque le gestionnaire du réseau public de distribution est le maître d'ouvrage des travaux, les principes généraux de
-calcul de la contribution qui lui est due sont arrêtés conjointement par les ministres chargés de l'économie et de l'énergie
-sur proposition de la Commission de régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
+calcul de la contribution qui lui est due sont arrêtés par l'autorité administrative sur proposition de la Commission de
+régulation de l'énergie. Ils peuvent prendre la forme de barèmes.
 
 Les barèmes de raccordement, établis par chaque gestionnaire de réseau de plus de 100 000 clients, sont soumis à
 l'approbation de la Commission de régulation de l'énergie. Les barèmes de raccordement établis par les gestionnaires d'un
@@ -20488,17 +20559,13 @@ conformité avec les principes ainsi définis.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 18 (VT), alinéa 3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 15
 
 	**Cité par**:
 
