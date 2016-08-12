@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-08-06
+Version Consolidée au 2016-08-13
 
 # Partie législative
 
@@ -14326,9 +14326,6 @@ Des décrets en Conseil d'Etat fixent les modalités d'application de la présen
 	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-
-##### Section 3 : L'appel d'offres
 
 
 ##### Section 3 : Procédure de mise en concurrence
@@ -34216,6 +34213,8 @@ l'article L. 121-10, le ministre chargé de l'énergie prononce les sanctions pr
 
 #### Chapitre II : La protection des consommateurs d'électricité et de gaz
 
+##### Section 1 : Dispositions relatives au médiateur de l'énergie
+
 ###### Article R122-1
 
 Lorsque le litige dont un consommateur a saisi un fournisseur ou un gestionnaire de réseau de distribution d'électricité ou
@@ -34229,9 +34228,33 @@ médiateur national de l'énergie.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-2
+
+La saisine est écrite ou transmise sur un support durable et comporte tous les éléments utiles à son examen. Le médiateur
+accuse réception sans délai, par écrit ou sur un support durable, des saisines qui lui sont adressées et informe leurs
+auteurs notamment de la suspension de la prescription des actions en matière civile et pénale mentionnée à l'article L.
+122-1. 
+
+Lorsque la saisine n'entre pas dans le champ de l'article L. 122-1, le médiateur en informe les parties dans un délai d'un
+mois à compter de la date d'accusé de réception de la saisine par une réponse écrite et motivée indiquant, le cas échéant,
+l'autorité administrative à laquelle il transmet la saisine en application des articles L. 114-2 à L. 114-4 du code des
+relations entre le public et l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-1
+	  - Code des relations entre le public et l'adminis... - art. L114-2 (V)
 
 
 ###### Article R122-3
@@ -34251,13 +34274,13 @@ L. 122-1, dans un délai de deux mois à compter de la transmission de sa recomm
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L122-1 (V)
+	  - Code de l'énergie - art. L122-1
 
 
 ###### Article R122-4
@@ -34285,7 +34308,7 @@ l'article R. 122-10 ;
 
 10° A qualité pour ester en justice ; 
 
-11° Est ordonnateur des recettes et des dépenses et peut désigner un agent de ses services comme ordonnateur secondaire ; 
+11° Est ordonnateur des recettes et des dépenses et peut désigner un agent de ses services comme ordonnateur secondaire ;
 
 12° Peut transiger dans les conditions fixées par les articles 2044 à 2058 du code civil ; 
 
@@ -34297,18 +34320,18 @@ l'article R. 122-10 ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 2044 (V)
-	  - Code de l'énergie - art. R122-10 (V)
+	  - Code civil - art. 2044
+	  - Code de l'énergie - art. R122-10
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R122-9 (M)
+	  - Code de l'énergie - art. R122-9 (V)
 
 
 ###### Article R122-5
@@ -34321,9 +34344,9 @@ Le médiateur peut déléguer sa signature à un ou plusieurs membres de ses ser
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-6
@@ -34337,9 +34360,9 @@ budget publié au Journal officiel de la République française.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-7
@@ -34355,16 +34378,16 @@ l'Etat sont prises par le médiateur.
 
 	**Cite**:
 
-	  - Décret n°2006-781 du 3 juillet 2006 - art. 3 (V)
-	  - Décret n°2006-781 du 3 juillet 2006 - art. 7 (V)
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 3
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 7
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-8
@@ -34377,22 +34400,22 @@ agents contractuels sont soumis aux dispositions du décret n° 86-83 du 17 janv
 
 	**Cite**:
 
-	  - Décret n°86-83 du 17 janvier 1986 (M)
+	  - Décret n°86-83 du 17 janvier 1986
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-9
 
 Les ressources du médiateur comprennent : 
 
-1° La somme qui lui est reversée par la Caisse des dépôts et consignations en application de l'article L. 121-16 ; 
+1° La somme qui lui est reversée par la Caisse des dépôts et consignations en application de l'article L. 121-16 ;
 
 2° Les dons et legs ; 
 
@@ -34410,18 +34433,18 @@ médiateur.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-16 (V)
+	  - Code de l'énergie - art. L121-16
 	  - Code de l'énergie - art. R122-4 (V)
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R122-10 (M)
+	  - Code de l'énergie - art. R122-10 (V)
 
 
 ###### Article R122-10
@@ -34443,18 +34466,18 @@ précisées par un arrêté du ministre chargé de la comptabilité publique.
 
 	**Cite**:
 
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (M)
-	  - Décret n°2008-228  du 5 mars 2008 (V)
-	  - Décret n°2012-1246  du 7 novembre 2012 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60
+	  - Décret n°2008-228 du 5 mars 2008
+	  - Décret n°2012-1246 du 7 novembre 2012
 	  - Code de l'énergie - art. R122-9 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 	**Cité par**:
 
@@ -34472,9 +34495,9 @@ comptable est également assuré par le receveur général des finances.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-12
@@ -34487,15 +34510,15 @@ des organismes publics.
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
+	  - Décret n°92-681 du 20 juillet 1992
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
 ###### Article R122-13
@@ -34509,43 +34532,559 @@ du 6 juin 2005.
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 (Ab)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3 (Ab)
-	  - Décret n°2005-1742 du 30 décembre 2005 (Ab)
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3
+	  - Décret n°2005-1742 du 30 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - DEPLACE: Décret n°2016-1095 du 11 août 2016 - art. 1
 
 
-##### Section 1 : Dispositions relatives au médiateur de l'énergie
+##### Section 2 : Aide en faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité 
 
-###### Article R122-2
 
-La saisine est écrite ou transmise sur un support durable et comporte tous les éléments utiles à son examen. Le médiateur
-accuse réception sans délai, par écrit ou sur un support durable, des saisines qui lui sont adressées et informe leurs
-auteurs notamment de la suspension de la prescription des actions en matière civile et pénale mentionnée à l'article L.
-122-1. 
 
-Lorsque la saisine n'entre pas dans le champ de l'article L. 122-1, le médiateur en informe les parties dans un délai d'un
-mois à compter de la date d'accusé de réception de la saisine par une réponse écrite et motivée indiquant, le cas échéant,
-l'autorité administrative à laquelle il transmet la saisine en application des articles L. 114-2 à L. 114-4 du code des
-relations entre le public et l'administration.
+##### Sous-section 1 : Règles applicables au calcul de l'aide 
+
+
+
+###### Article R122-14
+
+Aux fins du calcul du montant de l'aide prévue à l'article L. 122-8, le facteur d'émission de l'électricité consommée en
+France, mentionné au 2 du III du même article, est fixé à 0,76 tonne de dioxyde de carbone par mégawattheure.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L122-1
-	  - Code des relations entre le public et l'adminis... - art. L114-2 (V)
+	  - Code de l'énergie - art. L122-8 (V)
+
+
+###### Article R122-15
+
+Le ratio d'électricité soumise aux coûts du système européen d'échange de quotas d'émission, mentionné au c du 4 et au c du 5
+du III de l'article L. 122-8, est calculé par site industriel. 
+
+Il est défini comme le rapport entre la consommation d'électricité du site soumise aux coûts des quotas du système européen
+d'échange de quotas d'émission, au sens du IV de l'article L. 122-8, et la consommation d'électricité totale du même site. Le
+ratio ainsi obtenu est appliqué à la production de l'ensemble des produits dans le site. 
+
+Il peut toutefois être calculé à l'échelle d'une entreprise lorsque le calcul ne peut être conduit à l'échelle de l'un de ses
+sites. Le ratio ainsi obtenu est alors appliqué à la production de l'ensemble des produits, dans chacun de ses sites. Une
+justification du recours à ce mode de calcul est jointe à la demande mentionnée à l'article R. 122-26.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-8 (V)
+	  - Code de l'énergie - art. R122-26 (V)
+
+
+###### Article R122-16
+
+Pour un produit figurant à l'annexe III de la communication 2012/ C 158/04 modifiée par la communication 2012/ C 387/06 de la
+Commission européenne, la production du produit mentionnée au b du 4 du III de l'article L. 122-8 est égale à la production
+totale du produit dans un site, exprimée en tonnes, au cours de l'année au titre de laquelle la demande mentionnée à
+l'article R. 122-26 est présentée, dans la limite d'un plafond dénommé “ production de référence du produit ”, défini à
+l'article R. 122-18.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-8 (V)
+	  - Code de l'énergie - art. R122-18 (V)
+	  - Code de l'énergie - art. R122-26 (V)
+
+
+###### Article R122-17
+
+Aucune aide ne peut être accordée à raison d'un produit relevant de la catégorie définie à l'article R. 122-16 dont la
+production est inférieure de plus de 90 % à la production de référence de ce produit.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-18
+
+La production de référence d'un produit relevant de la catégorie définie à l'article R. 122-16 est définie comme la moyenne
+de la production annuelle du produit sur le site au cours de la période de référence comprise entre 2005 et 2011. Pour le
+calcul de cette moyenne, une année civile peut être exclue de cette période de référence. 
+
+Si, au cours de cette même période, le site n'a pas été exploité pendant plus de douze mois consécutifs, la production de
+référence est définie, pendant chacune des trois années civiles suivant la reprise de l'exploitation, comme la production
+annuelle du produit. Passé ces trois années, la production de référence est définie comme la moyenne de la production
+annuelle du produit sur le site sur les trois années civiles précédentes. 
+
+Si le site a débuté sa production après l'année 2011, la même méthode que celle définie à l'alinéa précédent s'applique pour
+le calcul de la production de référence. 
+
+Si un site procède à une augmentation significative, au sens de l'article R. 122-23, de la capacité de production d'un
+produit, la production de référence du produit est augmentée au prorata de cet accroissement de capacité. Cette disposition
+s'applique aux augmentations significatives de la capacité de production d'un produit intervenues postérieurement à la
+période au titre de laquelle a été calculée la production de référence initiale du produit. La nouvelle production de
+référence s'applique alors au calcul de l'aide au titre de l'année au cours de laquelle l'augmentation significative de la
+capacité a été achevée, puis au calcul de l'aide au titre des années suivantes.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R122-16 (V)
+
+
+###### Article R122-19
+
+Si, à l'annexe III de la communication de la Commission européenne mentionnée à l'article R. 122-16, l'unité du référentiel
+du produit est la tonne de dioxyde de carbone par tonne de produit, le référentiel d'efficacité pour la consommation
+d'électricité spécifique au produit, mentionné au a du 4 du III de l'article L. 122-8, et exprimé en mégawattheures par tonne
+de produit, est calculé comme le rapport entre, d'un côté, le produit de la valeur du référentiel du produit mentionnée à
+cette annexe III et de la part des émissions indirectes pertinentes durant la période de référence et, de l'autre, 0,465
+tonne de dioxyde de carbone par mégawattheure. 
+
+La part des émissions indirectes pertinentes durant la période de référence mentionnée à l'alinéa précédent équivaut au
+rapport entre les émissions indirectes pertinentes, au sens de l'article 14 de la décision 2011/278/UE de la Commission
+européenne, d'une part, et la somme des émissions directes totales et des émissions indirectes pertinentes, d'autre part.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-8 (V)
+
+
+###### Article R122-20
+
+Pour un produit ne figurant pas à l'annexe III de la communication de la Commission européenne mentionnée à l'article R.
+122-16, mais relevant des secteurs et des sous-secteurs énumérés à l'annexe II de la même communication, la consommation
+d'électricité utilisée pour la production du produit, mentionnée au b du 5 du III de l'article L. 122-8, est égale à la
+consommation d'électricité du site utilisée pour la production du produit, exprimée en mégawattheures, au cours de l'année au
+titre de laquelle la demande mentionnée à l'article R. 122-26 est présentée, dans la limite d'un plafond appelé “
+consommation d'électricité de référence pour la production du produit ”. 
+
+Lorsqu'un site produit plusieurs produits, la consommation d'électricité utilisée pour la production de chaque produit est
+calculée proportionnellement au tonnage de sa production, sauf justification particulière à joindre par l'entreprise à la
+demande de versement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L122-8 (V)
+	  - Code de l'énergie - art. R122-26 (V)
+
+
+###### Article R122-21
+
+Aucune aide ne peut être accordée à raison d'un produit relevant de la catégorie définie à l'article R. 122-20, si la
+consommation d'électricité utilisée pour sa production est inférieure de plus de 90 % à la consommation d'électricité de
+référence pour la production du même produit.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-22
+
+La consommation d'électricité de référence pour la production d'un produit relevant de la catégorie définie à l'article R.
+122-20 est définie comme la moyenne de la consommation d'électricité annuelle du site utilisée pour la production du produit,
+au cours de la période de référence comprise entre 2005 et 2011. Pour le calcul de cette consommation, une année civile peut
+être exclue de cette période de référence. 
+
+Si, au cours de cette même période, le site n'a pas été exploité pendant plus de douze mois consécutifs, la consommation
+d'électricité de référence d'un produit est définie, pendant les trois années civiles suivant la reprise de l'exploitation,
+comme la consommation d'électricité annuelle du produit. Passé ces trois années, la consommation d'électricité de référence
+d'un produit est définie comme la moyenne de la production annuelle sur les trois années civiles précédentes. 
+
+Si l'installation a débuté sa production après l'année 2011, la même méthode que celle définie à l'alinéa précédent
+s'applique pour le calcul de la consommation d'électricité de référence. 
+
+Si un site industriel procède à une augmentation significative, au sens de l'article R. 122-23, de la capacité de production
+d'un produit, la consommation d'électricité de référence pour la production du produit est augmentée au prorata de cet
+accroissement de capacité. Cette disposition s'applique aux augmentations significatives de la capacité de production d'un
+produit intervenues postérieurement à la période sur laquelle a été calculée la consommation d'électricité de référence
+initiale pour la production du produit. La nouvelle consommation d'électricité de référence s'applique au calcul de l'aide au
+titre de l'année au cours de laquelle l'augmentation significative de la capacité de production a été achevée, puis au calcul
+de l'aide au titre des années suivantes.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-23
+
+Pour l'application des articles R. 122-18 et R. 122-22, une augmentation de la capacité installée d'un site industriel est
+regardée comme significative, si les deux conditions cumulatives suivantes sont remplies : 
+
+1° Une ou plusieurs modifications physiques identifiables ayant trait à la configuration technique et à l'exploitation du
+site industriel, autres que le simple remplacement d'une chaîne de production existante, ont été effectuées ; 
+
+2° En conséquence d'un investissement unique ou d'une série d'investissements progressifs en capital physique, le site
+industriel peut être exploité à une capacité supérieure d'au moins 10 % à sa capacité installée antérieure.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-24
+
+Lorsqu'une entreprise souhaite que, selon le cas, la production de référence mentionnée à l'article R. 122-16 ou la
+consommation d'électricité de référence mentionnée à l'article R. 122-20 sur l'un de ses sites industriels soit accrue, à la
+suite d'une augmentation significative de sa capacité de production, elle fournit au préfet de la région d'implantation du
+site concerné les données correspondant à cette opération, pour chaque produit concerné, et précise l'augmentation
+souhaitée. 
+
+Le préfet s'assure que les données fournies ne comportent pas d'inexactitudes significatives et qu'elles répondent aux deux
+conditions posées par l'article R. 122-23. 
+
+Son avis est communiqué dans un délai de deux mois à l'entreprise, qui le joint à sa demande de versement de l'aide pour le
+site concerné.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+##### Sous-section 2 : Modalités de versement de l'aide et d'instruction des demandes
+
+###### Article R122-25
+
+L'Agence de services et de paiement mentionnée à l'article L. 313-1 du code rural et de la pêche maritime assure la gestion
+et le versement de l'aide prévue à l'article L. 122-8 du présent code.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L313-1 (V)
+	  - Code de l'énergie - art. L122-8 (V)
+
+
+###### Article R122-26
+
+Sous réserve des dispositions transitoires prévues à l'article 2 du décret n° 2016-1095 du 11 août 2016 relatif à l'aide en
+faveur des entreprises exposées à un risque significatif de fuite de carbone en raison des coûts du système d'échange de
+quotas d'émission de gaz à effet de serre répercutés sur les prix de l'électricité, les entreprises qui souhaitent faire
+bénéficier leurs sites de l'aide prévue à l'article L. 122-8 adressent annuellement à l'Agence de services et de paiement,
+pour chaque site, une demande de versement établie selon un modèle approuvé par les ministres chargés de l'énergie et de
+l'industrie. 
+
+Cette demande est reçue par l'agence au plus tard le 31 mars de l'année suivant l'année au titre de laquelle elle est
+présentée.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 2 (V)
+	  - Code de l'énergie - art. L122-8 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R122-15 (V)
+	  - Code de l'énergie - art. R122-16 (V)
+	  - Code de l'énergie - art. R122-20 (V)
+
+
+###### Article R122-27
+
+L'Agence de services et de paiement assure l'instruction de la demande, effectue le calcul de l'aide à partir des données
+transmises, notifie son montant et procède à son versement à l'entreprise. 
+
+Elle dispose d'un délai dont le terme est fixé au 30 juin de l'année de présentation de la demande pour instruire l'ensemble
+des dossiers reçus, évaluer le montant total demandé, puis procéder aux versements de l'aide aux entreprises.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-28
+
+Les modalités de présentation et d'instruction des demandes, notamment la liste et le contenu des pièces à fournir par les
+demandeurs, ainsi que les modalités de versement de l'aide régie par la présente section sont précisées par arrêté conjoint
+des ministres chargés de l'énergie et de l'industrie.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-29
+
+La conformité aux pièces justificatives et à la réglementation en vigueur de l'ensemble des données fournies par site par le
+demandeur est validée par un organisme répondant aux exigences de l'article R. 225-105-2 du code de commerce.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R225-105-2 (V)
+
+
+##### Sous-section 3 : Contrôles
+
+###### Article R122-30
+
+Des contrôles sur pièces sont réalisés par l'Agence de services et de paiement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+
+###### Article R122-31
+
+Les contrôles mentionnés à l'article R. 122-30 peuvent donner lieu, le cas échéant, à des recouvrements de tout ou partie de
+l'aide indûment versée effectués par l'Agence de services et de paiement en application du I de l'article L. 313-1 du code
+rural et de la pêche maritime.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1095 du 11 août 2016, à titre transitoire, les demandes de versement de l'aide
+régie par le présent décret au titre de l'année 2015 peuvent être adressées jusqu'au 15 octobre 2016 à la direction générale
+des entreprises, qui en assure l'instruction, effectue le calcul de l'aide et, le cas échéant, procède aux contrôles sur
+pièces.
+
+L'Agence de services et de paiement procède, quant à elle, à la notification du montant de l'aide et aux versements au titre
+de cette même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1095 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L313-1 (V)
 
 
 #### Chapitre III : La contribution des opérateurs d'effacement aux objectifs de la politique énergétique
