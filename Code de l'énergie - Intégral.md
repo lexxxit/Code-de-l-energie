@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-08-14
+Version Consolidée au 2016-08-17
 
 # Partie législative
 
@@ -2751,12 +2751,20 @@ et aux articles L. 111-88 à L. 111-89.
 
 Le gestionnaire du réseau public de transport d'électricité préserve la confidentialité des informations d'ordre économique,
 commercial, industriel, financier ou technique dont la communication serait de nature à porter atteinte aux règles de
-concurrence libre et loyale et de non-discrimination.
+concurrence libre et loyale et de non-discrimination. 
 
-La liste de ces informations est déterminée par décret en Conseil d'Etat.
+La liste de ces informations est déterminée par décret en Conseil d'Etat. 
 
 Les mesures prises par les opérateurs pour assurer leur confidentialité sont portées à la connaissance de la Commission de
-régulation de l'énergie.
+régulation de l'énergie. 
+
+Dans le cadre de la mission qui lui est confiée à l'article L. 321-6 et de la délégation prévue au dernier alinéa de
+l'article L. 142-1, le gestionnaire du réseau public de transport d'électricité est chargé de mettre à la disposition des
+personnes publiques, à partir des données issues de son système de comptage d'énergie, les données disponibles de transport
+d'électricité dont il assure la gestion, dès lors que ces données sont utiles à l'accomplissement des compétences exercées
+par ces personnes publiques. Un décret précise les personnes publiques bénéficiaires des données, la nature des données mises
+à disposition, la maille territoriale à laquelle les données sont mises à disposition et les modalités de leur mise à
+disposition.
 
 **Liens relatifs à cet article**
 
@@ -2766,7 +2774,7 @@ régulation de l'énergie.
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 179 (V)
 
 	**Cité par**:
 
@@ -2779,31 +2787,41 @@ régulation de l'énergie.
 	  - Code de l'énergie - art. L321-15-1 (V)
 	  - Code de l'énergie - art. R111-26 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-1 (V)
+	  - Code de l'énergie - art. L321-6 (V)
+
 
 ###### Article L111-73
 
 Chaque gestionnaire de réseau public de distribution d'électricité préserve la confidentialité des informations d'ordre
 économique, commercial, industriel, financier ou technique dont la communication serait de nature à porter atteinte aux
-règles de concurrence libre et loyale et de non-discrimination.
+règles de concurrence libre et loyale et de non-discrimination. 
 
-La liste de ces informations est fixée par décret en Conseil d'Etat.
+La liste de ces informations est fixée par décret en Conseil d'Etat. 
 
 Les mesures prises par les opérateurs pour assurer leur confidentialité sont portées à la connaissance de la Commission de
-régulation de l'énergie.
+régulation de l'énergie. 
+
+Dans le cadre de la mission qui leur est confiée à l'article L. 322-8 et de la délégation prévue au dernier alinéa de
+l'article L. 142-1 du présent code, les gestionnaires des réseaux publics de distribution d'électricité sont chargés de
+mettre à la disposition des personnes publiques, à partir des données issues de leur système de comptage d'énergie, les
+données disponibles de consommation et de production d'électricité dont ils assurent la gestion, dès lors que ces données
+sont utiles à l'accomplissement des compétences exercées par ces personnes publiques, en particulier pour l'élaboration et la
+mise en œuvre des plans climat-air-énergie territoriaux prévus à l'article L. 229-26 du code de l'environnement. Un décret
+précise les personnes publiques bénéficiaires des données, la nature des données mises à disposition, la maille territoriale
+à laquelle les données sont mises à disposition et les modalités de leur mise à disposition.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 20 (Ab), alinéa 1, 1re et 2e phrases
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 179 (V)
 
 	**Cité par**:
 
@@ -2811,11 +2829,16 @@ régulation de l'énergie.
 	  - Décret n°2016-972 du 18 juillet 2016 (V)
 	  - Décret n°2016-973 du 18 juillet 2016 (V)
 	  - Code de l'énergie - art. D111-53 (V)
-	  - Code de l'énergie - art. L111-81 (V)
+	  - Code de l'énergie - art. L111-81 (VD)
 	  - Code de l'énergie - art. L111-82 (V)
 	  - Code de l'énergie - art. L322-8 (VT)
 	  - Code de l'énergie - art. R111-26 (V)
 	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'énergie - art. L142-1 (V)
 
 
 ###### Article L111-74
@@ -2916,24 +2939,34 @@ informations nécessaires pour assurer le bon fonctionnement du réseau intercon
 
 Chaque opérateur exploitant des ouvrages de transport, de distribution ou de stockage de gaz naturel ou des installations de
 gaz naturel liquéfié préserve la confidentialité de toutes les informations dont la communication serait de nature à porter
-atteinte aux règles de concurrence libre et loyale et de non-discrimination.
+atteinte aux règles de concurrence libre et loyale et de non-discrimination. 
 
-La liste de ces informations est déterminée par décret en Conseil d'Etat.
+La liste de ces informations est déterminée par décret en Conseil d'Etat. 
 
 Les mesures prises par les opérateurs pour assurer leur confidentialité sont portées à la connaissance de la Commission de
-régulation de l'énergie.
+régulation de l'énergie. 
+
+Dans le cadre de la mission qui leur est confiée à l'article L. 431-3 et de la délégation prévue au dernier alinéa de
+l'article L. 142-1, les gestionnaires de réseaux de transport de gaz sont chargés de mettre à la disposition des personnes
+publiques, à partir des données issues de leur système de comptage d'énergie, les données disponibles de transport de gaz
+naturel et de biogaz dont ils assurent la gestion, dès lors que ces données sont utiles à l'accomplissement des compétences
+exercées par ces personnes publiques. Un décret précise les personnes publiques bénéficiaires des données, la nature des
+données mises à disposition, la maille territoriale à laquelle les données sont mises à disposition et les modalités de leur
+mise à disposition. 
+
+Dans le cadre de la mission qui leur est confiée à l'article L. 432-8 et de la délégation prévue au dernier alinéa de
+l'article L. 142-1 du présent code, les gestionnaires de réseaux de distribution de gaz sont chargés de mettre à la
+disposition des personnes publiques, à partir des données issues de leur système de comptage d'énergie, les données
+disponibles de consommation et de production de gaz naturel et de biogaz dont ils assurent la gestion, dès lors que ces
+données sont utiles à l'accomplissement des compétences exercées par ces personnes publiques, en particulier pour
+l'élaboration et la mise en œuvre des plans climat-air-énergie territoriaux prévus à l'article L. 229-26 du code de
+l'environnement. Un décret précise les personnes publiques bénéficiaires des données, la nature des données mises à
+disposition, la maille territoriale à laquelle les données sont mises à disposition et les modalités de leur mise à
+disposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 9 (Ab), alinéas 2 et 3
-
 	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
@@ -2945,10 +2978,21 @@ régulation de l'énergie.
 	  - Décret n°2016-972 du 18 juillet 2016 (V)
 	  - Décret n°2016-973 du 18 juillet 2016 (V)
 	  - Code de l'énergie - art. D111-53 (V)
-	  - Code de l'énergie - art. L111-82 (V)
+	  - Code de l'énergie - art. L111-82 (VD)
 	  - Code de l'énergie - art. R111-31 (V)
 	  - Code de l'énergie - art. R111-35 (V)
 	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 179 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'énergie - art. L142-1 (V)
+	  - Code de l'énergie - art. L431-3 (V)
+	  - Code de l'énergie - art. L432-8 (VT)
 
 
 ###### Article L111-78
@@ -3011,47 +3055,9 @@ personne qui en est dépositaire soit par état ou par profession, soit en raiso
 Les dispositions de l'article 226-13 du code pénal ne sont pas applicables à la communication, par le gestionnaire du réseau
 public de transport, des informations nécessaires au bon accomplissement des missions des services gestionnaires de réseaux
 publics de distribution et des services gestionnaires de réseaux étrangers, ni à la communication des informations aux
-fonctionnaires et agents conduisant une enquête en application des articles L. 135-3 et L. 142-21.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 16 (Ab), 3e et 4e phrases
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-	  - Code de l'énergie - art. L111-72 (V)
-	  - Code de l'énergie - art. L135-3 (V)
-	  - Code de l'énergie - art. L142-21 (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. L111-74 (V)
-
-
-###### Article L111-81
-
-I. ― Est punie de 15 000 euros d'amende la révélation à toute personne étrangère aux services du gestionnaire d'un réseau de
-distribution d'électricité d'une des informations mentionnées à l'article L. 111-73 par une personne qui en est dépositaire
-soit par état ou par profession, soit en raison d'une fonction ou d'une mission temporaire. 
-
-Ces dispositions ne s'appliquent ni à la communication des informations nécessaires au bon accomplissement des missions des
-services gestionnaires de réseaux publics de transport et de distribution et des services gestionnaires de réseaux étrangers,
-ni à la communication des informations et documents aux fonctionnaires et agents habilités à conduire une enquête
-conformément aux articles L. 142-21 et L. 135-3, ni à la communication des informations et documents aux fonctionnaires et
-agents des collectivités territoriales ou de leurs établissements publics de coopération habilités et assermentés
-conformément aux dispositions du cinquième alinéa du I de l'article L. 2224-31 du code général des collectivités
-territoriales et procédant à un contrôle en application du I de ce même article.
+fonctionnaires et agents conduisant une enquête en application des articles L. 135-3 et L. 142-21, ni à la remise
+d'informations à des fonctionnaires ou agents des personnes publiques, pour la mise en œuvre des dispositions de l'article L.
+111-72.
 
 **Liens relatifs à cet article**
 
@@ -3061,29 +3067,70 @@ territoriales et procédant à un contrôle en application du I de ce même arti
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 179
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-73
+	  - Code pénal - art. 226-13
+	  - Code de l'énergie - art. L111-72
 	  - Code de l'énergie - art. L135-3
 	  - Code de l'énergie - art. L142-21
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. L111-83 (V)
+	  - Code de l'énergie - art. L111-74 (V)
+
+
+###### Article L111-81
+
+I. - Est punie de 15 000 euros d'amende la révélation à toute personne étrangère aux services du gestionnaire d'un réseau de
+distribution d'électricité d'une des informations mentionnées à l'article L. 111-73 par une personne qui en est dépositaire
+soit par état ou par profession, soit en raison d'une fonction ou d'une mission temporaire. 
+
+Ces dispositions ne s'appliquent ni à la communication des informations nécessaires au bon accomplissement des missions des
+services gestionnaires de réseaux publics de transport et de distribution et des services gestionnaires de réseaux étrangers,
+ni à la communication des informations et documents aux fonctionnaires et agents habilités à conduire une enquête
+conformément aux articles L. 142-21 et L. 135-3, ni à la communication des informations et documents aux autorités
+concédantes et notamment aux fonctionnaires ou agents de ces autorités chargés des missions de contrôle en application du I
+de l'article L. 2224-31 du code général des collectivités territoriales, ni à la remise d'informations à des fonctionnaires
+ou agents des personnes publiques, particulièrement pour la mise en œuvre des actions prévues à l'article L. 229-26 du code
+de l'environnement ou pour la mise en œuvre de l'article L. 111-73 du présent code, ni à la communication des informations à
+un tiers mandaté par un utilisateur du réseau public de distribution d'électricité et qui concernent la propre activité de
+cet utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 179 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'énergie - art. L111-73 (VD)
+	  - Code de l'énergie - art. L135-3
+	  - Code de l'énergie - art. L142-21
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L111-83 (VD)
 	  - Code de l'énergie - art. L152-9 (V)
 	  - Code général des collectivités territoriales - art. L2224-31 (VT)
 
 
 ###### Article L111-82
 
-I. ― Est punie de 15 000 euros d'amende la révélation à toute personne étrangère aux services de l'opérateur exploitant des
+I. - Est punie de 15 000 euros d'amende la révélation à toute personne étrangère aux services de l'opérateur exploitant des
 ouvrages de transport, de distribution ou de stockage de gaz naturel ou des installations de gaz naturel liquéfié d'une des
 informations mentionnées à l'article L. 111-77 par une personne qui en est dépositaire soit par état ou par profession, soit
 en raison d'une fonction ou d'une mission temporaire. 
 
-II. ― La peine prévue au I ne s'applique pas : 
+II. - La peine prévue au I ne s'applique pas : 
 
 1° Lorsque la communication d'une des informations mentionnées à l'article L. 111-77 est nécessaire au bon fonctionnement des
 réseaux de transport ou de distribution de gaz naturel, des installations de gaz naturel liquéfié ou des stockages
@@ -3095,9 +3142,54 @@ l'article L. 111-97 ;
 3° Lorsqu'elles sont remises aux fonctionnaires et agents de l'Etat et aux personnes appartenant à des organismes spécialisés
 désignées dans les conditions prévues aux articles L. 135-3 et L. 142-21 exerçant leur mission de contrôle et d'enquête ; 
 
-4° Lorsqu'elles sont remises aux fonctionnaires et agents des collectivités territoriales ou de leurs établissements publics
-de coopération, habilités et assermentés, procédant à un contrôle en application des dispositions du I de l'article L.
-2224-31 du code général des collectivités territoriales.
+4° Lorsqu'elles sont remises aux autorités concédantes et notamment aux fonctionnaires ou agents de ces autorités chargés des
+missions de contrôle en application du I de l'article L. 2224-31 du code général des collectivités territoriales, ni à la
+remise d'informations à des fonctionnaires ou agents des personnes publiques, particulièrement pour la mise en œuvre des
+actions prévues à l'article L. 229-26 du code de l'environnement ou pour la mise en œuvre de l'article L. 111-73 du présent
+code, ni à la communication des informations à un tiers mandaté par un utilisateur du réseau public de distribution
+d'électricité et qui concernent la propre activité de cet utilisateur. en application des dispositions du I de l'article L.
+2224-31 du code général des collectivités territoriales ; 
+
+5° Lorsqu'elles sont remises à des fonctionnaires ou agents des personnes publiques, particulièrement pour la mise en œuvre
+des actions prévues à l'article L. 229-26 du code de l'environnement ou pour la mise en œuvre de l'article L. 111-77 du
+présent code ; 
+
+6° Lorsqu'elles sont transmises à un tiers mandaté par un utilisateur des réseaux publics de distribution et que ces
+informations concernent la propre activité de cet utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-206 du 24 février 2015 - art. 9 (Ab)
+	  - Code de l'énergie - art. R134-16 (V)
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 179 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'énergie - art. L111-73 (V)
+	  - Code de l'énergie - art. L111-77 (VD)
+	  - Code de l'énergie - art. L111-97
+	  - Code de l'énergie - art. L135-3
+	  - Code de l'énergie - art. L142-21
+
+
+###### Article L111-83
+
+Est punie de l'amende prévue aux articles L. 111-81 et L. 111-82 toute déclaration frauduleuse faite par un fournisseur ou
+par un tiers en vue d'obtenir les données mentionnées aux articles L. 111-75 et L. 111-78. 
+
+Le gestionnaire du réseau public de distribution d'électricité ou de gaz ne peut voir sa responsabilité engagée du fait des
+manœuvres frauduleuses ou déclarations erronées d'un fournisseur ou d'un tiers.
 
 **Liens relatifs à cet article**
 
@@ -3107,49 +3199,13 @@ de coopération, habilités et assermentés, procédant à un contrôle en appli
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
-
-	**Cité par**:
-
-	  - Décret n°2015-206 du 24 février 2015 - art. 9 (Ab)
-	  - Code de l'énergie - art. R134-16 (V)
-	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+	  - Loi n°2015-992 du 17 août 2015 - art. 179
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-77
-	  - Code de l'énergie - art. L111-97
-	  - Code de l'énergie - art. L135-3
-	  - Code de l'énergie - art. L142-21
-
-
-###### Article L111-83
-
-Est punie de l'amende prévue aux articles L. 111-81 et L. 111-82 toute déclaration frauduleuse faite par un fournisseur en
-vue d'obtenir les données mentionnées aux articles L. 111-75 et L. 111-78. 
-
-Le gestionnaire du réseau public de distribution d'électricité ou de gaz ne peut voir sa responsabilité engagée du fait des
-manœuvres frauduleuses d'un fournisseur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 20 (Ab), alinéa 2, 2e phrase
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L111-75 (V)
-	  - Code de l'énergie - art. L111-78 (V)
-	  - Code de l'énergie - art. L111-81 (V)
+	  - Code de l'énergie - art. L111-75
+	  - Code de l'énergie - art. L111-78
+	  - Code de l'énergie - art. L111-81 (VD)
 
 	**Cité par**:
 
@@ -13810,6 +13866,106 @@ effacements.
 	  - Loi n°2015-992 du 17 août 2015 - art. 168 (V)
 
 
+###### Article L271-2
+
+Les consommateurs finals ont la faculté de valoriser chacun de leurs effacements de consommation d'électricité soit
+directement auprès de leur fournisseur dans le cadre d'une offre d'effacement indissociable de la fourniture, soit sur les
+marchés de l'énergie ou sur le mécanisme d'ajustement mentionné à l'article L. 321-10 par l'intermédiaire d'un opérateur
+d'effacement qui propose un service dissociable d'une offre de fourniture. 
+
+Un opérateur d'effacement qui dispose d'un agrément technique peut procéder à des effacements de consommation indépendamment
+de l'accord du fournisseur d'électricité des sites concernés. Le gestionnaire du réseau public de transport d'électricité et
+les gestionnaires des réseaux publics de distribution d'électricité mentionnés à l'article L. 111-52 ne peuvent exercer
+l'activité d'opérateur d'effacement décrite au présent article. 
+
+Les modalités d'application du présent article sont fixées par un décret en Conseil d'Etat, après avis de la Commission de
+régulation de l'énergie. Ce décret précise notamment les modalités utilisées pour caractériser et certifier les effacements
+de consommation d'électricité. Il prévoit également les conditions d'agrément technique des opérateurs d'effacement, les
+modalités de délivrance de cet agrément ainsi que le régime de sanctions applicables pour garantir le respect des conditions
+d'agrément. Il peut renvoyer la définition de certaines modalités d'application à des règles approuvées par la Commission de
+régulation de l'énergie sur proposition du gestionnaire du réseau public de transport d'électricité.
+
+**Nota:**
+
+Conformément au III de l'article 168 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à la date de
+publication du décret en Conseil d'Etat mentionné à article L. 271-2, et au plus tard douze mois après la promulgation de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 168 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1132 du 19 août 2016 (V)
+	  - Code de l'énergie - art. L321-15-1 (V)
+	  - Code de l'énergie - art. R271-2 (V)
+	  - Code de l'énergie - art. R271-3 (V)
+	  - Code de l'énergie - art. R271-4 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L321-10 (V)
+
+
+###### Article L271-3
+
+Dans le cas où les effacements de consommation sont valorisés sur les marchés de l'énergie ou sur le mécanisme d'ajustement,
+un régime de versement vers les fournisseurs d'électricité des sites effacés est défini sur la base d'un prix de référence et
+des volumes d'effacement comptabilisés comme des soutirages dans le périmètre des responsables d'équilibre des fournisseurs
+des sites effacés. Le prix de référence reflète la part " énergie " du prix de fourniture des sites de consommation dont la
+consommation est en tout ou partie effacée. 
+
+Le versement est assuré par le consommateur final pour le compte de l'opérateur d'effacement ou, à défaut, par l'opérateur
+d'effacement lui-même. Par dérogation, l'autorité administrative peut, pour les catégories d'effacements mentionnées à
+l'article L. 271-1 qui conduisent à des économies d'énergie significatives, imposer que le paiement de ce versement soit
+intégralement réparti entre l'opérateur d'effacement et le gestionnaire du réseau public de transport d'électricité. Dans ce
+cas, la part versée par le gestionnaire du réseau public de transport est fixée par voie réglementaire. Elle est déterminée
+en fonction des caractéristiques de la catégorie d'effacement, de façon à garantir un bénéfice pour l'ensemble des
+consommateurs d'électricité sur le territoire national interconnecté. Elle ne peut excéder la part d'effacement mentionnée au
+même article L. 271-1 qui conduit à des économies d'énergie. Les coûts supportés par le gestionnaire du réseau public de
+transport sont couverts selon les modalités prévues à l'article L. 321-12. A l'issue d'une période de trois ans à compter de
+la promulgation de la loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte, la
+Commission de régulation de l'énergie remet un rapport au ministre chargé de l'énergie sur la mise en œuvre du régime de
+versement, sur l'impact de l'effacement de consommation sur les prix de marché, sur le mécanisme de capacité et sur les coûts
+des réseaux ainsi que sur la répartition entre les opérateurs d'effacement, les fournisseurs d'électricité et les
+consommateurs des flux financiers générés par l'effacement de consommation. Le cas échéant, elle propose au ministre chargé
+de l'énergie une modification des règles relatives au versement mentionné au présent article. Ce rapport est rendu public. 
+
+Les modalités d'application du présent article sont fixées par un décret en Conseil d'Etat, après avis de la Commission de
+régulation de l'énergie.
+
+**Nota:**
+
+Conformément au III de l'article 168 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à la date de
+publication du décret en Conseil d'Etat mentionné à article L. 271-2, et au plus tard douze mois après la promulgation de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 168 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1132 du 19 août 2016 (V)
+	  - Décret n°2017-437 du 29 mars 2017 (V)
+	  - Code de l'énergie - art. L271-4 (V)
+	  - Code de l'énergie - art. L321-15-1 (V)
+	  - Code de l'énergie - art. R271-12 (VD)
+	  - Code de l'énergie - art. R271-14 (VD)
+	  - Code de l'énergie - art. R271-9 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L271-1 (V)
+	  - Code de l'énergie - art. L321-12 (V)
+
+
 ###### Article L271-4
 
 Lorsque les capacités d'effacement ne répondent pas aux objectifs de la programmation pluriannuelle de l'énergie mentionnée à
@@ -17024,17 +17180,29 @@ chacun de ces sites d'une fourniture de secours dans les conditions prévues à 
 ###### Article L321-15-1
 
 Le gestionnaire du réseau public de transport veille à la mise en œuvre d'effacements de consommation sur les marchés de
-l'énergie et sur le mécanisme d'ajustement en cohérence avec l'objectif de sûreté du réseau avec celui de maîtrise de la
-demande d'énergie défini à l'article L. 100-2 et avec les règles prévues à l'article L. 271-1. 
+l'énergie et sur le mécanisme d'ajustement. Il en certifie la bonne réalisation et la valeur. Il assure le suivi des
+périmètres d'effacement, en cohérence avec l'objectif de sûreté du réseau, avec celui de maîtrise de la demande d'énergie
+défini à l'article L. 100-2 et avec les principes définis à l'article L. 271-1. 
 
-A cette fin, il définit les modalités spécifiques nécessaires à leur mise en œuvre, en particulier au sein des règles et
-méthodes mentionnées aux articles L. 321-10, L. 321-14 et L. 321-15.
+Le gestionnaire du réseau public de transport définit les modalités spécifiques nécessaires à la mise en œuvre d'effacements
+de consommation, en particulier au sein des règles et des méthodes mentionnées aux articles L. 271-2, L. 321-10, L. 321-14 et
+L. 321-15, ainsi que les mécanismes financiers prévus à l'article L. 271-3 au titre du régime de versement. Il procède à la
+délivrance de l'agrément technique prévu à l'article L. 271-2. 
+
+A coût égal, entre deux offres équivalentes sur le mécanisme d'ajustement, il donne la priorité aux capacités d'effacement de
+consommation sur les capacités de production. 
+
+Les opérateurs d'effacement, les fournisseurs d'électricité et les gestionnaires de réseaux publics de distribution lui
+transmettent toute information nécessaire pour l'application du présent article. Ces informations sont considérées comme des
+informations commercialement sensibles, au sens de l'article L. 111-72, et sont traitées comme telles.
+
+**Nota:**
+
+Conformément au III de l'article 168 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à la date de
+publication du décret en Conseil d'Etat mentionné à article L. 271-2, et au plus tard douze mois après la promulgation de la
+présente loi.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-312 du 15 avril 2013 - art. 14 (V)
 
 	**Cité par**:
 
@@ -17046,10 +17214,13 @@ méthodes mentionnées aux articles L. 321-10, L. 321-14 et L. 321-15.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L100-2
-	  - Code de l'énergie - art. L271-1
-	  - Code de l'énergie - art. L321-10
-	  - Code de l'énergie - art. L321-14
+	  - Code de l'énergie - art. L100-2 (V)
+	  - Code de l'énergie - art. L111-72 (V)
+	  - Code de l'énergie - art. L271-1 (V)
+	  - Code de l'énergie - art. L271-2 (V)
+	  - Code de l'énergie - art. L271-3 (V)
+	  - Code de l'énergie - art. L321-10 (V)
+	  - Code de l'énergie - art. L321-14 (V)
 
 
 ###### Article L321-15-2
