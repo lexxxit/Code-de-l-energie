@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-08-17
+Version Consolidée au 2016-08-20
 
 # Partie législative
 
@@ -33266,21 +33266,21 @@ I bis.-Les surcoûts mentionnés au I sont, le cas échéant, diminués des inde
 314-9 et à l'article R. 311-27-3. 
 
 I ter.-Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse de
-contrats conclus à la suite d'un appel d'offres relevant du 2° de l'article L. 311-12 ou des contrats prévus à l'article L.
-314-18, correspondent pour une année civile donnée aux sommes versées au titre du complément de rémunération par Electricité
-de France aux producteurs bénéficiaires de tels contrats, diminuées le cas échéant des sommes dues par les producteurs à
-Electricité de France au titre des dispositions de l'article R. 314-49 et des indemnités de résiliation mentionnées à
-l'article R. 314-9 et à l'article R. 311-27-3. 
+contrats conclus à la suite d'une procédure de mise en concurrence relevant du 2° de l'article L. 311-12 ou des contrats
+prévus à l'article L. 314-18, correspondent pour une année civile donnée aux sommes versées au titre du complément de
+rémunération par Electricité de France aux producteurs bénéficiaires de tels contrats, diminuées le cas échéant des sommes
+dues par les producteurs à Electricité de France au titre des dispositions de l'article R. 314-49 et des indemnités de
+résiliation mentionnées à l'article R. 314-9 et à l'article R. 311-27-3. 
 
 II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
-mentionné L. 314-6-1 du code de l'énergie ou Electricité de Mayotte lorsqu'ils sont retenus à la suite d'un appel d'offres
-prévu aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent une installation mentionnée aux 1° et 2° de l'article L.
-314-1 sont évalués selon les règles prévues, selon le cas, aux 1°, 2° et 3° du I. 
+mentionné L. 314-6-1 du code de l'énergie ou Electricité de Mayotte lorsqu'ils sont retenus à la suite d'une procédure de
+mise en concurrence prévue aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent une installation mentionnée aux 1°
+et 2° de l'article L. 314-1 sont évalués selon les règles prévues, selon le cas, aux 1°, 2° et 3° du I. 
 
 A cet effet, ils établissent des protocoles qui règlent les conditions de cession interne de l'électricité. Les conditions de
 durée et d'équivalent de prix y figurant sont conformes, dans les cas d'application des articles L. 311-10 à L. 311-13-1, aux
-engagements pris par l'entreprise à l'issue de l'appel d'offres et, dans les cas d'application de l'article L. 314-1, aux
-conditions fixées par les articles R. 314-6 à R. 314-23 et les arrêtés pris pour leur application. 
+engagements pris par l'entreprise à l'issue de la procédure de mise en concurrence et, dans les cas d'application de
+l'article L. 314-1, aux conditions fixées par les articles R. 314-6 à R. 314-23 et les arrêtés pris pour leur application. 
 
 III.-Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux de
 gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
@@ -33292,7 +33292,7 @@ directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre d
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 5
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 	**Cite**:
 
@@ -44646,15 +44646,12 @@ Pour l'application du 3°, le pétitionnaire précise la valeur des différentes
 R. 311-3 ou à l'article R. 311-4. 
 
 La demande précise également, pour information, la ou les destinations prévues de l'électricité produite, notamment
-l'utilisation pour les besoins propres du producteur, la vente à des consommateurs finals ou à des clients, à la société EDF
-ou à une entreprise locale de distribution, dans le cadre d'appels d'offres, du dispositif d'obligation d'achat ou d'autres
-relations contractuelles.
+l'utilisation pour les besoins propres du producteur, la vente à des consommateurs finals ou à des clients ou la vente dans
+le cadre d'une procédure de mise en concurrence ou du dispositif d'obligation d'achat.
 
 **Nota:**
 
-Conformément à l'article 2 du décret n° 2016-687 du 27 mai 2016, les dispositions des 3° et 5° de l'article R. 311-5 dans
-leur rédaction issue de  l'article 1er du présent décret sont applicables aux demandes d'autorisation déposées à compter du
-1er juillet 2016.
+
 
 **Liens relatifs à cet article**
 
@@ -44664,13 +44661,13 @@ leur rédaction issue de  l'article 1er du présent décret sont applicables aux
 
 	**Modifié par**:
 
-	  - Décret n°2016-687 du 27 mai 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 1
 
 	**Cite**:
 
 	  - Code de l'énergie - art. R311-1
 	  - Code de l'énergie - art. R311-2
-	  - Code de l'énergie - art. R311-4 (V)
+	  - Code de l'énergie - art. R311-4
 
 
 ###### Article R311-6
@@ -44812,7 +44809,7 @@ une personne de son choix.
 	  - Code de l'énergie - art. L311-15 (V)
 
 
-###### Article R311-12
+###### Article R311-11-1
 
 Le ministre chargé de l'énergie fait procéder à la publication, par extraits, au Journal officiel de la République française
 des autorisations délivrées. Cette publication contient les éléments mentionnés au 1° de l'article R. 311-5 ainsi que les
@@ -44821,54 +44818,25 @@ localisation de l'installation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-1129 du 17 août 2016 - art. 1
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2016-687 du 27 mai 2016 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-1129 du 17 août 2016 - art. 1
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L311-10
-
-	**Nouveaux textes**:
-
-	  - Code de l'énergie - art. R311-11-1 (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R311-13 (V)
-	  - Code de l'énergie - art. R311-25-1 (V)
-	  - Code de l'énergie - art. R311-43 (V)
-	  - Code de l'énergie - art. R521-2 (V)
+	  - Code de l'énergie - art. R311-12 (T)
 
 
 ##### Section 2 : L'appel d'offres
 
-###### Article R311-12-1
-
-Lorsque l'appel d'offres porte sur la réalisation d'installations de cogénération de chaleur et d'électricité, le cahier des
-charges de l'appel d'offres impose le respect de caractéristiques minimales relatives à l'efficacité énergétique des
-installations, définies par référence à l'annexe II de la directive 2012/27/ UE du Parlement européen et du Conseil du 25
-octobre 2012 relative à l'efficacité énergétique, modifiant les directives 2009/125/ CE et 2010/30/ UE et abrogeant les
-directives 2004/8/ CE et 2006/32/ CE.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-944 du 11 juillet 2016 - art. 1
-
-
 ##### Sous-section 1 : La procédure d'appel d'offres
 
 ###### Article R311-13
+
+Lorsqu'il recourt à la procédure d'appel d'offres prévue au 1° de l'article R. 311-12, le ministre chargé de l'énergie
+élabore un cahier des charges. 
+
+Cet appel d'offres peut comprendre une ou plusieurs périodes successives.
 
 Le cahier des charges comporte notamment : 
 
@@ -44919,19 +44887,55 @@ d'instruction des autres administrations mentionné au dernier alinéa de l'arti
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L311-12
-	  - Code de l'énergie - art. R311-12 (M)
+	  - Code de l'énergie - art. R311-12
 	  - Code de l'énergie - art. R311-18
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R311-15 (V)
 	  - Code de l'énergie - art. R311-20 (V)
-	  - Code de l'énergie - art. R311-22 (M)
+	  - Code de l'énergie - art. R311-22 (V)
+
+
+###### Article R311-13-1
+
+Lorsque l'installation objet de la procédure est située sur le domaine public maritime, le cahier des charges peut prévoir,
+outre les clauses mentionnées à l'article R. 311-13 : 
+
+1° La répartition des risques entre l'Etat et l'exploitant, notamment les conditions d'indemnisation de l'exploitant
+relatives à l'occupation domaniale ; 
+
+2° La constitution de garanties financières ou une consignation auprès de la Caisse des dépôts et consignations, aux fins
+d'assurer la réversibilité effective des modifications apportées au milieu naturel. Le montant de ces garanties ou
+consignation est établi compte tenu du coût estimé des opérations de remise en état, de restauration ou de réhabilitation du
+site. Il peut être modifié en cas de constatation, dans le suivi initial des lieux, d'une modification des impacts sur le
+milieu naturel. Les conditions de la mise en œuvre de ces garanties ou consignation sont précisées par le cahier des
+charges. 
+
+Par dérogation à l'article R. 2124-8 et au quatrième alinéa de l'article R. 2124-9 du code général de la propriété des
+personnes publiques, les clauses mentionnées aux 1° à 2° sont reprises dans la concession d'utilisation du domaine public
+maritime délivrée en application de l'article L. 2124-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2124-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-8 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-25-12 (V)
 
 
 ###### Article R311-14
@@ -45141,14 +45145,14 @@ régulation de l'énergie examine les offres reçues et adresse au ministre char
 1° La liste des offres conformes et celle des offres non conformes assortie des motifs de non-conformité retenus ; ces listes
 ne sont pas publiques ; 
 
-2° Le classement des offres avec le détail des notes et, lorsque le cahier des charges le prévoit, la fiche d'instruction
-détaillée de chaque offre justifiant les notes obtenues ; 
+2° Le classement des offres avec le détail des notes et, à la demande du ministre, la fiche d'instruction détaillée de chaque
+offre justifiant les notes obtenues ; 
 
 3° La liste des projets qu'elle propose de retenir ; 
 
-4° Un rapport de synthèse sur l'appel d'offres. 
+4° Un rapport de synthèse sur l'analyse des offres ;
 
-La commission publie le rapport de synthèse sur le site de candidature.
+5° A la demande du ministre, les offres déposées.
 
 **Liens relatifs à cet article**
 
@@ -45158,7 +45162,7 @@ La commission publie le rapport de synthèse sur le site de candidature.
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cité par**:
 
@@ -45171,11 +45175,11 @@ La commission publie le rapport de synthèse sur le site de candidature.
 Le ministre chargé de l'énergie désigne les candidats retenus et avise tous les autres candidats du rejet de leurs offres. 
 
 Dans le cas où, après l'examen des projets retenus par la Commission de régulation de l'énergie, le choix envisagé par le
-ministre n'est pas conforme au classement de la commission, le ministre recueille préalablement l'avis motivé de la
-commission sur le choix qu'il envisage. Elle dispose pour ce faire d'un délai de quinze jours au-delà duquel son avis est
-réputé donné. 
+ministre n'est pas conforme au classement de la commission, le ministre recueille préalablement l'avis de la commission sur
+le choix qu'il envisage. Elle dispose pour ce faire d'un délai de quinze jours au-delà duquel son avis est réputé donné. 
 
-La commission publie la liste des candidats désignés sur le site de candidature.
+La commission publie la liste des candidats retenus ainsi qu'une version non confidentielle du rapport de synthèse sur
+l'analyse des offres sur son site.
 
 **Liens relatifs à cet article**
 
@@ -45185,11 +45189,7 @@ La commission publie la liste des candidats désignés sur le site de candidatur
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R311-24 (V)
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
 ###### Article R311-24
@@ -45215,8 +45215,12 @@ bénéfice de l'appel d'offres, le ministre chargé de l'énergie peut procéder
 
 ###### Article R311-25
 
-Lorsqu'il ne donne pas suite à l'appel d'offres, le ministre chargé de l'énergie en avise tous les candidats et les informe
-des motifs de sa décision. Il en informe également la Commission de régulation de l'énergie.
+Lorsqu'il ne donne pas suite à la procédure, le ministre chargé de l'énergie en avise tous les candidats et les informe des
+motifs de sa décision.
+
+La Commission de régulation de l'énergie publie cette information sur son site. 
+
+Cette décision n'ouvre droit à aucun remboursement des dépenses engagées par les candidats pour la procédure.
 
 **Liens relatifs à cet article**
 
@@ -45226,7 +45230,7 @@ des motifs de sa décision. Il en informe également la Commission de régulatio
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cité par**:
 
@@ -45235,10 +45239,24 @@ des motifs de sa décision. Il en informe également la Commission de régulatio
 
 ##### Sous-section 2 : Dispositions applicables aux candidats retenus
 
-###### Article R311-26
+##### Sous-section 3 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
 
-La remise d'une offre vaut engagement du candidat à respecter, s'il est retenu, l'ensemble des obligations et prescriptions
-de toute nature figurant au cahier des charges et à mettre en service l'installation dans les conditions de l'appel d'offres.
+##### Sous-section 4 : Dispositions spécifiques aux appels d'offres dans la collectivité territoriale de Corse 
+
+##### Section 2 : Procédures de mise en concurrence
+
+###### Article R311-12
+
+Les procédures de mise en concurrence prévues à l'article L. 311-10 auxquelles peut recourir le ministre chargé de l'énergie
+sont : 
+
+1° Soit la procédure d'appel d'offres décrite à la sous-section 1, par laquelle le ministre chargé de l'énergie choisit
+l'offre économiquement la plus avantageuse sans négociation sur la base de critères objectifs préalablement portés à la
+connaissance des candidats ; 
+
+2° Soit la procédure de mise en concurrence avec dialogue concurrentiel décrite à la sous-section 2, par laquelle le ministre
+chargé de l'énergie dialogue avec les candidats admis à participer à la procédure en vue de définir ou développer les
+solutions de nature à répondre à ses besoins et sur la base desquelles ces candidats sont invités à remettre une offre.
 
 **Liens relatifs à cet article**
 
@@ -45248,7 +45266,376 @@ de toute nature figurant au cahier des charges et à mettre en service l'install
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-10
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-13 (V)
+	  - Code de l'énergie - art. R311-25-1 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R521-2 (V)
+
+
+###### Article R311-12-1
+
+Lorsque l'appel d'offres porte sur la réalisation d'installations de cogénération de chaleur et d'électricité, le cahier des
+charges de l'appel d'offres impose le respect de caractéristiques minimales relatives à l'efficacité énergétique des
+installations, définies par référence à l'annexe II de la directive 2012/27/UE du Parlement européen et du Conseil du 25
+octobre 2012 relative à l'efficacité énergétique, modifiant les directives 2009/125/CE et 2010/30/UE et abrogeant les
+directives 2004/8/CE et 2006/32/CE.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1129 du 17 août 2016 - art. 1
+
+
+##### Sous-section 1 : La procédure d'appel d'offres
+
+##### Sous-section 2 : La procédure de dialogue concurrentiel
+
+###### Article R311-25-1
+
+Lorsqu'il recourt à la procédure de dialogue concurrentiel prévue au 2° de l'article R. 311-12, le ministre chargé de
+l'énergie élabore un document de consultation. 
+
+Le document de consultation précise notamment : 
+
+1° L'objet du dialogue concurrentiel ; 
+
+2° Le calendrier prévisionnel de la procédure ; 
+
+3° Les exigences concernant les capacités techniques et financières du candidat ainsi que les pièces justificatives attendues
+lors de la phase de sélection des candidatures ; 
+
+4° Les modalités d'évaluation des capacités techniques et financières des candidats ; 
+
+5° Les critères, par ordre décroissant d'importance, de sélection des offres à l'issue du dialogue concurrentiel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-12 (V)
+
+
+###### Article R311-25-2
+
+Le ministre chargé de l'énergie soumet le document de consultation à l'avis de la Commission de régulation de l'énergie. 
+
+La commission dispose d'un délai d'un mois à compter de sa saisine, au-delà duquel son avis est réputé donné. Elle publie son
+avis sur son site internet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-3
+
+Après avoir reçu l'avis de la Commission de régulation de l'énergie mentionné à l'article R. 311-25-2, le ministre chargé de
+l'énergie adresse un avis d'appel public à la concurrence à l'Office des publications de l'Union européenne en vue de sa
+publication au Journal officiel de l'Union européenne. Cet avis décrit les modalités de la procédure de dialogue
+concurrentiel. A cet effet, il mentionne notamment : 
+
+1° L'objet du dialogue concurrentiel ; 
+
+2° Les conditions de participation à la procédure ; 
+
+3° Le calendrier prévisionnel de la procédure ; 
+
+4° Les modalités de présentation des candidatures au dialogue concurrentiel ; 
+
+5° Le cas échéant, le nombre minimum, qui ne peut être inférieur à trois, et maximum de candidats admis à participer à la
+procédure ainsi que les critères objectifs et non discriminatoires de réduction du nombre de candidats ; 
+
+6° La date et l'heure limites de dépôt des dossiers de candidature au dialogue concurrentiel ; le délai entre la date de
+publication de l'avis au Journal officiel de l'Union européenne et la date limite de dépôt des dossiers de candidature ne
+peut être inférieur à trente jours ; 
+
+7° L'adresse électronique à partir de laquelle le document de consultation prévu à l'article R. 311-25-1 peut être
+téléchargé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-4
+
+Avant une date limite fixée dans le document de consultation, chaque candidat peut adresser, par voie électronique, des
+demandes d'informations à la Commission de régulation de l'énergie. 
+
+La commission transmet ces demandes sans délai au ministre chargé de l'énergie. Elle publie sur son site les réponses
+apportées par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-5
+
+Les dossiers de candidature sont transmis par voie électronique à la Commission de régulation de l'énergie qui en accuse
+réception. 
+
+Avant de procéder à l'examen des candidatures, la commission, qui constate que des pièces dont la production était réclamée
+sont absentes ou incomplètes, peut demander aux candidats de compléter leur dossier, dans un délai approprié et identique
+pour tous.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-6
+
+Dans un délai fixé par le document de consultation, qui ne peut être inférieur à un mois ni supérieur à deux mois à compter
+de la date limite de dépôt des dossiers de candidature, la Commission de régulation de l'énergie examine les capacités
+techniques et financières des candidats au regard des modalités d'évaluation définies dans le document de consultation. 
+
+La commission adresse au ministre chargé de l'énergie la liste des candidatures qu'elle propose de sélectionner et celle des
+candidats non sélectionnés assortie des motifs de rejet. Ces listes ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-7
+
+Le ministre chargé de l'énergie désigne les candidats sélectionnés et avise tous les autres candidats du rejet de leurs
+candidatures en précisant les motifs de ce rejet. 
+
+Dans le cas où le choix envisagé par le ministre n'est pas conforme à la proposition de la Commission de régulation de
+l'énergie, le ministre recueille préalablement l'avis de la commission sur le choix qu'il envisage. Elle dispose pour ce
+faire d'un délai de quinze jours au-delà duquel son avis est réputé donné. 
+
+Lorsque le nombre de candidats satisfaisant aux critères de sélection est inférieur au nombre minimum prévu au 5° de
+l'article R. 311-25-3, le ministre peut poursuivre la procédure avec les candidats ayant les capacités requises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-8
+
+Le ministre chargé de l'énergie invite les candidats sélectionnés à participer au dialogue concurrentiel. 
+
+L'invitation à participer au dialogue concurrentiel comprend notamment : 
+
+1° Un projet de cahier des charges ; 
+
+2° Les références de l'avis d'appel public à la concurrence ; 
+
+3° Un règlement de consultation qui précise : 
+
+a) Les modalités de déroulement du dialogue concurrentiel, notamment l'obligation d'utiliser la langue française pendant
+toute la durée de la procédure ; 
+
+b) L'obligation, pour les candidats sélectionnés, de s'engager pendant toute la durée de la phase de dialogue concurrentiel
+sur le maintien de leurs capacités techniques et financières à un niveau au moins équivalent à celui exigé au stade de la
+sélection des candidatures. Par dérogation, le règlement précise les conditions et les modalités selon lesquelles la
+modification de la composition des candidats ou des groupements candidats peut être agréée par le ministre chargé de
+l'énergie ; 
+
+4° Le calendrier prévisionnel de la phase de dialogue concurrentiel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-9
+
+Le ministre chargé de l'énergie organise et conduit le dialogue concurrentiel. 
+
+Il peut associer au dialogue concurrentiel toutes personnes qu'il estime nécessaire, notamment la Commission de régulation de
+l'énergie, le gestionnaire de réseau public d'électricité auquel sont raccordés les installations objets de la procédure ou
+des établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-10
+
+Durant la phase de dialogue concurrentiel, les candidats sont entendus dans des conditions garantissant le respect d'une
+stricte égalité entre eux. Le ministre chargé de l'énergie ne peut révéler des solutions proposées ou des informations
+confidentielles communiquées par un candidat dans le cadre de ces échanges sans l'accord de celui-ci.
+
+Des précisions d'ordre technique, liées notamment aux études techniques de qualification des sites d'implantation, peuvent
+être apportées au cours de la procédure par le ministre chargé de l'énergie.
+
+Toute information susceptible de modifier l'offre finale des candidats est communiquée à l'ensemble des candidats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-11
+
+Durant la phase de dialogue concurrentiel, un candidat ne peut pas être exclu. En revanche, il peut retirer sa candidature à
+tout moment de cette phase.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-12
+
+A l'issue du dialogue concurrentiel, le ministre chargé de l'énergie établit un cahier des charges qui comporte notamment : 
+
+1° La description des installations faisant l'objet de la procédure et des conditions qui leur sont applicables, notamment : 
+
+a) Les caractéristiques énergétiques et techniques du type d'installations concerné ; 
+
+b) Les conditions économiques et financières de leur exploitation, notamment la durée et les modalités financières du contrat
+d'achat ou du contrat de complément de rémunération conclu, le cas échéant, en application de l'article L. 311-12 ; 
+
+c) Les prescriptions de toute nature qui s'imposeront avant la mise en service de l'installation, pendant son exploitation ou
+lors de son démantèlement ou de la remise en état du site d'implantation, et, le cas échéant, l'obligation de constituer des
+garanties financières dont la nature et le montant sont précisés ; 
+
+d) Le délai de mise en service industrielle de l'installation ; 
+
+e) Le cas échéant, la zone géographique d'implantation de l'installation ; 
+
+f) La puissance recherchée ; 
+
+g) Le cas échéant, les prescriptions nécessaires à la prise en compte des contraintes liées à la coexistence de
+l'installation avec d'autres activités dans la zone d'implantation ; 
+
+h) Lorsque l'installation objet de la procédure est située sur le domaine public maritime, le cas échéant, les clauses
+mentionnées à l'article R. 311-13-1. Dans ce cas, le dernier alinéa de cet article est applicable ; 
+
+2° La liste exhaustive des critères de notation des offres, leur pondération ou leur hiérarchisation ; les critères
+quantitatifs doivent, le cas échéant, représenter au moins 50 % de la pondération totale ; 
+
+3° La liste exhaustive des indications et des pièces à produire par les candidats pour permettre l'appréciation des offres au
+regard de ces critères ; le cas échéant, sont indiquées celles des pièces qui doivent obligatoirement être rédigées ou
+traduites en français et celles dont l'absence entraîne l'élimination du dossier ; 
+
+4° Les informations relatives au déroulement de la procédure, notamment : 
+
+a) La date et l'heure limites de dépôt des offres. Cette date laisse aux candidats un délai pour déposer leurs offres d'au
+moins six mois à compter de la date de publication de l'avis d'appel public à la concurrence au Journal officiel de l'Union
+européenne ; 
+
+b) L'adresse électronique à laquelle le candidat fait parvenir son offre ; 
+
+c) Les modalités d'instruction des offres, notamment les délais de cette instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. R311-13-1 (V)
+
+
+###### Article R311-25-13
+
+Le cahier des charges mentionné à l'article R. 311-25-12 est transmis par le ministre chargé de l'énergie à la Commission de
+régulation de l'énergie. 
+
+La commission dispose d'un délai d'un mois à compter duquel son avis est réputé donné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-14
+
+Le ministre chargé de l'énergie notifie le cahier des charges aux candidats ayant participé au dialogue concurrentiel jusqu'à
+son terme. 
+
+Il les invite à remettre à la Commission de régulation de l'énergie leur offre dans le délai fixé par le cahier des charges. 
+
+La transmission des offres s'effectue selon les modalités prévues à l'article R. 311-25-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+
+###### Article R311-25-15
+
+Les articles R. 311-18, R. 311-20, R. 311-22, R. 311-23 et R. 311-25 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-18 (V)
+	  - Code de l'énergie - art. R311-20 (V)
+	  - Code de l'énergie - art. R311-22 (V)
+	  - Code de l'énergie - art. R311-25 (V)
+
+
+##### Sous-section 3 : Dispositions applicables aux candidats retenus
+
+###### Article R311-26
+
+La remise d'une offre vaut engagement du candidat à respecter, s'il est retenu, l'ensemble des obligations et prescriptions
+de toute nature figurant au cahier des charges et à mettre en service l'installation dans les conditions de la procédure de
+mise en concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
 ###### Article R311-27
@@ -45271,31 +45658,28 @@ demande qui en est faite par le candidat retenu, conformément aux engagements c
 	  - Code de l'énergie - art. L311-12
 
 
-##### Sous-section 3 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
+##### Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
 
 ###### Article R311-27-1
 
 Les contrats mentionnés au 1° ou au 2° de l'article L. 311-12 sont conclus pour l'installation et restent en vigueur tout au
-long de la vie de cette installation dans la limite de la durée mentionnée dans le cahier des charges de l'appel d'offres,
-sous réserve de la résiliation ou de la suspension de ce contrat. Les modèles de contrat sont établis par Electricité de
-France, le cas échéant avec les entreprises locales de distribution, et approuvés par le ministre chargé de l'énergie. 
+long de la vie de cette installation dans la limite de la durée mentionnée dans le cahier des charges de la procédure de mise
+en concurrence, sous réserve de la résiliation ou de la suspension de ce contrat. Les modèles de contrat sont établis par
+Electricité de France, le cas échéant avec les entreprises locales de distribution, et approuvés par le ministre chargé de
+l'énergie. 
 
 La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à Electricité de France ou, le cas échéant, à
 l'entreprise locale de distribution, d'une attestation de conformité de son installation aux prescriptions fixées par le
-cahier des charges de l'appel d'offres et aux caractéristiques figurant dans son contrat. Cette attestation est établie sur
-la base d'un modèle approuvé par le ministre chargé de l'énergie, à la demande du producteur, par un organisme agréé en
-application de l'article L. 311-13-5. Elle n'est délivrée que lorsque l'installation est achevée à la puissance installée
-figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse à Electricité de France ou,
-le cas échéant, à l'entreprise locale de distribution. 
+cahier des charges de la procédure de mise en concurrence et aux caractéristiques figurant dans son contrat. Cette
+attestation est établie sur la base d'un modèle approuvé par le ministre chargé de l'énergie, à la demande du producteur, par
+un organisme agréé en application de l'article L. 311-13-5. Elle n'est délivrée que lorsque l'installation est achevée à la
+puissance installée figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse à
+Electricité de France ou, le cas échéant, à l'entreprise locale de distribution. 
 
 Le contrat prend effet à la date souhaitée par le producteur après fourniture de cette attestation, cette date étant
 nécessairement un premier du mois.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 4
 
 	**Cité par**:
 
@@ -45303,6 +45687,10 @@ nécessairement un premier du mois.
 	  - Code de l'énergie - art. R311-27-8 (V)
 	  - Code de l'énergie - art. R311-43 (V)
 	  - Code de l'énergie - art. R311-44 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cite**:
 
@@ -45471,54 +45859,57 @@ transférer, ni acquérir, ni utiliser des garanties d'origine pour la productio
 ###### Article R311-27-7
 
 Pour les contrats conclus en application du 2° de l'article L. 311-12, les modalités de calcul et de versement du complément
-de rémunération sont fixées dans le cahier des charges des appels d'offres. Les données nécessaires à la facturation sont
-communiquées au producteur dans les conditions mentionnées aux articles R. 314-43 à R. 314-46.
+de rémunération sont fixées dans le cahier des charges de la procédure de mise en concurrence. Les données nécessaires à la
+facturation sont communiquées au producteur dans les conditions mentionnées aux articles R. 314-43 à R. 314-46.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. R314-43 (V)
 
 
 ###### Article R311-27-8
 
 Les installations bénéficiant d'un contrat conclu en application du 2° de l'article L. 311-12 peuvent bénéficier du
 dispositif d'acheteur de dernier recours mentionné à l'article R. 314-52 dans les conditions prévues par cet article. Le
-tarif d'achat de l'électricité produite est défini dans le cahier des charges de l'appel d'offres. Les conditions
-contractuelles de cet achat sont définies par des modèles de contrat établis par l'acheteur et approuvés par le ministre
-chargé de l'énergie. Les conditions de suspension et de reprise du contrat de complément de rémunération dans le cadre de
-l'achat mentionné au présent article sont définies par les modèles de contrat mentionnés à l'article R. 311-27-1.
+tarif d'achat de l'électricité produite est défini dans le cahier des charges de la procédure de mise en concurrence. Les
+conditions contractuelles de cet achat sont définies par des modèles de contrat établis par l'acheteur et approuvés par le
+ministre chargé de l'énergie. Les conditions de suspension et de reprise du contrat de complément de rémunération dans le
+cadre de l'achat mentionné au présent article sont définies par les modèles de contrat mentionnés à l'article R. 311-27-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. R311-27-1 (V)
+	  - Code de l'énergie - art. R314-52 (V)
 
 
-##### Sous-section 4 : Dispositions spécifiques aux appels d'offres dans la collectivité territoriale de Corse 
+##### Sous-section 5 : Dispositions spécifiques aux procédures de mise en concurrence dans la collectivité territoriale de Corse
 
 ###### Article D311-27-9
 
 Lorsque le rythme de développement d'une filière de production d'électricité est de nature à compromettre l'atteinte des
 objectifs inscrits dans la programmation pluriannuelle de l'énergie relative à la collectivité territoriale de Corse, le
-président du conseil exécutif peut demander au ministre chargé de l'énergie d'organiser un appel d'offres sur le territoire
-de sa collectivité pour cette filière. 
+président du conseil exécutif peut demander au ministre chargé de l'énergie d'organiser une procédure de mise en concurrence
+sur le territoire de sa collectivité pour cette filière. 
 
 La demande précise : 
 
-1° Le ou les types d'installations concernées par l'appel d'offres ; 
+1° Le ou les types d'installations concernées par la procédure de mise en concurrence ; 
 
-2° Le volume alloué à cet appel d'offres en MW ; 
+2° Le volume alloué à cette procédure de mise en concurrence en MW ; 
 
 3° Le cas échéant, les caractéristiques énergétiques et techniques de ces installations ; 
 
@@ -45526,9 +45917,9 @@ La demande précise :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-706 du 30 mai 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
 ###### Article D311-27-10
@@ -45545,17 +45936,17 @@ un délai de deux mois à compter de la demande.
 
 ###### Article D311-27-11
 
-Pour les appels d'offres portant sur le territoire de la collectivité territoriale de Corse, le ministre chargé de l'énergie
-consulte la collectivité sur le projet de cahier des charges. 
+Pour les procédures de mise en concurrence portant sur le territoire de la collectivité territoriale de Corse, le ministre
+chargé de l'énergie consulte la collectivité sur le projet de cahier des charges. 
 
 A compter de la date de saisine du ministre chargé de l'énergie, la collectivité dispose de deux mois pour émettre son avis
 sur le projet de cahier des charges. Son avis est réputé favorable à l'issue de ce délai.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-706 du 30 mai 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
 ##### Section 3 : Sanctions administratives et pénales
@@ -47533,24 +47924,29 @@ corrigée à Electricité de France qui la transmet à son tour au producteur de
 Dans les deux premières semaines de chaque mois, les gestionnaires des réseaux publics de distribution d'électricité
 transmettent au gestionnaire du réseau public de transport les courbes de charge au pas horaire ou demi-horaire, pour le
 dernier mois écoulé, des installations au périmètre requis par les arrêtés mentionnés à l'article R. 314-12 ou par les
-modalités de l'appel d'offres lorsqu'il est prévu une pondération du prix de marché de référence conformément à l'article R.
-314-38. Les gestionnaires de réseau de distribution peuvent choisir de transmettre une courbe de charge agrégée par filière
-et agrégée sur plusieurs zones de desserte exclusives. Ils informent le gestionnaire du réseau public de transport du
-périmètre retenu. 
+modalités de la procédure de mise en concurrence lorsqu'il est prévu une pondération du prix de marché de référence
+conformément à l'article R. 314-38. Les gestionnaires de réseau de distribution peuvent choisir de transmettre une courbe de
+charge agrégée par filière et agrégée sur plusieurs zones de desserte exclusives. Ils informent le gestionnaire du réseau
+public de transport du périmètre retenu. 
 
 Le gestionnaire du réseau public de transport transmet à la Commission de régulation de l'énergie, dans les cinq jours ouvrés
 suivant cet envoi, les données agrégées de production au pas horaire ou demi-horaire sur le dernier mois écoulé nécessaires
 au calcul du prix de marché de référence pondéré mentionné à l'article R. 314-38, lorsque cela est prévu par les arrêtés
-mentionnés à l'article R. 314-12 ou par les modalités de l'appel d'offres. 
+mentionnés à l'article R. 314-12 ou par les modalités de la procédure de mise en concurrence. 
 
 Les gestionnaires des réseaux publics de distribution sont responsables des données qu'ils transmettent au gestionnaire du
 réseau public de transport.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-38 (V)
 
 
 ###### Article R314-45
@@ -49820,6 +50216,133 @@ le réseau public de distribution d'électricité concerné.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-31 (M)
+
+
+##### Section 2 : Consignation de sommes en cas de non-respect du niveau de qualité en matière d'interruption de l'alimentation électrique 
+
+###### Article R322-11
+
+Lorsque le niveau de qualité n'est pas atteint en matière d'interruptions d'alimentation au regard des critères fixés en
+application de l'article D. 322-2 et que le gestionnaire du réseau public de distribution d'électricité n'a pas, sur le
+réseau dont il assure la maîtrise d'ouvrage, commencé les travaux prévus par les programmes mentionnés à l'article D. 322-5
+ou à l'article D. 322-9 dans les délais approuvés par l'autorité organisatrice du réseau public d'électricité, celle-ci, si
+elle entend mettre en œuvre la procédure prévue à l'article L. 322-12, met en demeure le gestionnaire de réseau
+d'entreprendre les travaux définis par les programmes précités. 
+
+Le gestionnaire du réseau public de distribution dispose d'un délai d'un mois pour s'exécuter ou présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1128 du 17 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D322-2 (V)
+	  - Code de l'énergie - art. D322-5 (V)
+	  - Code de l'énergie - art. D322-9 (V)
+	  - Code de l'énergie - art. L322-12 (VT)
+
+
+###### Article R322-12
+
+A défaut pour le gestionnaire d'obtempérer dans le délai d'un mois à l'injonction de l'autorité organisatrice du réseau
+public d'électricité, cette dernière, si elle décide de poursuivre la procédure, saisit, pour avis, les comités du système de
+distribution publique d'électricité, institués par l'article L. 111-56-1 ou l'article L. 111-56-2. 
+
+Elle joint à sa saisine son projet de décision et, le cas échéant, les observations présentées par le gestionnaire du réseau
+public de distribution d'électricité. 
+
+Ces comités disposent d'un délai de deux mois pour rendre leur avis. Passé ce délai, l'avis est réputé favorable à la
+poursuite de la procédure. L'autorité organisatrice du réseau public d'électricité fait part de ses observations écrites aux
+comités lorsqu'elle n'entend pas se conformer à un avis défavorable de ces comités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1128 du 17 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-56-1 (V)
+	  - Code de l'énergie - art. L111-56-2 (V)
+
+
+###### Article R322-13
+
+A l'issue de la procédure décrite à l'article R. 322-12, l'autorité organisatrice du réseau public d'électricité peut, si le
+gestionnaire du réseau public de distribution d'électricité n'a pas engagé dans le délai prescrit les travaux prévus par les
+programmes mentionnés aux articles D. 322-5 ou D. 322-9, lui ordonner de remettre entre les mains de son comptable public une
+somme calculée selon le barème prévu à l'article R. 322-14. 
+
+Cette somme est recouvrée par le comptable public de l'autorité organisatrice du réseau public d'électricité dans les
+conditions prévues à l'article R. 2342-4 du code général des collectivités territoriales. Celui-ci procède à la consignation
+de cette somme auprès de la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1128 du 17 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2342-4 (V)
+	  - Code de l'énergie - art. D322-5 (V)
+	  - Code de l'énergie - art. D322-9 (V)
+
+
+###### Article R322-14
+
+I. - Le montant des sommes consignées est proportionnel au volume et au coût des travaux figurant aux programmes mentionnés
+aux articles D. 322-5 et D. 322-9. 
+
+II. - Le montant maximum des sommes consignées est établi selon le barème suivant : 
+
+1° En cas de manquement aux dispositions de l'article D. 322-5 : 
+
+10 % du montant des travaux, estimé par le programme d'amélioration de la qualité de l'électricité approuvé par l'autorité
+organisatrice du réseau public d'électricité, lorsque ce montant est inférieur ou égal à 500 000 € ; 
+
+5 % supplémentaires par tranche de 100 000 €, pour des travaux mentionnés à l'alinéa précédent, dont le montant estimé est
+supérieur à 500 000 € ; 
+
+2° En cas de manquement aux dispositions de l'article D. 322-9, 8 % du montant des travaux, estimé par le programme d'actions
+correctives approuvé par l'autorité organisatrice du réseau public d'électricité, dans la limite d'un plafond de 40 000 € par
+autorité organisatrice du réseau public d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1128 du 17 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D322-5 (V)
+	  - Code de l'énergie - art. D322-9 (V)
+
+
+###### Article R322-15
+
+Après production par le gestionnaire du réseau public d'une attestation de fin des travaux prévus par les programmes
+approuvés par l'autorité organisatrice du réseau public d'électricité, l'exécutif de celle-ci prend, dans un délai de quinze
+jours à compter de la réception de l'attestation de fin de travaux, une décision ordonnant la déconsignation de la somme
+recouvrée conformément à l'article R. 322-13. 
+
+Sur production de cette décision, les sommes consignées sont restituées au gestionnaire de réseau par la Caisse des dépôts et
+consignations. 
+
+Un arrêté du ministre chargé des comptes publics fixe la liste des pièces nécessaires à la consignation et à la
+déconsignation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1128 du 17 août 2016 - art. 1
 
 
 #### Chapitre III : Les ouvrages de transport et de distribution
@@ -58419,20 +58942,22 @@ au plafond.
 
 
 
+##### Section 3 : Dispositions spécifiques aux procédures de mise en concurrence dans les collectivités de Guadeloupe, de Guyane, de Martinique et de La Réunion
+
 ###### Article D361-7-3
 
 Lorsque le rythme de développement d'une filière de production d'électricité sur les territoires de la Guadeloupe, de la
 Guyane, de la Martinique ou de La Réunion est de nature à compromettre l'atteinte des objectifs inscrits dans les
 programmations pluriannuelles de l'énergie relatives à ces collectivités, le président du conseil régional de Guadeloupe, le
 président de l'assemblée de Guyane, le président du conseil exécutif de Martinique, le président du conseil départemental de
-Mayotte ou le président du conseil régional de La Réunion peut demander au ministre chargé de l'énergie d'organiser un appel
-d'offres sur le territoire de sa collectivité pour cette filière. 
+Mayotte ou le président du conseil régional de La Réunion peut demander au ministre chargé de l'énergie d'organiser une
+procédure de mise en concurrence sur le territoire de sa collectivité pour cette filière. 
 
 La demande précise : 
 
-1° Le ou les types d'installations concernées par l'appel d'offres ; 
+1° Le ou les types d'installations concernées par la procédure de mise en concurrence ; 
 
-2° Le volume en MW alloué à cet appel d'offres ; 
+2° Le volume en MW alloué à cette procédure de mise en concurrence ; 
 
 3° Le cas échéant, les caractéristiques énergétiques et techniques de ces installations ; 
 
@@ -58440,9 +58965,9 @@ La demande précise :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-706 du 30 mai 2016 - art. 4
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 
 ###### Article D361-7-4
@@ -58459,17 +58984,18 @@ un délai de deux mois à compter de la demande.
 
 ###### Article D361-7-5
 
-Pour les appels d'offres portant sur le territoire des collectivités de Guadeloupe, de Guyane, de Martinique, de Mayotte ou
-de La Réunion, le ministre chargé de l'énergie consulte les collectivités concernées sur le projet de cahier des charges. 
+Pour les procédures de mise en concurrence portant sur le territoire des collectivités de Guadeloupe, de Guyane, de
+Martinique, de Mayotte ou de La Réunion, le ministre chargé de l'énergie consulte les collectivités concernées sur le projet
+de cahier des charges. 
 
 A compter de la date de saisine du ministre, les collectivités disposent de deux mois pour émettre leur avis sur le projet de
 cahier des charges. Leur avis est réputé favorable à l'issue de ce délai.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-706 du 30 mai 2016 - art. 4
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 
 #### Chapitre II : Dispositions relatives à Mayotte
@@ -58515,14 +59041,14 @@ au plafond.
 
 ###### Article D361-11
 
-Les dispositions spécifiques aux appels d'offres mentionnées à la section 3 du chapitre Ier du présent titre sont applicables
-à Mayotte.
+Les dispositions spécifiques aux procédures de mise en concurrence mentionnées à la section 3 du chapitre Ier du présent
+titre sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-706 du 30 mai 2016 - art. 5
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 
 ###### Article R361-8
@@ -63308,10 +63834,9 @@ compétente :
 2° De procéder au renouvellement d'une concession conformément à l'article L. 521-16 et à la sous-section 1 de la section 4
 du présent chapitre, le cas échéant sur un périmètre différent englobant tout ou partie de la concession initiale. 
 
-Par exception à la sous-section 1 de la section 2 du chapitre Ier du titre Ier du livre III de la partie réglementaire du
-présent code, la procédure d'octroi de la concession d'énergie hydraulique prévue à la présente section peut tenir lieu de la
-procédure prévue à l'article L. 311-10. Dans ce cas, lorsque l'autorité administrative compétente est le préfet, elle
-recueille l'avis préalable du ministre chargé de l'énergie. 
+Par exception à l'article R. 311-12, la procédure d'octroi de la concession d'énergie hydraulique prévue à la présente
+section peut tenir lieu de la procédure prévue à l'article L. 311-10. Dans ce cas, lorsque l'autorité administrative
+compétente est le préfet, elle recueille l'avis préalable du ministre chargé de l'énergie. 
 
 Le projet de décision mentionnée au premier alinéa fait l'objet d'une consultation du public selon les modalités prévues à
 l'article L. 120-1 du code de l'environnement.
@@ -63324,22 +63849,19 @@ l'article L. 120-1 du code de l'environnement.
 
 	**Modifié par**:
 
-	  - Décret n°2016-530 du 27 avril 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L120-1
 	  - Code de l'énergie - art. L311-10
 	  - Code de l'énergie - art. L521-16
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R521-5 (V)
+	  - Code de l'énergie - art. R311-12 (V)
 
 
 ###### Article R521-3
 
-I.-Toute personne ou tout groupement de personnes y ayant intérêt peut demander à l'autorité administrative d'engager une
+I. - Toute personne ou tout groupement de personnes y ayant intérêt peut demander à l'autorité administrative d'engager une
 procédure en vue d'instaurer une concession d'énergie hydraulique sur un nouveau secteur géographique, en lui adressant un
 dossier d'intention dont la composition est fixée par un arrêté du ministre chargé de l'énergie et qui comporte notamment les
 indications et les pièces relatives à son identification, à ses capacités techniques et financières, à l'objet de
@@ -63348,14 +63870,14 @@ son raccordement aux réseaux électriques et aux principaux enjeux environnemen
 l'aménagement. S'il estime que la conclusion d'un contrat en application de l'article L. 311-12 est nécessaire à la
 réalisation du projet, le pétitionnaire l'indique dans son dossier et produit tout élément tendant à le démontrer. 
 
-II.-L'autorité administrative informe le pétitionnaire, dans un délai ne pouvant excéder six mois à compter de la date de
+II. - L'autorité administrative informe le pétitionnaire, dans un délai ne pouvant excéder six mois à compter de la date de
 réception d'un dossier d'intention complet, de la suite qu'elle entend réserver à cette demande. Elle précise notamment,
 après avis du ministre chargé de l'énergie au cas où l'autorité administrative compétente est le préfet, s'il peut être
-recouru à la procédure d'appel d'offres prévue à l'article L. 311-10 et si un contrat peut être conclu en application de
-l'article L. 311-12. A défaut de décision expresse de l'autorité administrative dans ce délai, la demande est réputée
+recouru à la procédure de mise en concurrence prévue à l'article L. 311-10 et si un contrat peut être conclu en application
+de l'article L. 311-12. A défaut de décision expresse de l'autorité administrative dans ce délai, la demande est réputée
 rejetée. 
 
-III.-Lorsqu'elle décide d'engager une procédure en vue d'instaurer une concession, l'autorité administrative invite le
+III. - Lorsqu'elle décide d'engager une procédure en vue d'instaurer une concession, l'autorité administrative invite le
 pétitionnaire à compléter sa demande par : 
 
 1° Un rapport, dont le contenu doit être en relation avec l'importance de l'aménagement projeté et de son incidence sur
@@ -63382,7 +63904,7 @@ validation de leur utilité pour l'attribution de la concession.
 
 	**Modifié par**:
 
-	  - Décret n°2016-530 du 27 avril 2016 - art. 1
+	  - Décret n°2016-1129 du 17 août 2016 - art. 3
 
 	**Cité par**:
 
