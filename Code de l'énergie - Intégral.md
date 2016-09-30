@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-08-22
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -49069,6 +49069,65 @@ les zones non interconnectées.
 	  - Code de l'énergie - art. R314-41 (T)
 
 
+##### Section 3 : Investissement participatif dans les projets de production d'énergie renouvelable
+
+###### Article R314-71
+
+Ne constituent pas des offres au public de titres financiers au sens de l'article L. 411-1 du code monétaire et financier les
+offres mentionnées au premier alinéa du III de l'article L. 314-28 du présent code portant sur des titres que l'émetteur est
+autorisé à offrir au public, faites par les porteurs des projets directement auprès des personnes mentionnées au I de cet
+article et qui présentent au moins l'une des caractéristiques suivantes : 
+
+1° Leur montant total est inférieur à 100 000 euros ou à la contre-valeur de ce montant en devises ; 
+
+2° Leur montant total est compris entre 100 000 et 5 000 000 euros ou la contre-valeur de ce montant en devises et elles
+portent sur des titres financiers ne représentant pas plus de 50 % du capital de l'émetteur ; 
+
+3° Elles sont adressées à des investisseurs qui acquièrent ces titres financiers pour un montant total, par investisseur et
+par offre distincte, supérieur à 100 000 euros ou à la contre-valeur de ce montant en devises ; 
+
+4° Elles portent sur des titres financiers dont la valeur nominale est supérieure à 100 000 euros ou à la contre-valeur de ce
+montant en devises ; 
+
+5° Elles s'adressent exclusivement à des investisseurs qualifiés au sens du 2 du II de l'article L. 411-2 du code monétaire
+et financier ; 
+
+6° Elles s'adressent exclusivement à un cercle restreint de moins de 150 investisseurs, au sens du 2 du II de l'article L.
+411-2 du code monétaire et financier, sous réserve que ces investisseurs agissent pour compte propre. 
+
+Le montant total de l'offre mentionné aux 1° et 2° est calculé sur une période de douze mois qui suit la date de la première
+offre. 
+
+II. - Ne constituent pas des offres au public de titres financiers au sens de l'article L. 411-1 du code monétaire et
+financier les offres mentionnées au deuxième alinéa du III de l'article L. 314-28 du présent code portant sur des titres que
+l'émetteur est autorisé à offrir au public et proposées par l'intermédiaire d'un prestataire de services d'investissement ou
+d'un conseiller en investissements participatifs au moyen d'un site internet : 
+
+1° Qui portent sur des titres financiers mentionnés au 1 ou au 2 du II de l'article L. 211-1 du code monétaire et financier
+qui ne sont pas admis aux négociations sur un marché réglementé ou un système multilatéral de négociation ; 
+
+2° Et dont le montant total est inférieur à 2,5 millions d'euros. Ce montant total par offre est calculé sur une période de
+douze mois qui suit la date de la première offre. 
+
+La société qui procède à l'offre ne peut se prévaloir des dispositions de l'article L. 232-25 du code de commerce. Lorsque la
+société qui procède à l'offre a pour objet de détenir et de gérer des participations dans une autre société, la société dans
+laquelle elle détient des participations ne peut pas se prévaloir de cette même disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1272 du 29 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L232-25
+	  - Code monétaire et financier - art. L211-1
+	  - Code monétaire et financier - art. L411-1
+	  - Code monétaire et financier - art. L411-2
+	  - Code de l'énergie - art. L314-28 (V)
+
+
 ### TITRE II : LE TRANSPORT ET LA DISTRIBUTION
 
 #### Chapitre Ier : Le transport
@@ -57140,6 +57199,99 @@ certifiées par le représentant légal de l'entreprise dont ils relèvent.
 	  - Décret n°2016-141 du 11 février 2016 - art. 2
 
 
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles
+
+
+###### Article D341-13
+
+Les gestionnaires de réseaux public de distribution d'électricité mettent à disposition des propriétaires ou gestionnaires
+d'immeubles à usage résidentiel ou tertiaire qui en font la demande les données de consommation des occupants de ces
+immeubles, dès lors que le nombre d'abonnements à l'électricité y est supérieur à dix et que leur propriétaire ou
+gestionnaire justifie de la mise en œuvre d'actions de maîtrise de la consommation en énergie pour le compte de leurs
+occupants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+
+###### Article D341-14
+
+La demande de mise à disposition des données est effectuée auprès du gestionnaire du réseau public de distribution, qui en
+accuse réception, par voie électronique ou par courrier. Elle est accompagnée des pièces mentionnées à l'article D. 341-15 et
+précise l'adresse des immeubles concernés selon un format normalisé défini par le gestionnaire de réseau de distribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+
+###### Article D341-15
+
+Le propriétaire ou le gestionnaire d'immeuble fournit au gestionnaire du réseau public de distribution d'électricité et tient
+à disposition de l'autorité administrative les pièces attestant :
+
+1° De son identité ;
+
+2° De sa qualité de propriétaire ou de gestionnaire ;
+
+3° Du nombre de logements de l'immeuble ou de l'ensemble d'immeubles ;
+
+4° Le cas échéant, d'un mandat exprès autorisant un tiers à agir en son nom et pour son compte.
+
+Il fournit également le descriptif des actions de maîtrise de la consommation prévues ou réalisées ainsi que leur calendrier
+de réalisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+
+###### Article D341-16
+
+Les données sont mises à disposition du propriétaire ou du gestionnaire dans un délai maximum d'un mois suivant la réception
+de la demande.
+
+Elles sont transmises sous forme agrégée et anonymisée, à l'échelle de l'immeuble ou de l'ensemble d'immeubles et portent, au
+plus, sur les trois années précédant celle de la demande. Elles peuvent résulter en tout ou partie de données reconstituées.
+
+Peuvent seuls être facturés les coûts résultant directement de l'agrégation des données de comptage et effectivement
+supportés de ce fait par le gestionnaire du réseau public de distribution. Ces coûts sont précisés dans les catalogues de
+prestation des gestionnaires des réseaux de distribution d'électricité.
+
+Un arrêté du ministre chargé de l'énergie définit la méthode d'agrégation des données et la fréquence de leur transmission à
+défaut d'accord entre le propriétaire ou le gestionnaire d'immeuble et le gestionnaire du réseau public de distribution
+d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+
+###### Article D341-17
+
+Il est interdit au propriétaire ou au gestionnaire de l'immeuble, sauf autorisation expresse de chaque occupant, de chercher
+à reconstituer les données individuelles de comptage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 1
+
+
 #### Chapitre II : Le raccordement aux réseaux
 
 ##### Section 1 : Consistance des ouvrages de branchement et d'extension
@@ -63396,6 +63548,106 @@ exploitant d'installations de gaz et tout titulaire d'une concession de stockage
 
 	  - Code de l'énergie - art. L453-4 (V)
 	  - Code de l'énergie - art. R433-15 (V)
+
+
+##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles
+
+
+###### Article D453-9
+
+Les gestionnaires de réseaux public de distribution de gaz naturel mettent à disposition des propriétaires ou gestionnaires
+d'immeubles à usage résidentiel ou tertiaire qui en font la demande les données de consommation des occupants de ces
+immeubles, dès lors que le nombre d'abonnements au gaz y est supérieur à dix et que leur propriétaire ou gestionnaire
+justifie de la mise en œuvre d'actions de maîtrise de la consommation en énergie pour le compte de leurs occupants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+
+###### Article D453-10
+
+La demande de mise à disposition des données est effectuée auprès du gestionnaire du réseau public de distribution, qui en
+accuse réception, par voie électronique ou par courrier. Elle est accompagnée des pièces mentionnées à l'article D. 453-11 et
+précise l'adresse des immeubles concernés selon un format normalisé défini par le gestionnaire de réseau de distribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+
+###### Article D453-11
+
+Le propriétaire ou le gestionnaire d'immeuble fournit au gestionnaire du réseau public de distribution de gaz et tient à
+disposition de l'autorité administrative les pièces attestant : 
+
+1° De son identité ;
+
+2° De sa qualité de propriétaire ou de gestionnaire ;
+
+3° Du nombre de logements de l'immeuble ou de l'ensemble d'immeubles ;
+
+4° Le cas échéant, d'un mandat exprès autorisant un tiers à agir en son nom et pour son compte.
+
+Il fournit également le descriptif des actions de maîtrise de la consommation prévues ou réalisées ainsi que leur calendrier
+de réalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2016-447 du 12 avril 2016, v. init.
+
+
+###### Article D453-12
+
+Les données sont mises à disposition du propriétaire ou du gestionnaire dans un délai maximum d'un mois suivant la réception
+de la demande. 
+
+Elles sont transmises sous forme agrégée et anonymisée, à l'échelle de l'immeuble ou de l'ensemble d'immeubles et portent, au
+plus, sur les trois années précédant celle de la demande. Elles peuvent résulter en tout ou partie de données reconstituées.
+
+Peuvent seuls être facturés les coûts résultant directement de l'agrégation des données de comptage et effectivement
+supportés de ce fait par le gestionnaire du réseau public de distribution. Ces coûts sont précisés dans les catalogues de
+prestation des gestionnaires des réseaux de distribution de gaz.
+
+Un arrêté du ministre chargé de l'énergie définit la méthode d'agrégation des données et la fréquence de leur transmission à
+défaut d'accord entre le propriétaire ou le gestionnaire d'immeuble et le gestionnaire du réseau public de distribution de
+gaz.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2016-447 du 12 avril 2016, v. init.
+
+
+###### Article D453-13
+
+Il est interdit au propriétaire ou au gestionnaire de l'immeuble, sauf autorisation expresse de chaque occupant, de chercher
+à reconstituer les données individuelles de comptage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-447 du 12 avril 2016 - art. 2
 
 
 ### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS
