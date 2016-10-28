@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-29
 
 # Partie législative
 
@@ -37935,6 +37935,24 @@ ministre chargé de l'énergie.
 	  - Décret n°2016-350 du 24 mars 2016 - art. 1
 
 
+##### Sous-section 4 :  Le critère de défaillance
+
+###### Article D141-12-6
+
+Le critère de défaillance du système électrique mentionné à l'article L. 141-7 est fixé à une durée moyenne de défaillance
+annuelle de trois heures pour des raisons de déséquilibre entre l'offre et la demande d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1442 du 27 octobre 2016 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L141-7 (V)
+
+
 ##### Section 3 : La programmation des capacités d'approvisionnement en gaz naturel
 
 
@@ -44562,6 +44580,31 @@ puissances actives maximales produites dans un même établissement et :
 	**Anciens textes**:
 
 	  - Code de l'énergie - art. R311-3 (T)
+
+
+###### Article D311-7-1
+
+Lorsqu'une installation située en métropole continentale produit de l'électricité à partir de combustibles fossiles et émet
+des gaz à effet de serre, l'autorisation d'exploiter mentionnée à l'article L. 311-5 restreint le nombre maximal annuel
+d'heures de fonctionnement équivalentes à pleine puissance, afin de respecter la valeur limite d'émissions de gaz à effet de
+serre de 2,2 kilotonnes de CO
+  <sub>2</sub> équivalents émis annuellement par mégawatt de puissance installée. Pour les installations de cogénération, les
+émissions considérées sont celles correspondant à la seule production d'électricité.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux installations dont la demande d'autorisation d'exploiter est déposée après la date de
+publication du décret n° 2016-1442 du 27 octobre 2016 (28 octobre 2016).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1442 du 27 octobre 2016 - art. 10 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-5 (V)
 
 
 ###### Article R311-1
