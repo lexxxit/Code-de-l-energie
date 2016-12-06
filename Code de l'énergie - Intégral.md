@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-01
+Version Consolidée au 2016-12-07
 
 # Partie législative
 
@@ -63493,6 +63493,43 @@ prononcer une sanction pécuniaire ou sa déchéance.
 ### TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS
 
 #### Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié
+
+###### Article D452-1-1
+
+Pour application de l'article L. 452-2-1, les gestionnaires des réseaux de transport et de distribution de gaz naturel
+peuvent mettre en œuvre, sur l'ensemble des sites de consommation raccordés à leur réseau, dans les conditions prévues à
+l'article L. 453-7, des dispositifs de comptage permettant une mesure de la consommation sur un pas de temps inférieur ou
+égal à la journée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1662 du 5 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L452-2-1
+	  - Code de l'énergie - art. L453-7
+
+
+###### Article D452-1-2
+
+Les tarifs d'utilisation des réseaux de transport applicables durant les mois de novembre à avril peuvent être fixés à un
+niveau supérieur à celui permettant la stricte couverture des coûts de réseau, sous réserve qu'ils fassent l'objet, durant
+les mois de mai à octobre, d'une modulation à la baisse permettant de maintenir sur l'année la couverture des coûts dans les
+conditions prévues à l'article L. 452-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1662 du 5 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L452-1
+
 
 ###### Article R452-1
 
