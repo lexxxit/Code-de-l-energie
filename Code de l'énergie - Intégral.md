@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-17
 
 # Partie législative
 
@@ -7064,7 +7064,8 @@ missions.
 
 Le comité de règlement des différends et des sanctions peut être saisi en cas de différend : 
 
-1° Entre les gestionnaires et les utilisateurs des réseaux publics de transport ou de distribution d'électricité ; 
+1° Entre les gestionnaires et les utilisateurs des réseaux publics de transport ou de distribution d'électricité ou de
+réseaux fermés de distribution d'électricité ; 
 
 2° Entre les opérateurs et les utilisateurs des ouvrages de transport et de distribution de gaz naturel ; 
 
@@ -7091,10 +7092,6 @@ de gaz naturel et une des sociétés appartenant à l'entreprise verticalement i
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-206 du 24 février 2015 - art. 1 (Ab)
@@ -7105,6 +7102,10 @@ de gaz naturel et une des sociétés appartenant à l'entreprise verticalement i
 	  - Code de l'énergie - art. L134-27 (V)
 	  - Code de l'énergie - art. R134-21 (V)
 	  - Code de l'énergie - art. R134-7 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 	**Cite**:
 
@@ -7273,10 +7274,11 @@ Le comité de règlement des différends et des sanctions peut soit d'office, so
 de l'environnement, du président de la Commission de régulation de l'énergie, d'une organisation professionnelle, d'une
 association agréée d'utilisateurs ou de toute autre personne concernée, sanctionner les manquements mentionnés aux titres Ier
 et II du présent livre et aux livres III et IV qu'il constate de la part des gestionnaires de réseaux publics de transport ou
-de distribution d'électricité, des opérateurs des ouvrages de transport ou de distribution de gaz naturel ou des exploitants
-des installations de stockage de gaz naturel ou des installations de gaz naturel liquéfié ou des exploitants de réseaux de
-transport et de stockage géologique de dioxyde de carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y
-compris les fournisseurs d'électricité ou de gaz naturel, dans les conditions fixées aux articles suivants. 
+de distribution d'électricité, des gestionnaires de réseaux fermés de distribution d'électricité,  des opérateurs des
+ouvrages de transport ou de distribution de gaz naturel ou des exploitants des installations de stockage de gaz naturel ou
+des installations de gaz naturel liquéfié ou des exploitants de réseaux de transport et de stockage géologique de dioxyde de
+carbone ou des utilisateurs de ces réseaux, ouvrages et installations, y compris les fournisseurs d'électricité ou de gaz
+naturel, dans les conditions fixées aux articles suivants. 
 
 Le comité de règlement des différends et des sanctions peut également, soit d'office, soit à la demande du ministre chargé de
 l'énergie, ou à la demande du président de la Commission de régulation de l'énergie, sanctionner les manquements répétés
@@ -7305,7 +7307,7 @@ toute personne concernée, dans les conditions fixées aux articles L. 134-26 à
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 	**Cite**:
 
@@ -7317,7 +7319,7 @@ toute personne concernée, dans les conditions fixées aux articles L. 134-26 à
 	**Cité par**:
 
 	  - Code de l'énergie - art. L134-26 (V)
-	  - Code de l'énergie - art. L134-28 (V)
+	  - Code de l'énergie - art. L134-28 (M)
 	  - Code de l'énergie - art. L134-29 (V)
 	  - Code de l'énergie - art. L135-12 (V)
 
@@ -20698,11 +20700,12 @@ cet effet, élaborer les méthodologies utilisées pour établir les prescriptio
 minimales de conception et de fonctionnement auxquelles doivent satisfaire : 
 
 1° En cas de raccordement au réseau public de transport d'électricité, les installations des utilisateurs du réseau, les
-réseaux publics de distribution, les circuits d'interconnexion ainsi que les lignes directes mentionnées à l'article L.
-343-1 ; 
+réseaux publics de distribution, les réseaux fermés de distribution d'électricité, les circuits d'interconnexion ainsi que
+les lignes directes mentionnées à l'article L. 343-1 ; 
 
 2° En cas de raccordement au réseau public de distribution d'électricité, les installations des utilisateurs du réseau, les
-réseaux de distribution ainsi que les lignes directes mentionnées à l'article L. 343-1.
+autres réseaux publics de distribution, les réseaux fermés de distribution d'électricité ainsi que les lignes directes
+mentionnées à l'article L. 343-1.
 
 **Liens relatifs à cet article**
 
@@ -20721,7 +20724,7 @@ réseaux de distribution ainsi que les lignes directes mentionnées à l'article
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-130 du 10 février 2016 - art. 11
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 2
 
 	**Cite**:
 
@@ -21185,6 +21188,321 @@ professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laq
 	**Cité par**:
 
 	  - Code de l'énergie - art. L344-12 (V)
+
+
+#### Chapitre IV : Les réseaux fermés de distribution d'électricité
+
+
+##### Section 1 : Définition
+
+
+###### Article L344-1
+
+Un réseau fermé de distribution d'électricité est un réseau de distribution qui achemine de l'électricité à l'intérieur d'un
+site géographiquement limité et qui alimente un ou plusieurs consommateurs non résidentiels exerçant des activités de nature
+industrielle, commerciale ou de partages de services.
+
+Il doit remplir l'une des deux conditions suivantes :
+
+- l'intégration dans ce réseau des opérations ou du processus de production des utilisateurs est justifiée par des raisons
+spécifiques ayant trait à leur technique ou à leur sécurité ;
+
+- ce réseau distribue de l'électricité essentiellement au propriétaire ou au gestionnaire de réseau ou à des entreprises qui
+leur sont liées au sens de l'article L. 233-3 du code de commerce.
+
+Les utilisateurs d'un réseau fermé de distribution d'électricité sont les personnes physiques ou morales dont les
+installations soutirent ou injectent de l'électricité directement sur ce réseau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-3
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L344-2 (V)
+	  - Code de l'énergie - art. L344-7 (V)
+
+
+###### Article L344-2
+
+Par exception au premier alinéa de l'article L. 344-1, un réseau fermé de distribution d'électricité peut distribuer, à titre
+accessoire, de l'électricité à des clients résidentiels s'ils sont employés par le propriétaire du réseau ou associés à lui
+de façon similaire et résident dans la zone desservie par le réseau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-1
+
+
+###### Article L344-3
+
+Le raccordement à un réseau fermé de distribution ne peut faire obstacle à l'exercice par un consommateur des droits relatifs
+au libre choix de son fournisseur, prévus à l'article L. 331-1. 
+
+Il ne peut pas non plus faire obstacle aux droits de participation aux mécanismes d'ajustement ou de réservation de
+puissance, mentionnés aux articles L. 321-10 et L. 321-12, ni aux droits de participation au mécanisme d'effacements de
+consommation mentionné à l'article L. 321-15-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-10
+	  - Code de l'énergie - art. L321-12
+	  - Code de l'énergie - art. L321-15-1
+	  - Code de l'énergie - art. L331-1
+
+
+##### Section 2 : Le gestionnaire du réseau fermé de distribution d'électricité
+
+###### Article L344-4
+
+L'exploitation du réseau fermé de distribution d'électricité est confiée à un gestionnaire dénommé “ gestionnaire du réseau
+fermé de distribution d'électricité ”, désigné par le propriétaire du réseau. Le gestionnaire peut être le propriétaire de ce
+réseau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+
+###### Article L344-5
+
+Le gestionnaire d'un réseau fermé de distribution d'électricité est notamment chargé :
+
+1° D'assurer la conception et la construction des ouvrages du réseau fermé de distribution d'électricité en s'abstenant de
+toute discrimination entre les utilisateurs de son réseau ;
+
+2° D'exploiter lui-même ce réseau fermé de distribution d'électricité et d'en assurer l'entretien, la maintenance et la
+sécurité ;
+
+3° De veiller, à tout instant, à l'équilibre des flux d'électricité, à l'efficacité, à la sécurité et à la sûreté du réseau
+qu'il exploite et d'assurer la couverture des pertes d'électricité et le maintien d'une capacité de réserve sur son réseau ;
+
+4° De fournir aux utilisateurs du réseau qu'il exploite les informations nécessaires à un accès efficace, sous réserve des
+informations commercialement sensibles ;
+
+5° De mettre en œuvre des actions d'efficacité énergétique et de favoriser l'insertion des énergies renouvelables sur le
+réseau qu'il exploite ;
+
+6° D'exercer, le cas échéant, les activités de comptage pour les utilisateurs raccordés au réseau qu'il exploite, sauf
+lorsque les utilisateurs du réseau fermé de distribution interviennent sur les marchés de l'électricité ou participent à des
+mécanismes qui nécessitent une contractualisation avec les gestionnaires des réseaux publics.
+
+Le gestionnaire de réseau fermé de distribution d'électricité transmet, à sa demande, l'ensemble des données nécessaires au
+gestionnaire du réseau public d'électricité auquel est raccordé son réseau, pour accomplir les missions qui lui sont
+imparties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L344-9 (V)
+
+
+##### Section 3 : Règles applicables aux réseaux fermés de distribution d'électricité
+
+
+###### Article L344-6
+
+Les réseaux fermés de distribution doivent satisfaire aux mêmes conditions techniques et de sécurité que celles applicables
+en matière de transport et de distribution d'électricité et prises en application de l'article L. 323-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L323-12
+
+
+###### Article L344-7
+
+L'exploitation d'un réseau fermé de distribution d'électricité est subordonnée à la délivrance d'une autorisation par
+l'autorité administrative. 
+
+L'autorisation est délivrée au regard des critères mentionnés à l'article L. 344-1, sous réserve que le gestionnaire du
+réseau fermé de distribution d'électricité justifie qu'il dispose des capacités techniques et financières requises. 
+
+L'autorisation fixe la durée pour laquelle elle est délivrée, qui ne peut excéder vingt ans. Elle peut être renouvelée dans
+les mêmes conditions. 
+
+L'autorité administrative peut, après avis de la Commission de régulation de l'énergie, refuser de délivrer une autorisation
+d'exploiter un réseau fermé de distribution d'électricité pour des motifs d'intérêt général liés au bon fonctionnement et à
+la sûreté du système électrique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L344-12 (V)
+	  - Code de l'énergie - art. L344-8 (V)
+
+
+###### Article L344-8
+
+En cas de changement du gestionnaire d'un réseau fermé de distribution d'électricité, le bénéfice de l'autorisation prévue à
+l'article L. 344-7 peut être transféré au nouvel exploitant, sous réserve qu'il justifie auprès de l'autorité administrative
+qu'il dispose des capacités techniques et financières requises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-7
+
+
+###### Article L344-9
+
+Pour la mise en œuvre du 3° de l'article L. 344-5, le gestionnaire de réseau fermé de distribution d'électricité négocie
+librement avec les fournisseurs de son choix les contrats nécessaires à la couverture des pertes et au maintien d'une
+capacité de réserve sur le réseau qu'il exploite, selon des procédures concurrentielles, transparentes et non
+discriminatoires. 
+
+Préalablement à leur entrée en vigueur, les tarifs des redevances d'utilisation des réseaux fermés de distribution
+d'électricité sont approuvés par la Commission de régulation de l'énergie, qui dispose d'un délai de quatre mois à compter de
+la date de réception d'un dossier complet pour rendre sa décision. A l'expiration de ce délai, les tarifs sont réputés
+approuvés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L344-10 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-5
+
+
+###### Article L344-10
+
+Le gestionnaire d'un réseau fermé de distribution d'électricité peut demander à la Commission de régulation de l'énergie
+d'être exempté des obligations prévues à l'article L. 344-9. 
+
+Pour chacune de ces exemptions, la Commission de régulation de l'énergie fixe la composition du dossier. Elle dispose d'un
+délai de quatre mois à compter de la date de réception d'un dossier complet pour rendre sa décision. A l'expiration de ce
+délai, la demande est réputée acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L344-11 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-9
+
+
+###### Article L344-11
+
+Lorsque l'exemption à l'obligation d'approbation préalable des tarifs des redevances d'utilisation d'un réseau fermé de
+distribution d'électricité, prévue à l'article L. 344-10, a été accordée, un utilisateur de ce réseau peut demander à la
+Commission de régulation de l'énergie de statuer, après les avoir vérifiés, sur les tarifs des redevances perçues pour
+l'utilisation de ce réseau fermé. 
+
+La Commission de régulation de l'énergie se prononce sur les tarifs des redevances dans un délai de quatre mois à compter de
+la date à laquelle elle dispose de toutes les informations qui lui sont nécessaires. 
+
+La décision de refus d'approbation des tarifs de redevances par la Commission de régulation de l'énergie est motivée et
+notifiée au gestionnaire du réseau fermé de distribution d'électricité. La commission met en demeure celui-ci de lui
+soumettre, dans un délai qu'elle fixe, une proposition de tarifs conforme aux motifs de sa décision. La commission dispose
+d'un délai de quatre mois pour statuer sur cette proposition. 
+
+A l'expiration des délais mentionnés aux deuxième et troisième alinéas, les tarifs sont réputés approuvés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L344-10
+
+
+##### Section 4 : Sanctions pénales
+
+###### Article L344-12
+
+Le fait de construire ou d'exploiter un réseau fermé de distribution d'électricité sans être titulaire de l'autorisation
+prévue à l'article L. 344-7 est puni d'un an d'emprisonnement et de 150 000 euros d'amende. 
+
+Les personnes physiques coupables de l'infraction prévue au premier alinéa encourent également les peines complémentaires
+prévues à l'article L. 343-5. 
+
+Les personnes morales déclarées pénalement responsables de l'infraction prévue au premier alinéa encourent les peines
+complémentaires prévues à l'article L. 343-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L343-5
+	  - Code de l'énergie - art. L343-6 (V)
+	  - Code de l'énergie - art. L344-7
+
+
+###### Article L344-13
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1725 du 15 décembre 2016 - art. 1
 
 
 ### TITRE V : LES DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ELECTRICITE
@@ -33322,13 +33640,13 @@ le cas échéant, d'accompagnement du consommateur, de maintenance et de prise e
 
 ###### Article R121-27
 
-I.-Les surcoûts qui peuvent résulter de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des contrats
+I. - Les surcoûts qui peuvent résulter de la mise en œuvre des articles L. 311-10 à L. 311-13-5 dans le cadre des contrats
 conclus en application du 1° de l'article L. 311-12 ou de la mise en œuvre de l'obligation d'achat prévue par les articles L.
 314-1 ou L. 314-26 ainsi que des contrats d'achat mentionnés à l'article L. 121-27 correspondent pour une année donnée : 
 
 1° Lorsqu'ils sont supportés par Electricité de France ou par les organismes agréés mentionnés à l'article L. 314-6-1 dans
 les zones interconnectées au réseau métropolitain continental, à la différence entre le prix d'acquisition de l'électricité
-payé en exécution des contrats en cause et les prix de marché de l'électricité ;
+payé en exécution des contrats en cause et les prix de marché de l'électricité ; 
 
 1° bis Lorsqu'ils sont supportés par l'acheteur de dernier recours mentionné à l'article L. 314-26, à la différence entre le
 prix d'acquisition de l'électricité payé en exécution des contrats en cause et les prix de marché de l'électricité, augmentée
@@ -33349,23 +33667,23 @@ l'objet des contrats mentionnés au 4° ;
 
 4° Lorsqu'ils sont supportés par Electricité de France en raison de l'achat à une entreprise locale de distribution d'un
 surplus d'électricité en application de l'article L. 314-5, à la différence entre le prix d'acquisition de l'électricité payé
-en exécution des contrats en cause et les prix de marché de l'électricité ;
+en exécution des contrats en cause et les prix de marché de l'électricité ; 
 
 5° Aux coûts supportés par Electricité de France, les entreprises locales de distribution et les organismes agréés mentionnés
 à l'article L. 314-6-1 correspondant au montant intégral de la prime mentionnée à l'article L. 314-7 applicable aux
-producteurs également consommateurs de tout ou partie de l'électricité qu'ils produisent.
+producteurs également consommateurs de tout ou partie de l'électricité qu'ils produisent. 
 
-I bis.-Les surcoûts mentionnés au I sont, le cas échéant, diminués des indemnités de résiliation mentionnées à l'article R.
-314-9 et à l'article R. 311-27-3. 
+I bis. - Les surcoûts mentionnés au I sont, le cas échéant, diminués des indemnités de résiliation mentionnées à l'article R.
+314-9, à l'article R. 311-27-3 et à l'article R. 311-32 
 
-I ter.-Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse de
-contrats conclus à la suite d'une procédure de mise en concurrence relevant du 2° de l'article L. 311-12 ou des contrats
+I ter. - Les charges qui résultent de la conclusion de contrats ouvrant droit au complément de rémunération, qu'il s'agisse
+de contrats conclus à la suite d'une procédure de mise en concurrence relevant du 2° de l'article L. 311-12 ou des contrats
 prévus à l'article L. 314-18, correspondent pour une année civile donnée aux sommes versées au titre du complément de
 rémunération par Electricité de France aux producteurs bénéficiaires de tels contrats, diminuées le cas échéant des sommes
 dues par les producteurs à Electricité de France au titre des dispositions de l'article R. 314-49 et des indemnités de
-résiliation mentionnées à l'article R. 314-9 et à l'article R. 311-27-3. 
+résiliation mentionnées à l'article R. 314-9, à l'article R. 311-27-3 et à l'article R. 311-32. 
 
-II.-Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
+II. - Les surcoûts que peuvent supporter Electricité de France, une entreprise locale de distribution, un organisme agréé
 mentionné L. 314-6-1 du code de l'énergie ou Electricité de Mayotte lorsqu'ils sont retenus à la suite d'une procédure de
 mise en concurrence prévue aux articles L. 311-10 à L. 311-13-1 ou lorsqu'ils exploitent une installation mentionnée aux 1°
 et 2° de l'article L. 314-1 sont évalués selon les règles prévues, selon le cas, aux 1°, 2° et 3° du I. 
@@ -33375,8 +33693,8 @@ durée et d'équivalent de prix y figurant sont conformes, dans les cas d'applic
 engagements pris par l'entreprise à l'issue de la procédure de mise en concurrence et, dans les cas d'application de
 l'article L. 314-1, aux conditions fixées par les articles R. 314-6 à R. 314-23 et les arrêtés pris pour leur application. 
 
-III.-Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux de
-gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
+III. - Les surcoûts supportés par les fournisseurs de gaz naturel au titre de l'achat du biométhane injecté dans les réseaux
+de gaz naturel conformément aux dispositions de l'article L. 446-2 correspondent, pour une année donnée, d'une part, à la
 différence entre le prix d'acquisition du biométhane payé en exécution des contrats en cause et le prix moyen constaté sur le
 marché de gros du gaz naturel de la zone d'équilibrage concernée et, d'autre part, aux coûts de gestion supplémentaires
 directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre de ce dispositif.
@@ -33385,20 +33703,28 @@ directement induits pour ces fournisseurs de gaz naturel par la mise en œuvre d
 
 	**Modifié par**:
 
-	  - Décret n°2016-1129 du 17 août 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L121-27
-	  - Code de l'énergie - art. L311-10
-	  - Code de l'énergie - art. L311-13-1
-	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L314-26 (V)
 	  - Code de l'énergie - art. L314-5
+	  - Code de l'énergie - art. L314-6-1 (V)
+	  - Code de l'énergie - art. L314-7 (V)
 	  - Code de l'énergie - art. L337-1
 	  - Code de l'énergie - art. L337-8
 	  - Code de l'énergie - art. L446-2
+	  - Code de l'énergie - art. R311-27-3 (V)
+	  - Code de l'énergie - art. R311-32 (V)
 	  - Code de l'énergie - art. R314-23
-	  - Code de l'énergie - art. R314-6
+	  - Code de l'énergie - art. R314-49 (V)
+	  - Code de l'énergie - art. R314-6 (V)
+	  - Code de l'énergie - art. R314-9 (V)
 
 	**Cité par**:
 
@@ -33699,6 +34025,36 @@ informations nécessaires.
 	  - Code de l'énergie - art. R121-57 (V)
 	  - Code de l'énergie - art. R121-58 (M)
 	  - Code de l'énergie - art. R121-59 (M)
+
+
+###### Article R121-31-1
+
+Pour le calcul des charges à compenser, en l'absence de tout constat de manquement en application des deux premiers alinéas
+de l'article L. 311-14 ou de non-conformité par un organisme agréé en application des articles R. 311-47 et R. 311-48 ou par
+un délégataire en application de l'article R. 311-49, les contrats conclus en application du 1° ou du 2° de l'article L.
+311-12 et ceux conclus en application des articles L. 314-1, L. 314-18 et, le cas échéant, L. 314-26 sont présumés conformes
+aux dispositions législatives et réglementaires et aux cahiers des charges des procédures de mise en concurrence à l'issue
+desquelles ils ont été, le cas échéant, conclus. 
+
+Les charges mentionnées à l'article L. 121-7 relatives aux sommes versées par le cocontractant avant le constat d'un
+manquement ou d'une non-conformité sont intégralement compensées, sauf inexacte application des dispositions réglementaires
+applicables ou mauvaise exécution des contrats constatée par ailleurs par la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L314-26 (V)
+	  - Code de l'énergie - art. R311-47 (V)
 
 
 ###### Article R121-32
@@ -38774,10 +39130,10 @@ La formule du serment est la suivante :
 ###### Article R142-15
 
 Des arrêtés pris par le ministre chargé de l'énergie ou le ministre chargé de l'économie habilitent, parmi les fonctionnaires
-et agents placés sous son autorité ayant les connaissances techniques et juridiques nécessaires, les enquêteurs chargés de
-procéder aux enquêtes prévues à l'article L. 142-20. 
+et agents publics du ministère chargé de l'énergie et du ministère chargé de l'économie ayant les connaissances techniques et
+juridiques nécessaires, ceux qui sont chargés de procéder aux enquêtes prévues à l'article L. 142-20. 
 
-Ces arrêtés précisent l'objet et la durée de l'habilitation.
+Ces arrêtés précisent l'objet circonscription géographique, et la durée de l'habilitation.
 
 **Liens relatifs à cet article**
 
@@ -38785,30 +39141,26 @@ Ces arrêtés précisent l'objet et la durée de l'habilitation.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L142-20 (V)
+	  - Code de l'énergie - art. L142-20
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R142-16 (V)
-	  - Code de l'énergie - art. R142-17 (M)
+	  - Code de l'énergie - art. R142-17 (V)
 
 
 ###### Article R142-16
 
-Des arrêtés du ministre chargé de l'énergie habilitent, parmi les fonctionnaires et agents placés sous son autorité ayant les
-connaissances techniques et juridiques nécessaires, après avis du procureur de la République auprès du tribunal de grande
-instance de leur résidence administrative, les enquêteurs chargés de rechercher et de constater par procès-verbal les
-infractions aux dispositions du présent code relatives aux marchés du gaz et de l'électricité et au service public de
-l'énergie. 
-
-Les fonctionnaires ou agents ainsi habilités prêtent serment devant le tribunal de grande instance de leur résidence
-administrative. 
+Les fonctionnaires et agents publics habilités par le ministre chargé de l'énergie ou par le ministre chargé de l'économie en
+application de l'article R. 142-15 sont qualifiés pour procéder, dans l'exercice de leurs fonctions, à la recherche et à la
+constatation des infractions mentionnées à l'article L. 142-37, après leur assermentation devant le tribunal de grande
+instance de leur résidence administrative. 
 
 La formule du serment est la suivante : 
 
@@ -38822,18 +39174,24 @@ fonctions ".
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-37 (V)
+	  - Code de l'énergie - art. R142-15 (V)
 
 
 ###### Article R142-17
 
-Un titre portant mention de l'habilitation, de son objet et de sa durée est délivré par le ministre compétent aux enquêteurs
-qu'il a désignés en application des articles R. 142-15 et R. 142-16. Il peut être renouvelé. Il est immédiatement restitué
-par l'intéressé en cas de cessation des fonctions ayant justifié l'habilitation ou en cas de retrait de cette dernière. 
+Un titre portant mention de l'habilitation prévue à l'article R. 142-15, ainsi que de la durée et du champ géographique de sa
+validité, est délivré par le ministre compétent aux agents et fonctionnaires mentionnés à l'article R. 142-16. Il peut être
+renouvelé. Il est immédiatement restitué par l'intéressé à la cessation des fonctions ayant justifié l'habilitation ou en cas
+de retrait de celle-ci.
 
-Le modèle du titre d'habilitation est établi par le ministre chargé de l'énergie.
+Des modèles de titres d'habilitation sont établis par le ministre chargé de l'énergie. 
 
 - Mention de la prestation de serment est portée, le cas échéant, sur ce titre par les soins du greffier du tribunal de
 grande instance. 
@@ -38846,9 +39204,9 @@ L'enquêteur est muni de son titre lorsqu'il exerce ses missions.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 1
 
 	**Cite**:
 
@@ -45754,8 +46112,6 @@ demande qui en est faite par le candidat retenu, conformément aux engagements c
 	  - Code de l'énergie - art. L311-12
 
 
-##### Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
-
 ###### Article R311-27-1
 
 Les contrats mentionnés au 1° ou au 2° de l'article L. 311-12 sont conclus pour l'installation et restent en vigueur tout au
@@ -45764,16 +46120,44 @@ en concurrence, sous réserve de la résiliation ou de la suspension de ce contr
 Electricité de France, le cas échéant avec les entreprises locales de distribution, et approuvés par le ministre chargé de
 l'énergie. 
 
-La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à Electricité de France ou, le cas échéant, à
-l'entreprise locale de distribution, d'une attestation de conformité de son installation aux prescriptions fixées par le
-cahier des charges de la procédure de mise en concurrence et aux caractéristiques figurant dans son contrat. Cette
-attestation est établie sur la base d'un modèle approuvé par le ministre chargé de l'énergie, à la demande du producteur, par
-un organisme agréé en application de l'article L. 311-13-5. Elle n'est délivrée que lorsque l'installation est achevée à la
-puissance installée figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse à
-Electricité de France ou, le cas échéant, à l'entreprise locale de distribution. 
+La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à la société Electricité de France ou, le cas
+échéant, à l'entreprise locale de distribution concernée ou à l'organisme agréé mentionné à l'article L. 314-6-1, d'une
+attestation de conformité de son installation aux prescriptions définies en application de l'article R. 311-43. Lorsque les
+cahiers des charges des procédures de mise en concurrence le prévoient, la prise d'effet du contrat est également subordonnée
+à l'avis favorable du préfet de région portant sur les éléments précisés par ces cahiers des charges. 
 
-Le contrat prend effet à la date souhaitée par le producteur après fourniture de cette attestation, cette date étant
-nécessairement un premier du mois.
+Cette attestation, dont le modèle est défini par arrêté du ministre chargé de l'énergie, est établie, à la demande du
+producteur, par un organisme agréé conformément à l'article L. 311-13-5. 
+
+Elle ne peut être délivrée que lorsque, à la date du contrôle, l'installation est achevée à la puissance installée figurant
+dans l'offre remise lors de la procédure de mise en concurrence, sauf disposition contraire prévue par le cahier des charges
+de cette procédure. 
+
+La date de fourniture de l'attestation est celle à laquelle le producteur l'adresse à la société Electricité de France ou, le
+cas échéant, à l'entreprise locale de distribution concernée ou à l'organisme agréé mentionné à l'article L. 314-6-1. Elle
+peut leur être adressée soit par voie postale, soit par voie dématérialisée, la charge de la preuve de l'envoi ou de la
+transmission reposant sur le producteur, en cas de litige. 
+
+Une fois fournie l'attestation, le contrat prend effet à la date souhaitée par le producteur, cette date étant un premier du
+mois, sauf disposition contraire prévue dans les modèles de contrats. 
+
+Les cahiers des charges des procédures de mise en concurrence précisent les cas dans lesquels une demande de modification du
+contrat postérieure à la transmission de l'attestation de conformité initiale entraîne, pour le producteur, l'obligation de
+fournir une nouvelle attestation. 
+
+Pour les nouveaux contrats, en cas de dépassement du délai fixé par le cahier des charges de la procédure de mise en
+concurrence pour fournir l'attestation, la durée du contrat est réduite dans des conditions précisées par le cahier des
+charges. 
+
+La prise d'effet des avenants à un contrat existant est subordonnée à la fourniture par le producteur à son cocontractant de
+l'attestation de conformité, qui intervient dans les conditions et le délai fixés par le cahier des charges de la procédure
+de mise en concurrence. En cas de dépassement de ce délai, le cocontractant en informe le préfet de région qui engage à
+l'encontre du producteur la procédure mentionnée au dernier alinéa de l'article R. 311-45. 
+
+L'énergie éventuellement livrée à la société Electricité de France ou, le cas échéant, à une entreprise locale de
+distribution ou à un organisme agréé mentionné à l'article L. 314-6-1 avant la prise d'effet d'un contrat conclu en
+application du 1° de l'article L. 311-12, notamment dans le cadre d'essais d'injection préalables à la mise en service, peut
+être rémunérée sans ouvrir droit ni à la rémunération ni à la compensation propres à ce contrat.
 
 **Liens relatifs à cet article**
 
@@ -45786,45 +46170,57 @@ nécessairement un premier du mois.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1129 du 17 août 2016 - art. 2
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L311-12
+	  - Code de l'énergie - art. L311-13-5 (V)
+	  - Code de l'énergie - art. L314-6-1 (V)
+	  - Code de l'énergie - art. R311-45 (V)
 
 
 ###### Article R311-27-2
 
-Le contrat peut être suspendu, sans prolongation de la durée totale du contrat, par Electricité de France pour un contrat
-conclu en application du 1° ou du 2° de l'article L. 311-12 ou, le cas échéant, par les entreprises locales de distribution
-pour un contrat conclu en application du 1° de l'article L. 311-12, dans les cas suivants : 
+Sans préjudice des mesures prononcées, à titre de sanctions, par le préfet de région en application de l'article L. 311-14 ou
+des décisions de justice dont l'exécution l'impose, le contrat est suspendu, sur demande du préfet de région, à titre de
+mesure de police administrative, par la société Electricité de France pour un contrat conclu en application du 1° ou du 2° de
+l'article L. 311-12 ou, le cas échéant, par l'entreprise locale de distribution concernée ou par l'organisme agréé mentionné
+à l'article L. 314-6-1 pour un contrat conclu en application du 1° de l'article L. 311-12 :
 
-- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
-dispositions de l'article L. 311-14 ; 
+- en l'absence de production pendant une durée de plus de dix-huit mois ;
 
-- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ; 
+- en cas de refus du producteur de répondre aux demandes de son cocontractant destinées à vérifier la bonne application des
+clauses du contrat ;
 
-- absence de notification par le producteur à Electricité de France ou, le cas échéant, à l'entreprise locale de
-distribution, de modifications par rapport aux clauses du contrat ; 
+- en cas de non-respect par le producteur des clauses du contrat ayant une incidence sur sa rémunération, notamment relatives
+au dispositif de comptage ;
 
-- refus du producteur de répondre aux demandes d'Electricité de France ou, le cas échéant, de l'entreprise locale de
-distribution, destinées à vérifier la bonne application des clauses du contrat ; 
+- en l'absence de notification par le producteur à son cocontractant de modifications par rapport aux clauses du contrat ;
 
-- non-respect par un producteur de ses obligations et engagements au titre de l'article R. 311-27-6 ; 
+- en l'absence de réalisation de contrôle par un producteur ou en l'absence de fourniture des données correspondant aux
+engagements souscrits au titre de l'article R. 311-27-6. 
 
-- absence de production pendant une durée de plus de dix-huit mois. 
+La suspension effectuée à titre conservatoire en application du présent article ne donne lieu à aucune prolongation de la
+durée totale du contrat. Elle ne peut excéder six mois. Au terme de cette période, l'absence de régularisation de la
+situation de fait ayant justifié la suspension entraîne l'engagement par le préfet de région de la procédure de sanction
+définie à la section 3 du présent chapitre. 
 
-Les modèles de contrat mentionnés à l'article R. 311-27-1 précisent les cas dans lesquels les suspensions susmentionnées
-conduisent à une résiliation. 
-
-Le contrat peut être résilié sur injonction du ministre chargé de l'énergie ou du préfet en cas de décision de justice ou en
-cas de décision administrative intervenant dans le cadre des dispositions de l'article L. 311-14.
+Le préfet de région transmet à la Commission de régulation de l'énergie copie des décisions prises sur le fondement du
+présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L314-6-1 (V)
+	  - Code de l'énergie - art. R311-27-6 (V)
 
 	**Cité par**:
 
@@ -45841,22 +46237,34 @@ titre du complément de rémunération depuis la date de prise d'effet du contra
 
 - dans le cas d'un contrat conclu en application du 1° de l'article L. 311-12, aux sommes actualisées perçues et versées au
 titre de l'obligation d'achat depuis la date de prise d'effet du contrat jusqu'à sa résiliation dans la limite des surcoûts,
-mentionnés au 1° de l'article L. 121-7, en résultant.
+mentionnés au 1° de l'article L. 121-7, en résultant. 
+
+Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt définitif de son installation indépendant de sa
+volonté, n'est pas tenu de verser à son cocontractant les indemnités de résiliation prévues au premier alinéa, sous réserve
+qu'il respecte les prescriptions relatives à la mise à l'arrêt définitif ou au démantèlement de son installation ou toute
+autre obligation prévue par les cahiers des charges des procédures de mise en concurrence mentionnées à l'article L. 311-10.
+Le préfet de région, dès qu'il est informé par le producteur de la mise en œuvre de ces prescriptions ou obligations et, s'il
+l'estime nécessaire, après s'être assuré de leur correcte application, informe le cocontractant que le producteur est
+dispensé du versement de ces indemnités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 4
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
+	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L311-10 (V)
 	  - Code de l'énergie - art. L311-12
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R121-27 (V)
 
+
+##### Sous-section 4 : Mise en œuvre de l'obligation d'achat ou du complément de rémunération
 
 ###### Article R311-27-4
 
@@ -46045,22 +46453,22 @@ sur le projet de cahier des charges. Son avis est réputé favorable à l'issue 
 	  - Décret n°2016-1129 du 17 août 2016 - art. 2
 
 
-##### Section 3 : Sanctions administratives et pénales
+##### Section 3 : Constatation des manquements et sanctions administratives
 
 ###### Article R311-28
 
-Dans les cas mentionnés à l'article L. 311-14, il est dressé procès-verbal de la situation irrégulière de l'installation par
-les fonctionnaires et agents mentionnés aux articles L. 142-22 à L. 142-29 ou les fonctionnaires et agents chargés des
-contrôles prévus à l'article L. 170-1 du code de l'environnement. Ce procès-verbal est adressé sans délai au préfet et au
-producteur. Copie en est transmise au ministre chargé de l'énergie, lorsqu'il n'émane pas de fonctionnaires ou d'agents qu'il
-a habilités. 
+Pour l'application de la présente section :
 
-Dans le délai d'un mois suivant la réception du procès-verbal, le préfet indique au producteur les mesures de régularisation
-qui lui sont demandées, l'invite à faire connaître l'identité du ou des acheteurs de l'électricité produite par
-l'installation, lui rappelle qu'à défaut d'exécution des mesures prescrites le contrat d'achat d'électricité qu'il a, le cas
-échéant, conclu avec la société EDF ou avec une entreprise locale de distribution mentionnée à l'article L. 111-54 sera
-suspendu ou résilié en application des dispositions de l'article L. 311-14 et l'invite à présenter ses observations dans un
-délai qu'il fixe.
+- les termes de " producteur " et d'" installation " s'entendent au sens qui leur est donné à l'article R. 314-1 ;
+
+- le terme de " cocontractant " désigne uniquement la société Electricité de France dans le cas d'un contrat de complément de
+rémunération conclu en application de l'article L. 314-18 ou du 2° de l'article L. 311-12 et, dans le cas d'un contrat
+d'achat conclu en application de l'article L. 314-1 ou du 1° de l'article L. 311-12, l'acheteur, celui-ci pouvant être soit
+la société Electricité de France, soit une entreprise locale de distribution, soit un organisme agréé mentionné à l'article
+L. 314-6-1 ;
+
+- les obligations incombant au cocontractant en vertu de la présente section incombent, le cas échéant, à l'acheteur de
+dernier recours mentionné à l'article L. 314-26.
 
 **Liens relatifs à cet article**
 
@@ -46070,37 +46478,38 @@ délai qu'il fixe.
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L170-1
-	  - Code de l'énergie - art. L111-54
-	  - Code de l'énergie - art. L142-22
-	  - Code de l'énergie - art. L311-14
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L314-26 (V)
+	  - Code de l'énergie - art. L314-6-1 (V)
+	  - Code de l'énergie - art. R314-1 (V)
 
 
 ###### Article R311-29
 
-Passé le délai imparti au producteur pour présenter ses observations et au plus tard dans les six mois suivant la réception
-du procès-verbal, le préfet constate la situation irrégulière de l'installation s'il n'y a pas été mis fin. 
+Lorsqu'un manquement est constaté en application des deux premiers alinéas de l'article L. 311-14 ou lorsqu'il est informé de
+la non-conformité d'une installation par un organisme agréé en application des articles R. 311-44 à R. 311-46, par un
+délégataire en application de l'article R. 311-47, ou par un organisme à l'égard duquel le producteur a, en vertu des
+dispositions des chapitres Ier et IV du présent titre, des obligations, le préfet de région engage à l'encontre du producteur
+une procédure de sanction. 
 
-Si l'électricité produite par l'installation fait l'objet d'un contrat d'achat par la société EDF ou par une entreprise
-locale de distribution, le préfet en prononce la résiliation ou la suspension. Cette décision est notifiée, par lettre
-recommandée avec demande d'avis de réception, au producteur et à cet acheteur et prend effet dès que l'un et l'autre ont reçu
-cette notification. 
-
-La suspension du contrat d'achat d'électricité est sans effet sur le terme initialement fixé au contrat.
+A cette fin, il met en demeure le producteur concerné de prendre les mesures nécessaires à la régularisation de sa situation
+dans un délai qu'il fixe. Il lui demande l'identité de son cocontractant et l'informe que les manquements qui lui sont
+reprochés sont susceptibles d'entraîner la suspension du contrat conclu, selon le cas, en application des articles L. 311-12,
+L. 314-1 ou L. 314-18, ainsi que du versement des sommes qu'il prévoit, et sa résiliation, en application des dispositions de
+l'article L. 311-14. Enfin, il l'invite à présenter ses observations dans un délai qu'il fixe, qui ne peut être inférieur à
+un mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -46108,19 +46517,41 @@ La suspension du contrat d'achat d'électricité est sans effet sur le terme ini
 	  - Code de l'énergie - art. R311-30 (V)
 	  - Code de l'énergie - art. R311-31 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. R311-44 (V)
+	  - Code de l'énergie - art. R311-47 (V)
+
 
 ###### Article R311-30
 
-Dès l'achèvement des mesures prises pour régulariser la situation de l'installation, le producteur en fait part au service
-qui a procédé au contrôle de l'ouvrage. Dans un délai maximum de quinze jours, celui-ci vérifie la réalisation effective de
-ces mesures et en informe le préfet. 
+Passé le délai imparti au producteur pour présenter ses observations et au regard des éléments transmis, le préfet de région
+peut demander au producteur des éléments complémentaires et, le cas échéant, fixer un nouveau délai pour qu'ils lui soient
+transmis. 
 
-En cas de suspension, le préfet abroge sans délai sa décision et en informe l'acheteur et le producteur ainsi que les
-services de l'Etat mentionnés à la présente section. L'acheteur ne peut reprendre l'exécution du contrat avant cette
-notification. 
+Une fois expirés le ou les délais ainsi impartis au producteur, le préfet peut :
 
-En cas de résiliation, l'acheteur ne peut conclure avec le producteur un nouveau contrat avant que le préfet lui ait fait
-connaître que la situation de l'installation est désormais régulière au regard des prescriptions de l'article L. 311-14.
+- soit abandonner la procédure et demander, le cas échéant, au producteur de déposer une demande de modification de son
+contrat ;
+
+- soit poursuivre la procédure. Dans ce cas, il enjoint au cocontractant de suspendre le contrat ainsi que le versement des
+sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il transmet une copie
+à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. A la réception de la demande du
+préfet, le cocontractant met en œuvre les mesures nécessaires à la suspension du contrat, conformément aux articles R. 314-8
+et R. 311-27-2 ;
+
+- soit prononcer une sanction pécuniaire à l'encontre du producteur sur le fondement des dispositions de l'article L.
+311-15. 
+
+La suspension du contrat est sans effet sur le terme qu'il a initialement fixé.
 
 **Liens relatifs à cet article**
 
@@ -46130,11 +46561,516 @@ connaître que la situation de l'installation est désormais régulière au rega
 
 	**Modifié par**:
 
-	  - Décret n°2016-170 du 18 février 2016 - art. 1
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-14
+	  - Code de l'énergie - art. L311-15 (V)
+	  - Code de l'énergie - art. R311-27-2 (V)
+	  - Code de l'énergie - art. R311-29 (V)
+	  - Code de l'énergie - art. R314-8 (V)
+
+
+###### Article R311-31
+
+Dès l'achèvement des mesures de régularisation de la situation de son installation dans le délai imparti, le producteur en
+fait part au préfet de région, qui peut demander à un agent mentionné aux articles L. 142-22 à L. 142-29 de vérifier, après
+un délai de prévenance de quarante-huit heures, la réalisation effective de ces mesures dans un délai maximum de quinze jours
+ouvrés à compter de la notification effectuée par le producteur. 
+
+A l'issue de ce délai et, le cas échéant, au vu des résultats de la vérification effectuée, le préfet indique par courrier au
+producteur s'il estime que les mesures prises permettent de regarder la situation de son installation comme régularisée. 
+
+Si tel est le cas, le préfet de région enjoint sans délai au cocontractant de lever la suspension de l'exécution du contrat
+et du versement des sommes mentionnées à l'article R. 311-29, par lettre recommandée avec demande d'avis de réception dont il
+transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. Le cocontractant
+dispose de deux semaines à compter de la réception de la demande du préfet pour lever la suspension du contrat. 
+
+La levée de la suspension du contrat prend effet à la date du constat de la régularisation de la situation de l'installation,
+indiquée dans le courrier du préfet mentionné au deuxième alinéa. Elle ne donne pas lieu au remboursement des sommes,
+mentionnées à l'article R. 311-29, non perçues durant la période de suspension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-22 (V)
+	  - Code de l'énergie - art. R311-29 (V)
+
+
+###### Article R311-32
+
+Si le producteur ne lui a pas fait part, dans le délai imparti, de mesures prises pour régulariser sa situation, le préfet de
+région enjoint au cocontractant, par lettre recommandée avec demande d'avis de réception, de résilier le contrat concerné, et
+en transmet une copie à la Commission de régulation de l'énergie. Il en informe le producteur par la même voie. A la
+réception de la demande du préfet, le cocontractant résilie le contrat à compter de cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-27 (V)
+
+
+###### Article R311-32-1
+
+S'il a demandé la résiliation du contrat, le préfet de région peut également, sur le fondement du troisième alinéa de
+l'article L. 311-14, enjoindre au producteur de rembourser à son cocontractant ou, le cas échéant, à l'acheteur de dernier
+recours mentionné à l'article L. 314-26, tout ou partie des aides qu'il a perçues au titre de son contrat, depuis la date du
+début du manquement ou de la non-conformité ou, à défaut, depuis la date de son constat jusqu'à la résiliation du contrat. La
+période à prendre en compte pour le calcul du montant de ce remboursement ne peut toutefois remonter au-delà de la date
+d'entrée en vigueur du décret n° 2016-1726 du 14 décembre 2016 relatif à la mise en service, aux contrôles et aux sanctions
+applicables à certaines installations de production d'électricité. 
+
+Le montant du remboursement ainsi mis à la charge du producteur est apprécié par le préfet en fonction de la gravité du
+manquement ou de la non-conformité et de la situation du producteur. 
+
+Ce remboursement porte :
+
+- pour un contrat de complément de rémunération conclu en application du 2° de l'article L. 311-12 ou de l'article L. 314-18,
+sur les sommes actualisées perçues au titre du complément de rémunération ;
+
+- pour un contrat d'achat conclu en application du 1° de l'article L. 311-12, de l'article L. 314-1 ou de l'article L.
+314-26, sur les sommes actualisées perçues au titre de l'obligation d'achat dans la limite des surcoûts mentionnés au 1° de
+l'article L. 121-7 en résultant. 
+
+Elles sont diminuées, le cas échéant, des sommes versées par le producteur à son cocontractant en application de l'article R.
+314-49 et des cahiers des charges des procédures de mise en concurrence mentionnées à l'article L. 311-10.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 (V)
+	  - Code de l'énergie - art. L121-7 (V)
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L314-26 (V)
+	  - Code de l'énergie - art. R314-49 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+
+##### Section 4 : Modalités de contrôle des installations de production d'électricité 
+
+
+
+##### Sous-section 1 : Agrément et obligations des organismes de contrôle
+
+
+###### Article R311-33
+
+Les organismes de contrôle mentionnés aux articles L. 311-13-5, L. 314-7-1 et L. 314-25 sont agréés selon les conditions et
+modalités prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-13-5 (V)
+	  - Code de l'énergie - art. L314-25 (V)
+	  - Code de l'énergie - art. L314-7-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-44 (V)
+	  - Code de l'énergie - art. R311-45 (V)
+	  - Code de l'énergie - art. R311-46 (V)
+
+
+###### Article R311-34
+
+Les organismes de contrôle sont agréés par un arrêté du ministre chargé de l'énergie publié au Journal officiel de la
+République française. 
+
+Le ministre chargé de l'énergie établit, actualise et rend publique la liste des organismes qu'il a agréés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+
+###### Article R311-35
+
+L'organisme qui souhaite être agréé en fait la demande au ministre chargé de l'énergie. 
+
+L'agrément est délivré pour l'ensemble des contrôles mentionnés aux articles L. 311-13-5, L. 314-7-1 et L. 314-25. 
+
+Le contenu et les modalités de transmission de cette demande sont arrêtés par le ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-13-5 (V)
+	  - Code de l'énergie - art. L314-25 (V)
+	  - Code de l'énergie - art. L314-7-1 (V)
+
+
+###### Article R311-36
+
+Ne peuvent être agréés que les organismes accrédités par le Comité français d'accréditation (COFRAC) ou par tout autre
+organisme d'accréditation signataire de l'accord de reconnaissance multilatéral établi dans le cadre de la coordination
+européenne des organismes d'accréditation (ou “ European Accreditation ”) sur la base de la norme NF EN ISO/CEI 17020
+(Evaluation de la conformité-Exigences pour le fonctionnement de différents types d'organismes procédant à l'inspection)
+appliquée aux activités définies par l'arrêté mentionné à l'article R. 311-43 comme étant soumises à contrôle sous
+accréditation, avec un niveau d'indépendance de type A. 
+
+Les organismes accrédités conformément au premier alinéa s'engagent, en outre, lorsqu'ils souhaitent obtenir l'agrément, à
+respecter les obligations posées par la présente sous-section et à se soumettre à un contrôle de la qualité de leurs
+prestations.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2016-1726 du 14 décembre 2016, à titre dérogatoire et pendant une durée de deux ans à
+compter de l'entrée en vigueur du présent décret, l'exigence d'accréditation sur la base de la norme mentionnée à l'article
+R. 311-36 du code de l'énergie, dans sa rédaction résultant du présent décret, ne s'applique qu'au domaine de l'électricité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-39 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-37
+
+L'agrément peut être retiré par arrêté du ministre chargé de l'énergie, après que le représentant de l'organisme a été invité
+à présenter ses observations, si cet organisme cesse de remplir l'une des conditions posées pour la délivrance de l'agrément
+ou s'il méconnaît les obligations que doit respecter, en vertu de la présente sous-section, tout organisme agréé. 
+
+L'organisme agréé porte sans délai à la connaissance du ministre chargé de l'énergie toute modification des éléments au vu
+desquels l'agrément lui a été délivré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+
+###### Article R311-38
+
+La qualité des prestations des organismes agréés peut être évaluée à la demande du ministre chargé de l'énergie par un
+prestataire qu'il désigne. 
+
+Les agents mentionnés à l'article L. 142-21 peuvent assister aux visites de contrôle effectuées par ces organismes, après
+avoir pris leur attache.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-21 (V)
+
+
+###### Article R311-39
+
+L'organisme agréé conserve, pour chaque installation contrôlée, les résultats des visites de l'année précédente et, au moins,
+de ses deux dernières visites. Il tient ces documents à la disposition des agents mentionnés à l'article L. 142-21. 
+
+Il transmet au préfet de région, chaque année, une liste des contrôles effectués, mentionnant pour chaque installation
+contrôlée si l'attestation de conformité mentionnée aux articles R. 311-44 et R. 311-45 a été délivrée ou refusée. Ces
+données sont confidentielles. 
+
+Il transmet au ministre chargé de l'énergie, au cours du premier trimestre de chaque année, un rapport sur son activité de
+l'année écoulée. Une copie de ce rapport est adressée à l'organisme d'accréditation mentionnée à l'article R. 311-36. 
+
+Ce rapport précise, notamment, à l'échelle nationale et départementale, le nombre de contrôles effectués pour chacune des
+filières définies à l'article R. 314-1, ainsi que la fréquence des non-conformités constatées pour chacune des prescriptions
+mentionnées à l'article R. 311-43.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-21 (V)
+	  - Code de l'énergie - art. R311-36 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R311-44 (V)
+	  - Code de l'énergie - art. R314-1 (V)
+
+
+###### Article R311-40
+
+Lorsqu'il réalise un contrôle en application des articles R. 311-44 et R. 311-45, l'organisme agréé remet au producteur
+l'attestation mentionnée à ces articles ainsi que son rapport de visite complet dans un délai d'un mois suivant la visite. Ce
+rapport comporte la totalité des résultats du contrôle et précise, le cas échéant, les points de non-conformité. 
+
+Lorsqu'il constate une non-conformité à l'occasion d'un contrôle réalisé en application de l'article R. 311-46, l'organisme
+agréé en informe le préfet de région en lui transmettant son rapport de visite complet, dans un délai n'excédant pas un mois
+suivant la visite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-44 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-45 (V)
+
+
+##### Sous-section 2 : Dispositions générales relatives aux procédures de contrôle des installations
+
+###### Article R311-41
+
+Pour l'application de la présente sous-section :
+
+- les termes de “ producteur ” et de “ cocontractant ” s'entendent au sens qui leur est donné à l'article R. 314-1 ;
+
+- les obligations incombant au cocontractant incombent, le cas échéant, à l'acheteur de dernier recours mentionné à l'article
+L. 314-26.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L314-26 (V)
+	  - Code de l'énergie - art. R314-1 (V)
+
+
+###### Article R311-42
+
+Les contrôles effectués par des organismes agréés en vertu des articles L. 311-13-5, L. 314-7-1 et L. 314-25 et par un
+délégataire en vertu de l'article L. 311-14 sont réalisés dans les conditions prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L311-13-5 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. L314-25 (V)
+	  - Code de l'énergie - art. L314-7-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-43
+
+Un arrêté du ministre chargé de l'énergie définit les modalités de contrôle du respect des prescriptions générales,
+applicables à toutes les installations quelle que soit leur date de mise en service, la filière à laquelle elles
+appartiennent ou le type de contrat conclu et la procédure d'attribution mise en œuvre. Notamment, il précise le champ des
+contrôles devant obligatoirement être effectués sous accréditation ou par le délégataire mentionné à l'article R. 311-42, il
+distingue les contrôles relevant de l'attestation de conformité initiale nécessaire à la mise en service de l'installation et
+les contrôles relevant de la nouvelle attestation de conformité, le cas échéant, nécessaire en cas de modification de
+l'installation ou du contrat en application de l'article R. 311-45 et il fixe, parmi ces prescriptions générales, celles qui
+doivent faire l'objet d'un contrôle périodique confié à un organisme agréé. 
+
+Aux prescriptions générales définies par le ministre chargé de l'énergie peuvent s'ajouter des prescriptions ne s'appliquant
+qu'à certaines installations. Ces prescriptions particulières et les modalités du contrôle de leur respect sont définies, le
+cas échéant, par les arrêtés interministériels propres à chacune des filières mentionnés à l'article R. 314-12 ou par les
+cahiers des charges des procédures de mise en concurrence mentionnés à l'article R. 311-12 ou encore par les modèles de
+contrats mentionnés aux articles R. 311-27-1 et R. 314-2. 
+
+Le non-respect par une installation d'une prescription qui lui est applicable, qu'elle soit générale ou particulière, donne
+lieu au constat d'une non-conformité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-12 (V)
+	  - Code de l'énergie - art. R311-42 (V)
+	  - Code de l'énergie - art. R311-45 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-27-1 (V)
+	  - Code de l'énergie - art. R311-36 (V)
+	  - Code de l'énergie - art. R311-39 (V)
+	  - Code de l'énergie - art. R311-44 (V)
+	  - Code de l'énergie - art. R311-46 (V)
+	  - Code de l'énergie - art. R314-7 (V)
+
+
+###### Article R311-44
+
+Afin que son contrat prenne effet en application des articles R. 314-7 et R. 311-27-1, le producteur fait réaliser un
+contrôle par un organisme agréé mentionné à l'article R. 311-33. 
+
+L'organisme agréé ne délivre pas l'attestation de conformité s'il constate le non-respect d'une des prescriptions mentionnées
+à l'article R. 311-43 ou si l'installation n'est pas achevée, à la date du contrôle, à la puissance installée figurant dans
+la demande de contrat conformément à l'article R. 314-7, sauf disposition contraire prévue par le cahier des charges de la
+procédure de mise en concurrence. 
+
+Si l'ensemble des prescriptions et l'achèvement de l'installation à la puissance figurant dans l'offre remise lors de la
+procédure de mise en concurrence sont respectés, l'organisme agréé délivre l'attestation dans les formes prévues à l'article
+R. 311-40.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-27-1 (V)
+	  - Code de l'énergie - art. R311-33 (V)
+	  - Code de l'énergie - art. R311-40 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R314-7 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-29 (V)
+	  - Code de l'énergie - art. R311-39 (V)
+
+
+###### Article R311-45
+
+Lorsque le producteur adresse à son cocontractant, pour une installation ayant déjà fait l'objet d'une attestation de
+conformité, une demande de modification de son contrat en application de l'article R. 314-5 ou du cahier des charges d'une
+procédure de mise en concurrence et que cette demande relève de l'un des cas pour lesquels les arrêtés mentionnés à l'article
+R. 311-43 ou le cahier des charges de la procédure de mise en en concurrence prévoient la production d'une nouvelle
+attestation de conformité, il fait réaliser un nouveau contrôle de son installation par un organisme agréé mentionné à
+l'article R. 311-33. 
+
+Si l'ensemble des prescriptions sont respectées, l'organisme agréé délivre une nouvelle attestation de conformité dans les
+formes prévues à l'article R. 311-40. 
+
+Si l'organisme agréé constate le non-respect d'une des prescriptions mentionnées à l'article R. 311-43, il ne délivre pas de
+nouvelle attestation de conformité. Dans ce cas, le producteur dispose du délai mentionné dans son contrat pour régulariser
+sa situation et faire procéder à un nouveau contrôle. Si le producteur ne transmet pas la nouvelle attestation de conformité
+dans ce délai au cocontractant, ce dernier en informe le préfet de région qui engage, à l'encontre du producteur, la
+procédure de sanction définie à la section 3 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R311-27-1 (V)
+	  - Code de l'énergie - art. R314-7 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-33 (V)
+	  - Code de l'énergie - art. R311-40 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R314-5 (V)
+
+
+###### Article R311-46
+
+Le producteur fait, en outre, réaliser, par un organisme agréé mentionné à l'article R. 311-33, tout contrôle périodique de
+son installation, qui peut soit lui être imposé à titre individuel par le ministre chargé de l'énergie ou le préfet de
+région, soit, le cas échéant, être prévu par les arrêtés de prescriptions applicables à l'installation, mentionnés à
+l'article R. 311-43. L'autorité administrative ou, le cas échéant, les arrêtés de prescriptions précisent les points sur le
+respect desquels porte ce contrôle périodique ainsi que, s'il y a lieu, sa périodicité. 
+
+Si une non-conformité est constatée, l'organisme agréé en informe le préfet de région, qui engage, à l'encontre du
+producteur, la procédure de sanction définie à la section 3 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R311-33 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+
+
+###### Article R311-47
+
+Les délégataires mentionnés au sixième alinéa de l'article L. 311-14 sont désignés par le ministre chargé de l'énergie. Cette
+décision est rendue publique. Elle autorise les délégataires à effectuer les contrôles que le ministre définit sur les
+installations qu'il désigne. 
+
+Lorsqu'il constate une non-conformité sur une installation, le délégataire en informe le ministre chargé de l'énergie qui
+demande au préfet de région d'engager, à l'encontre du producteur concerné, la procédure de sanction définie à la section 3
+du présent chapitre. 
+
+Les délégataires tiennent à la disposition des agents mentionnés à l'article L. 142-21 et du ministre chargé de l'énergie les
+résultats des contrôles qu'ils effectuent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-21 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-31-1 (V)
+	  - Code de l'énergie - art. R311-29 (V)
 
 
 #### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables
@@ -46142,42 +47078,6 @@ connaître que la situation de l'installation est désormais régulière au rega
 ##### Section 1 : Les dispositifs de soutien aux énergies renouvelables
 
 ##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération
-
-###### Article D314-1-1
-
-Pour le calcul de la puissance installée des installations pouvant bénéficier de l'obligation d'achat ou du complément de
-rémunération sur un site de production, deux machines électrogènes appartenant à une même catégorie d'installations
-exploitées par une même personne ou par des sociétés qu'elle contrôle directement ou indirectement au sens de l'
-article L. 233-3 du code de commerce
-ne peuvent être considérées comme situées sur deux sites distincts si la distance qui les sépare est inférieure à : 
-
-1° 100 mètres dans le cas d'installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées
-gravitairement ; 
-
-2° 50 mètres dans le cas d'installations de cogénération d'électricité et de chaleur valorisée, à partir de gaz naturel ; 
-
-3° 1 500 mètres dans le cas d'installations utilisant à titre principal le biogaz produit par méthanisation de matières
-résultant du traitement des eaux usées urbaines ou industrielles, d'installations utilisant à titre principal le biogaz issu
-d'installations de stockage de déchets non dangereux, d'installations utilisant à titre principal le biogaz produit par
-méthanisation de déchets non dangereux et de matière végétale brute, d'installations qui valorisent l'énergie dégagée par la
-combustion ou l'explosion de gaz de mine ; 
-
-4° 250 mètres dans le cas d'installations utilisant l'énergie solaire photovoltaïque.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-691 du 28 mai 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de commerce - art. L233-3
-
 
 ###### Article D314-14-1
 
@@ -46357,9 +47257,11 @@ La demande mentionnée à l'article R. 314-3, établie par le producteur, compre
 
 1° Les données relatives au producteur : s'il s'agit d'une personne physique, ses nom, prénoms et domicile et, s'il s'agit
 d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, le numéro d'identité de l'établissement
-auquel appartient l'installation au répertoire national des entreprises et des établissements, l'adresse de son siège social
-ainsi que la qualité du signataire de la demande, et lorsque le dossier est déposé par un mandataire, la preuve d'un mandat
-exprès autorisant le mandataire à agir au nom et pour le compte du producteur ; 
+auquel appartient l'installation au répertoire national des entreprises et des établissements, le groupe de la nomenclature
+statistique des activités économiques dans la Communauté européenne (ou NACE) dont relève le secteur d'activité auquel
+appartient l'installation,  l'adresse de son siège social ainsi que la qualité du signataire de la demande, et lorsque le
+dossier est déposé par un mandataire, la preuve d'un mandat exprès autorisant le mandataire à agir au nom et pour le compte
+du producteur ; 
 
 2° Les caractéristiques principales de l'installation de production objet du contrat d'achat ou du contrat de complément de
 rémunération :
@@ -46386,10 +47288,6 @@ demande.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 3 novembre 2016 - art. 5 (V)
@@ -46407,27 +47305,31 @@ demande.
 	  - Arrêté du 9 mai 2017 - art. 8 (V)
 	  - Code de l'énergie - art. R314-11 (M)
 	  - Code de l'énergie - art. R314-29 (V)
-	  - Code de l'énergie - art. R314-6 (M)
+	  - Code de l'énergie - art. R314-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-12 (V)
-	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-12
+	  - Code de l'énergie - art. R314-3
 
 
 ###### Article R314-5
 
-I.-Jusqu'à la transmission de l'attestation de conformité mentionnée à l'article R. 314-7, le producteur peut modifier sa
-demande de contrat. La demande de modification de la demande initiale transmise au cocontractant comporte exclusivement les
-éléments objet de modifications. 
+I. - Jusqu'à la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7, le producteur peut
+modifier sa demande de contrat. La demande de modification de la demande initiale transmise au cocontractant comporte
+exclusivement les éléments objet de modifications. 
 
 Seuls les éléments suivants peuvent faire l'objet d'une demande modificative :
 
 - les données relatives au producteur ;
 
 - la puissance, dans la limite du seuil d'éligibilité à l'obligation d'achat ou au complément de rémunération et dans les
-limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite, dans tous les cas, de 30 % de la
-puissance déclarée dans la demande initiale ;
+limites fixées par les arrêtés mentionnés à l'article R. 314-12 ainsi que dans la limite de 30 % de la puissance déclarée
+dans la demande initiale, pour les installations d'une puissance installée strictement supérieure à 100 kilowatts ;
 
 - les autres éléments éventuellement prévus par les arrêtés mentionnés à l'article R. 314-12. 
 
@@ -46436,19 +47338,17 @@ Tout autre élément de la demande ne peut être modifié que dans le cadre d'un
 Si le contrat a été signé, il peut être modifié par avenant, dans les mêmes limites que ci-dessus. La demande d'avenant
 comporte exclusivement les éléments objet de modifications. 
 
-II.-Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels et les modalités selon lesquelles le
-producteur peut demander des modifications de son contrat d'achat ou de son contrat de complément de rémunération après la
-transmission de l'attestation de conformité mentionnée à l'article R. 314-7.
+II. - Les arrêtés mentionnés à l'article R. 314-12 prévoient les cas dans lesquels le producteur peut demander des
+modifications de son contrat après la transmission de l'attestation de conformité initiale mentionnée à l'article R. 314-7 et
+en fixent les modalités. Le producteur indique, dans sa demande, si ces modifications peuvent conduire à une modification des
+conditions initiales relatives à la construction ou au fonctionnement de l'installation. Il précise, le cas échéant, la
+nature de cette modification des conditions initiales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -46462,17 +47362,22 @@ transmission de l'attestation de conformité mentionnée à l'article R. 314-7.
 	  - Arrêté du 9 mai 2017 - art. 7 (V)
 	  - Code de l'énergie - art. R311-45 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de l'énergie - art. R314-12 (V)
-	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. R314-12
+	  - Code de l'énergie - art. R314-7
 
 
 ###### Article R314-6
 
-Après instruction et dans un délai de trois mois à compter de la réception de l'ensemble des éléments mentionnés à l'article
-R. 314-4, le cocontractant transmet au producteur le projet de contrat relatif à l'installation concernée. Le producteur
-retourne le projet signé au cocontractant, qui le signe à son tour. 
+Après instruction et, pour les installations d'une puissance installée ou d'une puissance installée supérieure à 100
+kilowatts, dans un délai de trois mois à compter de la réception de l'ensemble des éléments mentionnés à l'article R. 314-4,
+le cocontractant transmet au producteur le projet de contrat relatif à l'installation concernée. Le producteur retourne le
+projet signé au cocontractant, qui le signe à son tour. 
 
 En application des articles L. 314-1 et L. 314-18, le contrat conclu pour une installation reste en vigueur tout au long de
 la vie de cette installation, dans la limite de la durée fixée par les arrêtés mentionnés à l'article R. 314-12 et sous
@@ -46486,7 +47391,7 @@ réserve de la résiliation ou de la suspension de ce contrat.
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
@@ -46496,35 +47401,63 @@ réserve de la résiliation ou de la suspension de ce contrat.
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R121-27 (M)
+	  - Code de l'énergie - art. R121-27 (V)
 	  - Code de l'énergie - art. R314-12 (M)
 	  - Code de l'énergie - art. R314-14 (M)
 
 
 ###### Article R314-7
 
-La prise d'effet du contrat est subordonnée à la transmission par le producteur au cocontractant d'une attestation de
-conformité de son installation aux prescriptions fixées par les arrêtés mentionnés à l'article R. 314-12 et aux
-caractéristiques figurant dans le contrat. Cette attestation est établie, sur la base d'un modèle approuvé par le ministre
-chargé de l'énergie et à la demande du producteur, par un organisme agréé en application, selon le cas, de l'article L.
-314-7-1 ou de l'article L. 314-25. Elle n'est délivrée que lorsque l'installation est achevée à la puissance installée
-figurant dans le contrat. La date de sa fourniture est celle à laquelle le producteur l'adresse au cocontractant. 
+La prise d'effet du contrat est subordonnée à la fourniture, par le producteur à son cocontractant, d'une attestation de la
+conformité de son installation aux prescriptions mentionnées à l'article R. 311-43. Cette attestation, dont le modèle est
+défini par arrêté du ministre chargé de l'énergie, est établie à la demande du producteur par un organisme agréé en
+application, selon le cas, de l'article L. 314-7-1 ou de l'article L. 314-25. La date de fourniture de l'attestation est
+celle à laquelle le producteur l'adresse au cocontractant, soit par voie postale, soit par voie dématérialisée, la charge de
+la preuve de l'envoi ou de la transmission reposant sur le producteur en cas de litige. 
 
-En cas de dépassement du délai fixé par les arrêtés mentionnés à l'article R. 314-12, dans lequel doit être fournie
-l'attestation, la durée du contrat est réduite dans les conditions prévues par ces mêmes arrêtés. 
+Lorsque les arrêtés régissant les filières mentionnés à l'article R. 314-12 le prévoient, la prise d'effet du contrat est
+également subordonnée à l'avis favorable du préfet de région portant sur les éléments précisés par ces arrêtés. 
 
-Le contrat prend effet, après fourniture de cette attestation, le premier jour du mois souhaité par le producteur, sauf
-disposition spécifique prévue par les arrêtés mentionnés ci-dessus.
+Par dérogation au premier alinéa, les producteurs des installations mentionnées au 3° de l'article D. 314-15, des
+installations mentionnées au 4° de l'article D. 314-15 et d'une puissance inférieure à 100 kilowatts ainsi que des
+installations mentionnées au 9° de l'article D. 314-15 et d'une puissance inférieure à 50 kilowatts ne sont pas soumis à la
+transmission d'une attestation de conformité. Pour ces installations, la prise d'effet du contrat est subordonnée à la
+fourniture par le producteur d'une attestation sur l'honneur par laquelle il déclare avoir fait construire son installation
+par des personnes possédant les qualifications requises, employer des équipements conformes aux normes et réglementations en
+vigueur et respecter les dispositions de sa demande de contrat et de la réglementation applicable à son installation. Avant
+la prise d'effet du contrat, l'énergie éventuellement livrée au cocontractant n'est pas rémunérée. Lorsque les arrêtés
+mentionnés à l'article R. 314-12 régissant les filières des installations le prévoient, certains points de cette attestation
+sur l'honneur peuvent être attestés par l'entreprise ayant réalisé l'installation. Le modèle de cette attestation est défini
+par le modèle de contrat mentionné à l'article R. 314-2 pour la filière concernée. 
+
+Ces attestations ne sont délivrées que lorsque l'installation est achevée, soit à la puissance installée figurant dans la
+demande de contrat mentionnée à l'article R. 314-3 soit, si le contrat a déjà été signé, à la puissance installée figurant
+dans le contrat. 
+
+L'énergie éventuellement livrée au cocontractant, avant la prise d'effet d'un contrat conclu en application de l'article L.
+314-1, notamment dans le cadre d'essais d'injection préalables à la mise en service, peut être rémunérée sans ouvrir droit ni
+à la rémunération, ni à la compensation propres à ce contrat. 
+
+Les arrêtés mentionnés à l'article R. 311-43 précisent les cas dans lesquels une demande de modification du contrat
+postérieure à la transmission de l'attestation de conformité initiale entraîne, pour le producteur, l'obligation de fournir
+une nouvelle attestation de conformité. 
+
+Pour les nouveaux contrats, en cas de dépassement du délai fixé par les arrêtés mentionnés à l'article R. 314-12, dans lequel
+doit être fournie l'attestation, la durée du contrat est réduite dans les conditions prévues par ces mêmes arrêtés. 
+
+La prise d'effet des avenants à un contrat existant est subordonnée à la fourniture de l'attestation, qui intervient dans des
+conditions et un délai fixés par les modèles de contrat mentionnés à l'article R. 314-2. En cas de dépassement de ce délai,
+le cocontractant en informe le préfet de région, qui engage à l'encontre du producteur la procédure mentionnée au dernier
+alinéa de l'article R. 311-45. 
+
+Le contrat prend effet, après la fourniture de cette attestation, le premier jour du mois souhaité par le producteur, sauf
+disposition contraire prévue par les arrêtés mentionnés à l'article R. 314-12.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -46563,38 +47496,49 @@ disposition spécifique prévue par les arrêtés mentionnés ci-dessus.
 	  - Code de l'énergie - art. R314-8 (M)
 	  - Code de l'énergie - art. R314-9 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-25
-	  - Code de l'énergie - art. L314-7-1
+	  - Code de l'énergie - art. D314-15 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-25 (V)
+	  - Code de l'énergie - art. L314-7-1 (V)
+	  - Code de l'énergie - art. R311-43 (V)
+	  - Code de l'énergie - art. R311-45 (V)
 	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-2 (V)
+	  - Code de l'énergie - art. R314-3 (V)
 
 
 ###### Article R314-8
 
-Le contrat peut être suspendu, sans prolongation de sa durée, par le cocontractant dans les cas suivants :
+Sans préjudice des mesures prononcées, à titre de sanctions, par le préfet de région en application de l'article L. 311-14 ou
+des décisions de justice dont l'exécution l'impose, le contrat est suspendu, sur demande du préfet de région, à titre de
+mesure de police administrative, par le cocontractant :
 
-- en cas de décision de justice ou en cas de décision administrative prononçant la suspension du contrat dans le cadre des
-dispositions de l'article L. 311-14 ;
+- en l'absence de production pendant une durée de plus de dix-huit mois ;
 
-- cas prévus par le contrat, notamment en cas de non-respect des dispositions relatives au comptage ;
+- en cas de refus du producteur de répondre aux demandes de son cocontractant destinées à vérifier la bonne application des
+clauses du contrat ;
 
-- absence de notification par le producteur au cocontractant de modifications par rapport aux termes de la demande initiale
-de contrat ou aux clauses du contrat ;
+- en cas de non-respect par le producteur des clauses du contrat ayant une incidence sur sa rémunération, notamment relatives
+au dispositif de comptage ;
 
-- refus du producteur de répondre aux demandes du cocontractant destinées à vérifier la bonne application des clauses du
-contrat ;
+- en l'absence de notification par le producteur à son cocontractant de modifications par rapport aux clauses du contrat ;
 
-- non-respect par le producteur de ses obligations et engagements au titre de l'article R. 314-14 et le cas échéant de
-l'article R. 314-17 ou de l'article R. 314-32 ;
+- en l'absence de réalisation de contrôle par un producteur ou en l'absence de fourniture des données correspondant aux
+engagements souscrits au titre de l'article R. 314-1. 
 
-- absence de production pendant une durée de plus de dix-huit mois. 
+La suspension effectuée à titre conservatoire en application du présent article ne donne lieu à aucune prolongation de la
+durée totale du contrat. Elle ne peut excéder six mois. Au terme de cette période, l'absence de régularisation de la
+situation de fait ayant justifié la suspension entraîne l'engagement par le préfet de région de la procédure de sanction
+définie à la section 3 du chapitre 1er du présent titre. 
 
-Les modèles de contrat mentionnés à l'article R. 314-2 précisent les cas dans lesquels ces suspensions conduisent à une
-résiliation. 
-
-Le contrat peut être résilié en cas de décision de justice ou en cas de décision administrative intervenant dans le cadre des
-dispositions de l'article L. 311-14.
+Le préfet de région transmet à la Commission de régulation de l'énergie copie des décisions prises sur le fondement du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -46604,15 +47548,12 @@ dispositions de l'article L. 311-14.
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L311-14
-	  - Code de l'énergie - art. R314-14 (V)
-	  - Code de l'énergie - art. R314-17 (V)
-	  - Code de l'énergie - art. R314-2 (V)
-	  - Code de l'énergie - art. R314-32 (V)
+	  - Code de l'énergie - art. L311-14 (V)
+	  - Code de l'énergie - art. R314-1 (V)
 
 	**Cité par**:
 
@@ -46630,17 +47571,21 @@ le producteur avant le terme prévu. Ces indemnités sont égales :
 rémunération depuis la date de prise d'effet du contrat jusqu'à sa résiliation ;
 
 - pour un contrat d'achat, aux sommes actualisées perçues et versées au titre de l'obligation d'achat depuis la date de prise
-d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentionnés au 1° de l'article L. 121-7 en résultant.
+d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentionnés au 1° de l'article L. 121-7 en résultant. 
+
+Le producteur qui demande la résiliation de son contrat à la suite de l'arrêt définitif de son installation indépendant de sa
+volonté ou dans les cas prévus par les arrêtés de filières mentionnés à l'article R. 314-12, n'est pas tenu de verser les
+indemnités de résiliation prévues au premier alinéa, sous réserve qu'il respecte les prescriptions relatives à la mise à
+l'arrêt définitif ou au démantèlement de son installation ou toute autre condition spécifique prévues par ces arrêtés. Le
+préfet de région, dès qu'il est informé par le producteur de la mise en œuvre de ces prescriptions ou conditions et, s'il
+l'estime nécessaire, après s'être assuré de leur correcte application, informe le cocontractant que le producteur est
+dispensé du versement de ces indemnités.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -46653,13 +47598,17 @@ d'effet du contrat jusqu'à sa résiliation, dans la limite des surcoûts mentio
 	  - Arrêté du 9 mai 2017 - art. 13 (V)
 	  - Code de l'énergie - art. R121-27 (V)
 	  - Code de l'énergie - art. R314-11 (M)
-	  - Code de l'énergie - art. R314-12 (M)
 	  - Code de l'énergie - art. R314-13 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L121-7
-	  - Code de l'énergie - art. R314-2 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-2
 
 
 ###### Article R314-10
@@ -46791,6 +47740,29 @@ que l'arrêté.
 	  - Code général des collectivités territoriales - art. L2224-14
 	  - Code de l'énergie - art. L314-20
 	  - Code de l'énergie - art. L314-4
+
+
+###### Article R314-12-1
+
+Les conditions d'achat ainsi que les conditions de complément de rémunération figurant dans les arrêtés de filières
+mentionnés à l'article R. 314-12 sont réexaminées annuellement et, le cas échéant, sont révisées. Ces révisions prennent en
+compte le niveau des coûts et des recettes des installations performantes et représentatives des filières au moment de la
+révision, ainsi que, le cas échéant, les résultats d'audits menés à son initiative par la Commission de régulation de
+l'énergie. 
+
+Ces révisions des conditions d'achat et de celles de complément de rémunération ne s'appliquent ni aux installations faisant
+l'objet d'un contrat en cours à la date d'entrée en vigueur de ces arrêtés, ni aux installations ayant fait l'objet,
+antérieurement à l'entrée en vigueur de ces derniers, d'une demande complète de contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L142-12 (V)
 
 
 ###### Article R314-13
@@ -46976,22 +47948,22 @@ continental.
 
 ###### Article D314-16
 
-En application du 
-deuxième alinéa de l'article L. 314-2 du code de l'énergie
-et dans les conditions prévues à l'article R. 314-20, les producteurs dont le contrat d'achat est arrivé à échéance peuvent
-bénéficier d'un nouveau contrat d'achat d'électricité pour les installations de production d'électricité utilisant à titre
-principal le biogaz issu d'installations de stockage de déchets non dangereux implantées sur le territoire métropolitain
-continental d'une puissance installée strictement inférieure à 500 kilowatts.
+En application du 2° de l'article L. 314-2 du code de l'énergie et dans les conditions prévues à l'article R. 314-20, les
+producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un nouveau contrat d'achat d'électricité pour
+les installations de production d'électricité utilisant à titre principal le biogaz issu d'installations de stockage de
+déchets non dangereux implantées sur le territoire métropolitain continental d'une puissance installée strictement inférieure
+à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-691 du 28 mai 2016 - art. 1
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-2
+	  - Code de l'énergie - art. L314-2 (V)
+	  - Code de l'énergie - art. R314-20 (V)
 
 
 ##### Paragraphe 2 : Conditions de l'obligation d'achat
@@ -47054,49 +48026,12 @@ conditions prévues aux articles R. 361-1 à R. 361-7.
 	  - Code de l'énergie - art. R314-15 (Ab)
 
 
-###### Article R314-19
-
-Le producteur exploitant une installation mentionnée à la deuxième phrase du premier alinéa de l'article L. 314-2 qui
-souhaite bénéficier une seconde fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat adresse à l'acheteur,
-dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande de contrat assortie d'un engagement de réaliser
-un programme d'investissement sur l'installation. La prise d'effet du contrat d'achat est subordonnée à la fourniture par le
-producteur à l'acheteur de l'attestation de conformité mentionnée à l'article R. 314-7. 
-
-Les caractéristiques de l'installation, les conditions d'achat, le programme d'investissement ainsi que les modalités de sa
-mise en œuvre sont définis par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
-l'installation. Les conditions d'achat sont notamment fondées sur des niveaux de coûts d'investissement et d'exploitation
-d'une installation performante représentative de la filière à laquelle elle appartient. Elles tiennent compte de l'ensemble
-des recettes de cette installation, y compris des aides financières et fiscales auxquelles elle est éligible. 
-
-Si le programme d'investissement n'est pas réalisé dans les conditions prévues, le contrat peut être suspendu ou résilié
-conformément aux dispositions de l'article R. 314-8.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L314-2
-
-
 ###### Article R314-20
 
-Le producteur exploitant une installation située sur le territoire métropolitain continental mentionnée au second alinéa de
-l'article L. 314-2 qui souhaite bénéficier une nouvelle fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat
-adresse une demande de contrat à l'acheteur dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet
-du contrat est subordonnée à la fourniture par le producteur à l'acheteur de l'attestation de conformité mentionnée à
-l'article R. 314-7. 
+Le producteur exploitant une installation située sur le territoire métropolitain continental mentionnée au 2° de l'article L.
+314-2 qui souhaite bénéficier une nouvelle fois d'un contrat d'achat à l'échéance d'un premier contrat d'achat adresse une
+demande de contrat à l'acheteur dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat
+s'effectue selon les conditions mentionnées à l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions d'achat sont définies par celui des arrêtés mentionnés à l'article
 R. 314-12 applicable à la filière dont relève l'installation. Ces conditions sont adaptées aux conditions économiques de
@@ -47113,7 +48048,7 @@ coûts et ces recettes.
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -47122,6 +48057,9 @@ coûts et ces recettes.
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-2
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-21
@@ -47228,10 +48166,10 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 
 ###### Article D314-23-1
 
-En application du deuxième alinéa de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-27, les
-producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour
-les installations de production d'électricité implantées sur le territoire métropolitain continental suivantes, sous réserve
-de l'engagement du producteur à réaliser un programme d'investissement : 
+En application du 1° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-27, les producteurs dont le
+contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
+production d'électricité implantées sur le territoire métropolitain continental suivantes, sous réserve de l'engagement du
+producteur à réaliser un programme d'investissement : 
 
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
 puissance installée inférieure ou égale à 1 mégawatt ; 
@@ -47242,10 +48180,6 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-691 du 28 mai 2016 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 13 décembre 2016 (V)
@@ -47253,24 +48187,35 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 	  - Arrêté du 13 décembre 2016 - art. 4 (V)
 	  - Arrêté du 13 décembre 2016 - art. 6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D314-14-1 (V)
+	  - Code de l'énergie - art. L314-19 (V)
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-27 (V)
+
 
 ###### Article D314-24
 
-En application du deuxième alinéa de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-28, les
-producteurs dont le contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour
-les installations de production d'électricité implantées sur le territoire métropolitain continental utilisant à titre
-principal le biogaz issu d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500
-kilowatts.
+En application du 2° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-28, les producteurs dont le
+contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
+production d'électricité implantées sur le territoire métropolitain continental utilisant à titre principal le biogaz issu
+d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-691 du 28 mai 2016 - art. 2
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-19
+	  - Code de l'énergie - art. R314-28 (V)
 
 
 ###### Article D314-25
@@ -47317,12 +48262,11 @@ conditions mentionnées aux articles R. 314-33 à R. 314-42.
 
 ###### Article R314-27
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
-d'un contrat de complément de rémunération, s'il souhaite bénéficier d'un contrat de rémunération, adresse à Electricité de
-France, dans les conditions définies aux articles R. 314-3 et R. 314-4, une demande assortie d'un engagement de réaliser un
-programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est subordonnée à la
-fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+Le producteur d'une installation mentionnée au 1° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié d'un contrat de
+complément de rémunération, s'il souhaite bénéficier d'un contrat de rémunération, adresse à Electricité de France, dans les
+conditions définies aux articles R. 314-3 et R. 314-4, une demande assortie d'un engagement de réaliser un programme
+d'investissement sur l'installation. La prise d'effet du contrat est fixée dans les conditions prévues à l'article R. 314-7. 
 
 Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
 314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
@@ -47340,10 +48284,6 @@ conformément aux dispositions de l'article R. 314-8.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 13 décembre 2016 - art. 14 (V)
@@ -47351,21 +48291,30 @@ conformément aux dispositions de l'article R. 314-8.
 	  - Code de l'énergie - art. R314-31 (V)
 	  - Code de l'énergie - art. R314-32 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-1
 	  - Code de l'énergie - art. L314-19
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. R314-8 (V)
 
 
 ###### Article R314-28
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié
-d'un contrat de complément de rémunération, peut, si le niveau des coûts d'exploitation d'une installation performante et
-représentative de la filière est supérieur au niveau de l'ensemble de ses recettes y compris les aides financières et
-fiscales auxquelles l'installation est éligible, adresser une demande de contrat de complément de rémunération à Electricité
-de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat est subordonnée à la
-fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article R. 314-7. 
+Le producteur d'une installation mentionnée au 2° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1, dont le contrat d'achat est arrivé à échéance et qui n'a pas déjà bénéficié d'un contrat de
+complément de rémunération, peut, si le niveau des coûts d'exploitation d'une installation performante et représentative de
+la filière est supérieur au niveau de l'ensemble de ses recettes y compris les aides financières et fiscales auxquelles
+l'installation est éligible, adresser une demande de contrat de complément de rémunération à Electricité de France dans les
+conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du contrat est fixée dans les conditions prévues à
+l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
 R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
@@ -47382,7 +48331,7 @@ auxquelles elle est éligible.
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -47392,21 +48341,25 @@ auxquelles elle est éligible.
 
 	  - Code de l'énergie - art. L314-1
 	  - Code de l'énergie - art. L314-19
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-29
 
-Le producteur d'une installation mentionnée au second alinéa de l'article L. 314-19, figurant parmi les installations
-mentionnées aux 1° à 6° de l'article L. 314-1 bénéficiant d'un contrat d'achat peut, pendant une certaine période d'exécution
-du contrat dont la durée est fixée par arrêté du ministre chargé de l'énergie, le résilier par anticipation pour bénéficier
-du complément de rémunération en lieu et place de l'obligation d'achat. Dans ce cas, il adresse à Electricité de France une
-demande de contrat de complément de rémunération contenant l'ensemble des éléments mentionnés à l'article R. 314-4,
-accompagnée d'une demande de suspension de son contrat d'achat, ou d'une copie de la demande de suspension du contrat d'achat
-dans le cas où celui-ci a été conclu avec une entreprise locale de distribution. 
+Le producteur d'une installation mentionnée au 3° de l'article L. 314-19, figurant parmi les installations mentionnées aux 1°
+à 6° de l'article L. 314-1 bénéficiant d'un contrat d'achat peut, pendant une certaine période d'exécution du contrat dont la
+durée est fixée par arrêté du ministre chargé de l'énergie, le résilier par anticipation pour bénéficier du complément de
+rémunération en lieu et place de l'obligation d'achat. Dans ce cas, il adresse à Electricité de France une demande de contrat
+de complément de rémunération contenant l'ensemble des éléments mentionnés à l'article R. 314-4, accompagnée d'une demande de
+suspension de son contrat d'achat, ou d'une copie de la demande de suspension du contrat d'achat dans le cas où celui-ci a
+été conclu avec une entreprise locale de distribution. 
 
 Le contrat d'achat est suspendu, sans modification de son terme, à compter de la prise d'effet du contrat de complément de
-rémunération. La prise d'effet du contrat, qui est subordonnée à la fourniture de l'attestation de conformité mentionnée à
-l'article R. 314-7, intervient six mois au plus tard après la demande de suspension. 
+rémunération. La prise d'effet du contrat, qui est fixée dans les conditions prévues à l'article R. 314-7, intervient six
+mois au plus tard après la demande de suspension. 
 
 Le contrat de complément de rémunération est conclu pour la durée du contrat d'achat initial restant à courir à la date de sa
 prise d'effet. Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux
@@ -47426,17 +48379,22 @@ résilié.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 	**Cité par**:
 
 	  - Décret n°2016-691 du 28 mai 2016 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 	**Cite**:
 
+	  - Code de l'énergie - art. L314-1 (V)
 	  - Code de l'énergie - art. L314-19
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-4 (V)
+	  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-30
@@ -47444,9 +48402,8 @@ résilié.
 Le producteur d'une installation mentionnée au 1° de l'article L. 314-21 dont le contrat de complément de rémunération est
 arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse à Electricité de France, dans les conditions
 définies aux articles R. 314-3 et R. 314-4, une demande de contrat de complément de rémunération assortie d'un engagement de
-réaliser un programme d'investissement sur l'installation. La prise d'effet du contrat de complément de rémunération est
-subordonnée à la fourniture par le producteur à Electricité de France de l'attestation de conformité mentionnée à l'article
-R. 314-7. 
+réaliser un programme d'investissement sur l'installation. La prise d'effet du contrat est fixée dans les conditions prévues
+à l'article R. 314-7. 
 
 Les caractéristiques de l'installation, les conditions du complément de rémunération mentionnées aux articles R. 314-33 à R.
 314-42, le programme d'investissement ainsi que les modalités de sa mise en œuvre sont définis par celui des arrêtés
@@ -47465,17 +48422,22 @@ le contrat peut être suspendu ou résilié conformément aux dispositions de l'
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 13 décembre 2016 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-21
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-7 (V)
+	  - Code de l'énergie - art. R314-8 (V)
 
 
 ###### Article R314-31
@@ -47483,8 +48445,7 @@ le contrat peut être suspendu ou résilié conformément aux dispositions de l'
 Le producteur d'une installation mentionnée au 2° de l'article L. 314-21 dont le contrat de complément de rémunération est
 arrivé à échéance et qui souhaite bénéficier d'un nouveau contrat adresse une demande de contrat de complément de
 rémunération à Electricité de France dans les conditions définies aux articles R. 314-3 et R. 314-4. La prise d'effet du
-contrat de complément de rémunération est subordonnée à la fourniture par le producteur à Electricité de France de
-l'attestation de conformité mentionnée à l'article R. 314-7. 
+contrat est fixée dans les conditions prévues à l'article R. 314-7. 
 
 Les caractéristiques de l'installation et les conditions du complément de rémunération mentionnées aux articles R. 314-33 à
 R. 314-42 sont définies par celui des arrêtés mentionnés à l'article R. 314-12 applicable à la filière dont relève
@@ -47501,7 +48462,7 @@ auxquelles elle est éligible.
 
 	**Modifié par**:
 
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -47509,11 +48470,14 @@ auxquelles elle est éligible.
 	  - Code de l'énergie - art. R314-30 (V)
 	  - Code de l'énergie - art. R314-34 (V)
 	  - Code de l'énergie - art. R314-39 (V)
-	  - Code de l'énergie - art. R314-40 (V)
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-21
+	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-3 (V)
+	  - Code de l'énergie - art. R314-33 (V)
+	  - Code de l'énergie - art. R314-7 (V)
 
 
 ###### Article R314-32
@@ -47558,15 +48522,13 @@ installation.
 
 ###### Article R314-33
 
-I.-Sauf pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au complément de
-rémunération, pour lesquelles le complément de rémunération est défini pour une année calendaire fixée dans l'arrêté pris au
-titre de l'article R. 314-12, le complément de rémunération est défini pour une année civile sous la forme suivante : 
+I. - Sauf pour les installations de cogénération d'électricité et de chaleur à partir de gaz naturel éligibles au complément
+de rémunération, pour lesquelles le complément de rémunération est défini pour une année calendaire fixée dans l'arrêté pris
+au titre de l'article R. 314-12, le complément de rémunération est défini pour une année civile sous la forme suivante : 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 
 
 Formule dans laquelle les paramètres correspondent aux grandeurs suivantes : 
 
@@ -47580,11 +48542,9 @@ après. Ce pas de temps peut être annuel, pluri-mensuel ou mensuel et est fixé
 c) Ei représente la production nette d'électricité de l'installation, telle que définie à l'article R. 314-35, sur une année
 civile et, le cas échéant, sur une année calendaire de sorte que 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142 ; 
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 ; 
 
 d) α correspond à un coefficient sans dimension défini conformément à l'article R. 314-36 ; 
 
@@ -47602,11 +48562,9 @@ i) Pgestion correspond à une prime unitaire de gestion, exprimée en €/ MWh e
 
 Le terme Ei. (α Te-M0 i) représente une prime à l'énergie et le terme 
 
-Vous pouvez consulter l'image dans le fac-similé du 
+Vous pouvez consulter l'image dans le fac-similé du JO n º 0123 du 28/05/2016, texte n º 1 
 
-JO n º 0123 du 28/05/2016, texte n º 1 
-
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000032591142
+https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032591142 
 
 représente une prime à l'énergie annuelle. 
 
@@ -47614,24 +48572,13 @@ Les valeurs des paramètres α, Te et Pgestion du complément de rémunération 
 l'article R. 314-12, dans les limites fixées par le présent chapitre, le cas échéant, de façon à couvrir les coûts
 indispensables au maintien en fonctionnement de l'installation et notamment les coûts d'exploitation. 
 
-II.-Les conditions du complément de rémunération sont révisées périodiquement dans les arrêtés mentionnés à l'article R.
-314-12. Ces révisions prennent en compte les niveaux de coûts et de recettes des installations performantes et
-représentatives des filières au moment de la révision, ainsi que, le cas échéant, les résultats des audits menés par la
-Commission de régulation de l'énergie. 
-
-Ces révisions des conditions du complément de rémunération s'appliquent aux demandes de contrat postérieures, mais ni aux
-installations faisant l'objet d'un contrat de complément de rémunération en cours ni aux installations ayant fait l'objet
-antérieurement d'une demande complète de contrat de complément de rémunération.
+II. - (Abrogé)
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-682 du 27 mai 2016 - art. 3
 
 	**Cité par**:
 
@@ -47647,6 +48594,18 @@ antérieurement d'une demande complète de contrat de complément de rémunérat
 	  - Code de l'énergie - art. R314-39 (V)
 	  - Code de l'énergie - art. R314-40 (V)
 	  - Code de l'énergie - art. R314-47 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R314-35 (V)
+	  - Code de l'énergie - art. R314-36 (V)
+	  - Code de l'énergie - art. R314-37 (V)
+	  - Code de l'énergie - art. R314-38 (V)
+	  - Code de l'énergie - art. R314-41 (V)
 
 
 ###### Article R314-34
@@ -48669,6 +49628,16 @@ caractéristiques ou à la production des installations pour lesquelles il a con
 
 	  - Décret n°2016-690 du 28 mai 2016 - art. 1
 
+
+##### Section 1 : Les dispositifs de soutien aux énergies renouvelables et à la cogénération à partir de gaz naturel
+
+##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération
+
+##### Sous-section 2 : Dispositions propres à l'obligation d'achat
+
+##### Sous-section 3 : Dispositions propres au complément de rémunération
+
+##### Sous-section 4 : Cession des contrats d'achat à des organismes agréés
 
 ##### Section 2 : Les garanties d'origine
 
