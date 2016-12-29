@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-17
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -20493,13 +20493,16 @@ fixé par décret par rapport au tarif d'utilisation du réseau public de transp
 déterminé en tenant compte de l'impact positif de ces profils de consommation sur le système électrique. 
 
 Le niveau des tarifs d'utilisation du réseau de transport d'électricité prend en compte la réduction mentionnée au premier
-alinéa dès son entrée en vigueur, afin de compenser sans délai la perte de recettes qu'elle entraîne pour le gestionnaire du
-réseau public de transport d'électricité. 
+alinéa dès son entrée en vigueur, afin de compenser sans délai la perte de recettes qu'elle entraîne pour les gestionnaires
+de réseau concernés. 
 
 Les bénéficiaires de la réduction mentionnée au premier alinéa sont les consommateurs finals raccordés directement au réseau
-de transport ou ceux équipés d'un dispositif de comptage géré par le gestionnaire du réseau de transport, qui justifient d'un
-niveau de consommation supérieur à un plancher et répondent à des critères d'utilisation du réseau tels qu'une durée minimale
-d'utilisation ou un taux minimal d'utilisation en heures creuses. Ces critères sont définis par décret. 
+public de transport, à un ouvrage de tension supérieure ou égale à 50 kilovolts d'un réseau de distribution d'électricité aux
+services publics ou à un ouvrage déclassé mentionné au c du 2° de l'article L. 321-4 et de tension supérieure ou égale à 50
+kilovolts, et les consommateurs finals équipés d'un dispositif de comptage géré par le gestionnaire de l'un de ces réseaux,
+lorsqu'ils justifient d'un niveau de consommation supérieur à un plancher et répondent à des critères d'utilisation du réseau
+tels qu'une durée minimale d'utilisation ou un taux minimal d'utilisation en heures creuses. Ces critères sont définis par
+décret. 
 
 La réduction mentionnée au premier alinéa est plafonnée pour concourir à la cohésion sociale et préserver l'intérêt des
 consommateurs. Ce plafond est fixé par décret : 
@@ -20514,10 +20517,6 @@ l'efficacité énergétique de l'installation de stockage et sans excéder 50 % 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 157
-
 	**Cité par**:
 
 	  - Décret n°2016-141 du 11 février 2016 (V)
@@ -20531,6 +20530,15 @@ l'efficacité énergétique de l'installation de stockage et sans excéder 50 % 
 	  - Code de l'énergie - art. D341-8-1 (V)
 	  - Code de l'énergie - art. D341-9 (V)
 	  - Code de l'énergie - art. D351-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 65
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-4 (V)
+	  - Code de l'énergie - art. L351-1 (V)
 
 
 ###### Article L341-5
@@ -25960,20 +25968,24 @@ par voie réglementaire, notamment en ce qui concerne :
 
 ###### Article L461-3
 
-Les tarifs d'utilisation des réseaux de transport et de distribution de gaz naturel prennent en compte la situation
-particulière des entreprises fortement consommatrices de gaz dont les sites présentent un profil de consommation prévisible
-et stable ou anticyclique. Ils prennent notamment en compte les effets positifs de ces consommateurs sur la stabilité et
-l'optimisation du système gazier. 
+Les tarifs d'utilisation des réseaux de transport et de distribution de gaz naturel applicables aux sites fortement
+consommateurs de gaz qui présentent un profil de consommation prévisible et stable ou anticyclique sont réduits d'un
+pourcentage fixé par décret par rapport au tarif d'utilisation des réseaux de transport et de distribution normalement
+acquitté. Ce pourcentage est déterminé en tenant compte de l'impact positif de ces profils de consommation sur le système
+gazier. 
 
-Sont concernés les consommateurs finals qui justifient d'un niveau de consommation supérieur à un plancher et répondent à des
-critères d'utilisation du réseau. Le plancher de consommation et les critères d'utilisation du réseau sont déterminés par
-décret.
+Le niveau des tarifs d'utilisation des réseaux de transport et de distribution de gaz naturel prend en compte la réduction
+mentionnée au premier alinéa dès son entrée en vigueur, afin de compenser sans délai la perte de recettes qu'elle entraîne
+pour les gestionnaires des réseaux de transport et de distribution de gaz naturel. 
+
+Les bénéficiaires de la réduction mentionnée au même premier alinéa sont les consommateurs finals raccordés directement au
+réseau de transport ou de distribution qui justifient d'un niveau de consommation supérieur à un plancher et répondent à des
+critères d'utilisation du réseau. Ces critères sont définis par décret. 
+
+La réduction mentionnée audit premier alinéa est plafonnée pour concourir à la cohésion sociale et préserver l'intérêt des
+consommateurs. Ce plafond est fixé par décret, sans excéder 90 %.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 159
 
 	**Cité par**:
 
@@ -25982,6 +25994,10 @@ décret.
 	  - Code de l'énergie - art. D461-11 (V)
 	  - Code de l'énergie - art. D461-13 (V)
 	  - Code de l'énergie - art. D461-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 66
 
 
 ## LIVRE V : DISPOSITIONS RELATIVES A L'UTILISATION  DE L'ENERGIE HYDRAULIQUE
@@ -27519,20 +27535,20 @@ Pour les concessions en cours à la date du 31 décembre 2006, l'énergie réser
 des départements au profit des services publics de l'Etat, des départements, des communes, des établissements publics ou des
 associations syndicales autorisées et des groupements agricoles d'utilité générale déterminés par voie réglementaire, ainsi
 qu'au profit des entreprises industrielles ou artisanales qui s'installent, se développent et créent ou maintiennent des
-emplois dont la liste est fixée par les départements selon des modalités définies par voie réglementaire.
+emplois dont la liste est fixée par les départements selon des modalités définies par voie réglementaire. 
 
 Les modalités selon lesquelles cette réserve est tenue à la disposition du département et des ayants droit ainsi que les
 travaux qui peuvent être imposés au concessionnaire pour l'utilisation de ces réserves sont fixés par décret en Conseil
-d'Etat.
+d'Etat. 
 
 La part non attribuée de cette énergie réservée peut faire l'objet d'une compensation financière par le concessionnaire au
-département dont le montant est calculé par voie réglementaire.
+département dont le montant est calculé par voie réglementaire. 
+
+A compter du 1er janvier 2018, les départements peuvent progressivement abroger les décisions d'attribution d'énergie
+réservée accordées par l'Etat à des bénéficiaires situés sur leur territoire antérieurement à l'entrée en vigueur de
+l'article 91 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
 
 	**Cité par**:
 
@@ -27543,9 +27559,9 @@ département dont le montant est calculé par voie réglementaire.
 	  - Code de l'énergie - art. R522-2 (V)
 	  - Code de l'énergie - art. R522-3 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'énergie - art. L521-19 (T)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 88
 
 
 ###### Article L522-3
@@ -47075,7 +47091,7 @@ résultats des contrôles qu'ils effectuent.
 
 #### Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables
 
-##### Section 1 : Les dispositifs de soutien aux énergies renouvelables
+##### Section 1 : Les dispositifs de soutien aux énergies renouvelables et à la cogénération à partir de gaz naturel
 
 ##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération
 
@@ -49628,16 +49644,6 @@ caractéristiques ou à la production des installations pour lesquelles il a con
 
 	  - Décret n°2016-690 du 28 mai 2016 - art. 1
 
-
-##### Section 1 : Les dispositifs de soutien aux énergies renouvelables et à la cogénération à partir de gaz naturel
-
-##### Sous-section 1 : Dispositions communes à l'obligation d'achat et au complément de rémunération
-
-##### Sous-section 2 : Dispositions propres à l'obligation d'achat
-
-##### Sous-section 3 : Dispositions propres au complément de rémunération
-
-##### Sous-section 4 : Cession des contrats d'achat à des organismes agréés
 
 ##### Section 2 : Les garanties d'origine
 
