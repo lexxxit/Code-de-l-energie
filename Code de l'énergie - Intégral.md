@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2016-12-31
 
 # Partie législative
 
@@ -68324,9 +68324,12 @@ Pour la détermination de la capacité de transport maritime mentionnée à l'ar
 autopropulsés susceptibles de naviguer en haute mer, armés au long cours ou au cabotage international et destinés au
 transport de pétrole brut ou à celui des produits pétroliers mentionnés à l'article L. 642-3. 
 
-Ne sont pas pris en compte les navires d'un tonnage de moins de 5 000 tonnes de port en lourd, les navires de stockage non
-autonomes, les navires immobilisés à l'occasion d'un arrêt technique pour une durée supérieure à 180 jours, pour la durée de
-l'arrêt, ou les navires désarmés, pour la durée de leur désarmement.
+Peuvent  être considérés comme destinés au transport de produits pétroliers les  navires transportant des produits pétroliers
+à hauteur d'au moins 40 %  du volume des cargaisons transportées durant la période d'obligation.  
+
+Ne  sont pas pris en compte les navires d'un tonnage de moins de 5 000  tonnes de port en lourd, les navires de stockage non
+autonomes, les  navires immobilisés à l'occasion d'un arrêt technique d'une durée  supérieure à 180 jours pour la période
+excédant les 180 jours, ou les  navires désarmés, pour la durée de leur désarmement.
 
 **Liens relatifs à cet article**
 
@@ -68336,7 +68339,7 @@ l'arrêt, ou les navires désarmés, pour la durée de leur désarmement.
 
 	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -68354,23 +68357,21 @@ La capacité de transport mentionnée à l'article L. 631-1 est fixée par arrê
 ministre chargé de la marine marchande dans la limite d'un tonnage de port en lourd qui ne peut excéder 8 % des quantités de
 produits mises à la consommation au cours de la dernière année civile. 
 
-La capacité de transport de chaque assujetti ou regroupement d'assujettis peut comprendre une part de navires destinés au
-transport de pétrole brut. Cette part ne peut excéder, en tonnage de port en lourd, un pourcentage maximum de la capacité de
-transport, fixé par arrêté conjoint du ministre chargé de l'énergie et du ministre chargé de la marine marchande, dans la
-limite de 90 % de la capacité. 
+La capacité de transport de chaque assujetti peut comprendre une part de navires destinés au transport de pétrole brut. Cette
+part ne peut excéder, en tonnage de port en lourd, un pourcentage maximum de la capacité de transport, fixé par arrêté
+conjoint du ministre chargé de l'énergie et du ministre chargé de la marine marchande, dans la limite de 90 % de la
+capacité. 
 
-Les obligations annuelles sont notifiées aux assujettis au plus tard le 15 mars précédant le début de la période
-d'obligation.
+La  part minimale de chaque assujetti de capacité de transport des navires  de moins de 20 000 tonnes de port en lourd
+destinés au transport de  produits pétroliers mentionnée à l'article L. 631-1 est fixée par arrêté  conjoint du ministre
+chargé de l'énergie et du ministre chargé de la  marine marchande dans la limite minimale de 10 % et maximale de 35 % de  la
+capacité minimale de transport de produits requise.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
 
 	**Cité par**:
 
@@ -68379,19 +68380,49 @@ d'obligation.
 	  - Arrêté du 25 février 2016 - art. 2 (V)
 	  - Arrêté du 25 février 2016 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 3
+
 	**Cite**:
 
 	  - Code de l'énergie - art. L631-1
 
 
+###### Article D631-2-1
+
+Les personnes visées au premier alinéa de l'article L. 631-1 sont tenues de justifier de la capacité de transport maritime
+mentionnée au même article pendant chaque période comprise entre le 1er juillet d'une année et le 30 juin de l'année suivante
+pendant laquelle elles ont réalisé une opération mentionnée au même article. 
+
+Lorsque l'activité d'un assujetti entraînant l'exigibilité des taxes intérieures de consommation, ou consistant à livrer à
+l'avitaillement des aéronefs un produit pétrolier, est cédée à un nouvel opérateur, les obligations de capacité de transport
+maritime sous pavillon français sont transférées à cet opérateur à compter du 1er juillet suivant. L'acquéreur intègre dans
+son assiette les mises à la consommation réalisées l'année précédente par l'activité acquise. 
+
+Les obligations annuelles sont notifiées aux assujettis au plus tard le 15 mars précédant le début de la période
+d'obligation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L631-1 (V)
+
+
 ###### Article D631-3
 
-La capacité de transport maritime des assujettis ou regroupements d'assujettis ainsi que la capacité dont fait état un
-armateur au titre d'un contrat de couverture d'obligation s'apprécient par moyenne sur une période d'un an, du 1er juillet
-d'une année au 30 juin de l'année suivante.
+Les  capacités de transport maritime d'un assujetti, ainsi que les capacités  dont fait état un armateur au titre d'un
+contrat de couverture  d'obligation, s'apprécient par moyenne sur une période d'un an, du 1er  juillet d'une année au 30 juin
+de l'année suivante. 
 
-La capacité de transport peut varier au cours de l'année. Toutefois, sauf cas de force majeure, elle ne peut être inférieure
-à celle résultant de l'obligation mentionnée au précédent alinéa de plus de 30 % ni pendant plus de 90 jours consécutifs.
+Toutefois, sauf cas de force majeure, la capacité de transport globale  ainsi que les capacités de transport de brut et de
+produits pétroliers  ne peuvent être inférieures à celles résultant de l'obligation  mentionnée au précédent alinéa de plus
+de 30 % ni pendant plus de 90  jours consécutifs.
 
 Les excédents de capacités de transport du second semestre de l'année d'obligation peuvent être reportés sur l'année
 d'obligation suivante, dans la limite de 15 % de la capacité fixée pour cette année, sous réserve du respect des dispositions
@@ -68409,13 +68440,18 @@ pavillon français au titre d'une obligation de capacité.
 
 	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 5
 
 
 ###### Article D631-4
 
-Tout assujetti peut s'acquitter de son obligation en disposant des navires en pleine propriété ou par affrètement de plus
-d'un an, sous réserve du respect des dispositions de l'article D. 631-7. 
+Tout assujetti peut s'acquitter de son obligation en disposant de navires en pleine propriété ou par affrètement conclu pour
+une durée minimale d'un an sous réserve du respect des dispositions de l'article D. 631-7. Toutefois, des contrats
+d'affrètement de moins d'un an peuvent être conclus pour couvrir, jusqu'au 30 juin suivant, les obligations non couvertes
+pour des raisons de force majeure ou en cas de rupture contractuelle par accord commun des parties. 
+
+Les contrats d'affrètement doivent stipuler que l'affrètement est destiné à permettre à l'assujetti de s'acquitter de son
+obligation. Ils sont transmis par l'assujetti dès leur signature au ministre chargé de la marine marchande. 
 
 Tout assujetti peut se libérer de son obligation directement ou par l'intermédiaire de sociétés dont il contrôle plus de 50 %
 du capital, ou par l'intermédiaire de toute personne constituée sous une forme juridique reconnue équivalente par le ministre
@@ -68433,7 +68469,7 @@ mêmes modalités. Le ministre chargé de la marine marchande est informé au pr
 
 	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 6
 
 	**Cite**:
 
@@ -68446,7 +68482,8 @@ Lorsque des assujettis se regroupent en vue de conclure un contrat de couverture
 l'Etat désigné par les ministres chargés de l'énergie et de la marine marchande assiste aux réunions des organes
 d'administration ou de surveillance et de contrôle des personnes mentionnées au 2° du II de l'article L. 361-1. 
 
-Les contrats de couverture d'obligation de capacité sont transmis au ministre chargé de la marine marchande.
+Les  contrats de couverture d'obligation de capacité sont transmis par le  groupement d'assujettis au ministre chargé de la
+marine marchande, dès  leur signature, pour approbation.
 
 **Liens relatifs à cet article**
 
@@ -68456,7 +68493,7 @@ Les contrats de couverture d'obligation de capacité sont transmis au ministre c
 
 	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 7
 
 	**Cité par**:
 
@@ -68470,12 +68507,14 @@ Les contrats de couverture d'obligation de capacité sont transmis au ministre c
 
 ###### Article D631-6
 
-Constitue un contrat de couverture d'obligation de capacité tout contrat par lequel un armateur s'engage à maintenir sous
-pavillon français une capacité déterminée de transport de pétrole brut ou de produits pétroliers durant une période définie
-afin de satisfaire à l'obligation de capacité définie à l'article L. 631-1. 
+Constitue un contrat de couverture d'obligation de capacité tout contrat par lequel un armateur ou un groupement d'armateurs,
+s'engage à maintenir sous pavillon français une capacité déterminée de transport de pétrole brut ou de produits pétroliers
+durant une période définie afin de satisfaire à l'obligation de capacité définie à l'article L. 631-1. 
 
 Le contrat de couverture d'obligation de capacité ne transfère aucun droit ni obligation relatif à l'exploitation du navire.
-Il est conclu pour une durée minimum d'un an.
+Il est conclu pour une durée minimum d'un an. Toutefois,  des contrats de couverture d'obligation de capacité peuvent être
+conclus pour une durée inférieure à un an, pour couvrir des obligations  non couvertes pour des raisons de force majeure ou
+résultant d'un besoin  temporaire d'un assujetti.
 
 **Liens relatifs à cet article**
 
@@ -68485,7 +68524,7 @@ Il est conclu pour une durée minimum d'un an.
 
 	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 8
 
 	**Cite**:
 
@@ -68518,32 +68557,39 @@ Les assujettis qui recourent à l'affrètement à long terme ou à la propriét�
 marchande, dans le mois suivant la fin de chaque période d'obligation, un état comprenant le nom des navires qu'ils
 détiennent en propriété ou qui font l'objet d'un affrètement à long terme, auquel sont annexés les contrats d'affrètement.
 
-Les assujettis qui souscrivent des contrats de couverture d'obligation de capacité conservent les éléments permettant de
-justifier qu'ils se sont acquittés de leur obligation de capacité de transport.
+Les assujettis conservent les éléments permettant de justifier qu'ils se sont acquittés de leur obligation de capacité de
+transport.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 9
 
 
 ###### Article D631-9
 
-Les personnes mentionnées au 2° du II de l'article L. 631-1 communiquent au ministre chargé de la marine marchande un état de
-leurs contrats dans le mois suivant la fin de chaque période d'obligation. Cet état comprend les noms des assujettis, les
-noms des armateurs avec lesquels ils ont conclu des contrats de couverture d'obligation de capacité, ainsi que les
-obligations contractées par chacun des armateurs. Les contrats de couverture d'obligation sont annexés à l'état. 
+Les groupements d'assujettis mentionnées au 2° du II de l'article L. 631-1 communiquent au ministre chargé de la marine
+marchande un état de leurs contrats dans le mois suivant la fin de chaque période d'obligation. Cet état comprend les noms
+des assujettis les ayant mandatés, les noms des armateurs ou groupements d'armateurs avec lesquels ils ont conclu des
+contrats de couverture d'obligation de capacité, ainsi que les obligations contractées par chacun des armateurs. Les contrats
+de couverture d'obligation sont annexés à l'état. 
 
-Les armateurs qui concluent des contrats de couverture d'obligation de capacité transmettent au ministre chargé de la marine
-marchande, dans le mois suivant la fin de chaque période d'obligation, un état des navires qu'ils ont maintenus sous pavillon
-français.
+Les armateurs ou groupements d'armateurs qui concluent des contrats de couverture d'obligation de capacité transmettent au
+ministre chargé de la marine marchande, dans le mois suivant la fin de chaque période d'obligation, un état des navires
+qu'ils ont maintenus sous pavillon français.
+
+En  cas de défaillance d'un armateur ou groupement d'armateurs qui ne  respecterait pas son obligation contractuelle envers
+un groupement  d'assujettis, ces assujettis sont considérés avoir satisfait à leurs  obligations de capacité, dès lors que le
+groupement d'assujettis a  respecté les exigences mentionnées au premier alinéa ainsi que ses  obligations contractuelles au
+titre des contrats de couverture, et que  la défaillance de l'armateur ou du groupement d'armateurs est la  conséquence d'une
+raison de force majeure ou d'une procédure collective  affectant cet armateur ou groupement d'armateurs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-176 du 23 février 2016 - art. 1
+	  - Décret n°2016-1927 du 28 décembre 2016 - art. 10
 
 	**Cite**:
 
