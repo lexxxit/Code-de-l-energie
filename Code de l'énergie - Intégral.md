@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -5569,77 +5569,7 @@ reçoivent.
 
 ###### Article L122-2
 
-Le médiateur est nommé pour six ans par les ministres chargés respectivement de l'énergie et de la consommation. Son mandat
-n'est ni renouvelable ni révocable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 43-1 (Ab), alinéa 4
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-
-###### Article L122-3
-
-Le médiateur rend compte de son activité, à leur demande, devant les commissions du Parlement compétentes en matière
-d'énergie ou de consommation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 43-1 (Ab), alinéa 5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2017-55 du 20 janvier 2017 - art. 37
-
-
-###### Article L122-4
-
-Le médiateur dispose de services placés sous son autorité. Il peut employer des fonctionnaires en position d'activité ou de
-détachement ainsi que des agents contractuels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 43-1 (Ab), alinéa 6
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2017-55 du 20 janvier 2017 - art. 37
-
-
-###### Article L122-5
-
-La médiation nationale de l'énergie est dotée de la personnalité morale et de l'autonomie financière. Son budget est arrêté
-par les ministres chargés respectivement de l'économie, de l'énergie et de la consommation sur sa proposition. Son
-financement est assuré par l'Etat.
+Le médiateur est nommé pour six ans par les ministres chargés respectivement de l'énergie et de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -5649,7 +5579,24 @@ financement est assuré par l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 37
+
+
+###### Article L122-5
+
+Le médiateur national de l'énergie est une autorité publique indépendante, dotée de la personnalité morale et de l'autonomie
+financière. Son budget est arrêté par les ministres chargés respectivement de l'économie, de l'énergie et de la consommation
+sur sa proposition. Son financement est assuré par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 37
 
 
 ##### Section 2 : Autres dispositions relatives aux consommateurs
@@ -6136,7 +6083,8 @@ de l'activité de ces fournisseurs, négociants et producteurs d'électricité e
 
 ###### Article L132-1
 
-La Commission de régulation de l'énergie comprend un collège et un comité de règlement des différends et des sanctions.
+La Commission de régulation de l'énergie, autorité administrative indépendante, comprend un collège et un comité de règlement
+des différends et des sanctions.
 
 Hormis les cas d'attributions confiées expressément au comité de règlements des différends et des sanctions, les attributions
 confiées à la Commission de régulation de l'énergie ou à son président sont respectivement exercées par le collège ou par son
@@ -6147,18 +6095,13 @@ commission et le président du comité ont respectivement qualité pour agir en 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), I, alinéas 5 et 6
-	  - Loi n°2000-108 du 10 février 2000 - art. 30 (Ab), dernier alinéa
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
 	**Cité par**:
 
@@ -6169,9 +6112,8 @@ commission et le président du comité ont respectivement qualité pour agir en 
 
 Le collège est composé de six membres nommés en raison de leurs qualifications juridiques, économiques et techniques. 
 
-Le président du collège est nommé par décret dans les conditions fixées par la loi organique n° 2010-837 du 23 juillet 2010
-relative à l'application du cinquième alinéa de l'article 13 de la Constitution. Le collège est renouvelé par tiers tous les
-deux ans. 
+Le président du collège est nommé par décret du Président de la République. Le collège est renouvelé par tiers tous les deux
+ans. 
 
 Le collège comprend également : 
 
@@ -6193,14 +6135,12 @@ expérience des zones non interconnectées.
 La composition du collège respecte la parité entre les femmes et les hommes. Les membres du collège sont nommés pour six ans.
 Leur mandat n'est pas renouvelable. 
 
-En cas de vacance d'un siège de membre du collège, il est procédé à son remplacement pour la durée du mandat restant à
-courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte pour l'application de la règle de non-
-renouvellement. 
-
 Les fonctions de président et des autres membres du collège sont incompatibles avec tout mandat électif communal,
-départemental, régional, national ou européen et avec la détention, directe ou indirecte, d'intérêts dans une entreprise du
-secteur de l'énergie. Chaque membre du collège fait une déclaration d'intérêts au moment de sa désignation. Cette déclaration
-est rendue publique. 
+départemental, régional ou européen et avec la détention, directe ou indirecte, d'intérêts dans une entreprise du secteur de
+l'énergie. 
+
+Selon des modalités fixées par décret en Conseil d'Etat, le collège est, à l'exception de son président, renouvelé par moitié
+tous les trois ans.
 
 Le président et les autres membres du collège ne peuvent, sous peine de l'application des sanctions prévues à l'article
 432-13 du code pénal, prendre ou recevoir une participation par travail, conseil ou capitaux dans l'une de ces entreprises
@@ -6220,8 +6160,11 @@ avant l'expiration d'un délai de trois ans suivant la cessation de leurs foncti
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 11
-	  - Loi n°2013-312 du 15 avril 2013 - art. 9 (V)
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. L132-5 (Ab)
 
 
 ###### Article L132-3
@@ -6237,10 +6180,6 @@ Le comité comprend également quatre membres suppléants, désignés selon les 
 Les membres du comité et leurs suppléants sont nommés pour une durée de six ans non renouvelable. Le président est nommé par
 décret pour la durée de son mandat parmi les membres du comité.
 
-En cas de vacance d'un siège de membre du comité pour quelque cause que ce soit, il est procédé à son remplacement pour la
-durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte pour l'application de
-la règle de non-renouvellement fixée à l'alinéa précédent.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6249,81 +6188,26 @@ la règle de non-renouvellement fixée à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 21
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
 
 ###### Article L132-4
-
-Les fonctions de membre du collège sont incompatibles avec celles de membre du comité.
 
 Les membres du collège ou du comité ne peuvent être nommés au-delà de l'âge de soixante-dix ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 28 (VT), V, alinéas 2 et 3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. L132-5 (V)
-
-
-###### Article L132-5
-
-Les membres du collège ou du comité ne prennent, à titre personnel, aucune position publique sur des sujets relevant de la
-compétence de la Commission de régulation de l'énergie. 
-
-Le mandat des membres du collège et du comité n'est pas révocable, sous réserve des dispositions suivantes : 
-
-1° Tout membre du collège ou du comité qui ne respecte pas les règles d'incompatibilité prévues aux articles L. 132-2 et L.
-132-4 est déclaré démissionnaire d'office, après consultation du collège ou du comité, par arrêté du ministre chargé de
-l'énergie ; 
-
-2° Il peut être mis fin aux fonctions d'un membre du collège ou du comité en cas d'empêchement constaté par le collège ou le
-comité dans des conditions prévues par leur règlement intérieur ; 
-
-3° Il peut également être mis fin aux fonctions d'un membre du collège en cas de manquement grave à ses obligations par
-décret en conseil des ministres sur proposition du président d'une commission du Parlement compétente en matière d'énergie ou
-sur proposition du collège. Le cas échéant, la proposition du collège est adoptée à la majorité des membres le composant dans
-des conditions prévues par son règlement intérieur. 
-
-Le président du collège ou du comité prend les mesures appropriées pour assurer le respect des obligations résultant du
-présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Décret n°2000-894 du 11 septembre 2000 - art. 25 (Ab)
-	  - Décret n°2015-206 du 24 février 2015 - art. 30 (Ab)
-	  - Code de l'énergie - art. R133-4 (V)
-	  - Code de l'énergie - art. R134-37 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 38 (V)
-
-	**Abrogé par**:
-
 	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code de l'énergie - art. L132-2 (V)
-	  - Code de l'énergie - art. L132-4 (V)
+	  - Code de l'énergie - art. L132-5 (Ab)
 
 
 #### Chapitre III : Fonctionnement
@@ -6432,37 +6316,21 @@ La Commission de régulation de l'énergie dispose de services qui sont placés 
 l'exercice des missions confiées au comité de règlement des différends et des sanctions, sous l'autorité du président du
 comité. 
 
-Le collège et le comité établissent, dans des conditions fixées par décret en Conseil d'Etat, chacun pour ce qui le concerne,
-un règlement intérieur qui est publié au Journal officiel. 
-
-La commission peut employer des fonctionnaires en position d'activité ou de détachement. Elle peut également recruter des
-agents contractuels. 
-
 La commission perçoit, le cas échéant, des rémunérations pour services rendus. 
 
 La commission propose au ministre chargé de l'énergie et au ministre chargé des finances, lors de l'élaboration du projet de
 loi de finances, les crédits nécessaires, outre les ressources mentionnées à l'alinéa précédent, à l'accomplissement de ses
-missions. Ces crédits sont inscrits au budget général de l'Etat. Les dispositions de la loi du 10 août 1922 relative à
-l'organisation du contrôle des dépenses engagées ne sont pas applicables à leur gestion. Le président de la commission est
-ordonnateur des recettes et des dépenses. La commission est soumise au contrôle de la Cour des comptes.
+missions. Le président de la commission est ordonnateur des recettes et des dépenses.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi du 10 août 1922 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 30 (Ab), sauf dernier alinéa
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
 	**Cité par**:
 
@@ -6471,8 +6339,8 @@ ordonnateur des recettes et des dépenses. La commission est soumise au contrôl
 
 ###### Article L133-6
 
-Les membres et agents de la Commission de régulation de l'énergie exercent leurs fonctions en toute impartialité, sans
-recevoir d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme. 
+Les agents de la Commission de régulation de l'énergie exercent leurs fonctions en toute impartialité, sans recevoir
+d'instruction du Gouvernement, ni d'aucune institution, personne, entreprise ou organisme. 
 
 Les membres et agents de la Commission de régulation de l'énergie sont tenus au secret professionnel pour les faits, actes et
 renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions. En particulier, les membres et agents de la
@@ -6491,10 +6359,6 @@ mêmes obligations de secret professionnel que celles définies au présent arti
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-206 du 24 février 2015 - art. 9 (Ab)
@@ -6502,7 +6366,7 @@ mêmes obligations de secret professionnel que celles définies au présent arti
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-461 du 14 avril 2016 - art. 1
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
 	**Cite**:
 
@@ -6902,30 +6766,6 @@ peut conclure des accords de coopération avec ces dernières et avec l'Agence d
 	  - règlement (CE) n°713/2009
 
 
-###### Article L134-14
-
-Le président de la Commission de régulation de l'énergie rend compte des activités de la commission devant les commissions
-permanentes du Parlement compétentes en matière d'énergie, à leur demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 32 (VT), alinéa 2
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
-
-
 ###### Article L134-15
 
 La Commission de régulation de l'énergie publie chaque année un rapport sur le respect, par les gestionnaires de réseaux de
@@ -7135,26 +6975,32 @@ discriminatoire et proportionnée, les modalités de l'accès auxdits réseaux, 
 leur utilisation. 
 
 Sa décision est notifiée aux parties et publiée au Journal officiel de la République française, sous réserve des secrets
-protégés par la loi.
+protégés par la loi. 
+
+Le comité peut, à la demande de la partie qui le saisit, décider que sa décision produira effet à une date antérieure à sa
+saisine, sans toutefois que cette date puisse être antérieure à la date à laquelle la contestation a été formellement élevée
+par l'une des parties pour la première fois et, en tout état de cause, sans que cette date soit antérieure de plus de deux
+ans à sa saisine. 
+
+Le quatrième alinéa du présent article est applicable aux règlements de différends en cours à la date d'entrée en vigueur de
+la loi n° 2017-55 du 20 janvier 2017 portant statut général des autorités administratives indépendantes et des autorités
+publiques indépendantes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 38 (VT), I, alinéa 2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
 	**Cite**:
 
-	  - Code de l'énergie - art. L134-19 (V)
-	  - Code de l'énergie - art. L135-3 (V)
+	  - Loi n°2017-55 du 20 janvier 2017 (V)
+	  - Code de l'énergie - art. L134-19
+	  - Code de l'énergie - art. L135-3
+
+	**Modifié par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 38
 
 	**Cité par**:
 
