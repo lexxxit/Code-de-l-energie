@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-19
 
 # Partie législative
 
@@ -43848,10 +43848,10 @@ dans le cas où la puissance souscrite est stipulée en unités de répartition 
 
 ###### Article D251-1
 
-Une aide est attribuée à toute personne justifiant d'un domicile ou d'un établissement en France et à toute administration de
-l'Etat qui acquiert ou qui prend en location, dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans, un
-véhicule automobile terrestre à moteur qui, à la date de sa facturation ou à la date de versement du premier loyer prévu par
-le contrat de location du véhicule : 
+Une aide est attribuée à toute personne physique majeure justifiant d'un domicile en France ou à toute personne morale
+justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert ou qui prend en location, dans le
+cadre d'un contrat d'une durée supérieure ou égale à deux ans, un véhicule automobile terrestre à moteur qui, à la date de sa
+facturation ou à la date de versement du premier loyer prévu par le contrat de location du véhicule : 
 
 1° Appartient : 
 
@@ -43896,13 +43896,6 @@ g) Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride recha
 
 h) Mélange de gazole et gaz naturel (dual fuel) et électricité (hybride non rechargeable) (GQ).
 
-**Nota:**
-
-Conformément à l'article 8 du décret n° 2015-1928 du 31 décembre 2015, l'article D251-1 reste applicable, dans sa rédaction
-antérieure à l'entrée en vigueur du présent décret, aux véhicules commandés ou dont le contrat de location a été signé avant
-l'entrée en vigueur du présent décret, lorsque leur facturation ou la date de versement du premier loyer intervient dans les
-trois mois suivants, dans les cas où elles seraient plus avantageuses pour les bénéficiaires des aides.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -43919,14 +43912,45 @@ trois mois suivants, dans les cas où elles seraient plus avantageuses pour les 
 	  - Code de l'énergie - art. D251-2 (Ab)
 	  - Code de l'énergie - art. D251-3 (V)
 	  - Code de l'énergie - art. D251-5 (V)
-	  - Code de l'énergie - art. D251-6 (M)
+	  - Code de l'énergie - art. D251-6 (V)
 	  - Code de l'énergie - art. D251-7 (M)
 	  - Code de l'énergie - art. D251-8 (M)
 	  - Code de l'énergie - art. D251-9 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. R311-1
+
+
+###### Article D251-2
+
+Une aide est attribuée à toute personne physique majeure justifiant d'un domicile en France ou à toute personne morale
+justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert, au plus tard le 31 janvier 2018, un
+cycle à pédalage assisté, au sens de l'article R. 311-1 du code de la route, neuf, qui n'utilise pas de batterie au plomb et
+n'est pas cédé par l'acquéreur dans l'année suivant son acquisition. 
+
+Cette aide est exclusive de toute autre aide allouée par une collectivité publique ayant le même objet. 
+
+Une personne physique ne peut en bénéficier qu'une fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 30 décembre 2014 - art. 1 (V)
+	  - Code de l'énergie - art. D251-7-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
@@ -43935,14 +43959,14 @@ trois mois suivants, dans les cas où elles seraient plus avantageuses pour les 
 
 ###### Article D251-3
 
-Une aide dite prime à la conversion est attribuée à toute personne justifiant d'un domicile ou d'un établissement en France
-et à toute administration de l'Etat qui acquiert ou prend en location, dans le cadre d'un contrat d'une durée supérieure ou
-égale à deux ans, un véhicule mentionné au a du 1° de l'article D. 251-1, qui est immatriculé en France dans une série
-définitive, n'utilise aucune des sources d'énergies mentionnées au 7° du même article et n'est pas cédé par l'acquéreur ou le
-titulaire d'un contrat de location dans les six mois suivant sa première immatriculation ni avant d'avoir parcouru au moins 6
-000 kilomètres, lorsque cet achat ou cette location s'accompagne du retrait de la circulation, à des fins de destruction,
-d'un véhicule utilisant le gazole comme carburant principal et qui, à la date de facturation du véhicule acquis ou de
-versement du premier loyer : 
+Une aide dite prime à la conversion est attribuée à toute personne physique majeure justifiant d'un domicile en France ou à
+toute personne morale justifiant d'un établissement en France et à toute administration de l'Etat qui acquiert ou prend en
+location, dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans, un véhicule mentionné au a du 1° de
+l'article D. 251-1, qui est immatriculé en France dans une série définitive, n'utilise aucune des sources d'énergies
+mentionnées au 7° du même article et n'est pas cédé par l'acquéreur ou le titulaire d'un contrat de location dans les six
+mois suivant sa première immatriculation ni avant d'avoir parcouru au moins 6 000 kilomètres, lorsque cet achat ou cette
+location s'accompagne du retrait de la circulation, à des fins de destruction, d'un véhicule utilisant le gazole comme
+carburant principal et qui, à la date de facturation du véhicule acquis ou de versement du premier loyer : 
 
 1° Appartient à la catégorie des voitures particulières ou des camionnettes au sens de l'article R. 311-1 du code de la
 route ; 
@@ -43982,16 +44006,16 @@ facturation du véhicule acquis ou loué.
 	  - Arrêté du 30 décembre 2016 - art. 1
 	  - Décret n°2016-1980 du 30 décembre 2016 - art. 2 (V)
 	  - Code de l'énergie - art. D251-11 (V)
-	  - Code de l'énergie - art. D251-13 (V)
+	  - Code de l'énergie - art. D251-13 (M)
 	  - Code de l'énergie - art. D251-4 (V)
 	  - Code de l'énergie - art. D251-5 (M)
-	  - Code de l'énergie - art. D251-6 (M)
+	  - Code de l'énergie - art. D251-6 (V)
 	  - Code de l'énergie - art. D251-8 (V)
 	  - Code de l'énergie - art. D251-9 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
@@ -44024,7 +44048,7 @@ donner lieu au versement que d'une la prime à la conversion prévue à l'articl
 
 ###### Article D251-5
 
-En cas de non-respect des conditions fixées aux articles D. 251-1 et D. 251-3, le bénéficiaire de l'aide en restitue le
+En cas de non-respect des conditions fixées aux articles D. 251-1 à D. 251-3, le bénéficiaire de l'aide en restitue le
 montant dans les trois mois suivant la cession du véhicule. 
 
 Si l'aide a été versée pour une location et que la durée du contrat de location est portée à moins de deux ans
@@ -44038,7 +44062,7 @@ postérieurement à sa signature, la restitution intervient dans les trois mois 
 
 	**Modifié par**:
 
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
@@ -44052,9 +44076,12 @@ le donne en location dans le cadre d'un contrat d'une durée supérieure ou éga
 prévues à cet article et à l'article D. 251-3. 
 
 Les concessionnaires et les agents de marques de véhicules ne peuvent bénéficier des aides instituées à l'article D. 251-1 et
-à l'article D. 251-3 pour l'acquisition ou la prise en location d'un véhicule qu'ils affectent à la démonstration. Toutefois,
-un véhicule affecté à la démonstration peut donner lieu au versement de ces aides s'il fait l'objet d'une cession ou d'une
-prise en location dans un délai d'un an suivant la date de sa première immatriculation.
+à l'article D. 251-3 pour l'acquisition ou la prise en location d'un véhicule qu'ils affectent à la démonstration. Par
+dérogation au 2° de l'article D. 251-1, ces aides peuvent être attribuées à toute personne physique majeure justifiant d'un
+domicile en France ou à toute personne morale justifiant d'un établissement en France et à toute administration de l'Etat qui
+acquiert ou prend en location, dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans, un véhicule
+précédemment affecté à la démonstration si la cession ou la prise en location intervient dans un délai d'un an suivant sa
+première immatriculation.
 
 **Liens relatifs à cet article**
 
@@ -44062,9 +44089,9 @@ prise en location dans un délai d'un an suivant la date de sa première immatri
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
@@ -44096,25 +44123,48 @@ location ;
 
 b) 1 000 euros.
 
+3° Pour les véhicules mentionnés au 6° du même article qui n'utilisent pas de batterie au plomb et dont la puissance maximale
+nette du moteur est inférieure à 3 kilowatts, le montant de l'aide est fixé à 20 % du coût d'acquisition toutes taxes
+comprises, sans être supérieur à 200 euros.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2016-1980 du 30 décembre 2016 - art. 2 (V)
-	  - Code de l'énergie - art. D251-7 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-7 (V)
+
+
+###### Article D251-7-1
+
+Le montant de l'aide instituée à l'article D. 251-2 est fixé à 20 % du coût d'acquisition toutes taxes comprises, sans être
+supérieur à 200 euros.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-2
 
 
 ###### Article D251-8
 
-Le montant de l'aide prévue à l'article D. 251-3 est fixé comme suit : 
+Le montant de l'aide prévue à l'article D. 251-3 est déterminé par l'un ou l'autre des cas suivants : 
 
 1° Pour les véhicules mentionnés au premier alinéa de l'article D. 251-3 qui n'ont pas fait l'objet précédemment d'une
 première immatriculation en France ou à l'étranger : 
@@ -44141,13 +44191,13 @@ grammes par kilomètre et que le véhicule respecte la norme " Euro 5 ".
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2016-1980 du 30 décembre 2016 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
@@ -44157,11 +44207,11 @@ grammes par kilomètre et que le véhicule respecte la norme " Euro 5 ".
 ###### Article D251-9
 
 Les aides sont soit versées directement à leur bénéficiaire par l'Agence de services et de paiement, soit avancées à leur
-bénéficiaire par les vendeurs ou loueurs de véhicules liés à cette agence par la convention mentionnée à l'article D.
-251-11. 
+bénéficiaire par les vendeurs ou loueurs de véhicules mentionnés aux articles D. 251-1 et D. 251-3 et liés à cette agence par
+la convention mentionnée à l'article D. 251-11. 
 
 Dans ce dernier cas, les aides s'imputent en totalité sur le montant, toutes taxes comprises, du véhicule mentionné sur la
-facture d'acquisition ou de location, après toute remise, rabais, déduction ou avantage consenti par le vendeuR. Pour une
+facture d'acquisition ou de location, après toute remise, rabais, déduction ou avantage consenti par le vendeur. Pour une
 location d'une durée supérieure ou égale à deux ans, les aides sont versées au locataire au plus tard au terme de la première
 échéance prévue par le contrat de location et à hauteur du montant expressément mentionné au contrat de location. 
 
@@ -44170,22 +44220,24 @@ Les aides apparaissent distinctement sur la facture, la quittance ou le contrat 
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+
 	**Cité par**:
 
 	  - Arrêté du 30 décembre 2014 - art. 2 (V)
 	  - Arrêté du 30 décembre 2016 - art. 2
 
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Modifié par**:
 
-	  - Décret n°2015-1928 du 31 décembre 2015 - art. 6
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
 
 	**Cite**:
 
+	  - Code de l'énergie - art. D251-1
 	  - Code de l'énergie - art. D251-11
+	  - Code de l'énergie - art. D251-3
 
 
 ###### Article D251-10
@@ -44229,11 +44281,11 @@ tant que de besoin, le régime financier et comptable du dispositif.
 ###### Article D251-11
 
 En dehors de la procédure de paiement de droit commun consistant à verser les aides directement à leur bénéficiaire, les
-vendeurs ou loueurs de véhicules peuvent conclure avec l'Agence de services et de paiement une convention aux termes de
-laquelle ils s'engagent à avancer le montant des aides versées pour en obtenir ensuite le remboursement par le dispositif
-d'aide à l'acquisition et à la location de véhicules peu polluants. Ces conventions sont signées entre le président-directeur
-général de l'Agence de services et de paiement et chaque constructeur, concessionnaire, loueur ou agent de marque ou tout
-professionnel de l'automobile habilité à faire du commerce de véhicules.
+vendeurs ou loueurs de véhicules mentionnés aux articles D. 251-1 et D. 251-3 peuvent conclure avec l'Agence de services et
+de paiement une convention aux termes de laquelle ils s'engagent à avancer le montant des aides versées pour en obtenir
+ensuite le remboursement par le dispositif d'aide à l'acquisition et à la location de véhicules peu polluants. Ces
+conventions sont signées entre le président-directeur général de l'Agence de services et de paiement et chaque constructeur,
+concessionnaire, loueur ou agent de marque ou tout professionnel de l'automobile habilité à faire du commerce de véhicules.
 
 **Liens relatifs à cet article**
 
@@ -44249,7 +44301,12 @@ professionnel de l'automobile habilité à faire du commerce de véhicules.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1980 du 30 décembre 2016 - art. 1
+	  - Décret n°2017-196 du 16 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D251-1
+	  - Code de l'énergie - art. D251-3
 
 
 ###### Article D251-12
@@ -44292,6 +44349,12 @@ seule demande de versement est présentée pour les deux aides. Leur paiement es
 	  - Code de l'énergie - art. D251-1
 	  - Code de l'énergie - art. D251-3 (M)
 
+
+##### Section unique :  Aides à l'achat ou à la location de véhicules peu polluants
+
+##### Sous-section 1 : Conditions d'attribution
+
+##### Sous-section 2 : Montants et modalités de versement des aides
 
 ### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE
 
