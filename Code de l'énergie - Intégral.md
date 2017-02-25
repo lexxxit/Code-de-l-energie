@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-02-19
+Version Consolidée au 2017-02-26
 
 # Partie législative
 
@@ -4745,10 +4745,6 @@ gaz naturel effectuées jusqu'au 31 décembre 2015.
 
 ###### Article L121-24
 
-Lorsque l'électricité acquise dans les conditions prévues par les articles L. 121-27, L. 311-10 et L. 314-1 fait l'objet, au
-bénéfice de l'acquéreur, d'une valorisation en raison de son origine, le montant de cette valorisation est déduit des charges
-de service public constatées pour cet acquéreur. 
-
 La valeur des garanties de capacité acquises dans le cadre des contrats découlant de l'application des articles L. 121-27, L.
 311-10 et L. 314-1, en application de l'article L. 335-5, est déduite des charges de service public constatées pour
 l'acquéreur. Le montant des pénalités payées dans le cadre de ces contrats est ajouté aux charges de service public
@@ -4761,15 +4757,15 @@ fixées par la Commission de régulation de l'énergie dans les conditions prév
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2015-992 du 17 août 2015 - art. 178
+	  - Loi n°2017-227 du 24 février 2017 - art. 13
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27
-	  - Code de l'énergie - art. L311-10
-	  - Code de l'énergie - art. L314-1
+	  - Code de l'énergie - art. L121-27 (V)
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L314-1 (V)
 	  - Code de l'énergie - art. L335-5
 	  - Code de l'énergie - art. L335-6
 
@@ -14417,15 +14413,18 @@ Des décrets en Conseil d'Etat fixent les modalités d'application de la présen
 
 ##### Section 3 : Procédure de mise en concurrence
 
+##### Section 3 : La procédure de mise en concurrence
+
 ###### Article L311-10
 
 Lorsque les capacités de production ne répondent pas aux objectifs de la programmation pluriannuelle de l'énergie, notamment
 ceux concernant les techniques de production et la localisation géographique des installations, l'autorité administrative
 peut recourir à une procédure de mise en concurrence dont les modalités sont définies par décret en Conseil d'Etat. 
 
-Toute personne installée sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre de l'exécution d'accords
-internationaux, sur le territoire de tout autre Etat et désirant exploiter une unité de production peut participer à cette
-procédure de mise en concurrence.
+Sous réserve des articles L. 2224-32 et L. 2224-33 du code général des collectivités territoriales, toute personne installée
+sur le territoire d'un Etat membre de l'Union européenne ou, dans le cadre de l'exécution d'accords internationaux, sur le
+territoire de tout autre Etat et désirant exploiter une unité de production peut participer à cette procédure de mise en
+concurrence.
 
 **Liens relatifs à cet article**
 
@@ -14466,12 +14465,11 @@ procédure de mise en concurrence.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 9
+	  - Loi n°2017-227 du 24 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-32
-	  - Code de l'énergie - art. L311-5
+	  - Code général des collectivités territoriales - art. L2224-32 (V)
 
 
 ###### Article L311-10-1
@@ -14479,8 +14477,9 @@ procédure de mise en concurrence.
 La procédure de mise en concurrence mentionnée à l'article L. 311-10 est conduite dans le respect des principes de
 transparence et d'égalité de traitement des candidats. 
 
-Pour désigner le ou les candidats retenus, l'autorité administrative se fonde sur le prix ainsi que, le cas échéant, sur
-d'autres critères objectifs, non discriminatoires et liés à l'objet de la procédure de mise en concurrence, tels que : 
+Pour désigner le ou les candidats retenus, l'autorité administrative se fonde sur le critère du prix, dont la pondération
+représente plus de la moitié de celle de l'ensemble des critères, ainsi que, le cas échéant, sur d'autres critères objectifs,
+non discriminatoires et liés à l'objet de la procédure de mise en concurrence, tels que : 
 
 1° La qualité de l'offre, y compris la valeur technique, les performances en matière de protection de l'environnement,
 l'efficacité énergétique et le caractère innovant du projet ; 
@@ -14490,10 +14489,10 @@ l'efficacité énergétique et le caractère innovant du projet ;
 3° La sécurité d'approvisionnement ; 
 
 4° Dans une mesure limitée, la part du capital détenue par les habitants résidant à proximité du projet ou par les
-collectivités territoriales ou leurs groupements sur le territoire desquels le projet doit être implanté par les sociétés
-porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles L. 1521-1 et suivants du
-code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération,
-ainsi que la part du capital proposée à ces habitants, collectivités ou groupements. 
+collectivités territoriales ou leurs groupements sur le territoire ou à proximité du territoire desquels le projet doit être
+implanté par les sociétés porteuses du projet, qu'elles soient régies par le livre II du code de commerce, par les articles
+L. 1521-1 et suivants du code général des collectivités territoriales ou par la loi n° 47-1775 du 10 septembre 1947 portant
+statut de la coopération, ainsi que la part du capital proposée à ces habitants, collectivités ou groupements. 
 
 Les conditions d'exécution peuvent prendre en compte des considérations à caractère social ou environnemental et poursuivre
 des objectifs de développement durable conciliant développement économique, protection et mise en valeur de l'environnement
@@ -14508,9 +14507,9 @@ Elles sont mentionnées dans le cahier des charges.
 	  - Code général des collectivités territoriales - art. L1521-1
 	  - Code de l'énergie - art. L311-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 10
+	  - Loi n°2017-227 du 24 février 2017 - art. 4
 
 
 ###### Article L311-10-2
@@ -15786,9 +15785,31 @@ France à partir d'énergies renouvelables ou par cogénération. Lorsqu'ils en 
 garanties d'origine aux producteurs non raccordés au réseau et aux autoconsommateurs d'électricité issue d'énergies
 renouvelables ou de cogénération. 
 
-La personne achetant, en application des articles L. 121-27, L. 311-13, L. 314-1, L. 314-6-1 et, le cas échéant, L. 314-26,
-de l'électricité produite en France à partir d'énergies renouvelables ou par cogénération est subrogée au producteur de cette
-électricité dans son droit à obtenir la délivrance des garanties d'origine correspondantes. 
+L'électricité produite à partir de sources renouvelables ou de cogénération et pour laquelle une garantie d'origine a été
+émise par le producteur ne peut ouvrir droit au bénéfice de l'obligation d'achat ou du complément de rémunération dans le
+cadre des contrats mentionnés aux articles L. 121-27, L. 311-12, L. 314-1, L. 314-18 et, le cas échéant, L. 314-26. 
+
+L'émission par le producteur d'une garantie d'origine portant sur l'électricité produite dans le cadre d'un contrat conclu en
+application des mêmes articles L. 121-27, L. 311-12, L. 314-1, L. 314-18 et, le cas échéant, L. 314-26 entraîne, sous les
+conditions et selon les modalités fixées par décret en Conseil d'Etat, la résiliation immédiate du contrat. 
+
+Cette résiliation immédiate s'applique aux contrats conclus à compter de la date de publication de la loi n° 2017-227 du 24
+février 2017 ratifiant les ordonnances n° 2016-1019 du 27 juillet 2016 relative à l'autoconsommation d'électricité et n°
+2016-1059 du 3 août 2016 relative à la production d'électricité à partir d'énergies renouvelables et visant à adapter
+certaines dispositions relatives aux réseaux d'électricité et de gaz et aux énergies renouvelables, ainsi qu'aux contrats en
+cours à cette même date. 
+
+La résiliation mentionnée aux quatrième et cinquième alinéas du présent article entraîne également le remboursement : 
+
+1° Pour un contrat de complément de rémunération conclu en application du 2° de l'article L. 311-12 ou de l'article L.
+314-18, des sommes actualisées perçues au titre du complément de rémunération ; 
+
+2° Pour un contrat d'achat conclu en application du 1° de l'article L. 311-12, de l'article L. 314-1 ou de l'article L.
+314-26, des sommes actualisées perçues au titre de l'obligation d'achat, dans la limite des surcoûts qui en résultent,
+mentionnés au 1° de l'article L. 121-7. 
+
+Toutefois, ce remboursement ne peut porter que sur les sommes versées à compter de la publication de la loi n° 2017-227 du 24
+février 2017 précitée. 
 
 Le coût du service afférent à la délivrance et au suivi des garanties par l'organisme est à la charge du demandeur.
 
@@ -15810,17 +15831,58 @@ Le coût du service afférent à la délivrance et au suivi des garanties par l'
 	  - Code de l'énergie - art. R314-35 (V)
 	  - Code de l'énergie - art. R333-14 (V)
 
+	**Cite**:
+
+	  - Ordonnance n°2016-1059 du 3 août 2016 (V)
+	  - Loi n°2017-227 du 24 février 2017 (V)
+	  - Code de l'énergie - art. L121-27 (V)
+	  - Code de l'énergie - art. L311-12 (V)
+	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-18 (V)
+	  - Code de l'énergie - art. L314-26 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
+	  - Loi n°2017-227 du 24 février 2017 - art. 13
+
+
+###### Article L314-14-1
+
+Les installations qui produisent de l'électricité à partir de sources renouvelables d'une puissance installée de plus de 100
+kilowatts bénéficiant d'un contrat conclu en application des articles L. 121-27, L. 311-12, L. 314-1, L. 314-18 et, le cas
+échéant, de l'article L. 314-26 sont tenues de s'inscrire sur le registre mentionné à l'article L. 314-14. 
+
+Pour les installations inscrites sur le registre mentionné au même article L. 314-14 et bénéficiant d'un contrat conclu en
+application des articles L. 121-27, L. 311-12, L. 314-1, L. 314-18 et, le cas échéant, de l'article L. 314-26, dès lors que
+les garanties d'origine issues de la production d'électricité d'origine renouvelable n'ont pas été émises par le producteur
+dans un délai fixé par décret, ces dernières sont émises d'office, en tout ou partie, par l'organisme mentionné à l'article
+L. 314-14 au bénéfice de l'Etat à sa demande. 
+
+Ces garanties d'origine sont mises aux enchères par le ministre chargé de l'énergie. Pour chaque mise aux enchères, il est
+préalablement fixé un prix minimal de vente de la garantie d'origine. Un allotissement par filière et par zone géographique
+peut être prévu. 
+
+Les revenus tirés de la mise aux enchères des garanties d'origine, déduction faite des frais de gestion de cette mise aux
+enchères et des frais d'inscription au registre mentionné au même article L. 314-14, viennent en diminution des charges
+imputables aux missions de service public mentionnées aux 1° et 4° de l'article L. 121-7. 
+
+Les modalités et conditions d'application du présent article, en particulier les conditions de mise aux enchères, sont
+précisées par décret, pris après avis de la Commission de régulation de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 13
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-27
-	  - Code de l'énergie - art. L311-13 (V)
+	  - Code de l'énergie - art. L121-27 (V)
+	  - Code de l'énergie - art. L311-12 (V)
 	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L314-14 (V)
+	  - Code de l'énergie - art. L314-18 (V)
 	  - Code de l'énergie - art. L314-26 (V)
-	  - Code de l'énergie - art. L314-6-1 (V)
 
 
 ###### Article L314-15
@@ -15970,8 +16032,8 @@ performante représentative de la filière reste supérieur au niveau de l'ensem
 financières et fiscales auxquelles celle-ci est éligible ; 
 
 3° Les installations dont la liste et les caractéristiques sont définies par décret parmi les installations mentionnées aux
-1° à 6° de l'article L. 314-1, souhaitant rompre leur contrat d'achat pour un contrat de complément de rémunération sur la
-durée restante du contrat d'achat initial. 
+1° à 6° de l'article L. 314-1, pour lesquelles les producteurs souhaitent rompre leur contrat d'achat pour un contrat de
+complément de rémunération sur la durée restante du contrat d'achat initial. 
 
 Le décret mentionné à l'article L. 314-27 précise les conditions dans lesquelles les installations mentionnées aux 1° à 3°
 peuvent bénéficier, à la demande de l'exploitant, du complément de rémunération prévu à l'article L. 314-18. 
@@ -15996,7 +16058,7 @@ conditions économiques de fonctionnement des installations performantes représ
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 6
+	  - Loi n°2017-227 du 24 février 2017 - art. 5
 
 	**Cite**:
 
@@ -16004,7 +16066,7 @@ conditions économiques de fonctionnement des installations performantes représ
 	  - Code de l'énergie - art. L311-12
 	  - Code de l'énergie - art. L314-1
 	  - Code de l'énergie - art. L314-18
-	  - Code de l'énergie - art. L314-20
+	  - Code de l'énergie - art. L314-20 (V)
 	  - Code de l'énergie - art. L314-27
 
 
@@ -16018,8 +16080,8 @@ notamment des frais de contrôle mentionnés à l'article L. 314-25 ;
 
 2° Du coût d'intégration de l'installation dans le système électrique ; 
 
-3° Des recettes de l'installation, notamment la valorisation de l'électricité produite, la valorisation par les producteurs
-des garanties d'origine et la valorisation des garanties de capacités prévues à l'article L. 335-3 ; 
+3° Des recettes de l'installation, notamment la valorisation de l'électricité produite et la valorisation des garanties de
+capacités prévues à l'article L. 335-3 ; 
 
 4° De l'impact de ces installations sur l'atteinte des objectifs mentionnés aux articles L. 100-1 et L. 100-2 ; 
 
@@ -16028,7 +16090,8 @@ installations mentionnées à l'article L. 314-18.
 
 Le niveau de ce complément de rémunération ne peut conduire à ce que la rémunération totale des capitaux immobilisés,
 résultant du cumul de toutes les recettes de l'installation et des aides financières ou fiscales, excède une rémunération
-raisonnable des capitaux, compte tenu des risques inhérents à ces activités. 
+raisonnable des capitaux, compte tenu des risques inhérents à ces activités. Le bénéfice du complément de rémunération peut,
+à cette fin, être  subordonné à la renonciation, par le producteur, à certaines de ces  aides financières ou fiscales.
 
 Les conditions du complément de rémunération font l'objet d'une révision périodique afin de tenir compte de l'évolution des
 coûts des installations bénéficiant de cette rémunération. 
@@ -16043,26 +16106,23 @@ régulation de l'énergie, les conditions du complément de rémunération pour 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 104 (V)
-
-	**Liens**:
-
-	  - RECTIFICATION: Loi n°2015-992 du 17 août 2015 - art., v. init.
+	  - Loi n°2017-227 du 24 février 2017 - art. 13
+	  - Loi n°2017-227 du 24 février 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L100-1 (V)
-	  - Code de l'énergie - art. L100-2 (V)
-	  - Code de l'énergie - art. L314-18 (V)
-	  - Code de l'énergie - art. L314-25 (V)
-	  - Code de l'énergie - art. L314-27 (V)
-	  - Code de l'énergie - art. L335-3 (V)
+	  - Code de l'énergie - art. L100-1
+	  - Code de l'énergie - art. L100-2
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. L314-25
+	  - Code de l'énergie - art. L314-27
+	  - Code de l'énergie - art. L335-3
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. L314-19 (M)
+	  - Code de l'énergie - art. L314-19 (V)
 	  - Code de l'énergie - art. L314-21 (V)
 	  - Code de l'énergie - art. R314-12 (V)
 	  - Code de l'énergie - art. R314-46 (V)
@@ -16261,15 +16321,15 @@ I. - Les sociétés par actions régies par le livre II du code de commerce ou p
 du code général des collectivités territoriales constituées pour porter un projet de production d'énergie renouvelable
 peuvent, lors de la constitution ou de l'évolution de leur capital, en proposer une part aux personnes physiques, notamment
 aux habitants dont la résidence est à proximité du lieu d'implantation du projet, ainsi qu'aux collectivités territoriales et
-à leurs groupements sur le territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de
-participer au financement du projet de production d'énergie renouvelable. 
+à leurs groupements sur le territoire ou à proximité du territoire desquels il se situe. Elles peuvent également proposer à
+ces mêmes personnes de participer au financement du projet de production d'énergie renouvelable. 
 
 II. - Les sociétés coopératives régies par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération
 constituées pour porter un projet de production d'énergie renouvelable peuvent, lors de la constitution ou de l'évolution de
 leur capital, en proposer une part aux personnes physiques, notamment aux habitants dont la résidence est à proximité du lieu
-d'implantation du projet, ainsi qu'aux collectivités territoriales et à leurs groupements sur le territoire desquels il se
-situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement du projet de production d'énergie
-renouvelable. 
+d'implantation du projet, ainsi qu'aux collectivités territoriales et à leurs groupements sur le territoire ou à proximité du
+territoire desquels il se situe. Elles peuvent également proposer à ces mêmes personnes de participer au financement du
+projet de production d'énergie renouvelable. 
 
 III. - Les offres de participation au capital ou au financement mentionnées aux I et II du présent article peuvent être
 faites par les porteurs des projets directement auprès des personnes mentionnées au même I ou en recourant à un fonds qui a
@@ -16300,41 +16360,38 @@ de l'énergie s'applique à compter du 1er juillet 2016.
 
 	**Cite**:
 
-	  - Loi n°47-1775 du 10 septembre 1947 (V)
-	  - Code de commerce -  LIVRE II : Des sociétés commerciales et des gro... (V)
-	  - Code général des collectivités territoriales -  TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES (V)
-	  - Code monétaire et financier - art. L214-153-1 (V)
-	  - Code monétaire et financier - art. L411-1 (V)
-	  - Code monétaire et financier - art. L531-1 (V)
-	  - Code monétaire et financier - art. L547-1 (V)
-	  - Code monétaire et financier - art. L548-2 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 5
+	  - Loi n°47-1775 du 10 septembre 1947
+	  - Code de commerce
+	  - Code général des collectivités territoriales
+	  - Code monétaire et financier - art. L214-153-1
+	  - Code monétaire et financier - art. L411-1
+	  - Code monétaire et financier - art. L531-1
+	  - Code monétaire et financier - art. L547-1
+	  - Code monétaire et financier - art. L548-2
 
 	**Cité par**:
 
 	  - Décret n°2016-1272 du 29 septembre 2016 (V)
 	  - Code de l'énergie - art. R314-71 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'énergie - art. L314-27 (T)
+	  - Loi n°2017-227 du 24 février 2017 - art. 17
 
 
 #### Chapitre V : L'autoconsommation
 
 ###### Article L315-1
 
-Une opération d'autoconsommation est le fait pour un producteur, dit autoproducteur, de consommer lui-même tout ou partie de
-l'électricité produite par son installation.
+Une opération  d'autoconsommation individuelle est le fait pour un producteur, dit  autoproducteur, de consommer lui-même et
+sur un même site tout ou partie  de l'électricité produite par son installation. La part de  l'électricité produite qui est
+consommée l'est soit instantanément, soit  après une période de stockage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+	  - Loi n°2017-227 du 24 février 2017 - art. 8
 
 	**Cité par**:
 
@@ -16345,13 +16402,17 @@ l'électricité produite par son installation.
 
 L'opération d'autoconsommation est collective lorsque la fourniture d'électricité est effectuée entre un ou plusieurs
 producteurs et un ou plusieurs consommateurs finals liés entre eux au sein d'une personne morale et dont les points de
-soutirage et d'injection sont situés sur une même antenne basse tension du réseau public de distribution.
+soutirage et d'injection sont situés en aval d'un même poste public de transformation d'électricité de moyenne en basse
+tension. Le chapitre V du titre III du présent livre, la mise en œuvre de la tarification spéciale dite “ produit de première
+nécessité ” prévue aux articles L. 121-5 et L. 337-3 du présent code et la section 1 du chapitre IV du titre II du livre II
+du code de la consommation ne sont pas applicables aux utilisateurs participant à une opération d'autoconsommation
+collective.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+	  - Loi n°2017-227 du 24 février 2017 - art. 9
 
 	**Cité par**:
 
@@ -16359,6 +16420,11 @@ soutirage et d'injection sont situés sur une même antenne basse tension du ré
 	  - Code de l'énergie - art. D315-6 (V)
 	  - Code de l'énergie - art. D315-9 (V)
 	  - Code de l'énergie - art. L315-4 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L121-5 (VT)
+	  - Code de l'énergie - art. L337-3 (VT)
 
 
 ###### Article L315-3
@@ -16385,18 +16451,20 @@ gestionnaire de réseau public de distribution compétent la répartition de la 
 finals concernés. 
 
 Lorsqu'un consommateur participant à une opération d'autoconsommation collective fait appel à un fournisseur pour compléter
-son alimentation en électricité, le gestionnaire du réseau public de distribution d'électricité concerné établit les index de
-consommation de l'électricité relevant de ce fournisseur en prenant en compte la répartition mentionnée à l'alinéa précédent.
+son alimentation en électricité, le gestionnaire du réseau public de distribution d'électricité concerné établit la
+consommation d'électricité relevant de ce fournisseur en prenant en  compte la répartition mentionnée au premier alinéa du
+présent article  ainsi que le comportement de chaque consommateur final concerné, selon  des modalités fixées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+	  - Loi n°2017-227 du 24 février 2017 - art. 10
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L315-2 (V)
+	  - Code de l'énergie - art. L315-2
 
 
 ###### Article L315-5
@@ -16405,15 +16473,15 @@ Les injections d'électricité sur le réseau public de distribution effectuées
 à partir d'une installation de production d'électricité, dont la puissance installée maximale est fixée par décret, et qui
 excèdent la consommation associée à cette opération d'autoconsommation sont, à défaut d'être vendues à un tiers, cédées à
 titre gratuit au gestionnaire du réseau public de distribution d'électricité auquel cette installation de production est
-raccordée. 
+raccordée et rattachées au périmètre d'équilibre de ce dernier. 
 
 Ces injections sont alors affectées aux pertes techniques de ce réseau.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1019 du 27 juillet 2016 - art. 1
+	  - Loi n°2017-227 du 24 février 2017 - art. 11
 
 	**Cité par**:
 
@@ -17666,15 +17734,16 @@ Dans les zones non interconnectées au territoire métropolitain continental, so
 ainsi que des obligations de sûreté, de sécurité et de qualité du service public de l'électricité, notamment du seuil de
 déconnexion mentionné à l'article L. 141-9, le gestionnaire du réseau de distribution d'électricité donne la priorité, lors
 de l'appel des moyens de production d'électricité, aux installations qui utilisent des énergies renouvelables. La liste et
-les caractéristiques de ces installations sont définies par décret. 
+les caractéristiques de ces installations sont définies par décret, pris après avis de la Commission de régulation de
+l'énergie. 
 
 L'appel de ces installations est fonction de l'ordre de préséance économique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2016-1059 du 3 août 2016 - art. 14
+	  - Loi n°2017-227 du 24 février 2017 - art. 12
 
 	**Cité par**:
 
@@ -20140,13 +20209,42 @@ insertion esthétique dans l'environnement ;
 
 3° Une partie des coûts de raccordement à ces réseaux et une partie des coûts des prestations annexes réalisées à titre
 exclusif par les gestionnaires de ces réseaux, l'autre partie pouvant faire l'objet d'une contribution dans les conditions
-fixées aux articles L. 342-6 et suivants. 
+fixées aux articles L. 342-6 à L. 342-12. 
 
-Toutefois, lorsque le raccordement est destiné à desservir une installation de production d'électricité, la contribution
-versée au maître d'ouvrage couvre intégralement les coûts de branchement et d'extension des réseaux, que ces travaux soient
-réalisés sous la maîtrise d'ouvrage des autorités organisatrices de la distribution publique d'électricité mentionnées à
-l'article L. 121-4 ou celle des gestionnaires de ces réseaux, conformément à la répartition opérée par le contrat de
-concession ou par le règlement de service de la régie. 
+Peuvent bénéficier de la prise en charge prévue au présent 3° : 
+
+a) Les consommateurs d'électricité dont les installations sont raccordées aux réseaux publics d'électricité, quel que soit le
+maître d'ouvrage de ces travaux ; 
+
+b) Les gestionnaires des réseaux publics de distribution d'électricité mentionnés à l'article L. 111-52, pour le raccordement
+de leurs ouvrages au réseau amont ; 
+
+c) Les producteurs d'électricité à partir de sources d'énergie renouvelable dont les installations sont raccordées aux
+réseaux publics de distribution, quel que soit le maître d'ouvrage de ces travaux. 
+
+Lorsque le raccordement mentionné aux a ou c du présent 3° est réalisé sous la maîtrise d'ouvrage d'une autorité
+organisatrice de la distribution publique d'électricité mentionnée à l'article L. 121-4, conformément à la répartition opérée
+par le contrat de concession ou par le règlement de service de la régie, une convention avec le gestionnaire du réseau public
+de distribution règle notamment les modalités de versement de la prise en charge prévue au présent 3°. Le modèle de cette
+convention est transmis pour approbation au comité du système de distribution publique d'électricité mentionné à l'article L.
+111-56-1. 
+
+Le niveau de la prise en charge prévue au présent 3° ne peut excéder 40 % du coût du raccordement et peut être différencié
+par niveau de puissance et par source d'énergie. Il est arrêté par l'autorité administrative après avis de la Commission de
+régulation de l'énergie. 
+
+La prise en charge prévue au présent 3° n'est pas applicable lorsque les conditions de raccordement sont fixées dans le cadre
+de la procédure de mise en concurrence prévue à l'article L. 311-10 ; 
+
+4° Les indemnités versées aux producteurs d'électricité à partir de sources d'énergie renouvelable en mer en cas de
+dépassement du délai de raccordement prévu par la convention de raccordement ou, à défaut, par l'article L. 342-3, lorsque la
+cause du retard n'est pas imputable au gestionnaire du réseau concerné mais résulte de la réalisation d'un risque que celui-
+ci assume aux termes de la convention de raccordement. Lorsque la cause du retard est imputable au gestionnaire de réseau, ce
+dernier est redevable d'une part de ces indemnités, dans la limite d'un pourcentage et d'un plafond sur l'ensemble des
+installations par année civile, fixés par arrêté du ministre chargé de l'énergie, après avis de la Commission de régulation
+de l'énergie. 
+
+Les indemnités mentionnées au présent 4° ne peuvent excéder un montant par installation fixé par décret en Conseil d'Etat. 
 
 Pour le calcul du coût du capital investi par les gestionnaires de ces réseaux, la méthodologie est indépendante du régime
 juridique selon lequel sont exploités les réseaux d'électricité et de ses conséquences comptables. Elle peut se fonder sur la
@@ -20182,13 +20280,17 @@ qui contribue notamment à la réalisation des investissements nécessaires pour
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 153
+	  - Loi n°2017-227 du 24 février 2017 - art. 14 (V)
 
 	**Cite**:
 
+	  - Code de l'énergie - art. L111-52 (V)
+	  - Code de l'énergie - art. L111-56-1 (V)
 	  - Code de l'énergie - art. L121-4 (V)
-	  - Code de l'énergie - art. L322-1 (V)
-	  - Code de l'énergie - art. L322-6 (V)
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L322-1
+	  - Code de l'énergie - art. L322-6
+	  - Code de l'énergie - art. L342-3 (V)
 	  - Code de l'énergie - art. L342-6
 
 
@@ -20258,7 +20360,8 @@ des consommateurs est la plus élevée.
 Dans le cadre du déploiement des dispositifs prévus au premier alinéa du présent article et en application de la mission
 fixée au 7° de l'article L. 322-8, les gestionnaires des réseaux publics de distribution d'électricité mettent à la
 disposition des consommateurs leurs données de comptage, des systèmes d'alerte liés au niveau de leur consommation, ainsi que
-des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. 
+des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. Un
+décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition.
 
 Dans le cadre de l'article L. 337-3-1, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
 consommation, en aval du compteur et en temps réel, sous réserve de l'accord du consommateur. 
@@ -20291,11 +20394,6 @@ conformité avec les dispositions du présent article.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 160
-	  - Loi n°2015-992 du 17 août 2015 - art. 28
-
 	**Cité par**:
 
 	  - Décret n°2016-447 du 12 avril 2016 (V)
@@ -20308,10 +20406,14 @@ conformité avec les dispositions du présent article.
 	  - Code de l'énergie - art. R341-4 (V)
 	  - Code de la consommation - art. D224-26 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 18
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L322-8 (VT)
-	  - Code de l'énergie - art. L341-2 (V)
+	  - Code de l'énergie - art. L322-8
+	  - Code de l'énergie - art. L341-2
 
 
 ###### Article L341-4-1
@@ -20795,30 +20897,33 @@ Lorsque le raccordement est destiné à desservir une installation de production
 s'inscrit dans le schéma régional de raccordement au réseau des énergies renouvelables mentionné à l'article L. 321-7, le
 producteur est redevable d'une contribution au titre du raccordement propre à l'installation ainsi qu'au titre de la quote-
 part définie dans le périmètre de mutualisation mentionné à l'article L. 321-7. Cette quote-part est calculée en proportion
-de la capacité de puissance installée sur la puissance totale disponible garantie sur le périmètre de mutualisation. 
+de la capacité de puissance installée sur la puissance totale disponible garantie sur le périmètre de mutualisation. La prise
+en charge prévue au 3° de l'article L. 341-2 porte sur l'un ou  sur l'ensemble des éléments constitutifs de cette
+contribution.
 
 Est précisé par voie réglementaire le mode de détermination du périmètre de mutualisation des postes du réseau public de
 transport, des postes de transformation entre les réseaux publics de distribution et le réseau public de transport et des
 liaisons de raccordement au réseau public de transport, inscrits dans le schéma de raccordement au réseau des énergies
 renouvelables, que ces ouvrages soient nouvellement créés ou existants.
 
+Lorsque le raccordement d'une installation à partir de sources d'énergie  renouvelable ne s'inscrit pas dans le schéma
+régional de raccordement  au réseau des énergies renouvelables, le producteur est redevable d'une  contribution au titre du
+raccordement défini au premier alinéa de  l'article L. 342-1. La prise en charge prévue au 3° de l'article L.  341-2 porte
+sur l'ensemble des éléments constitutifs de cette  contribution.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 23-1 (Ab), II, alinéas 2 à 4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2017-227 du 24 février 2017 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L321-7 (V)
+	  - Code de l'énergie - art. L321-7
 
 
 #### Chapitre III : Les lignes directes
@@ -22821,6 +22926,23 @@ administrative et à la Commission de régulation de l'énergie.
 	  - Code de l'énergie - art. R421-13 (V)
 
 
+###### Article L421-9-1
+
+En cas de modification de la nature du gaz acheminé dans les réseaux de  distribution et de transport de gaz naturel, pour
+des motifs tenant à la  sécurité d'approvisionnement du territoire, les opérateurs de stockages  souterrains de gaz naturel
+mettent en œuvre les dispositions  nécessaires pour contribuer au bon fonctionnement et à l'équilibrage des  réseaux, à la
+continuité du service d'acheminement et de livraison du  gaz et à la sécurité des biens et des personnes. La décision et les
+modalités de mise en œuvre par les opérateurs d'une telle modification  font l'objet d'un décret, pris après une évaluation
+économique et  technique de la Commission de régulation de l'énergie permettant de  s'assurer de l'adéquation des mesures
+envisagées au bon fonctionnement  du marché du gaz naturel au bénéfice des consommateurs finals.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 16 (V)
+
+
 ###### Article L421-10
 
 Lorsqu'un opérateur exerce à la fois des activités de transport et de stockage, il tient une comptabilité interne séparée
@@ -23243,19 +23365,26 @@ dispositions nécessaires pour assurer le bon fonctionnement et l'équilibrage d
 d'acheminement et de livraison du gaz et la sécurité des biens et des personnes. La décision et les modalités de mise en
 œuvre par les opérateurs et les gestionnaires de réseaux d'une telle modification font l'objet d'un décret, pris après une
 évaluation économique et technique de la Commission de régulation de l'énergie permettant de s'assurer de l'adéquation des
-mesures envisagées au bon fonctionnement du marché du gaz naturel au bénéfice des consommateurs finals.
+mesures envisagées au bon fonctionnement du marché du gaz naturel au bénéfice des consommateurs finals. 
+
+Afin d'assurer l'équilibrage des réseaux et la continuité du service  d'acheminement tout au long du processus de
+modification de la nature du  gaz acheminé, le gestionnaire de réseau de transport de gaz naturel  peut conclure avec les
+opérateurs des stockages souterrains de gaz  naturel raccordés à son réseau des contrats spécifiant la nature du gaz  stocké
+durant la phase de modification. Ces contrats prévoient la  compensation par le gestionnaire de réseau de transport des coûts
+induits pour l'opérateur de stockage par la modification de la nature du  gaz. Un décret pris après avis de la Commission de
+régulation de  l'énergie précise les coûts faisant l'objet d'une compensation.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 164
 
 	**Cité par**:
 
 	  - Décret n°2016-348 du 23 mars 2016 (V)
 	  - Décret n°2016-348 du 23 mars 2016 - art. 5 (V)
 	  - Code de l'énergie - art. L452-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 16 (V)
 
 
 ###### Article L431-6-2
@@ -23662,20 +23791,27 @@ annuellement un état de son programme d'investissement relatif à la distributi
 
 ###### Article L432-13
 
-En cas de modification de la nature du gaz acheminé dans les réseaux de distribution de gaz naturel, pour des motifs tenant à
-la sécurité d'approvisionnement du territoire, les gestionnaires de réseaux de distribution de gaz naturel mettent en œuvre
-les dispositions nécessaires pour assurer le bon fonctionnement et l'équilibrage des réseaux, la continuité du service
-d'acheminement et de livraison du gaz et la sécurité des biens et des personnes. La décision et les modalités de mise en
-œuvre par les opérateurs et les gestionnaires de réseaux d'une telle modification font l'objet d'un décret, pris après une
-évaluation économique et technique de la Commission de régulation de l'énergie permettant de s'assurer de l'adéquation des
-mesures envisagées au bon fonctionnement du marché du gaz naturel au bénéfice des consommateurs finals. Les dispositions des
-cahiers des charges des concessions de distribution de gaz naturel font, le cas échéant, l'objet d'une adaptation.
+I. - En cas de modification de la nature du gaz acheminé dans les réseaux de distribution de gaz naturel, pour des motifs
+tenant à la sécurité d'approvisionnement du territoire, les gestionnaires de réseaux de distribution de gaz naturel mettent
+en œuvre les dispositions nécessaires pour assurer le bon fonctionnement et l'équilibrage des réseaux, la continuité du
+service d'acheminement et de livraison du gaz et la sécurité des biens et des personnes. Les dispositions des cahiers des
+charges des concessions de distribution de gaz naturel font, le cas échéant, l'objet d'une adaptation.
+
+Les gestionnaires des réseaux de distribution de gaz naturel dirigent et  coordonnent les opérations de modification de leurs
+réseaux respectifs  et veillent à la compatibilité des installations des consommateurs  finals durant toute la durée des
+opérations ainsi qu'à l'issue de  celles-ci. A cette fin, ils peuvent sélectionner et missionner des  entreprises disposant
+des qualifications nécessaires pour réaliser les  opérations de contrôle, d'adaptation et de réglage de tous les appareils
+et équipements gaziers des installations intérieures ou autres des  consommateurs raccordés aux réseaux de distribution
+concernés. 
+
+Les modalités d'application du présent article sont définies par  décret, après avis de la Commission de régulation de
+l'énergie. Cet avis  comprend une évaluation économique et technique qui permet de garantir  l'adéquation des mesures
+envisagées au bon fonctionnement du marché du  gaz naturel et à l'intérêt des consommateurs finals. 
+
+II. - Le I est applicable aux réseaux de distribution de gaz combustibles  autres que le gaz naturel en cas de modification
+de la nature du gaz  concerné.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 164
 
 	**Cité par**:
 
@@ -23684,6 +23820,10 @@ cahiers des charges des concessions de distribution de gaz naturel font, le cas 
 	  - Code de l'environnement - art. L554-10 (V)
 	  - Code de l'environnement - art. L554-11 (V)
 	  - Code de l'énergie - art. L452-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 16 (V)
 
 
 #### Chapitre III : Les ouvrages de transport et de distribution
@@ -25280,7 +25420,16 @@ service public et des contrats mentionnés au I de l'article L. 121-46.
 
 Figurent notamment parmi ces coûts les dépenses d'exploitation, de recherche et de développement nécessaires à la sécurité du
 réseau et à la maîtrise de la qualité du gaz naturel injecté ou soutiré ainsi que la partie du coût des extensions de réseaux
-restant à la charge des distributeurs. 
+restant à la charge des distributeurs. Figurent également parmi ces coûts les dépenses afférentes aux opérations de contrôle,
+d'adaptation et de réglage des appareils et équipements gaziers mentionnées au deuxième alinéa du I de l'article L. 432-13
+ainsi que la compensation dont bénéficient les opérateurs de stockages souterrains de gaz naturel au titre des contrats
+mentionnés au second alinéa de l'article L. 431-6-1. 
+
+Pour les tarifs d'utilisation des réseaux publics de distribution de gaz naturel qui ne sont pas concédés en application de
+l'article L. 432-6 et qui ont pour société gestionnaire une société mentionnée à l'article L. 111-61, ces coûts comprennent
+également une partie des coûts de raccordement à ces réseaux des installations de production de biogaz. Le niveau de prise en
+charge ne peut excéder 40 % du coût du raccordement. Il est arrêté par l'autorité administrative, après avis de la Commission
+de régulation de l'énergie. 
 
 Les tarifs d'utilisation des réseaux publics de distribution de gaz naturel autres que ceux concédés en application de
 l'article L. 432-6 font l'objet d'une péréquation à l'intérieur de la zone de desserte de chaque gestionnaire. La
@@ -25309,12 +25458,16 @@ notamment à la réalisation des investissements nécessaires pour le développe
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-411 du 7 avril 2016 - art. 2
+	  - Loi n°2017-227 du 24 février 2017 - art. 16 (V)
+	  - Loi n°2017-227 du 24 février 2017 - art. 19
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code de l'énergie - art. L111-61 (VT)
 	  - Code de l'énergie - art. L121-46
+	  - Code de l'énergie - art. L431-6-1 (V)
+	  - Code de l'énergie - art. L432-13 (V)
 	  - Code de l'énergie - art. L432-6 (V)
 
 	**Cité par**:
@@ -25692,7 +25845,8 @@ et pour les consommateurs du déploiement des différents dispositifs.
 Dans le cadre du déploiement des dispositifs prévus au premier alinéa du présent article et en application de la mission
 fixée au 7° de l'article L. 432-8, les gestionnaires des réseaux publics de distribution de gaz naturel mettent à la
 disposition des consommateurs leurs données de comptage, des systèmes d'alerte liés au niveau de leur consommation, ainsi que
-des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. 
+des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. Un
+décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition. 
 
 Dans le cadre de l'article L. 445-6, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
 consommation, sous réserve de l'accord du consommateur. 
@@ -25714,10 +25868,6 @@ caractéristiques des données de consommation communiquées.
 
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
-	**Modifié par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 28
-
 	**Cité par**:
 
 	  - Décret n°2016-447 du 12 avril 2016 (V)
@@ -25729,9 +25879,13 @@ caractéristiques des données de consommation communiquées.
 	  - Code de l'énergie - art. L453-8 (V)
 	  - Code de la consommation - art. D224-26 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2017-227 du 24 février 2017 - art. 18
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L432-8 (VT)
+	  - Code de l'énergie - art. L432-8
 
 
 ###### Article L453-8
@@ -43842,7 +43996,7 @@ dans le cas où la puissance souscrite est stipulée en unités de répartition 
 
 #### Chapitre unique
 
-##### Section unique :  Aides à l'achat ou à la location de véhicules automobiles peu polluants
+##### Section unique :  Aides à l'achat ou à la location de véhicules peu polluants
 
 ##### Sous-section 1 : Conditions d'attribution
 
@@ -44349,12 +44503,6 @@ seule demande de versement est présentée pour les deux aides. Leur paiement es
 	  - Code de l'énergie - art. D251-1
 	  - Code de l'énergie - art. D251-3 (M)
 
-
-##### Section unique :  Aides à l'achat ou à la location de véhicules peu polluants
-
-##### Sous-section 1 : Conditions d'attribution
-
-##### Sous-section 2 : Montants et modalités de versement des aides
 
 ### TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITE
 
