@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-02-26
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -14411,8 +14411,6 @@ Des décrets en Conseil d'Etat fixent les modalités d'application de la présen
 	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 
-##### Section 3 : Procédure de mise en concurrence
-
 ##### Section 3 : La procédure de mise en concurrence
 
 ###### Article L311-10
@@ -26042,9 +26040,14 @@ des régimes de concession ou d'autorisation au titre du présent livre.
 
 ###### Article L511-2
 
-Les projets d'ouvrages entrant dans le champ d'application des articles L. 214-1 du code de l'environnement et ayant vocation
+Les projets d'ouvrages entrant dans le champ d'application de l'article L. 214-1 du code de l'environnement et ayant vocation
 à produire accessoirement de l'électricité sont autorisés en application des articles L. 214-1 à L. 214-11 du code de
 l'environnement et sont dispensés du régime d'autorisation prévu à l'article L. 511-5.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
@@ -26054,7 +26057,7 @@ l'environnement et sont dispensés du régime d'autorisation prévu à l'article
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
@@ -26619,10 +26622,15 @@ et les règlements d'eau pris pour son application sont instruits en application
 par décret en Conseil d'Etat. 
 
 Ces actes doivent respecter les règles de fond prévues au titre Ier du livre II du code de l'environnement et valent
-autorisation au titre des articles L. 214-1 et suivants du même code. 
+autorisation au titre de l'article L. 214-1 du même code. 
 
 La passation et l'exécution des contrats de concession d'énergie hydraulique sont soumises aux dispositions prévues par
 l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession et par le présent titre.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
@@ -26633,12 +26641,12 @@ l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession 
 	**Cite**:
 
 	  - Ordonnance n°2016-65 du 29 janvier 2016
-	  - Code de l'environnement - art. L214-1
+	  - Code de l'environnement - art. L214-1 (V)
 	  - Code de l'énergie - art. L511-5
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 70
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 8
 
 
 ###### Article L521-2
@@ -27790,8 +27798,8 @@ d'Etat.
 
 I. ― L'octroi par l'autorité administrative de l'autorisation permettant l'exploitation d'installations utilisant l'énergie
 hydraulique également soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement est entièrement régi par ces
-dispositions et les actes délivrés en application du code de l'environnement valent autorisation au titre du présent
-chapitre, sous réserve de ses dispositions particulières. 
+dispositions et par celles du chapitre unique du titre VIII du livre Ier du même code et les actes délivrés en application du
+code de l'environnement valent autorisation au titre du présent chapitre, sous réserve de ses dispositions particulières. 
 
 II. ― L'octroi par l'autorité administrative de l'autorisation permettant l'exploitation d'installations utilisant l'énergie
 hydraulique qui ne sont pas soumises aux articles L. 214-1 à L. 214-11 du code de l'environnement est régi par l'article L.
@@ -27801,6 +27809,11 @@ III. ― Le présent article est applicable aux demandes d'autorisation formulé
 compter de la promulgation de la loi n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des
 démarches administratives.
 
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -27809,13 +27822,13 @@ démarches administratives.
 
 	**Cite**:
 
-	  - Loi n°2012-387 du 22 mars 2012 (V)
-	  - Code de l'environnement - art. L214-1 (V)
-	  - Code de l'énergie - art. L311-5 (V)
+	  - Loi n°2012-387 du 22 mars 2012
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'énergie - art. L311-5
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 8
 
 	**Cité par**:
 
@@ -27862,8 +27875,13 @@ V du titre Ier du livre II du code de l'environnement.
 ###### Article L531-3
 
 Le renouvellement des autorisations au titre du présent livre est régi par la section 1 du chapitre IV du titre Ier du livre
-II du code de l'environnement. Si l'autorisation n'est pas renouvelée, il est fait application de l'article L. 214-3-1 du
-même code.
+II du code de l'environnement. Si l'autorisation n'est pas renouvelée, il est fait application de l'article L. 181-23 du même
+code.
+
+**Nota:**
+
+Conformément à l'article 15 de l'ordonnance n° 2017-80 du 26 janvier 2017, ces dispositions entrent en vigueur le 1er mars
+2017 sous réserves des dispositions citées audit article.
 
 **Liens relatifs à cet article**
 
@@ -27873,12 +27891,11 @@ même code.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 68
+	  - Ordonnance n°2017-80 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de l'environnement -  Section 1 : Régimes d'autorisation ou de déclar... (V)
-	  - Code de l'environnement - art. L214-3-1 (V)
+	  - Code de l'environnement - art. L181-23 (V)
 
 
 ###### Article L531-4
@@ -66334,10 +66351,10 @@ procède aux consultations qu'elle estime adaptées aux enjeux soulevés par ces
 
 ###### Article R521-28
 
-Le règlement d'eau prévu à l'article L. 521-2 ne peut contenir, conformément au deuxième alinéa de l'article L. 214-3 du code
-de l'environnement et au 1° de l'article L. 521-4 du présent code, que les prescriptions individuelles nécessaires à la
-protection des intérêts mentionnés à l'article L. 211-1 du code de l'environnement ou que des prescriptions relatives aux
-moyens de surveillance, aux modalités des contrôles techniques et aux moyens d'intervention en cas d'incident ou d'accident. 
+Le règlement d'eau prévu à l'article L. 521-2 ne peut contenir, conformément à l'article L. 181-11 du code de l'environnement
+et au 1° de l'article L. 521-4 du présent code, que les prescriptions individuelles nécessaires à la protection des intérêts
+mentionnés à l'article L. 211-1 du code de l'environnement ou que des prescriptions relatives aux moyens de surveillance, aux
+modalités des contrôles techniques et aux moyens d'intervention en cas d'incident ou d'accident. 
 
 Le règlement d'eau fixe en particulier les conditions techniques applicables à l'exploitation des ouvrages hydrauliques dans
 toutes les hypothèses connues et prévisibles et portant sur :
@@ -66358,6 +66375,11 @@ sur les autres usages de l'eau ;
 
 - le mode de restitution des eaux prélevées et la qualité des eaux restituées, notamment son oxygénation.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -66366,12 +66388,12 @@ sur les autres usages de l'eau ;
 
 	**Modifié par**:
 
-	  - Décret n°2016-530 du 27 avril 2016 - art. 1
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 9
 
 	**Cite**:
 
+	  - Code de l'environnement - art. L181-11 (VD)
 	  - Code de l'environnement - art. L211-1
-	  - Code de l'environnement - art. L214-3
 	  - Code de l'énergie - art. L521-2
 	  - Code de l'énergie - art. L521-4
 
