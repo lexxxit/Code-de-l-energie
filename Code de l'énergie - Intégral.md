@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-12
 
 # Partie législative
 
@@ -58229,12 +58229,29 @@ le taux de réduction dont il bénéficie est diminué de 10 points de pourcenta
 	  - Décret n°2016-141 du 11 février 2016 - art.
 
 
+###### Article D341-8-1
+
+Les dispositions de la présente section sont applicables aux consommateurs finals raccordés directement à l'un des réseaux
+mentionnés à l'article L. 341-4-2 ou raccordés à l'installation intérieure d'un site lui-même raccordé directement à l'un de
+ces réseaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
+
+
 ###### Article D341-9
 
-Les consommateurs finals qui satisfont aux conditions de consommation d'électricité ou de soutirage sur le réseau public de
-transport d'électricité et de durée d'utilisation ou de taux d'utilisation en heures creuses de celui-ci figurant au tableau
-annexé au présent article se voient appliquer le taux de réduction du tarif d'utilisation du réseau public de transport
-d'électricité qui y figure. 
+Les consommateurs finals qui satisfont aux conditions de consommation d'électricité ou de soutirage sur les réseaux
+mentionnés à l'article L. 341-4-2 et de durée d'utilisation ou de taux d'utilisation en heures creuses de celui-ci figurant
+au tableau annexé au présent article se voient appliquer le taux de réduction du tarif d'utilisation du réseau public de
+transport d'électricité qui y figure. 
 
 Pour l'application du précédent alinéa : 
 
@@ -58262,102 +58279,172 @@ ou les deux dernières années précédant celle au titre de laquelle la demande
 être seule prise en compte, après accord du préfet, l'année précédant celle au titre de laquelle la demande est faite ; 
 
 7° Peuvent être considérés comme un unique site de consommation, après accord du préfet, les sites alimentés par le même
-poste d'entrée géré par le gestionnaire du réseau public de transport d'électricité appartenant à des entreprises dont le
-capital et les droits de vote sont détenus directement ou indirectement à au moins 50 % par le même actionnaire ultime.
+poste d'entrée géré par le gestionnaire du réseau concerné appartenant à des entreprises dont le capital et les droits de
+vote sont détenus directement ou indirectement à au moins 50 % par le même actionnaire ultime.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 2
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D351-7 (V)
 
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
+
 
 ###### Article D341-10
 
-I. - Les entreprises qui souhaitent faire bénéficier leurs sites des dispositions de la présente section transmettent leur
-demande au gestionnaire du réseau public de transport d'électricité au plus tard le 30 novembre de l'année qui précède celle
-au titre de laquelle la demande est faite, accompagnée d'une copie de l'attestation mentionnée à l'article D. 351-7. 
+I. – Les entreprises qui souhaitent faire bénéficier leurs sites des dispositions de la présente section transmettent leur
+demande au gestionnaire du réseau concerné au plus tard le 30 novembre de l'année qui précède celle au titre de laquelle la
+demande est faite, accompagnée d'une copie de l'attestation mentionnée à l'article D. 351-7. 
 
-La réduction est appliquée par le gestionnaire du réseau de transport à compter du 1er janvier de l'année sur laquelle porte
-la demande. 
+La réduction est appliquée par le gestionnaire du réseau concerné à compter du 1er janvier de l'année sur laquelle porte la
+demande. 
 
-II. - Pour les sites de consommation ayant moins d'un an ancienneté : 
+II. – Pour les sites de consommation ayant moins d'un an ancienneté : 
 
 1° L'attestation mentionnée à l'article D. 351-7 est transmise au préfet au plus tard le 31 mars de l'année suivant celle au
 titre de laquelle la demande a été faite, ainsi que les éléments permettant de justifier de l'ancienneté du site ; 
 
 2° Avant le 31 décembre de l'année qui précède celle au titre de laquelle la demande est faite, l'entreprise fait part au
-gestionnaire du réseau public de transport de son intention de demander à bénéficier de la réduction prévue à l'article L.
-341-4-2, en précisant la durée minimale d'utilisation du réseau ou le taux minimal d'utilisation du réseau en heures creuses
-anticipés ainsi que, le cas échéant, si elle estime relever des dispositions de l'article D. 351-1 ou qu'un de ses sites
-relève des articles D. 351-2 ou D. 351-3 ; 
+gestionnaire du réseau concerné son intention de demander à bénéficier de la réduction prévue à l'article L. 341-4-2, en
+précisant la durée minimale d'utilisation du réseau ou le taux minimal d'utilisation du réseau en heures creuses anticipés
+ainsi que, le cas échéant, si elle estime relever des dispositions de l'article D. 351-1 ou qu'un de ses sites relève des
+articles D. 351-2 ou D. 351-3 ; 
 
-3° La demande est transmise au gestionnaire du réseau de transport avant le 31 mars de l'année suivant celle au titre de
-laquelle la demande est faite, accompagnée d'une copie de l'attestation mentionnée au 1° ; 
+3° La demande est transmise au gestionnaire du réseau concerné avant le 31 mars de l'année suivant celle au titre de laquelle
+la demande est faite, accompagnée d'une copie de l'attestation mentionnée au 1° ; 
 
-4° Le cas échéant, le gestionnaire du réseau public de transport régularise au plus tôt le tarif acquitté par le site pour
-l'année au titre de laquelle la demande est faite et applique le même taux de réduction pour l'année en cours.
+4° Le cas échéant, le gestionnaire du réseau concerné régularise au plus tôt le tarif acquitté par le site pour l'année au
+titre de laquelle la demande est faite et applique le même taux de réduction pour l'année en cours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 2
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D351-1 (V)
-	  - Code de l'énergie - art. D351-2 (V)
+	  - Code de l'énergie - art. D351-1
+	  - Code de l'énergie - art. D351-2
 	  - Code de l'énergie - art. D351-7 (V)
-	  - Code de l'énergie - art. L341-4-2 (V)
+	  - Code de l'énergie - art. L341-4-2
 
 
 ###### Article D341-11
 
-Le gestionnaire du réseau de transport d'électricité transmet chaque année au ministre chargé de l'énergie et à la Commission
-de régulation de l'énergie la liste des sites ayant demandé à bénéficier de cette réduction ainsi que le taux de réduction
-qui leur a été appliqué. 
+Les gestionnaires des réseaux concernés transmettent chaque année au ministre chargé de l'énergie et à la Commission de
+régulation de l'énergie la liste des sites ayant demandé à bénéficier de cette réduction ainsi que le taux de réduction qui
+leur a été appliqué. 
 
 La Commission de régulation de l'énergie publie chaque année le montant total des réductions de tarifs d'utilisation du
-réseau public de transport d'électricité accordées par le gestionnaire du réseau de transport d'électricité.
+réseau public de transport d'électricité accordées par les gestionnaires des réseaux mentionnés à l'article L. 341-4-2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
+
+
+###### Article D341-11-1
+
+Pour l'application du deuxième alinéa de l'article L. 341-4-2, une compensation est versée aux gestionnaires des ouvrages
+mentionnés au troisième alinéa du même article, autres que le gestionnaire du réseau public de transport, qui couvre les
+charges nettes qu'ils supportent du fait de l'application des dispositions de la présente section. Le montant de cette
+compensation est établi par la Commission de régulation de l'énergie au regard de la comptabilité du gestionnaire de réseau
+concerné.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 2
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
 
 
 ###### Article D341-12
 
-Pour les sites directement raccordés au réseau public de transport d'électricité sur le réseau privé desquels est raccordé au
-moins un autre site de consommation ou de production ou une installation de production d'électricité valorisée sur le marché
-équipé d'un dispositif de comptage géré par le gestionnaire du réseau public de transport, le taux de réduction applicable à
-la facture du site directement raccordé au réseau public de transport est égal à la moyenne des taux de réduction applicables
-à chaque site indirectement raccordé au réseau de transport d'électricité et au site directement raccordé pondérée par la
-quote-part de l'énergie soutirée sur le réseau de transport d'électricité par chacun d'entre eux durant l'année précédente. 
+Pour les sites directement raccordés à l'un des réseaux mentionnés à l'article L. 341-4-2 sur l'installation intérieure
+desquels est raccordé au moins un autre site de consommation ou de production ou une installation de production d'électricité
+valorisée sur le marché équipé d'un dispositif de comptage géré par le gestionnaire du réseau concerné, le taux de réduction
+applicable à la facture du site directement raccordé au réseau est égal à la moyenne des taux de réduction applicables à
+chaque site indirectement raccordé et au site directement raccordé pondérée par la quote-part de l'énergie soutirée sur le
+réseau d'électricité par chacun d'entre eux durant l'année précédente. 
 
-Le gestionnaire du réseau public de transport établit les taux de réduction de manière annuelle et les transmet au site
-directement raccordé au réseau public de transport, en indiquant la quote-part de chaque site, afin de lui permettre de faire
-bénéficier chaque site indirectement raccordé de la réduction à laquelle il a droit. Il informe en parallèle les sites
-indirectement raccordés concernés du taux de réduction qui leur est applicable.
+L'énergie soutirée sur l'un des réseaux mentionnés à l'article L. 341-4-2 par un site indirectement raccordé à celui-ci est
+définie comme l'énergie annuelle consommée par ce site, diminuée, le cas échéant, de la part d'électricité autoproduite sur
+l'installation intérieure et qui lui est affectée. 
 
-**Nota:**
-
-Conformément à l'article 3 du décret n° 2016-141 du 11 février 2016, jusqu'au 31 décembre 2016, les dispositions de l'article
-D. 341-12 du code de l'énergie sont applicables aux sites engagés dans une démarche d'installation d'un dispositif de
-comptage géré par le gestionnaire du réseau public de transport s'ils peuvent lui fournir des données de consommation
-certifiées par le représentant légal de l'entreprise dont ils relèvent.
+Le gestionnaire du réseau concerné établit les taux de réduction de manière annuelle et les transmet au site directement
+raccordé au réseau, en indiquant la quote-part de chaque site, afin de lui permettre de faire bénéficier chaque site
+indirectement raccordé de la réduction à laquelle il a droit. Il informe en parallèle les sites indirectement raccordés
+concernés du taux de réduction qui leur est applicable.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
+
+
+###### Article D341-12-1
+
+Un site sur l'installation intérieure duquel sont raccordés un ou plusieurs sites dont les consommations ne sont pas mesurées
+par un dispositif de comptage géré par le gestionnaire du réseau concerné peut demander à bénéficier de la réduction prévue
+par l'article L. 341-4-2 dès lors que les conditions suivantes sont remplies : 
+
+a) Le site est équipé d'un dispositif de comptage géré par le gestionnaire de réseau ; 
+
+b) Les sites raccordés à son installation intérieure non équipés de dispositifs de comptage gérés par le gestionnaire de
+réseau ne relèvent pas du dispositif prévu par l'article L. 341-4-2 ; la consommation de chacun de ces sites est alors soit
+établie forfaitairement comme la consommation annuelle continue d'électricité à la puissance maximale que chacun de ces sites
+est capable de soutirer, soit mesurée par un dispositif de comptage et certifiée par un organisme agréé ; 
+
+c) La somme des énergies annuelles soutirées évaluées sur la base des consommations ainsi établies pour les sites mentionnés
+au b est inférieure à 5 % de l'énergie soutirée annuellement par le site qui demande à bénéficier de la réduction prévue par
+l'article L. 341-4-2 et est inférieure à 25 GWh par an. 
+
+La quote-part de l'énergie soutirée par le site qui demande à bénéficier de la réduction prévue par l'article L. 341-4-2 est
+alors définie comme l'énergie soutirée par le site, de laquelle est soustraite l'énergie annuelle soutirée par les sites qui
+sont raccordés à son installation intérieure. 
+
+Avant le 31 janvier de l'année au titre de laquelle est faite la demande, le site qui demande à bénéficier de la réduction
+prévue par l'article L. 341-4-2 et sur l'installation intérieure duquel sont raccordés un ou plusieurs sites dont les
+consommations ne sont pas mesurées par un dispositif de comptage géré par le gestionnaire de l'un des réseaux mentionnés à
+l'article L. 341-4-2 transmet à ce dernier la liste de ces sites ainsi que, pour chacun d'entre eux, sa puissance maximale ou
+sa consommation annuelle certifiée par un organisme agréé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2016-141 du 11 février 2016 - art. 3 (V)
+
 	**Créé par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 2
+	  - Décret n°2017-308 du 9 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L341-4-2 (V)
 
 
 ##### Section 4 : Mise à disposition des données de comptage de consommation aux propriétaires ou gestionnaires d'immeubles
@@ -59929,7 +60016,7 @@ ajoutée qu'il produit peut être établie par tous moyens à partir de sa compt
 
 ###### Article D351-5
 
-Une entreprise ou un site sont considérés comme mettant en œuvre une politique de performance énergétique lorsqu'ils
+I. – Une entreprise ou un site sont considérés comme mettant en œuvre une politique de performance énergétique lorsqu'ils
 remplissent les conditions suivantes : 
 
 a) Mettre en œuvre un système de management de l'énergie conforme au second alinéa de l'article L. 233-2 dans un délai de
@@ -59938,29 +60025,58 @@ dix-huit mois suivant la transmission de la première attestation mentionnée à
 b) Atteindre, dans un délai de 5 ans à compter de la transmission de la première attestation mentionnée à l'article D. 351-7,
 un objectif de performance énergétique suivi au moyen d'indicateurs définis comme le rapport entre la consommation d'énergie
 et une unité de production déclarée dans cette attestation. Ces indicateurs font l'objet d'une certification dans le cadre de
-la mise en œuvre du système de management de l'énergie mentionné au a. 
+la mise en œuvre du système de management de l'énergie mentionné au a. L'objectif de performance énergétique ainsi que les
+moyens envisagés pour l'atteindre sont détaillés dans un plan de performance énergétique qui contient notamment un plan
+d'action et des échéances associées et porte notamment sur les usages significatifs de l'énergie des procédés industriels du
+site ou de l'entreprise. 
 
-L'objectif de performance énergétique mentionné au b est détaillé, ainsi que les moyens envisagés pour les atteindre, dans un
-plan de performance énergétique qui est transmis pour validation au préfet de la région d'implantation du site ou du siège
-social de l'entreprise ou, si le siège social de l'entreprise est situé hors de France, au préfet de la région d'Île-de-
-France, au plus tard un an après la remise de la première attestation mentionnée à l'article D. 351-7. A cet effet,
-l'objectif mentionné au b est apprécié au regard des niveaux référents pertinents selon le secteur d'activité ou le procédé
-de fabrication.
+c) Ne pas s'écarter de manière excessive et sans motif réel et sérieux du plan d'action et de la trajectoire du plan de
+performance énergétique. 
+
+II. – Au plus tard un an après la remise de la première attestation mentionnée à l'article D. 351-7 ayant donné lieu à une
+réduction du tarif de transport, le plan de performance énergétique est transmis pour validation au préfet de la région
+d'implantation du site concerné, pour les sites relevant des articles D. 351-2 ou D. 351-3 ou au préfet de la région
+d'implantation du siège de l'entreprise pour les entreprises relevant de l'article D. 351-1, ou, si le siège social de
+l'entreprise est situé hors de France, au préfet de la région d'Île-de-France. A défaut d'opposition dans un délai de deux
+mois suivant sa transmission, le plan est réputé validé. Une copie en est transmise à l'Agence de l'environnement et de la
+maîtrise de l'énergie. Ce plan est couvert par le secret en matière commerciale et industrielle. 
+
+L'objectif de performance énergétique est apprécié au regard des meilleures pratiques disponibles en termes de performance
+énergétique, quand elles existent, et des niveaux référents pertinents selon le secteur d'activité ou le procédé de
+fabrication. Le plan doit être suffisamment détaillé pour permettre une telle appréciation. 
+
+Le ministre chargé de l'énergie peut définir par arrêté la liste des informations minimales devant figurer dans le plan de
+performance énergétique. Dans ce cas, les entreprises et sites concernés disposent d'un délai supplémentaire de trois mois à
+compter de la publication de l'arrêté pour transmettre leur plan. 
+
+III. – Le plan d'action peut être révisé, sur justification, dès lors que cette révision ne remet pas en cause l'atteinte de
+l'objectif du plan de performance énergétique. Les révisions sont transmises pour validation à l'autorité qui a validé le
+plan initial. 
+
+L'objectif de performance énergétique ne peut être révisé que pour un motif réel et sérieux. Dans ce cas, il doit être
+atteint à la même date que l'objectif du plan initial. 
+
+Chaque année, l'entreprise transmet un suivi du plan de performance énergétique à l'autorité qui l'a validé. 
+
+Une fois le plan échu, un nouveau plan visant à atteindre un nouvel objectif de performance énergétique dans un délai de cinq
+ans est transmis pour validation selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 1
+	  - Décret n°2017-308 du 9 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D351-1 (V)
+	  - Code de l'énergie - art. D351-2 (V)
+	  - Code de l'énergie - art. D351-7
+	  - Code de l'énergie - art. L233-2
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. D351-6 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. D351-7 (V)
-	  - Code de l'énergie - art. L233-2 (V)
 
 
 ###### Article D351-6
@@ -59984,7 +60100,7 @@ met en œuvre une politique de performance énergétique, telle que définie à 
 
 Pour bénéficier de la réduction prévue à l'article L. 341-4-2, l'entreprise établit annuellement une attestation dont le
 modèle est approuvé par le ministre chargé de l'énergie qui permet de justifier qu'elle remplit les conditions prévues aux
-articles D. 351-1 à D. 351-3 ou, le cas échéant, aux 6° et 7° de l'article D. 341-9. 
+articles D. 351-1 à D. 351-3 et à l'article D. 351-5 ou, le cas échéant, aux 6° et 7° de l'article D. 341-9. 
 
 Cette attestation est transmise au préfet de la région d'implantation du site concerné, pour les sites relevant des articles
 D. 351-2 ou D. 351-3 ou au préfet de la région d'implantation du siège de l'entreprise lorsqu'elle relève de l'article D.
@@ -59999,18 +60115,18 @@ d'utilisation du réseau public de transport d'électricité acquitté.
 
 Copie de chaque attestation est conservée pendant une durée de six ans à compter de la date de clôture de l'exercice durant
 lequel elle a été établie. Ces copies sont produites à toute réquisition des agents habilités du ministère chargé de
-l'énergie, ainsi que les éléments permettant de justifier que les conditions mentionnées aux articles D. 351-1 à D. 351-3 et
-aux 6° et 7° de l'article D. 341-9 sont remplies.
+l'énergie, ainsi que les éléments permettant de justifier que les conditions mentionnées aux articles D. 351-1 à D. 351-3, à
+l'article D. 351-5 et aux 6° et 7° de l'article D. 341-9 sont remplies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-141 du 11 février 2016 - art. 1
+	  - Décret n°2017-308 du 9 mars 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. D341-10 (M)
+	  - Code de l'énergie - art. D341-10 (V)
 	  - Code de l'énergie - art. D351-1 (V)
 	  - Code de l'énergie - art. D351-2 (V)
 	  - Code de l'énergie - art. D351-3 (V)
@@ -60018,9 +60134,9 @@ aux 6° et 7° de l'article D. 341-9 sont remplies.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D341-9 (V)
-	  - Code de l'énergie - art. L341-4-2 (V)
-	  - Code de l'énergie - art. L351-1 (V)
+	  - Code de l'énergie - art. D341-9
+	  - Code de l'énergie - art. L341-4-2
+	  - Code de l'énergie - art. L351-1
 
 
 ### TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER
