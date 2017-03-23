@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-03-12
+Version Consolidée au 2017-03-24
 
 # Partie législative
 
@@ -55467,17 +55467,24 @@ dépassé. Dans ce cas elle lui est inférieure.
 Un fournisseur d'électricité, titulaire de l'autorisation prévue à l'article L. 333-1, qui souhaite bénéficier de l'accès
 régulé à l'électricité nucléaire historique (l'ARENH) pour alimenter des consommateurs finals ou des gestionnaires de réseaux
 publics de transport ou de distribution d'électricité pour leurs pertes, situés sur le territoire métropolitain continental,
-adresse une déclaration à la Commission de régulation de l'énergie avec copie au ministre chargé de l'énergie.
+adresse une déclaration à la Commission de régulation de l'énergie avec copie au ministre chargé de l'énergie. 
 
-Le fournisseur précise à la Commission de régulation de l'énergie le responsable d'équilibre avec lequel il a conclu un
-contrat en application de l'article L. 321-15 et la méthode que ce responsable d'équilibre met en œuvre pour identifier la
-consommation de ses clients finals lorsqu'ils ne sont pas identiques aux consommateurs finals dont ce responsable prend en
-charge les écarts entre injections et soutirages, ainsi que l'attestation de l'organisme indépendant chargé de certifier
-l'emploi de cette méthode. 
+Le fournisseur précise à la Commission de régulation de l'énergie l'identité du ou des responsables d'équilibre avec lesquels
+ses clients finals ont conclu un contrat en application de l'article L. 321-15. 
+
+Lorsque, outre la prise en charge des écarts entre injections et soutirages des consommateurs finals du fournisseur, ce ou
+ces responsables d'équilibre prennent en charge les écarts entre injections et soutirages d'autres consommateurs finals, le
+fournisseur adresse à la Commission de régulation de l'énergie la méthode que ce ou ces responsables d'équilibre mettent en
+œuvre pour identifier, au sein de leur périmètre, la part de consommation relevant de ses consommateurs finals, ainsi que
+l'attestation de l'organisme indépendant chargé de certifier l'emploi de cette méthode. 
+
+Les règles applicables pour l'identification des données de consommation et la certification de la méthode mise en œuvre sont
+approuvées par la Commission de régulation de l'énergie sur proposition du gestionnaire du réseau public de transport
+d'électricité. 
 
 En application de l'article L. 336-6, les entreprises locales de distribution transmettent à la Commission de régulation de
 l'énergie, le cas échéant, les modalités particulières de regroupement et de gestion de leurs droits à l'ARENH. Ces
-précisions sont adressées au gestionnaire du réseau public de transport par la Commission de régulation de l'énergie.
+précisions sont adressées au gestionnaire du réseau public de transport par la Commission de régulation de l'énergie. 
 
 La Commission de régulation de l'énergie délivre au fournisseur dans un délai de trente jours un récépissé si le dossier de
 déclaration est complet ou lui demande de le compléter. A défaut de réponse de la Commission de régulation de l'énergie dans
@@ -55487,13 +55494,17 @@ Dans un délai de quinze jours à compter de la demande qui lui en est faite par
 société EDF signe avec celui-ci l'accord-cadre prévu à l'article L. 336-5. Le fournisseur adresse dès signature une copie de
 l'accord-cadre à la Commission de régulation de l'énergie.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 9 du décret n° 2017-369 du 21 mars 2017, le présent article, dans sa rédaction
+issue de l'article 1er dudit décret s'applique aux demandes d'électricité au titre du dispositif d'accès régulé à
+l'électricité nucléaire historique (ARENH) formulées à compter du premier jour du troisième mois suivant l'approbation par la
+Commission de régulation de l'énergie des règles d'identification et de certification des données de consommation mentionnées
+à cet article.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -55503,18 +55514,22 @@ l'accord-cadre à la Commission de régulation de l'énergie.
 	  - Décret n°2017-369 du 21 mars 2017 - art. 9 (V)
 	  - Code de l'énergie - art. R336-28 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-369 du 21 mars 2017 - art. 1
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L321-15 (V)
-	  - Code de l'énergie - art. L333-1 (V)
-	  - Code de l'énergie - art. L336-5 (V)
-	  - Code de l'énergie - art. L336-6 (V)
+	  - Code de l'énergie - art. L321-15
+	  - Code de l'énergie - art. L333-1
+	  - Code de l'énergie - art. L336-5
+	  - Code de l'énergie - art. L336-6
 
 
 ###### Article R336-9
 
 Tout fournisseur ayant signé un accord-cadre avec la société EDF transmet à la Commission de régulation de l'énergie, au
-moins quarante-cinq jours avant le début de chaque période de livraison définie à l'article R. 336-1, un dossier de demande
+moins quarante jours avant le début de chaque période de livraison définie à l'article R. 336-1, un dossier de demande
 d'ARENH.
 
 **Liens relatifs à cet article**
@@ -55523,9 +55538,9 @@ d'ARENH.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-369 du 21 mars 2017 - art. 2
 
 	**Cité par**:
 
@@ -55535,7 +55550,7 @@ d'ARENH.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R336-1 (V)
+	  - Code de l'énergie - art. R336-1
 
 
 ###### Article R336-10
@@ -55718,23 +55733,31 @@ consommateurs.
 
 ###### Article R336-16
 
-La quantité de produit maximale, avant prise en compte du plafond, est égale pour chaque fournisseur et chaque sous-catégorie
-de consommateurs à la quantité de produit demandée. Toutefois, elle reste égale à la quantité maximale correspondant à la
-période de livraison en cours dans chacun des cas suivants :
+La quantité de produit maximale au titre de la période de livraison à venir, avant prise en compte du plafond, est égale,
+pour chaque fournisseur, à la quantité de produit demandée. Toutefois, si le fournisseur a effectué une demande d'ARENH
+portant sur la période de livraison précédente, elle est égale à la quantité de produit maximale pour cette dernière période
+dans les cas suivants : 
 
-1° La quantité de produit demandée est supérieure à la quantité maximale pour la période de livraison en cours, elle-même
-inférieure à la quantité de produit maximale pour la période de livraison qui avait commencé avant la période en cours ;
+1° La quantité de produit demandée est supérieure à la quantité de produit maximale pour la période de livraison précédente,
+alors que cette dernière était inférieure à la quantité de produit maximale pour la période de livraison ayant débuté douze
+mois avant le début de la période de livraison à venir ou, en l'absence de demande du fournisseur pour cette période, pour la
+période de livraison ayant débuté dix-huit mois avant le début de la période de livraison à venir ; 
 
-2° La quantité de produit demandée est inférieure à la quantité maximale pour la période de livraison en cours, elle-même
-supérieure à la quantité de produit maximale pour la période de livraison qui avait commencé avant la période en cours.
+2° La quantité de produit demandée est inférieure à la quantité de produit maximale pour la période de livraison précédente,
+alors que cette dernière était supérieure à la quantité de produit maximale pour la période de livraison ayant débuté douze
+mois avant le début de la période de livraison à venir ou, en l'absence de demande du fournisseur pour cette période, pour la
+période de livraison ayant débuté dix-huit mois avant le début de la période de livraison à venir ; 
+
+3° La quantité de produit demandée est inférieure à la quantité maximale pour la période de livraison précédente et aucune
+électricité n'a été cédée au fournisseur au titre du dispositif d'ARENH au cours des six mois précédant la période de
+livraison précédente, que le fournisseur ait été ou non titulaire d'un accord-cadre. 
+
+Pour l'application du présent article, on entend par “ période de livraison précédente ”, conformément aux dispositions de
+l'article R. 336-2, celle ayant débuté six mois avant le début de la période de livraison à venir.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -55743,6 +55766,14 @@ supérieure à la quantité de produit maximale pour la période de livraison qu
 	  - Arrêté du 14 novembre 2016 - art.
 	  - Code de l'énergie - art. 336-44 (V)
 	  - Code de l'énergie - art. R336-17 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-369 du 21 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R336-2
 
 
 ###### Article R336-17
@@ -55949,22 +55980,21 @@ l'article R. 336-21.
 Une convention passée entre la Commission de régulation de l'énergie et la Caisse des dépôts et consignations précise les
 modalités d'intervention, de rémunération et de remboursement des frais de la Caisse des dépôts et consignations. 
 
-La Caisse des dépôts et consignations communique, chaque année, à la Commission de régulation de l'énergie le montant
+La Caisse des dépôts et consignations soumet, chaque année, à la Commission de régulation de l'énergie le montant
 prévisionnel de sa rémunération et des frais exposés pour la gestion du fonds au titre de l'année suivante. Après approbation
 par la Commission de régulation de l'énergie, ce montant est facturé mensuellement par douzième, au cours de l'année sur
 laquelle porte la prévision, à chaque fournisseur proportionnellement à la quantité de produit cédée. 
 
-La Caisse des dépôts et consignations expose, chaque année, à la Commission de régulation de l'énergie le montant constaté
-l'année précédente de sa rémunération et des frais supportés dans le cadre de sa gestion du fonds mentionné à l'article R.
-336-21. La Commission de régulation de l'énergie valide ce montant. Si un écart avec les sommes effectivement perçues au
-titre de l'année précédente est constaté, une régularisation est effectuée auprès des fournisseurs, en une seule fois, selon
-des modalités fixées par la Commission de régulation de l'énergie. 
+La Caisse des dépôts et consignations communique chaque année à la Commission de régulation de l'énergie, pour validation, le
+montant, constaté l'année précédente, de sa rémunération et des frais supportés dans le cadre de la gestion du fonds. 
 
-Si le montant excède les sommes perçues des fournisseurs au titre de l'année précédente, la Caisse des dépôts et
-consignations facture le montant dû à la société EDF et le prélève sur le compte ouvert au nom de ce fonds. 
+Si les sommes effectivement perçues des fournisseurs au titre de l'année précédente sont inférieures au montant validé par la
+Commission de régulation de l'énergie, une régularisation est effectuée en une seule fois auprès de ceux-ci, qui versent les
+sommes dues sur le compte mentionné à l'article R. 336-21. En cas de défaut de paiement, la garantie est appelée conformément
+aux dispositions de l'article R. 336-27. 
 
-Si le montant est inférieur aux sommes perçues des fournisseurs au titre de l'année précédente, la Caisse des dépôts et
-consignations impute le trop perçu sur les charges devant être exposées l'année qui suit l'année suivante.
+Dans le cas inverse, la Caisse des dépôts et consignations impute le trop-perçu sur les charges devant être exposées l'année
+qui suit l'année suivante.
 
 **Liens relatifs à cet article**
 
@@ -55972,13 +56002,14 @@ consignations impute le trop perçu sur les charges devant être exposées l'ann
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-369 du 21 mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R336-21 (V)
+	  - Code de l'énergie - art. R336-21
+	  - Code de l'énergie - art. R336-27 (V)
 
 	**Cité par**:
 
@@ -56050,16 +56081,12 @@ l'article R. 336-23.
 ###### Article R336-26
 
 En cas de défaut de paiement d'un fournisseur, la Caisse des dépôts et consignations en informe la Commission de régulation
-de l'énergie dans un délai de trois jours et met l'intéressé en demeure de régulariser sa situation dans un délai de quatre
-jours ouvrés.
+de l'énergie dans un délai de trois jours ouvrés à compter du défaut de paiement et met l'intéressé en demeure de régulariser
+sa situation dans un délai de quatre jours ouvrés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
@@ -56068,15 +56095,18 @@ jours ouvrés.
 	  - Arrêté du 14 novembre 2016 - art.
 	  - Code de l'énergie - art. R336-27 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-369 du 21 mars 2017 - art. 5
+
 
 ###### Article R336-27
 
 Si, faute pour le fournisseur d'avoir régularisé sa situation dans le délai mentionné à l'article R. 336-26, la garantie de
 celui-ci doit être appelée, la Commission de régulation de l'énergie notifie au gestionnaire du réseau public de transport, à
 la société EDF et au fournisseur concerné, la cessation du transfert par la première au second de l'électricité au titre de
-l'ARENH. Cette cessation intervient le treizième jour ouvré du mois suivant la constatation du défaut de paiement. La
-Commission de régulation de l'énergie en informe sans délai la Caisse des dépôts et consignations et le ministre chargé de
-l'énergie. 
+l'ARENH. Cette cessation intervient le treizième jour ouvré  suivant la constatation du défaut de paiement. La Commission de
+régulation de l'énergie en informe sans délai la Caisse des dépôts et consignations et le ministre chargé de l'énergie. 
 
 La Caisse des dépôts et consignations met en œuvre à la demande de la Commission de régulation de l'énergie la garantie dans
 les dix jours ouvrés suivant cette demande et reverse les montants recouvrés à Electricité de France. En l'absence de
@@ -56094,17 +56124,18 @@ cessation et à la condition que la régularisation du défaut de paiement ait �
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R336-26 (V)
+	  - Décret n°2017-369 du 21 mars 2017 - art. 6
 
 	**Cité par**:
 
+	  - Code de l'énergie - art. R336-23 (V)
 	  - Code de l'énergie - art. R336-36 (V)
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R336-26
 
 
 ##### Section 5 : Contrôle ex post et complément de prix
@@ -56116,23 +56147,23 @@ Commission de régulation de l'énergie, pour chaque fournisseur, la consommatio
 chaque sous-catégorie de consommateurs pendant l'année calendaire écoulée.
 
 Les données de consommation des petits et grands consommateurs sont issues des systèmes de comptage des gestionnaires de
-réseaux publics de transport et de distribution d'électricité. 
+réseaux publics de transport et de distribution d'électricité.
 
 Afin de permettre au gestionnaire du réseau public de transport d'exercer les missions qui lui sont confiées dans le présent
 article et à l'article R. 336-29, les gestionnaires des réseaux publics de distribution lui transmettent la consommation
 constatée des consommateurs finals raccordés à leurs réseaux, par responsable d'équilibre, demi-heure par demi-heure, pendant
 chaque période de livraison et par sous-catégorie de consommateurs, corrigée conformément à l'article R. 336-29. Les
 gestionnaires des réseaux publics de distribution transmettent également au gestionnaire du réseau public de transport les
-données, par fournisseur, de consommation constatée pour les pertes conformément à l'article R. 336-30. 
+données, par fournisseur, de consommation constatée pour les pertes conformément à l'article R. 336-30.
 
-Lorsque les consommateurs finals dont le responsable d'équilibre prend en charge les écarts entre injections et soutirages ne
-sont pas identiques aux clients finals du fournisseur, le premier transmet au gestionnaire du réseau public de transport sur
-habilitation du second la consommation constatée de ses clients, demi-heure par demi-heure pendant chaque période de
-livraison et pour chaque sous-catégorie de consommateurs, corrigée conformément à l'article R. 336-29. Le responsable
-d'équilibre transmet également au gestionnaire du réseau public de transport les données de consommation constatée des
-clients des autres fournisseurs dont il prend en charge les écarts entre injections et soutirages et qui n'ont pas bénéficié
-de l'ARENH pendant la période de livraison considérée. Ces données sont transmises par sous-catégorie de consommateurs sans
-indication des fournisseurs concernés. 
+Tout responsable d'équilibre prenant en charge les écarts entre injections et soutirages d'autres consommateurs finals que
+les clients finals d'un fournisseur bénéficiaire de l'ARENH ou d'une partie de ces derniers transmet au gestionnaire du
+réseau public de transport, sur habilitation de ce fournisseur, la consommation constatée des clients de celui-ci, demi-heure
+par demi-heure pendant chaque période de livraison et pour chaque sous-catégorie de consommateurs, corrigée conformément à
+l'article R. 336-29. Il transmet également au gestionnaire du réseau public de transport les données de consommation
+constatée des clients des autres fournisseurs n'ayant pas bénéficié de l'ARENH pendant la période de livraison considérée
+dont il prend en charge les écarts entre injections et soutirages. Ces dernières données sont transmises par sous-catégorie
+de consommateurs, sans indication des fournisseurs concernés.
 
 Les méthodes utilisées par le responsable d'équilibre pour le calcul de la consommation constatée sont approuvées par la
 Commission de régulation de l'énergie dans un délai de deux mois à compter du dépôt de la demande complète d'approbation.
@@ -56142,7 +56173,7 @@ l'article R. 336-8.
 Les modalités de transmission des données sont précisées par voie de conventions conclues entre le gestionnaire du réseau
 public de transport et les gestionnaires des réseaux publics de distribution d'électricité ainsi que, le cas échéant, le
 responsable d'équilibre. Ces conventions sont approuvées par la Commission de régulation de l'énergie dans un délai de deux
-mois à compter du dépôt de la demande complète d'approbation. 
+mois à compter du dépôt de la demande complète d'approbation.
 
 Les méthodes de calcul et les modalités de transmission des consommations constatées que met en œuvre le gestionnaire du
 réseau public de transport sont définies par la Commission de régulation de l'énergie, sur proposition de celui-ci.
@@ -56153,15 +56184,15 @@ réseau public de transport sont définies par la Commission de régulation de l
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-369 du 21 mars 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R336-29 (V)
-	  - Code de l'énergie - art. R336-30 (V)
-	  - Code de l'énergie - art. R336-8 (V)
+	  - Code de l'énergie - art. R336-29
+	  - Code de l'énergie - art. R336-30
+	  - Code de l'énergie - art. R336-8
 
 
 ###### Article R336-29
@@ -56378,8 +56409,13 @@ Le complément de prix tient compte de la valeur de la garantie de capacité att
 et, le cas échéant, excessives selon des modalités définies par la Commission de régulation de l'énergie à l'entrée en
 vigueur du dispositif mentionné à l'article L. 335-2. 
 
-Le calcul du terme " CP2 " tient également compte des cas de force majeure ainsi que des cas de suspension de fourniture
-d'électricité à la suite de l'ouverture d'une procédure de liquidation judiciaire. 
+Le calcul du terme “ CP2 ” tient également compte : 
+
+– des cas de force majeure ainsi que des cas de suspension de fourniture d'électricité ou de réduction significative et
+brutale de consommation à la suite de l'ouverture d'une procédure de redressement ou de liquidation judiciaires ; 
+
+– des cas où plusieurs fournisseurs relevant de sociétés liées au sens de l'article L. 336-4 ont déposé un dossier de demande
+d'ARENH composé comme il est dit à l'article R. 336-11. 
 
 Le complément de prix est actualisé au taux d'intérêt légal en vigueur.
 
@@ -56389,18 +56425,20 @@ Le complément de prix est actualisé au taux d'intérêt légal en vigueur.
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 14 novembre 2016 - art.
 	  - Code de l'énergie - art. 336-44 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-369 du 21 mars 2017 - art. 8
+
 	**Cite**:
 
-	  - Code de l'énergie - art. L335-2 (V)
+	  - Code de l'énergie - art. L335-2
+	  - Code de l'énergie - art. L336-4
+	  - Code de l'énergie - art. R336-11
 
 
 ###### Article R336-36
