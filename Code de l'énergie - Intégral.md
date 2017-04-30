@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2017-05-01
 
 # Partie législative
 
@@ -48163,70 +48163,66 @@ un délai d'un mois.
 ###### Article D314-15
 
 En application de l'article L. 314-1, les producteurs qui en font la demande bénéficient de l'obligation d'achat
-d'électricité pour les installations de production d'électricité suivantes : 
+d'électricité pour les installations de production d'électricité suivantes :
 
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
-puissance installée inférieure ou égale à 500 kilowatts ; 
+puissance installée strictement inférieure à 500 kilowatts ;
 
 Les nouvelles installations destinées au turbinage des débits minimaux prévus à l'article L. 214-18 du code de
 l'environnement réalisées par le titulaire d'une autorisation ou d'une concession hydroélectrique en cours bénéficient de
 l'obligation d'achat indépendamment de l'ouvrage principal à la condition que leur puissance installée respecte les limites
-prévues à l'alinéa précédent ; 
+prévues à l'alinéa précédent ;
 
-2° Les installations utilisant l'énergie mécanique du vent implantées à terre, à l'exception de celles implantées en Corse ; 
+2° (abrogé) ;
 
 3° Les installations utilisant l'énergie solaire photovoltaïque implantées sur bâtiment d'une puissance crête installée
-inférieure ou égale à 100 kilowatts ; 
+inférieure ou égale à 100 kilowatts ;
 
 4° Les installations utilisant à titre principal le biogaz produit par méthanisation de déchets non dangereux et de matière
 végétale brute implantées sur le territoire métropolitain continental d'une puissance installée strictement inférieure à 500
-kilowatts ; 
+kilowatts ;
 
 5° Les installations utilisant à titre principal le biogaz produit par méthanisation de matières résultant du traitement des
 eaux usées urbaines ou industrielles implantées sur le territoire métropolitain continental d'une puissance installée
-strictement inférieure à 500 kilowatts ; 
+strictement inférieure à 500 kilowatts ;
 
 6° Les installations utilisant à titre principal le biogaz issu d'installations de stockage de déchets non dangereux
-implantées sur le territoire métropolitain continental d'une puissance installée strictement inférieure à 500 kilowatts ; 
+implantées sur le territoire métropolitain continental d'une puissance installée strictement inférieure à 500 kilowatts ;
 
 7° Les installations flottantes utilisant l'énergie mécanique du vent désignées lauréates d'un appel à projets du programme
 des investissements d'avenir ou d'un appel à projet européen " New Entrant Reserve " implantées sur le domaine public
-maritime métropolitain continental ou dans la zone économique exclusive du territoire métropolitain continental ; 
+maritime métropolitain continental ou dans la zone économique exclusive du territoire métropolitain continental ;
 
 8° Les installations utilisant l'énergie houlomotrice ou hydrocinétique désignées lauréates d'un appel à projets du programme
 des investissements d'avenir implantées sur le domaine public maritime du territoire métropolitain continental ou dans la
-zone économique exclusive du territoire métropolitain continental ; 
+zone économique exclusive du territoire métropolitain continental ;
 
 9° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
 inférieure ou égale à 300 kilowatts implantées sur le territoire métropolitain continental. Les arrêtés mentionnés à
 l'article R. 314-12 fixent en tant que de besoin, les modalités selon lesquelles le respect des caractéristiques mentionnées
-à l'article D. 314-14-1 est reconnu pour chaque installation ; 
+à l'article D. 314-14-1 est reconnu pour chaque installation ;
 
 10° Les installations implantées sur le territoire métropolitain continental qui valorisent l'énergie dégagée par la
 combustion ou l'explosion de gaz de mine d'une puissance installée inférieure ou égale à 12 mégawatts, à la condition qu'il
 s'agisse d'un gaz de récupération et que cette récupération se fasse sans intervention autre que celle rendue nécessaire par
-l'aspiration de ce gaz sur les vides miniers afin de maintenir ceux-ci en dépression ; 
+l'aspiration de ce gaz sur les vides miniers afin de maintenir ceux-ci en dépression ;
 
 11° Les installations utilisant l'énergie mécanique du vent situées dans des zones particulièrement exposées au risque
-cyclonique et disposant d'un dispositif de prévision et de lissage de la production ; 
+cyclonique et disposant d'un dispositif de prévision et de lissage de la production ;
 
 12° Les installations utilisant à titre principal le biogaz produit par méthanisation de déchets non dangereux et de matière
 végétale brute d'une puissance installée inférieure ou égale à 12 mégawatts implantées dans des zones non interconnectées au
-réseau métropolitain continental ; 
+réseau métropolitain continental ;
 
 13° Les installations utilisant à titre principal le biogaz produit par méthanisation de matières résultant du traitement des
 eaux usées urbaines ou industrielles d'une puissance installée inférieure ou égale à 12 mégawatts implantées dans des zones
-non interconnectées au réseau métropolitain continental ; 
+non interconnectées au réseau métropolitain continental ;
 
 14° Les installations utilisant à titre principal le biogaz issu d'installations de stockage de déchets non dangereux d'une
 puissance installée inférieure ou égale à 12 mégawatts implantées dans des zones non interconnectées au réseau métropolitain
 continental.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-691 du 28 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -48241,12 +48237,16 @@ continental.
 	  - Arrêté du 9 mai 2017 - art. 1 (V)
 	  - Code de l'énergie - art. R314-7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 1
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-18 (V)
-	  - Code de l'énergie - art. D314-14-1 (V)
+	  - Code de l'environnement - art. L214-18
+	  - Code de l'énergie - art. D314-14-1
 	  - Code de l'énergie - art. L314-1
-	  - Code de l'énergie - art. R314-12 (V)
+	  - Code de l'énergie - art. R314-12
 
 
 ###### Article D314-16
@@ -48413,38 +48413,35 @@ production dans le cadre du contrat d'obligation d'achat.
 ###### Article D314-23
 
 En application de l'article L. 314-18, les producteurs qui en font la demande bénéficient du complément de rémunération pour
-les installations de production d'électricité implantées sur le territoire métropolitain continental suivantes : 
+les installations de production d'électricité implantées sur le territoire métropolitain continental suivantes :
 
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
-puissance installée inférieure ou égale à 1 mégawatt ; 
+puissance installée strictement inférieure à 1 mégawatt ;
 
 Les nouvelles installations destinées au turbinage des débits minimaux prévus à l'article L. 214-18 du code de
 l'environnement réalisées par le titulaire d'une autorisation ou d'une concession hydroélectrique en cours bénéficient du
 complément de rémunération indépendamment de l'ouvrage principal à la condition que leur puissance installée respecte les
-limites prévues à l'alinéa précédent ; 
+limites prévues à l'alinéa précédent ;
 
 2° Les installations utilisant à titre principal l'énergie dégagée par traitement thermique de déchets ménagers ou assimilés
-mentionnés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales ; 
+mentionnés aux articles L. 2224-13 et L. 2224-14 du code général des collectivités territoriales ;
 
 3° Les installations utilisant à titre principal le biogaz produit par méthanisation de matières résultant du traitement des
-eaux usées urbaines ou industrielles d'une puissance installée comprise entre 500 kilowatts et 12 mégawatts ; 
+eaux usées urbaines ou industrielles d'une puissance installée comprise entre 500 kilowatts et 12 mégawatts ;
 
 4° Les installations utilisant à titre principal le biogaz issu d'installations de stockage de déchets non dangereux d'une
-puissance installée comprise entre 500 kilowatts et 12 mégawatts ; 
+puissance installée comprise entre 500 kilowatts et 12 mégawatts ;
 
-5° Les installations utilisant à titre principal l'énergie extraite de gîtes géothermiques ; 
+5° Les installations utilisant à titre principal l'énergie extraite de gîtes géothermiques ;
 
 6° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
-inférieure ou égale à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
-selon lesquelles le respect des caractéristiques mentionnées à l'article D. 314-14-1 est reconnu pour chaque installation ; 
+strictement inférieure à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
+selon lesquelles le respect des caractéristiques mentionnées à l'article D. 314-14-1 est reconnu pour chaque installation ;
 
-7° Les installations utilisant l'énergie mécanique du vent implantées à terre.
+7° Les installations utilisant l'énergie mécanique du vent implantées à terre ne possédant aucun aérogénérateur de puissance
+nominale supérieure à 3 MW et dans la limite de six aérogénérateurs.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-691 du 28 mai 2016 - art. 2
 
 	**Cité par**:
 
@@ -48458,13 +48455,17 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 	  - Arrêté du 6 mai 2017 - art. 1 (V)
 	  - Arrêté du 9 mai 2017 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 1
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-13 (V)
-	  - Code de l'environnement - art. L214-18 (V)
-	  - Code de l'énergie - art. D314-14-1 (V)
-	  - Code de l'énergie - art. L314-18 (V)
-	  - Code de l'énergie - art. R314-12 (V)
+	  - Code général des collectivités territoriales - art. L2224-13
+	  - Code de l'environnement - art. L214-18
+	  - Code de l'énergie - art. D314-14-1
+	  - Code de l'énergie - art. L314-18
+	  - Code de l'énergie - art. R314-12
 
 
 ###### Article D314-23-1
@@ -48472,13 +48473,13 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 En application du 1° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-27, les producteurs dont le
 contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
 production d'électricité implantées sur le territoire métropolitain continental suivantes, sous réserve de l'engagement du
-producteur à réaliser un programme d'investissement : 
+producteur à réaliser un programme d'investissement :
 
 1° Les installations utilisant l'énergie hydraulique des lacs, des cours d'eau et des eaux captées gravitairement d'une
-puissance installée inférieure ou égale à 1 mégawatt ; 
+puissance installée strictement inférieure à 1 mégawatt ;
 
 2° Les installations de cogénération d'électricité et de chaleur valorisée à partir de gaz naturel d'une puissance installée
-inférieure ou égale à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
+strictement inférieure à 1 mégawatt. Les arrêtés mentionnés à l'article R. 314-12 fixent en tant que de besoin, les modalités
 selon lesquelles le respect des caractéristiques mentionnées à l'article D. 314-14-1 est reconnu pour chaque installation.
 
 **Liens relatifs à cet article**
@@ -48492,14 +48493,14 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 
 	**Modifié par**:
 
-	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+	  - Décret n°2017-676 du 28 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D314-14-1 (V)
-	  - Code de l'énergie - art. L314-19 (V)
-	  - Code de l'énergie - art. R314-12 (V)
-	  - Code de l'énergie - art. R314-27 (V)
+	  - Code de l'énergie - art. D314-14-1
+	  - Code de l'énergie - art. L314-19
+	  - Code de l'énergie - art. R314-12
+	  - Code de l'énergie - art. R314-27
 
 
 ###### Article D314-24
@@ -48507,18 +48508,18 @@ selon lesquelles le respect des caractéristiques mentionnées à l'article D. 3
 En application du 2° de l'article L. 314-19 et dans les conditions prévues à l'article R. 314-28, les producteurs dont le
 contrat d'achat est arrivé à échéance peuvent bénéficier d'un contrat de complément de rémunération pour les installations de
 production d'électricité implantées sur le territoire métropolitain continental utilisant à titre principal le biogaz issu
-d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500 kilowatts.
+d'installations de stockage de déchets non dangereux d'une puissance installée supérieure ou égale à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-1726 du 14 décembre 2016 - art. 2
+	  - Décret n°2017-676 du 28 avril 2017 - art. 1
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L314-19
-	  - Code de l'énergie - art. R314-28 (V)
+	  - Code de l'énergie - art. R314-28
 
 
 ###### Article D314-25
@@ -48526,18 +48527,18 @@ d'installations de stockage de déchets non dangereux d'une puissance installée
 En application du 2° de l'article L. 314-21 du code de l'énergie et dans les conditions prévues à l'article R. 314-31, les
 producteurs qui en font la demande, ayant déjà bénéficié d'un contrat de complément de rémunération, peuvent bénéficier d'un
 nouveau contrat du complément de rémunération pour les installations utilisant à titre principal le biogaz issu
-d'installations de stockage de déchets non dangereux d'une puissance installée supérieure à 500 kilowatts.
+d'installations de stockage de déchets non dangereux d'une puissance installée supérieure ou égale à 500 kilowatts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-691 du 28 mai 2016 - art. 2
+	  - Décret n°2017-676 du 28 avril 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L314-21 (V)
-	  - Code de l'énergie - art. R314-31 (V)
+	  - Code de l'énergie - art. L314-21
+	  - Code de l'énergie - art. R314-31
 
 
 ##### Paragraphe 2 : Conditions propres au complément de rémunération
@@ -50524,6 +50525,218 @@ laquelle elle détient des participations ne peut pas se prévaloir de cette mê
 	  - Code monétaire et financier - art. L411-1
 	  - Code monétaire et financier - art. L411-2
 	  - Code de l'énergie - art. L314-28 (V)
+
+
+#### Chapitre V : L'autoconsommation 
+
+###### Article D315-1
+
+Pour l'application des dispositions du présent chapitre, le pas de mesure mis en œuvre est celui utilisé pour le règlement
+des écarts mentionnés à l'article L. 321-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L321-15 (V)
+
+
+###### Article D315-2
+
+Pour l'application de l'article L. 315-3, on entend par “ installation de production ” l'ensemble des installations
+appartenant à un même producteur participant à l'opération d'autoconsommation collective.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L315-3 (V)
+
+
+###### Article D315-3
+
+Les gestionnaires des réseaux publics de distribution équipent les consommateurs finals et producteurs participant à une
+opération d'autoconsommation collective des dispositifs de comptage mentionnés à l'article R. 341-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R341-4 (V)
+
+
+###### Article D315-4
+
+Dans le cadre d'une opération d'autoconsommation collective, à chaque pas de mesure :
+
+- la quantité autoconsommée totale ne peut excéder la somme des productions de chaque installation participant à l'opération
+ni la somme des consommations des consommateurs finals participant à l'opération ;
+
+- la quantité de production affectée à chaque consommateur final est calculée comme le produit de la quantité produite par
+les installations de production participant à l'opération par un coefficient de répartition de la production ; la quantité
+affectée à chacun de ces consommateurs ne peut être supérieure à sa consommation mesurée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. D315-7 (V)
+	  - Code de l'énergie - art. D315-9 (V)
+
+
+###### Article D315-5
+
+Lorsque l'opération d'autoconsommation comprend une unité de stockage de l'électricité produite dans ce cadre, les quantités
+stockées par cette installation sont considérées comme celles d'un consommateur final de l'opération et les quantités
+déstockées comme celles d'un producteur de l'opération.
+
+Dans ce cas, à chaque pas de mesure, la somme de la quantité stockée et de la production affectée aux consommateurs finals
+est inférieure ou égale à la production totale de l'opération et la production affectée aux consommateurs finals est
+inférieure ou égale à la somme de la quantité déstockée et de la production totale de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+
+###### Article D315-6
+
+Pour chaque pas de mesure, la personne morale mentionnée à l'article L. 315-2 indique au gestionnaire du réseau public de
+distribution le ou les coefficients de répartition de la production associés à chaque consommateur final participant à
+l'opération, ou, le cas échéant, leur méthode de calcul.
+
+A défaut, la répartition de la production affectée entre les consommateurs finals participant à l'opération se fait, à chaque
+pas de mesure, au prorata de leur consommation, dans la limite de leur quantité d'électricité consommée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L315-2 (V)
+
+
+###### Article D315-7
+
+La quantité d'électricité relevant du fournisseur d'un consommateur participant à une opération d'autoconsommation collective
+au titre du complément de fourniture sur une période de facturation donnée correspond à la différence entre la courbe de
+charge mesurée de sa consommation et la courbe de charge reconstituée de ses quantités de production affectées telles que
+définies aux articles D. 315-4 et D. 315-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D315-4 (V)
+
+
+###### Article D315-8
+
+Les modalités de traitement des demandes d'autoconsommation collective par les gestionnaires de réseaux publics de
+distribution sont précisées dans leur documentation technique de référence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+
+###### Article D315-9
+
+La personne morale mentionnée à l'article L. 315-2 et le gestionnaire du réseau public de distribution concerné concluent un
+contrat établi sur la base d'un modèle figurant dans la documentation technique de référence de ces gestionnaires et
+comportant notamment : 
+
+1° Les noms des producteurs et consommateurs participant à l'opération d'autoconsommation collective, leurs points de
+livraison et, le cas échéant, la liste des points de livraison des unités de stockage ; 
+
+2° Les modalités de gestion, les engagements et responsabilités réciproques des deux parties pendant toute la durée de
+l'opération ; 
+
+3° Les coefficients mentionnés à l'article D. 315-4 ou, le cas échéant, leur méthode de calcul, ainsi que leurs modalités de
+transmission ; 
+
+4° Le cas échéant, la mention, pour chaque consommateur participant à l'opération, de la conclusion d'un contrat de
+fourniture d'électricité au titre du complément de fourniture et, pour chaque producteur participant à l'opération, de la
+conclusion d'un contrat avec un acheteur pour l'électricité produite et non consommée dans le cadre de l'opération ; 
+
+5° Le cas échéant, les principes d'affectation de la production qui n'aurait pas été consommée par les participants à
+l'opération d'autoconsommation sur chaque pas de mesure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. D315-4 (V)
+	  - Code de l'énergie - art. L315-2 (V)
+
+
+###### Article D315-10
+
+La puissance installée maximale mentionnée à l'article L. 315-5 est fixée à 3 kilowatts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L315-5 (V)
+
+
+###### Article D315-11
+
+Pour la mise en œuvre de l'article L. 315-7, les gestionnaires de réseaux publics de distribution mettent à disposition des
+exploitants des installations de production et de stockage des formulaires leur permettant de déclarer :
+
+1° Les données d'identification de l'installation ;
+
+2° Les caractéristiques techniques de l'installation et, le cas échéant, celles de son raccordement ;
+
+3° Le mode de fonctionnement de l'installation, précisant si le surplus d'électricité produite est vendue à un tiers ne
+participant pas à l'opération d'autoconsommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-676 du 28 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L315-7 (V)
 
 
 ### TITRE II : LE TRANSPORT ET LA DISTRIBUTION
