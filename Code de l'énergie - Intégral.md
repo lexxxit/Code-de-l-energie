@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -34541,25 +34541,27 @@ Le comité rend ses avis publics.
 
 ##### Sous-section 3 : Le Fonds de péréquation de l'électricité
 
+##### Paragraphe 1 : Dispositions communes
+
 ###### Article R121-44
 
 Le Fonds de péréquation de l'électricité mentionné à l'article L. 121-29 répartit entre les gestionnaires des réseaux publics
-de distribution d'électricité les charges mentionnées au II de l'article L. 121-29 selon la méthode définie à la présente
-sous-section. Il effectue les opérations de recouvrement et de reversement nécessaires à cette péréquation.
+de distribution d'électricité les charges mentionnées à l'article L. 121-29 selon la méthode définie à la présente sous-
+section. Il effectue les opérations de recouvrement et de reversement nécessaires à cette péréquation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-29 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-22 (T)
+	  - Code de l'énergie - art. L121-29
 
 	**Cité par**:
 
@@ -34580,13 +34582,9 @@ l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-23 (T)
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
 
 ###### Article R121-46
@@ -34605,7 +34603,7 @@ b) Le directeur général des collectivités locales ou son représentant ;
 
 c) Le directeur du budget ou son représentant ; 
 
-2° Trois représentants d'Electricité réseau distribution France, sur proposition de cette société ;
+2° Trois représentants de la société mentionnée au 1° de l'article L. 111-52, sur proposition de cette société ; 
 
 3° Trois représentants des entreprises locales de distribution mentionnées à l'article L. 111-54, dont un représentant des
 sociétés coopératives d'intérêt collectif agricole d'électricité, sur proposition des associations représentatives ; 
@@ -34620,17 +34618,18 @@ membre pour la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L111-54 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-24 (T)
+	  - Code de l'énergie - art. L111-52
+	  - Code de l'énergie - art. L111-54
 
 
 ###### Article R121-47
@@ -34645,13 +34644,9 @@ L'examen de cette question ne peut être refusé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-25 (T)
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -34671,97 +34666,122 @@ le nombre de membres présents.
 Le conseil se prononce à la majorité des membres présents ou représentés. En cas de partage égal des voix, la voix du
 président est prépondérante.
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-26 (T)
-
-
-###### Article R121-49
-
-Le secrétariat du conseil du Fonds de péréquation de l'électricité assure la gestion comptable et financière du fonds et
-tient la comptabilité des opérations de recouvrement et de reversement qu'il effectue.
-
-La société EDF assure le secrétariat du conseil du fonds et la tenue du compte spécifique en retraçant les opérations. Les
-frais de gestion du fonds sont imputés à ce compte spécifique.
-
-Le fonds de péréquation de l'électricité est soumis au contrôle de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-27 (T)
-
-
-###### Article R121-50
-
 Les membres du conseil du Fonds de péréquation de l'électricité et les agents affectés au secrétariat sont tenus au secret
 professionnel pour les faits, actes et renseignements dont ils ont connaissance en raison de leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-28 (T)
+###### Article R121-49
 
+La société mentionnée au 1° de l'article L. 111-52 procède : 
+
+– au recouvrement des contributions et au versement des dotations, établies conformément à l'article R. 121-58 ou à l'article
+R. 121-61 ; 
+
+– à la tenue du compte de péréquation des charges de distribution d'électricité, retraçant les contributions notifiées et
+recouvrées, ainsi que les dotations versées ; 
+
+– à la conservation des pièces justificatives des opérations et des documents de comptabilité de la péréquation des charges
+de distribution d'électricité. 
+
+Elle transmet au ministre chargé de l'énergie, au plus tard au 31 mai de chaque année, un rapport de la gestion comptable de
+la péréquation des charges de distribution d'électricité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52
+	  - Code de l'énergie - art. R121-58
+	  - Code de l'énergie - art. R121-61
+
+
+###### Article R121-50
+
+I. – La société mentionnée au 1° de l'article L. 111-52 notifie à chaque contributeur, avant le 15 octobre de chaque année,
+le montant du versement de péréquation dont il est redevable. 
+
+II. – Le redevable s'acquitte de sa contribution auprès de la société mentionnée au 1° de l'article L. 111-52, avant le 31
+octobre de chaque année. 
+
+En cas de défaut de versement de la contribution dans le délai prescrit, la société mentionnée au 1° de l'article L. 111-52
+met en demeure le contributeur de régulariser sa situation dans un délai qui ne peut être inférieur à une semaine. 
+
+A défaut de versement dans le délai imparti par la mise en demeure, la société mentionnée au 1° de l'article L. 111-52 en
+avise le ministre chargé de l'énergie. 
+
+III. – La société mentionnée au 1° de l'article L. 111-52 verse à chaque bénéficiaire le montant de la dotation qui lui est
+due au titre de la péréquation, avant le 31 décembre de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L111-52
+
+
+##### Paragraphe 2 : Procédure applicable à la péréquation forfaitaire
 
 ###### Article R121-51
 
 Les gestionnaires des réseaux publics de distribution d'électricité adressent chaque année au Fonds de péréquation de
-l'électricité, avant la date fixée par le conseil du fonds, une déclaration et les éléments nécessaires à la péréquation. 
+l'électricité, avant la date fixée par le conseil du fonds, une déclaration et les éléments nécessaires à la péréquation.
 
 Le secrétariat du fonds peut demander communication de documents comptables permettant de justifier le montant déclaré des
-recettes mentionnées à l'article R. 121-31.
+recettes mentionnées à l'article R. 121-53.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'énergie - art. R121-29 (T)
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-31
+
+	**Cité par**:
+
+	  - Code de l'énergie - art. R121-59 (V)
 
 
 ###### Article R121-52
 
-La péréquation afférente à l'exploitation des réseaux, effectuée en application du 1° du II de l'article L. 121-29, est
-fondée, pour chaque gestionnaire de réseau de distribution, sur l'écart entre l'évaluation des recettes d'exploitation des
-réseaux qu'il a facturées au cours de l'année précédente et l'évaluation des charges d'exploitation des réseaux qu'il a
-supportées au cours de la même année.
+La péréquation afférente à l'exploitation des réseaux, effectuée en application de l'article L. 121-29, est fondée, pour
+chaque gestionnaire de réseau de distribution, sur l'écart entre l'évaluation des recettes d'exploitation des réseaux qu'il a
+facturées au cours de l'année précédente et l'évaluation des charges d'exploitation des réseaux qu'il a supportées au cours
+de la même année.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-29 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-30 (T)
+	  - Code de l'énergie - art. L121-29
 
 
 ###### Article R121-53
@@ -34775,34 +34795,30 @@ des investissements.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-31 (T)
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
 
 ###### Article R121-54
 
 Les charges liées à l'exploitation des réseaux sont évaluées, pour chaque gestionnaire de réseau public de distribution, par
-application de la formule décrite à l'article R. 121-33 qui tient compte des caractéristiques du réseau exploité et de la
+application de la formule décrite à l'article R. 121-55 qui tient compte des caractéristiques du réseau exploité et de la
 clientèle qui lui est raccordée, appréciées au 31 décembre de l'année précédente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'énergie - art. R121-32 (T)
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R121-33 (V)
+	  - Code de l'énergie - art. R121-33
 
 
 ###### Article R121-55
@@ -34835,39 +34851,35 @@ Nb (abonnements) est le nombre des abonnements du gestionnaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-33 (T)
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
 
 
 ###### Article R121-56
 
-Lorsque les recettes d'un gestionnaire de réseau public de distribution, calculées comme il est dit à l'article R. 121-31,
-excèdent ses charges, calculées comme il est dit aux articles R. 121-32 et R. 121-33, il verse une contribution au fonds.
-Dans le cas contraire, il en reçoit une dotation. 
+Lorsque les recettes d'un gestionnaire de réseau public de distribution, calculées comme il est dit à l'article R. 121-53,
+excèdent ses charges, calculées comme il est dit aux articles R. 121-54 et R. 121-55, il verse une contribution au fonds.
+Dans le cas contraire, il en reçoit une dotation.
 
-Le solde de contribution ou de dotation est calculé par application des formules décrites à l'article R. 121-35, qui
+Le solde de contribution ou de dotation est calculé par application des formules décrites à l'article R. 121-57, qui
 permettent d'assurer l'équilibre des opérations effectuées par le fonds de péréquation de l'électricité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. D121-35 (V)
-	  - Code de l'énergie - art. R121-31 (V)
-	  - Code de l'énergie - art. R121-32 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-34 (T)
+	  - Code de l'énergie - art. D121-35
+	  - Code de l'énergie - art. R121-31
+	  - Code de l'énergie - art. R121-32
 
 
 ###### Article R121-57
@@ -34875,58 +34887,55 @@ permettent d'assurer l'équilibre des opérations effectuées par le fonds de p�
 Le solde " exploitation " S, contributeur ou bénéficiaire, de la péréquation, est établi conformément aux formules
 suivantes :
 
-1. Cas d'un gestionnaire contributeur : 
+1. Cas d'un gestionnaire contributeur :
 
-S = α (R-C), si (R-C) < β R 
+S = α (R-C), si (R-C) < β R
 
-S = α β R, si (R-C) > β R 
+S = α β R, si (R-C) > β R
 
-2. Cas d'un gestionnaire bénéficiaire : 
+2. Cas d'un gestionnaire bénéficiaire :
 
-S = ε (C-R) 
+S = ε (C-R)
 
-dans lesquelles : 
+dans lesquelles :
 
-R est le montant des recettes définies à l'article R. 121-31 ; 
+R est le montant des recettes définies à l'article R. 121-53 ;
 
-C est le montant des charges définies aux articles R. 121-32 et R. 121-33.
+C est le montant des charges définies aux articles R. 121-54 et R. 121-55.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - DEPLACE: Décret n°2017-847 du 9 mai 2017 - art. 1
+
+	**Modifié par**:
+
+	  - Décret n°2017-847 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R121-31 (V)
-	  - Code de l'énergie - art. R121-32 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-35 (T)
+	  - Code de l'énergie - art. R121-31
+	  - Code de l'énergie - art. R121-32
 
 
 ###### Article R121-58
 
-Les valeurs des coefficients λ, a1 à a9, α, β et γ prévus aux articles R. 121-31, R. 121-33 et R. 121-35 sont fixées chaque
-année par un arrêté conjoint du ministre chargé de l'énergie, du budget et de l'intérieur, après avis du conseil du fonds de
-péréquation de l'électricité.
+Le ministre chargé de l'énergie arrête, après avis du conseil de la péréquation des charges de la distribution d'électricité,
+les valeurs des coefficients servant au calcul de la péréquation forfaitaire, ainsi que les montants des dotations et des
+contributions correspondants. 
+
+Il notifie ces informations à la société mentionnée au 1° de l'article L. 111-52, avant le 30 septembre de chaque année.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R121-31 (V)
-	  - Code de l'énergie - art. R121-33 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-36 (T)
+	  - Code de l'énergie - art. L111-52
 
 	**Cité par**:
 
@@ -34935,26 +34944,16 @@ péréquation de l'électricité.
 
 ###### Article R121-59
 
-Pour mettre en œuvre la péréquation des charges liées aux opérations d'aménagement du territoire mentionnées au 2° du II de
-l'article L. 121-29, le conseil du fonds émet un avis sur les dossiers qui lui sont soumis par les gestionnaires des réseaux
-publics de distribution ainsi que sur le montant total des sommes susceptibles d'être affectées à cette péréquation. 
-
-Au vu de ces avis, le ministre chargé de l'énergie arrête la liste des opérations d'aménagement du territoire donnant lieu à
-péréquation ainsi que le montant des dotations correspondantes. 
-
-Le montant total des sommes affectées à la péréquation des charges d'aménagement du territoire est répartie entre tous les
-gestionnaires de réseaux publics de distribution au prorata de leurs recettes déterminées conformément aux dispositions de
-l'article R. 121-31. Chaque gestionnaire contribue à la péréquation à raison de la somme T résultant de cette répartition. 
-
-Pour chaque gestionnaire de réseau public de distribution, la somme du solde S de la péréquation afférente à l'exploitation
-des réseaux mentionné à l'article R. 121-1 et du résultat T de la péréquation liée à l'aménagement du territoire mentionné
-ci-dessus constitue son solde définitif de péréquation.
+A défaut de transmission avant la date fixée conformément à l'article R. 121-51 des documents nécessaires à la détermination
+de la péréquation, le ministre chargé de l'énergie, pour les opérations prévues au présent paragraphe, peut, après mise en
+demeure du gestionnaire de réseaux publics de distribution d'électricité défaillant dans un délai qui ne peut être inférieur
+à quinze jours, procéder à l'estimation des recettes et des charges de celui-ci sur la base des informations dont il dispose.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -34962,47 +34961,61 @@ ci-dessus constitue son solde définitif de péréquation.
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-29 (V)
-	  - Code de l'énergie - art. R121-1 (V)
-	  - Code de l'énergie - art. R121-31 (V)
+	  - Code de l'énergie - art. R121-51 (V)
 
-	**Anciens textes**:
 
-	  - Code de l'énergie - art. R121-37 (T)
-
+##### Paragraphe 3 : Procédure applicable à la péréquation établie à partir de l'analyse des comptes des gestionnaires de réseaux
 
 ###### Article R121-60
 
-Les frais de gestion du Fonds de péréquation de l'électricité sont répartis entre les gestionnaires de réseaux publics de
-distribution d'électricité au prorata du montant de leur solde définitif de péréquation.
+I. – Les gestionnaires de réseaux publics de distribution d'électricité, mentionnés au quatrième alinéa de l'article L.
+121-29, qui souhaitent opter pour une péréquation établie à partir de l'analyse de leurs comptes présentent leur demande à la
+Commission de régulation de l'énergie au plus tard le 31 mars de l'année qui précède celle au titre de laquelle ils
+souhaitent que cette option soit appliquée. 
+
+Toutefois, pour les demandes présentées par les gestionnaires de réseaux des zones non interconnectées au réseau
+métropolitain continental, cette option s'applique dès l'année au cours de laquelle elle a été formulée. 
+
+Dans les deux cas, les gestionnaires de réseau adressent une copie de leur demande au ministre chargé de l'énergie. 
+
+La demande de péréquation établie à partir de l'analyse des comptes concerne la période allant jusqu'à la fin de
+l'application du tarif d'utilisation des réseaux publics de distribution d'électricité en cours à la date de la demande. 
+
+II. – Les gestionnaires de réseaux publics de distribution d'électricité ayant opté pour une péréquation établie à partir de
+l'analyse de leurs comptes et qui souhaitent revenir au régime de péréquation forfaitaire présentent leur demande à la
+Commission de régulation de l'énergie au plus tard le 31 mars de l'année d'entrée en vigueur d'un nouveau tarif d'utilisation
+des réseaux publics de distribution d'électricité, en adressant une copie de leur demande au ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-38 (T)
+	  - Code de l'énergie - art. L121-29
 
 
 ###### Article R121-61
 
-Les versements des contributeurs sont effectués en une seule fois avant le 31 octobre de chaque année. Les contributions non
-réglées au jour de l'échéance portent intérêt au taux légal.
+La Commission de régulation de l'énergie fixe la composition du dossier et les délais dans lesquels le dossier de la demande
+mentionnée à l'article R. 121-60 doit lui être adressé. 
 
-Les versements du fonds aux bénéficiaires sont effectués en une seule fois avant le 31 décembre de chaque année.
+La Commission de régulation de l'énergie établit le niveau de dotation ou de contribution à la péréquation des charges de
+distribution d'électricité, qu'elle notifie au gestionnaire de réseaux publics de distribution demandeur avant le 31 juillet
+de l'année au titre de laquelle est versée la péréquation. Elle adresse dans le même délai une copie de cette décision à la
+société mentionnée au 1° de l'article L. 111-52 et au ministre chargé de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
+	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'énergie - art. R121-39 (T)
+	  - Code de l'énergie - art. L111-52
 
 	**Cité par**:
 
@@ -35011,80 +35024,22 @@ Les versements du fonds aux bénéficiaires sont effectués en une seule fois av
 
 ###### Article R121-62
 
-Les fonctionnaires et agents habilités en application des articles L. 135.3 et L. 142-21 assurent, dans les formes prévues
-par ces articles et, le cas échéant, à la demande du conseil du fonds de péréquation de l'électricité, le contrôle des
-déclarations et des documents comptables adressés au fonds. 
-
-En cas de défaut de déclaration, le secrétariat du Fonds de péréquation de l'électricité procède à la détermination des
-recettes et des charges du gestionnaire de réseaux publics de distribution d'électricité défaillant, après l'avoir mis en
-demeure de présenter ses observations.
+A défaut de transmission dans le délai requis conformément à l'article R. 121-61 des documents nécessaires à la détermination
+de la péréquation, la Commission de régulation de l'énergie, pour les opérations prévues au présent paragraphe, peut, après
+mise en demeure du gestionnaire de réseaux publics de distribution d'électricité défaillant dans un délai qui ne peut être
+inférieur à quinze jours, procéder à l'estimation des recettes et des charges de celui-ci sur la base des informations dont
+elle dispose.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L135-3 (V)
-	  - Code de l'énergie - art. L142-21 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-40 (T)
-
-
-###### Article R121-63
-
-En cas de non-paiement des sommes dues à l'échéance prévue, la défaillance d'un contributeur est constatée lorsqu'une mise en
-demeure, adressée par lettre recommandée avec accusé de réception, est restée sans effet plus de trois semaines. 
-
-Une copie de la mise en demeure est remise au ministre chargé de l'énergie. 
-
-Sans préjudice des sanctions encourues en application de l'article L. 121-30, le secrétariat du fonds procède au recouvrement
-de la contribution due, augmentée des intérêts au taux légal.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-847 du 9 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L121-30
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-41 (T)
-
-
-###### Article R121-64
-
-Le ministre chargé de l'énergie prononce la sanction pécuniaire prévue à l'article L. 121-30.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-158 du 18 février 2016 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-847 du 9 mai 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L121-30
-
-	**Anciens textes**:
-
-	  - Code de l'énergie - art. R121-42 (T)
+	  - Code de l'énergie - art. L135-3
+	  - Code de l'énergie - art. L142-21
 
 
 ##### Sous-section 4 : Dispositions diverses
