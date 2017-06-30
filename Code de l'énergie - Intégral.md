@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-07-01
 
 # Partie législative
 
@@ -51930,6 +51930,32 @@ déconsignation.
 	  - Décret n°2016-1128 du 17 août 2016 - art. 1
 
 
+##### Section 3 : Accès aux données de consommation par les gestionnaires des réseaux publics de distribution d'électricité
+
+###### Article D322-16
+
+Dans le cadre du droit d'utilisation des données conféré aux gestionnaires des réseaux publics de distribution d'électricité
+par le deuxième alinéa de l'article R. 341-5, ces derniers peuvent collecter les courbes de charge définies à l'article D.
+341-21 pour l'accomplissement des missions mentionnées aux 1°, 6°, 8° et 9° de l'article L. 322-8 et au premier alinéa de
+l'article L. 322-9.
+
+Les gestionnaires des réseaux de distribution ne peuvent collecter la courbe de charge de manière systématique et
+généralisée. Cette collecte est limitée à l'objet de la mission considérée et proportionnée à sa finalité. Les données ainsi
+recueillies ne sont conservées que le temps nécessaire à l'accomplissement des finalités pour lesquelles elles ont été
+recueillies
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L211-2
+	  - Code de l'énergie - art. L322-10-1
+
+
 #### Chapitre III : Les ouvrages de transport et de distribution
 
 ##### Section 1 : Procédure d'institution des servitudes administratives nécessaires aux ouvrages de transport et de distribution
@@ -59007,6 +59033,132 @@ Il est interdit au propriétaire ou au gestionnaire de l'immeuble, sauf autorisa
 	  - Décret n°2016-447 du 12 avril 2016 - art. 1
 
 
+##### Section 5 : Mise à disposition des données de consommation aux consommateurs raccordés aux réseaux publics de distribution
+
+###### Article D341-18
+
+Lorsqu'un consommateur raccordé au réseau public de distribution d'électricité est équipé du dispositif de comptage prévu au
+premier alinéa de l'article L. 341-4, ses données de consommation d'électricité sont mises à sa disposition par le
+gestionnaire du réseau public de distribution d'électricité dans un espace sécurisé de son site Internet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-19
+
+Les données de consommation mises à disposition sont, au minimum :
+
+1° Les index de consommation journaliers et mensuels ;
+
+2° La consommation quotidienne, mensuelle et annuelle en kilowattheures pour chaque période du calendrier fournisseur ;
+
+3° La puissance maximale soutirée quotidiennement en kilovoltampères ;
+
+4° La courbe de charge d'électricité, dans les conditions fixées à l'article D. 341-21.
+
+Les données conservées sur le site Internet retracent au minimum la consommation des vingt-quatre derniers mois, dans la
+mesure où ces données sont disponibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-20
+
+Le site Internet du gestionnaire de réseau comporte un dispositif permettant au consommateur de comparer sa consommation avec
+des consommations types, établies à partir de moyennes nationales et locales pour des profils de consommation et des
+puissances de souscription comparables à la sienne.
+
+Ce site permet également au consommateur de paramétrer et de recevoir des alertes, par courrier électronique ou tout autre
+moyen, lorsque le niveau de sa consommation dépasse un niveau de référence fixé par le consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-21
+
+La courbe de charge d'électricité, mentionnée au 4° de l'article D. 341-19 correspond à une série de valeurs moyennes de
+puissance électrique soutirée par le consommateur, mesurée à une fréquence de temps donnée.
+
+La courbe de charge d'électricité est enregistrée, au pas horaire, dans la mémoire du dispositif de comptage, sauf si le
+consommateur s'y oppose.
+
+A la demande du consommateur, la courbe de charge est collectée dans le système informatique du gestionnaire de réseau et
+mise à sa disposition, sans préjudice d'une collecte effectuée par le gestionnaire de réseau dans les conditions fixées à
+l'article D. 322-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-22
+
+L'espace sécurisé prévu à l'article D. 341-18 comporte, au minimum, les fonctions suivantes, permettant au consommateur
+d'électricité de demander à tout moment, sans avoir à motiver sa demande :
+
+1° L'arrêt de l'enregistrement de la courbe de charge par le dispositif de comptage, ainsi que la suppression des données
+enregistrées ;
+
+2° La collecte de la courbe de charge ou l'arrêt de la collecte et la suppression des données collectées ;
+
+3° La mise à disposition de tout ou partie des données de consommation mentionnées à l'article D. 341-19 à tout tiers désigné
+par lui, dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé, ou
+l'interruption de la mise à disposition des données ;
+
+4° La visualisation de la liste de tous les tiers auxquels le gestionnaire du réseau public de distribution met à disposition
+ses données de manière récurrente, ainsi que la possibilité, à la demande du consommateur, de supprimer de la liste les tiers
+pour lesquels il a décidé d'interrompre cette mise à disposition ;
+
+5° Le téléchargement des données mentionnées à l'article D. 341-19 dans un standard ouvert, aisément réutilisable et
+exploitable par un système de traitement automatisé ;
+
+6° Le changement du mode de fonctionnement du module télé-information client (TIC) du compteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-23
+
+Si elle a été demandée, la mise à disposition des données au fournisseur titulaire du contrat de fourniture cesse en cas de
+changement de fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
+###### Article D341-24
+
+Le gestionnaire du réseau public de distribution d'électricité recueille également les demandes mentionnées à l'article D.
+341-22 formulées par écrit ou par courrier électronique. Il accuse réception des demandes du consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 1
+
+
 #### Chapitre II : Le raccordement aux réseaux
 
 ##### Section 1 : Consistance des ouvrages de branchement et d'extension
@@ -65668,6 +65820,105 @@ Il est interdit au propriétaire ou au gestionnaire de l'immeuble, sauf autorisa
 	**Créé par**:
 
 	  - Décret n°2016-447 du 12 avril 2016 - art. 2
+
+
+##### Section 5 : Mise à disposition des données de comptage aux consommateurs raccordés aux réseaux publics de distribution de gaz naturel 
+
+###### Article D453-14
+
+Lorsqu'un consommateur raccordé au réseau public de distribution de gaz naturel est équipé du dispositif de comptage prévu au
+premier alinéa de l'article L. 453-7, ses données de consommation sont mises à sa disposition par le gestionnaire du réseau
+public de distribution de gaz dans un espace sécurisé de son site Internet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
+
+
+###### Article D453-15
+
+Les données de consommation mises à disposition sont, au minimum les suivantes :
+
+1° Les index de consommation journaliers et mensuels ;
+
+2° La consommation quotidienne, mensuelle et annuelle en mètres cubes et en kilowattheures avec le coefficient de conversion
+applicable.
+
+Les données conservées sur le site internet retracent au minimum la consommation des vingt-quatre derniers mois, dans la
+mesure où ces données sont disponibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
+
+
+###### Article D453-16
+
+Le site Internet du gestionnaire de réseau comporte un dispositif permettant au consommateur de comparer sa consommation avec
+des consommations types, établies à partir de moyennes nationales et locales pour des profils de consommation comparables à
+la sienne. Pour faciliter cette comparaison, le gestionnaire du réseau public de distribution peut également mettre à
+disposition des informations relatives aux conditions météorologiques.
+
+Ce site permet également au consommateur de paramétrer et de recevoir des alertes, par courrier électronique ou tout autre
+moyen, lorsque le niveau de sa consommation dépasse un niveau de référence fixé par le consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
+
+
+###### Article D453-17
+
+L'espace sécurisé prévu à l'article D. 453-14 comporte au minimum les fonctions suivantes permettant au consommateur de gaz
+naturel de demander à tout moment sans avoir à motiver sa demande :
+
+1° La mise à disposition de tout ou partie des données de consommation mentionnées à l'article D. 453-15 à tout tiers désigné
+par lui, dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé, ou
+l'interruption de la mise à disposition des données ;
+
+2° La visualisation de la liste de tous les tiers auxquels le gestionnaire du réseau public de distribution met à disposition
+ses données de manière récurrente, ainsi que la possibilité de supprimer, à la demande du consommateur, de la liste les tiers
+pour lesquels il a décidé d'interrompre cette mise à disposition ;
+
+3° Le téléchargement des données mentionnées à l'article D. 453-15 dans un standard ouvert, aisément réutilisable et
+exploitable par un système de traitement automatisé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
+
+
+###### Article D453-18
+
+La mise à disposition des données au fournisseur titulaire du contrat de fourniture cesse en cas de changement de
+fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
+
+
+###### Article D453-19
+
+Le gestionnaire du réseau public de distribution de gaz naturel recueille également les demandes mentionnées à l'article D.
+453-17 formulées par écrit ou par courrier électronique. Il accuse réception des demandes du consommateur sur un support
+durable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-948 du 10 mai 2017 - art. 3
 
 
 ### TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS
