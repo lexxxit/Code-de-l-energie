@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -2406,12 +2406,20 @@ La société gestionnaire d'un réseau de distribution d'électricité ou de gaz
 continental, plus de 100 000 clients est soumise aux règles suivantes : 
 
 1° Elle assure l'exploitation, l'entretien et, sous réserve des prérogatives des collectivités et des établissements
-mentionnés au septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, le développement
+mentionnés au sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, le développement
 des réseaux de distribution d'électricité ou de gaz de manière indépendante vis-à-vis de tout intérêt dans des activités de
 production ou de fourniture d'électricité ou de gaz ; 
 
 2° Elle réunit dans un code de bonne conduite, adressé à la Commission de régulation de l'énergie, les mesures d'organisation
 interne prises pour prévenir toute pratique discriminatoire en matière d'accès des tiers au réseau.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -2421,11 +2429,11 @@ interne prises pour prévenir toute pratique discriminatoire en matière d'accè
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+	  - Code général des collectivités territoriales - art. L2224-31 (M)
 
 	**Cité par**:
 
@@ -4330,18 +4338,22 @@ Les autorités organisatrices de la distribution publique d'électricité mentio
 organisatrices du service public de la fourniture d'électricité aux clients raccordés à un réseau de distribution qui
 bénéficient des tarifs réglementés de vente mentionnés à l'article L. 337-1. 
 
-La mission de fourniture d'électricité concourt également à la cohésion sociale par la mise en œuvre de la tarification
-spéciale dite " produit de première nécessité " mentionnée à l'article L. 337-3. Cette mission est assignée aux fournisseurs
-mentionnés au chapitre III du titre III du livre III. L'autorité administrative peut prononcer, dans les conditions définies
-au paragraphe 2 de la sous-section 3 de la section 2 du chapitre II du titre IV du présent livre, une des sanctions prévues
-aux 1° et 2° de l'article L. 142-31 à l'encontre des auteurs des manquements à l'obligation d'assurer cette mission, y
-compris en cas de défaut de transmission d'informations demandées par une autorité chargée du contrôle en application du
-quatrième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales. 
-
 Elle consiste également à assurer la fourniture d'électricité de secours aux clients raccordés aux réseaux publics dans les
 conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -4352,16 +4364,11 @@ conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 	  - Code de l'énergie - art. L151-5 (Ab)
 	  - Code de l'énergie - art. L152-10 (V)
 	  - Code de l'énergie - art. L315-2 (V)
-	  - Code de l'énergie - art. L337-3 (V)
 	  - Code général des collectivités territoriales - art. D2224-34 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 	**Cite**:
 
@@ -4371,6 +4378,7 @@ conditions prévues aux troisième et quatrième alinéas de l'article L. 333-3.
 	  - Code de l'énergie - art. L142-31
 	  - Code de l'énergie - art. L333-3
 	  - Code de l'énergie - art. L337-1
+	  - Code de l'énergie - art. L337-3
 	  - Code de l'énergie - art. L337-4
 
 
@@ -4534,47 +4542,40 @@ qu'une  entreprise moyenne, bien gérée et adéquatement équipée des moyens  
 
 En matière de fourniture d'électricité, les charges imputables aux missions de service public comprennent : 
 
-1° Les pertes de recettes et les coûts supportés par les fournisseurs d'électricité en raison de la mise en œuvre de la
-tarification spéciale dite produit de première nécessité mentionnée à l'article L. 337-3, ainsi que les pertes de recettes
-dues aux réductions sur les services liés à la fourniture d'électricité, définies par décret, accordées aux consommateurs
-d'énergie qui bénéficient des dispositifs d'aide prévu aux articles L. 124-1 et L. 337-3 ; 
+1° Les pertes de recettes dues aux réductions sur les services liés à la fourniture d'électricité, définies par décret,
+accordées aux consommateurs d'énergie qui bénéficient du dispositif d'aide prévu à l'article L. 124-1 ; 
 
 2° Les coûts supportés par les fournisseurs d'électricité en raison de leur participation au dispositif institué en faveur
-des personnes en situation de précarité mentionné à l'article L. 122-6. Ces coûts sont pris en compte dans la limite d'un
-pourcentage, fixé par arrêté du ministre chargé de l'énergie, de la charge supportée par le fournisseur au titre de la
-tarification spéciale dite " produit de première nécessité " mentionnée au 1° ; 
+des personnes en situation de précarité mentionné à l'article L. 122-6. Ces coûts font l'objet d'une compensation, totale ou
+partielle, selon des modalités définies par décret ;
 
 3° Les coûts supportés par les fournisseurs d'électricité en raison de la mise en œuvre du dispositif institué en faveur des
-personnes en situation de précarité mentionné à l'article L. 337-3-1, dans la limite d'un montant unitaire maximal par ménage
+personnes en situation de précarité mentionné à l'article L. 124-5, dans la limite d'un montant unitaire maximal par ménage
 fixé par un arrêté du ministre chargé de l'énergie.
 
 **Nota:**
 
-Loi n° 1786 du 29 décembre 2015, article 5 VII B : Les articles L. 121-6 à L. 121-28 et L. 121-35 à L. 121-44 du même code,
-dans leur rédaction antérieure à la présente loi, restent applicables pour les consommations d'électricité et les ventes de
-gaz naturel effectuées jusqu'au 31 décembre 2015.
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
 
 	**Cité par**:
 
 	  - Loi n°2015-992 du 17 août 2015 - art. 205 (V)
 	  - Code de l'énergie - art. R124-16 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
-
 	**Cite**:
 
 	  - Code de l'énergie - art. L122-6
-	  - Code de l'énergie - art. L124-1 (V)
-	  - Code de l'énergie - art. L337-3
-	  - Code de l'énergie - art. L337-3-1
 
 
 ###### Article L121-8-1
@@ -5046,7 +5047,7 @@ fixées aux articles L. 142-30 et suivants.
 
 ###### Article L121-32
 
-I. - Des obligations de service public sont assignées :
+I. - Des obligations de service public sont assignées : 
 
 1° Aux opérateurs de réseaux de transport et de distribution de gaz naturel et aux exploitants d'installations de gaz naturel
 liquéfié, y compris les installations fournissant des services auxiliaires ; 
@@ -5055,7 +5056,7 @@ liquéfié, y compris les installations fournissant des services auxiliaires ;
 mentionnées à l'article L. 111-54 du même code et aux distributeurs agréés mentionnés au III de l'article L. 2224-31 du code
 général des collectivités territoriales ; 
 
-3° Aux titulaires de concessions de stockage souterrain de gaz naturel régies par le livre II du code minier.
+3° Aux titulaires de concessions de stockage souterrain de gaz naturel régies par le livre II du code minier. 
 
 II. - Elles portent sur : 
 
@@ -5075,9 +5076,9 @@ II. - Elles portent sur :
 
 8° Le développement équilibré du territoire ; 
 
-9° La fourniture de gaz de dernier recours aux clients non domestiques assurant des missions d'intérêt général ;
+9° La fourniture de gaz de dernier recours aux clients non domestiques assurant des missions d'intérêt général ; 
 
-10° La fourniture de gaz naturel au tarif spécial de solidarité mentionné à l'article L. 445-5 du présent code ; 
+10° Abrogé ; 
 
 11° Le maintien, conformément à l'article L. 115-3 du code de l'action sociale et des familles, d'une fourniture aux
 personnes en situation de précarité. 
@@ -5085,16 +5086,20 @@ personnes en situation de précarité.
 III. - Les obligations de service public qui, selon le cas, s'imposent sont précisées par les autorisations de fourniture ou
 de transport de gaz naturel, les concessions de stockage souterrain de gaz naturel, les cahiers des charges des concessions
 et les règlements des régies mentionnés au deuxième alinéa du II de l'article L. 2224-31 du code général des collectivités
-territoriales.
+territoriales. 
 
 Ces obligations varient selon les différentes catégories d'opérateurs dans des conditions fixées par un décret en Conseil
 d'Etat qui précise également les modalités du contrôle de leur respect.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -5124,14 +5129,16 @@ d'Etat qui précise également les modalités du contrôle de leur respect.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+	  - Code général des collectivités territoriales - art. L2224-31
 	  - Code de l'action sociale et des familles - art. L115-3
 	  - Code de l'énergie - art. L111-54
 	  - Code de l'énergie - art. L443-1
+	  - Code de l'énergie - art. L445-5 (VT)
 
 
 ###### Article L121-33
@@ -5223,16 +5230,14 @@ gaz naturel effectuées jusqu'au 31 décembre 2015.
 
 ###### Article L121-36
 
-Les charges imputables aux missions de service public comprennent : 
+Les charges mentionnées à l'article L. 121-35 comprennent : 
 
-1° Les pertes de recettes et les coûts supportés par les fournisseurs de gaz naturel en raison de la mise en œuvre du tarif
-spécial de solidarité mentionné à l'article L. 445-5, ainsi que les pertes de recettes dues aux réductions sur les services
-liés à la fourniture de gaz, définies par décret, accordées aux consommateurs d'énergie qui bénéficient des dispositifs
-d'aide prévus aux articles L. 124-1 et L. 445-5 ; 
+1° les pertes de recettes dues aux réductions sur les services liés à la fourniture de gaz, définies par décret, accordées
+aux consommateurs d'énergie qui bénéficient du dispositif d'aide prévus à l'article L. 124-1 ;
 
 2° Les coûts supportés par les fournisseurs de gaz naturel en raison de la mise en œuvre du dispositif institué en faveur des
-personnes en situation de précarité mentionné à l'article L. 445-6, dans la limite d'un montant unitaire maximal par ménage
-fixé par un arrêté du ministre chargé de l'énergie ; 
+personnes en situation de précarité mentionné à l'article L. 124-5, dans la limite d'un montant unitaire maximal par ménage
+fixé par un arrêté du ministre chargé de l'énergie. 
 
 3° Les coûts supportés par les fournisseurs de gaz naturel au titre de l'obligation d'achat de biogaz. Ces coûts
 correspondent au surcoût de l'achat du biogaz par rapport au coût d'approvisionnement en gaz naturel, ainsi qu'aux coûts de
@@ -5240,15 +5245,13 @@ gestion supplémentaires directement induits par la mise en œuvre de l'obligati
 
 **Nota:**
 
-Loi n° 2015-1786 du 29 décembre 2015, article 5 VII B : Les articles L. 121-6 à L. 121-28 et L. 121-35 à L. 121-44 du même
-code, dans leur rédaction antérieure à la présente loi, restent applicables pour les consommations d'électricité et les
-ventes de gaz naturel effectuées jusqu'au 31 décembre 2015.
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -5259,14 +5262,8 @@ ventes de gaz naturel effectuées jusqu'au 31 décembre 2015.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L124-1 (V)
-	  - Code de l'énergie - art. L124-5
-	  - Code de l'énergie - art. L445-5
-	  - Code de l'énergie - art. L445-6
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
 
 
 ###### Article L121-37
@@ -5947,6 +5944,43 @@ l'article L. 124-1 sont financés par le budget de l'Etat.
 
 	  - Code de l'énergie - art. L121-16 (M)
 	  - Code de l'énergie - art. L121-37 (V)
+
+
+###### Article L124-5
+
+Pour les consommateurs domestiques bénéficiant de l'aide prévue au présent chapitre, la mise à disposition des données de
+comptage en application des articles L. 341-4 et L. 453-7 s'accompagne d'une offre, par les fournisseurs d'électricité et de
+gaz naturel, de transmission des données de consommation, exprimées en euros, au moyen d'un dispositif déporté. Pour les
+consommateurs d'électricité, ce dispositif permet un affichage en temps réel. 
+
+La fourniture de ces services et de ces dispositifs ne donne pas lieu à facturation. 
+
+Un décret précise les modalités d'application du présent article, qui doivent tenir compte du déploiement des dispositifs
+prévus au premier alinéa des articles L. 341-4 et L. 453-7.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - Code de l'environnement - art. L222-1 (M)
+	  - Code de l'environnement - art. L222-2 (V)
+	  - Code de l'énergie - art. L121-36 (VT)
+	  - Code de l'énergie - art. L341-4 (VD)
+	  - Code de l'énergie - art. L453-7 (VD)
+	  - Code de l'énergie - art. R124-16 (VD)
 
 
 ### TITRE III : LA COMMISSION DE REGULATION DE L'ENERGIE
@@ -17594,7 +17628,7 @@ du code général des collectivités territoriales.
 
 ###### Article L322-8
 
-Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, un gestionnaire de réseau de distribution d'électricité est, dans sa zone de desserte exclusive, notamment
 chargé, dans le cadre des cahiers des charges de concession et des règlements de service des régies : 
 
@@ -17616,7 +17650,7 @@ informations protégées par des dispositions législatives ou réglementaires ;
 
 7° D'exercer les activités de comptage pour les utilisateurs raccordés à son réseau, en particulier la fourniture, la pose,
 le contrôle métrologique, l'entretien et le renouvellement des dispositifs de comptage et d'assurer la gestion des données et
-toutes missions afférentes à l'ensemble de ces activités ; 
+toutes missions afférentes à l'ensemble de ces activités ;
 
 8° De mettre en œuvre des actions d'efficacité énergétique et de favoriser l'insertion des énergies renouvelables sur le
 réseau ; 
@@ -17626,11 +17660,15 @@ réseau public de transport, les opérateurs d'effacement et les fournisseurs d'
 nécessaire à l'application du présent 9°. Ces informations sont considérées comme des informations commercialement sensibles,
 au sens de l'article L. 111-73, et sont traitées comme telles.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Cité par**:
 
@@ -17645,13 +17683,11 @@ au sens de l'article L. 111-73, et sont traitées comme telles.
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 168
-	  - Loi n°2015-992 du 17 août 2015 - art. 184
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-31
-	  - Code de l'énergie - art. L321-15-1 (V)
 
 
 ###### Article L322-9
@@ -17699,11 +17735,19 @@ consultations publiques ou le recours à des marchés organisés.
 Par dérogation à l'article L. 322-8, un gestionnaire de réseau de distribution issu de la séparation juridique imposée à une
 entreprise locale de distribution par l'article L. 111-57 a la responsabilité de l'exploitation, de la maintenance et, sous
 réserve des prérogatives reconnues aux collectivités territoriales et leurs établissements publics de coopération par le
-septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, du développement du réseau de
+sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales, du développement du réseau de
 distribution, dans le but d'en assurer la sécurité, la fiabilité et l'efficacité dans la zone qu'il couvre. Il est également
 chargé de conclure et de gérer les contrats de concession, d'assurer dans des conditions objectives, transparentes et non
 discriminatoires l'accès aux réseaux de distribution et de faire procéder aux comptages nécessaires à l'exercice de ses
 missions.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -17713,7 +17757,7 @@ missions.
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
 
 	**Cite**:
 
@@ -17756,7 +17800,7 @@ L'appel de ces installations est fonction de l'ordre de préséance économique.
 
 ###### Article L322-12
 
-Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, les gestionnaires des réseaux publics de distribution d'électricité conçoivent et exploitent ces réseaux de
 façon à assurer une desserte en électricité d'une qualité régulière, définie et compatible avec les utilisations usuelles de
 l'énergie électrique. 
@@ -17774,26 +17818,26 @@ distribution, l'autorité organisatrice peut obliger le gestionnaire du réseau 
 entre les mains d'un comptable public une somme qui sera restituée après constat du rétablissement du niveau de qualité. 
 
 Un décret en Conseil d'Etat pris dans un délai de six mois à compter de la publication de la loi n° 2015-992 du 17 août 2015
-relative à la transition énergétique pour la croissance verte définit les modalités d'application du présent article,
+relative à la transition énergétique pour la croissance vertedéfinit les modalités d'application du présent article,
 notamment les principes généraux de calcul de la somme à remettre, qui tiennent compte de la nature et de l'importance du
-non-respect de la qualité constaté. 
+non-respect de la qualité constaté.
 
 En outre, au cas où un gestionnaire de réseau de distribution ne respecte pas les niveaux de qualité, des pénalités peuvent
 également être mises en œuvre dans le cadre d'une régulation incitative, prévue à l'article L. 341-3.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 137
-
-	**Cite**:
-
-	  - Code de l'énergie - art. L341-3 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 	**Cité par**:
 
@@ -19646,116 +19690,6 @@ techniques et de la comptabilité générale des opérateurs.
 
 ##### Section 2 : Dispositions applicables aux tarifs de vente
 
-##### Sous-section 1 : La tarification spéciale "produit de première nécessité"
-
-
-###### Article L337-3
-
-Les tarifs de vente d'électricité aux consommateurs domestiques tiennent compte du caractère indispensable de l'électricité
-pour les consommateurs dont les revenus du foyer sont, au regard de la composition familiale, inférieurs à un plafond, en
-instaurant pour une tranche de leur consommation une tarification spéciale produit de première nécessité. Cette tarification
-spéciale est applicable aux services liés à la fourniture. 
-
-Pour la mise en œuvre de cette mesure, l'administration fiscale et les organismes de sécurité sociale constituent un fichier
-regroupant les ayants droit potentiels. Ces fichiers sont transmis aux fournisseurs d'électricité ou, le cas échéant, à un
-organisme désigné à cet effet par ces fournisseurs, afin de leur permettre de notifier aux intéressés leurs droits à la
-tarification spéciale. Les fournisseurs d'électricité ou l'organisme qu'ils ont désigné préservent la confidentialité des
-informations contenues dans le fichier. 
-
-La tarification spéciale " produit de première nécessité " bénéficie aux gestionnaires des résidences sociales mentionnées à
-l'article L. 633-1 du code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L.
-353-1 du même code. 
-
-Les sommes correspondantes sont déduites, sous réserve des frais de gestion, du montant des redevances quittancées aux
-occupants des chambres ou des logements situés dans ces résidences. 
-
-Les conditions d'application du présent article sont fixées par voie réglementaire.
-
-**Nota:**
-
-Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
-date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
-
-Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
-transition énergétique prennent effet le 1er janvier 2018.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 5 avril 2002 - art. 7 (V)
-	  - Décret n°2004-325 du 8 avril 2004 - art. 1 (Ab)
-	  - Décret n°2015-390 du 3 avril 2015 - art. 3 (V)
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Décret n°2016-555 du 6 mai 2016 - art. 2 (V)
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-	  - Code de l'action sociale et des familles - art. L115-3 (VT)
-	  - Code de l'énergie - art. L121-5 (VD)
-	  - Code de l'énergie - art. L121-8 (VT)
-	  - Code de l'énergie - art. L124-1 (V)
-	  - Code de l'énergie - art. L315-2 (V)
-	  - Code de l'énergie - art. L445-5 (VT)
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R337-1 (VT)
-	  - Code de l'énergie - art. R337-2 (VT)
-	  - Code général des collectivités territoriales - art. L2224-31 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 201
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-	  - Code de la construction et de l'habitation. - art. L633-1
-
-
-###### Article L337-3-1
-
-Pour les consommateurs domestiques bénéficiant de la tarification spéciale prévue à la présente sous-section, la mise à
-disposition des données de comptage en application de l'article L. 341-4 s'accompagne d'une offre, par les fournisseurs, de
-transmission des données de consommation, exprimées en euros, au moyen d'un dispositif déporté d'affichage en temps réel. 
-
-La fourniture de ces services et de ces dispositifs ne donne pas lieu à facturation. 
-
-Un décret précise les modalités d'application du présent article, qui tiennent compte du déploiement des dispositifs prévus
-au premier alinéa de l'article L. 341-4.
-
-**Nota:**
-
-Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
-date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
-
-Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
-transition énergétique prennent effet le 1er janvier 2018.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 201
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 28
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Décret n°2016-1618 du 29 novembre 2016 (V)
-	  - Code de l'énergie - art. L121-8 (VT)
-	  - Code de l'énergie - art. L341-4 (VT)
-	  - Code de l'énergie - art. R121-26 (V)
-
-
 ##### Sous-section 2 : Les tarifs réglementés de vente
 
 ###### Article L337-4
@@ -20359,9 +20293,9 @@ Dans le cadre du déploiement des dispositifs prévus au premier alinéa du pré
 fixée au 7° de l'article L. 322-8, les gestionnaires des réseaux publics de distribution d'électricité mettent à la
 disposition des consommateurs leurs données de comptage, des systèmes d'alerte liés au niveau de leur consommation, ainsi que
 des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. Un
-décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition.
+décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition. 
 
-Dans le cadre de l'article L. 337-3-1, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
+Dans le cadre de l'article L. 124-5, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
 consommation, en aval du compteur et en temps réel, sous réserve de l'accord du consommateur. 
 
 La fourniture des services mentionnés aux deuxième et troisième alinéas du présent article ne donne pas lieu à facturation. 
@@ -20377,7 +20311,7 @@ caractéristiques des données de consommation communiquées.
 
 La structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution d'électricité sont fixés afin
 d'inciter les clients à limiter leur consommation aux périodes où la consommation de l'ensemble des consommateurs est la plus
-élevée au niveau national. Ils peuvent également inciter les clients à limiter leur consommation aux périodes de pointe au
+élevée. au niveau national. Ils peuvent également inciter les clients à limiter leur consommation aux périodes de pointe au
 niveau local. A cet effet, la structure et le niveau des tarifs d'utilisation des réseaux de transport et de distribution
 peuvent, sous réserve d'assurer la couverture de l'ensemble des coûts prévue à l'article L. 341-2 et de manière proportionnée
 à l'objectif de maîtrise des pointes électriques, s'écarter pour un consommateur de la stricte couverture des coûts de réseau
@@ -20386,11 +20320,20 @@ qu'il engendre.
 Les cahiers des charges des concessions et les règlements de service des régies de distribution d'électricité doivent être en
 conformité avec les dispositions du présent article.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+	  - Loi n°2017-227 du 24 février 2017 - art. 18
 
 	**Cité par**:
 
@@ -20404,14 +20347,10 @@ conformité avec les dispositions du présent article.
 	  - Code de l'énergie - art. R341-4 (V)
 	  - Code de la consommation - art. D224-26 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°2017-227 du 24 février 2017 - art. 18
-
 	**Cite**:
 
-	  - Code de l'énergie - art. L322-8
-	  - Code de l'énergie - art. L341-2
+	  - Code de l'énergie - art. L322-8 (VT)
+	  - Code de l'énergie - art. L341-2 (V)
 
 
 ###### Article L341-4-1
@@ -23539,7 +23478,15 @@ une charge pécuniaire autre que les redevances prévues à l'article L. 433-4.
 ###### Article L432-4
 
 Les réseaux publics de distribution de gaz appartiennent aux collectivités territoriales ou à leurs groupements, visés, en ce
-qui concerne le gaz, au septième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales.
+qui concerne le gaz, au sixième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -23549,11 +23496,11 @@ qui concerne le gaz, au septième alinéa du I de l'article L. 2224-31 du code g
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2224-31
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
 
 
 ###### Article L432-5
@@ -23655,7 +23602,7 @@ financière envisagée.
 
 ###### Article L432-8
 
-Sans préjudice des dispositions du septième alinéa du I de l'article L. 2224-31 du code général des collectivités
+Sans préjudice des dispositions du sixième alinéa du I de l'article L. 2224-31 du code général des collectivités
 territoriales, un gestionnaire de réseau de distribution de gaz naturel est notamment chargé, dans le cadre des cahiers des
 charges de concession et des règlements de service des régies mentionnés au I du même article L. 2224-31 : 
 
@@ -23681,15 +23628,19 @@ toutes missions afférentes à l'ensemble de ces activités ;
 8° De mettre en œuvre des actions d'efficacité énergétique et de favoriser l'insertion des énergies renouvelables sur le
 réseau.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
 
 	**Modifié par**:
 
-	  - Loi n°2015-992 du 17 août 2015 - art. 184
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 	**Cite**:
 
@@ -23709,13 +23660,21 @@ réseau.
 
 Par dérogation à l'article L. 432-8, un gestionnaire de réseau de distribution issu de la séparation juridique imposée par
 l'article L. 111-57 à une entreprise locale de distribution a la responsabilité de l'exploitation, de la maintenance et, sous
-réserve des prérogatives des collectivités et établissements mentionnés au septième alinéa du I de l'article L. 2224-31 du
+réserve des prérogatives des collectivités et établissements mentionnés au sixième alinéa du I de l'article L. 2224-31 du
 code général des collectivités territoriales, du développement du réseau de distribution, dans le but d'en assurer la
 sécurité, la fiabilité et l'efficacité dans la zone qu'il couvre. 
 
 Il est également chargé de conclure et de gérer les contrats de concession, d'assurer dans des conditions objectives,
 transparentes et non discriminatoires l'accès aux réseaux de distribution et de faire procéder aux comptages nécessaires à
 l'exercice de ses missions.
+
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -23725,7 +23684,7 @@ l'exercice de ses missions.
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
 
 	**Cite**:
 
@@ -25041,104 +25000,6 @@ inférieure à 100 000 mégawattheures par an peuvent continuer à en bénéfici
 	  - Loi n°2014-344 du 17 mars 2014 - art. 25 (V)
 
 
-##### Section 2 : Le tarif spécial de solidarité
-
-###### Article L445-5
-
-Les clients domestiques ayant droit à la tarification spéciale produit de première nécessité mentionnée à l'article L. 337-3
-bénéficient également, pour une part de leur consommation, d'un tarif spécial de solidarité applicable à la fourniture de gaz
-naturel et aux services qui lui sont liés. Les modalités d'application de la tarification spéciale " produit de première
-nécessité " prévues à ce même article L. 337-3 sont applicables à la mise en place du tarif spécial de solidarité, notamment
-pour la transmission des fichiers aux fournisseurs de gaz naturel. 
-
-Les conditions d'attribution du tarif de première nécessité aux gestionnaires des résidences sociales mentionnées à l'article
-L. 633-1 du code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L. 353-1 du même
-code et de reversement aux occupants des chambres ou des logements situés dans ces résidences s'appliquent également à
-l'attribution du tarif spécial de solidarité relatif à la fourniture de gaz naturel et aux services qui lui sont liés. 
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, en particulier pour les clients
-domestiques résidant dans un immeuble d'habitation chauffé collectivement.
-
-**Nota:**
-
-Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
-date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
-
-Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
-transition énergétique prennent effet le 1er janvier 2018.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 5 avril 2002 - art. 7 (V)
-	  - Décret n°2008-778 du 13 août 2008 - art. 1 (Ab)
-	  - Décret n°2015-390 du 3 avril 2015 - art. 3 (V)
-	  - Code de l'énergie - art. L121-32 (VD)
-	  - Code de l'énergie - art. L121-36 (VT)
-	  - Code de l'énergie - art. L124-1 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R445-8 (VD)
-	  - Code général des collectivités territoriales - art. L2224-31 (M)
-	  - Code général des impôts, CGI. - art. 1519 HA (VT)
-
-	**Modifié par**:
-
-	  - Loi n°2013-312 du 15 avril 2013 - art. 7
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 201
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-	  - Code de la construction et de l'habitation. - art. L633-1
-	  - Code de l'énergie - art. L337-3
-
-
-###### Article L445-6
-
-Pour les consommateurs domestiques bénéficiant de la tarification spéciale prévue à la présente section, la mise à la
-disposition des données de comptage en application de l'article L. 453-7 s'accompagne d'une offre, par les fournisseurs, de
-transmission des données de consommation, exprimées en euros, au moyen d'un dispositif déporté. 
-
-La fourniture de ces services et de ces dispositifs ne donne pas lieu à facturation. 
-
-Un décret précise les modalités d'application du présent article, qui tiennent compte du déploiement des dispositifs prévus
-au premier alinéa de l'article L. 453-7.
-
-**Nota:**
-
-Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
-date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
-
-Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
-transition énergétique prennent effet le 1er janvier 2018.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 201
-
-	**Créé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 28
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Décret n°2016-1618 du 29 novembre 2016 (V)
-	  - Code de l'énergie - art. L121-36 (VT)
-	  - Code de l'énergie - art. L453-7 (VT)
-	  - Code de l'énergie - art. R121-26 (V)
-
-
 #### Chapitre VI : Les dispositions particulières 
 relatives à la vente de biogaz
 
@@ -25846,7 +25707,7 @@ disposition des consommateurs leurs données de comptage, des systèmes d'alerte
 des éléments de comparaison issus de moyennes statistiques basées sur les données de consommation locales et nationales. Un
 décret précise le contenu des données concernées ainsi que les modalités de leur mise à disposition. 
 
-Dans le cadre de l'article L. 445-6, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
+Dans le cadre de l'article L. 124-5, ils garantissent aux fournisseurs la possibilité d'accéder aux données de comptage de
 consommation, sous réserve de l'accord du consommateur. 
 
 La fourniture de services mentionnés aux deuxième et troisième alinéas du présent article ne donne pas lieu à facturation. 
@@ -25860,11 +25721,20 @@ lucrative. Un décret précise les modalités d'application du présent alinéa,
 être apportées par le propriétaire ou le gestionnaire de l'immeuble et les modalités de leur contrôle, ainsi que les
 caractéristiques des données de consommation communiquées.
 
+**Nota:**
+
+Aux termes du III de l'article 201 de la loi n° 2015-992 du 17 août 2015, ces dispositions entrent en vigueur à compter de la
+date fixée par le décret mentionné à l'article L. 124-1 du code de l'énergie, et au plus tard à compter du 31 décembre 2018.
+
+Aux termes de l'article 3 I du décret n° 2016-555 du 6 mai 2016, les dispositions du III de l'article 201 de la loi de
+transition énergétique prennent effet le 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-504 du 9 mai 2011 - art. (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
+	  - Loi n°2017-227 du 24 février 2017 - art. 18
 
 	**Cité par**:
 
@@ -25877,13 +25747,9 @@ caractéristiques des données de consommation communiquées.
 	  - Code de l'énergie - art. L453-8 (V)
 	  - Code de la consommation - art. D224-26 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°2017-227 du 24 février 2017 - art. 18
-
 	**Cite**:
 
-	  - Code de l'énergie - art. L432-8
+	  - Code de l'énergie - art. L432-8 (VT)
 
 
 ###### Article L453-8
@@ -35962,6 +35828,31 @@ de cette même année.
 
 #### Chapitre IV : La protection des consommateurs en situation de précarité énergétique
 
+##### Section 1 : Le chèque énergie
+
+###### Article D124-17
+
+A compter de la date  mentionnée au premier alinéa de l'article 3 du décret n° 2016-555 du 6  mai 2016 relatif au chèque
+énergie, l'Agence de services et de paiement  adresse chaque année aux bénéficiaires du chèque énergie, lorsqu'ils  habitent
+une zone où sont déployés les dispositifs de comptage  mentionnés au premier alinéa de l'article L. 341-4 et au premier
+alinéa  de l'article L. 453-7, une attestation leur permettant de faire valoir  auprès de leur fournisseur d'énergie leur
+droit à l'offre de  transmission des données de consommation au moyen d'un dispositif  déporté. 
+
+Cette attestation comporte une date de  validité et informe le client qu'il peut bénéficier du dispositif  déporté s'il est
+équipé d'un dispositif de comptage mentionné au premier  alinéa de l'article L. 341-4 ou au premier alinéa de l'article L.
+453-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 3
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
 ###### Article R124-1
 
 Le bénéfice du chèque énergie est ouvert aux ménages dont le revenu fiscal de référence annuel par unité de consommation est
@@ -35982,9 +35873,9 @@ lorsqu'ils sont réputés à la charge égale de l'un ou de l'autre parent en ap
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -35994,7 +35885,7 @@ lorsqu'ils sont réputés à la charge égale de l'un ou de l'autre parent en ap
 	**Cité par**:
 
 	  - Code de l'énergie - art. R124-2 (VD)
-	  - Code de l'énergie - art. R124-7 (V)
+	  - Code de l'énergie - art. R124-7 (VD)
 
 
 ###### Article R124-2
@@ -36014,9 +35905,9 @@ attestations comportent une échéance d'utilisation correspondant au 30 avril s
 
 	  - Décret n°2008-780 du 13 août 2008 - art. 1 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36134,14 +36025,14 @@ Ces valeurs peuvent être modifiées par arrêté des ministres chargés de l'é
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 
 ###### Article R124-4
 
-I. - Le chèque énergie permet d'acquitter à hauteur de sa valeur faciale, en tout ou en partie :
+I.-Le chèque énergie permet d'acquitter à hauteur de sa valeur faciale, en tout ou en partie :
 
 - une dépense de fourniture d'énergie liée au logement ;
 
@@ -36152,7 +36043,7 @@ l'habitation qui fait l'objet de la convention prévue à l'article L. 351-2 du 
 - une dépense liée à l'acquisition ou à l'installation dans le logement des équipements, matériaux et appareils qui ouvrent
 droit au crédit d'impôt mentionné à l'article 200 quater du code général des impôts. 
 
-II. - Les personnes morales et organismes auxquels est ouvert le remboursement du chèque énergie sont :
+II.-Les personnes morales et organismes auxquels est ouvert le remboursement du chèque énergie sont :
 
 - les fournisseurs d'électricité ou de gaz naturel ;
 
@@ -36172,20 +36063,20 @@ conclu la convention prévue à l'article L. 351-2 du même code ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 7 juin 2016 - art. 1 (V)
 	  - Arrêté du 7 juin 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R124-12 (V)
+	  - Code de l'énergie - art. R124-12 (VD)
 	  - Code de l'énergie - art. R124-14 (VD)
 	  - Code de l'énergie - art. R124-6 (VD)
 	  - Code de l'énergie - art. R124-7 (VD)
 	  - Code de l'énergie - art. R124-8 (VD)
 	  - Code de l'énergie - art. R124-9 (VD)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36198,10 +36089,10 @@ conclu la convention prévue à l'article L. 351-2 du même code ;
 
 ###### Article R124-5
 
-I. - La demande adressée par les gestionnaires des résidences sociales à l'Agence de services et de paiement, ou au
-prestataire agissant pour son compte, en vue d'assurer aux occupants de ces résidences le bénéfice de l'aide spécifique
-prévue au cinquième alinéa de l'article L. 124-1, est transmise avant le 1er novembre de chaque année pour l'année suivante
-et accompagnée des documents suivants :
+I.-La demande adressée par les gestionnaires des résidences sociales à l'Agence de services et de paiement, ou au prestataire
+agissant pour son compte, en vue d'assurer aux occupants de ces résidences le bénéfice de l'aide spécifique prévue au
+cinquième alinéa de l'article L. 124-1, est transmise avant le 1er novembre de chaque année pour l'année suivante et
+accompagnée des documents suivants :
 
 - la convention en cours prévue à l'article L. 351-2 du code de la construction et de l'habitation ;
 
@@ -36211,7 +36102,7 @@ d'expiration.
 L'Agence de services et de paiement accuse réception du dossier complet et fait connaître au demandeur, avant le 1er février
 de chaque année, le montant prévisionnel de l'aide auquel il aura droit pour l'année en cours. 
 
-II. - Le montant de l'aide spécifique versée par l'agence aux gestionnaires de résidences sociales, est établi en fonction du
+II.-Le montant de l'aide spécifique versée par l'agence aux gestionnaires de résidences sociales, est établi en fonction du
 nombre de logements occupés de la résidence sociale concernés et sur la base d'un montant unitaire est égal à 144 € (TTC) par
 logement et par an, qui peut être modifié par arrêté conjoint des ministres chargés de l'économie, de l'énergie et du
 logement. 
@@ -36244,7 +36135,7 @@ gestionnaire de la résidence sociale à l'Agence de services et de paiement, fa
 - les montants perçus et non remboursés aux résidents, à déduire du deuxième versement ou à reverser à l'Agence de services
 et de paiement en euros. 
 
-III. - La demande d'aide prévue au I est réputée renouvelée chaque année au 1er novembre, jusqu'à la date d'expiration de la
+III.-La demande d'aide prévue au I est réputée renouvelée chaque année au 1er novembre, jusqu'à la date d'expiration de la
 convention mentionnée sur l'attestation délivrée par les services de l'Etat. 
 
 Le gestionnaire de la résidence sociale signale toute interruption ou modification de la convention prévue à l'article L.
@@ -36254,9 +36145,9 @@ indûment versées au gestionnaire de la résidence sociale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36294,9 +36185,9 @@ services et de paiement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36305,12 +36196,12 @@ services et de paiement.
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R124-7 (V)
+	  - Code de l'énergie - art. R124-7 (VD)
 
 
 ###### Article R124-7
 
-I. - L'administration fiscale adresse chaque année à l'Agence de services et de paiement, par voie électronique, le fichier,
+I.-L'administration fiscale adresse chaque année à l'Agence de services et de paiement, par voie électronique, le fichier,
 signé électroniquement, des ménages remplissant les conditions prévues à l'article R. 124-1 ; il comporte pour chacun d'eux
 les informations suivantes :
 
@@ -36339,7 +36230,7 @@ bénéficiaire de la transmission de ces informations par l'administration fisca
 modalités lui permettant de faire valoir auprès d'elle ses droits d'accès, d'opposition ou de rectification, conformément à
 l'article 32 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
 
-II. - L'agence prend toutes les précautions nécessaires pour préserver la sécurité et la confidentialité des données sont
+II.-L'agence prend toutes les précautions nécessaires pour préserver la sécurité et la confidentialité des données sont
 prises, en particulier à l'occasion de leur transmission. Les personnes chargées de recueillir et exploiter ces données sont
 tenues à une obligation de confidentialité. 
 
@@ -36351,8 +36242,8 @@ relatives au délai de conservation des pièces justificatives de la dépense pu
 n° 63-156 du 23 février 1963 de finances pour 1963 et des articles 52 et 199 du décret n° 2012-1246 du 7 novembre 2012
 relatif à la gestion budgétaire et comptable publique. 
 
-III. - Lorsque la situation d'un ménage, au regard de l'administration fiscale, est corrigée et que cette correction permet
-au ménage de satisfaire les critères d'éligibilité prévus à l'article R. 124-1 ou lui donne droit à un montant d'aide plus
+III.-Lorsque la situation d'un ménage, au regard de l'administration fiscale, est corrigée et que cette correction permet au
+ménage de satisfaire les critères d'éligibilité prévus à l'article R. 124-1 ou lui donne droit à un montant d'aide plus
 élevé, l'Agence de services et de paiement, sur réclamation de ce ménage et au vu d'un justificatif d'imposition, selon le
 cas émet un chèque énergie ou échange le chèque initialement reçu par le ménage contre un nouveau chèque de la valeur à
 laquelle ce ménage a droit. 
@@ -36368,13 +36259,13 @@ le chèque énergie a été émis ou aurait dû être émis.
 	  - Loi n°78-17 du 6 janvier 1978 - art. 32
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 199
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 52
-	  - Code de l'énergie - art. R124-1
+	  - Code de l'énergie - art. R124-1 (VD)
 	  - Code de l'énergie - art. R124-4
-	  - Code de l'énergie - art. R124-6
+	  - Code de l'énergie - art. R124-6 (VD)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 
 ###### Article R124-8
@@ -36387,15 +36278,15 @@ chèque énergie sont précisées par voie de conventions entre l'agence et ces 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 7 juin 2016 (V)
 	  - Arrêté du 7 juin 2016 - art. 1 (V)
-	  - Code de l'énergie - art. R124-10 (V)
+	  - Code de l'énergie - art. R124-10 (VD)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36422,9 +36313,9 @@ attestant de la nature des dépenses qui ont été payées avec un chèque éner
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36448,14 +36339,14 @@ informations nécessaires à l'application du présent article, sont prévues pa
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
 	  - Code de l'énergie - art. R124-11
-	  - Code de l'énergie - art. R124-8
+	  - Code de l'énergie - art. R124-8 (VD)
 
 
 ###### Article R124-11
@@ -36486,18 +36377,18 @@ perçu ne peut donner lieu à remboursement, sauf en cas de résiliation du cont
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de la consommation - art. L224-15 (VD)
+	  - Code de la consommation - art. L224-15
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R124-10 (VD)
-	  - Code de l'énergie - art. R124-14 (V)
+	  - Code de l'énergie - art. R124-14 (VD)
 
 
 ###### Article R124-12
@@ -36510,18 +36401,18 @@ Les titres ne peuvent être présentés au remboursement que jusqu'au 31 mai de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'énergie - art. R124-13 (VD)
-	  - Code de l'énergie - art. R124-15 (V)
+	  - Code de l'énergie - art. R124-15 (VD)
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R124-4
+	  - Code de l'énergie - art. R124-4 (VD)
 
 
 ###### Article R124-13
@@ -36538,9 +36429,9 @@ remis par le bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -36556,13 +36447,13 @@ classe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R124-11
+	  - Code de l'énergie - art. R124-11 (VD)
 	  - Code de l'énergie - art. R124-4
 
 
@@ -36576,25 +36467,25 @@ d'économies d'énergie. Elle est accompagnée d'une estimation des coûts de ge
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 1
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R124-12
+	  - Code de l'énergie - art. R124-12 (VD)
 
 
 ###### Article R124-16
 
-I. - Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
+I.-Les bénéficiaires du chèque énergie bénéficient également de la gratuité de la mise en service et de l'enregistrement de
 leur contrat de fourniture d'électricité ou de gaz naturel ainsi que d'un abattement de 80 % sur la facturation d'un
 déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement. 
 
 Les pertes de recettes et les coûts occasionnés par ces dispositions sont compensés dans le cadre des dispositions prévues
 aux articles L. 121-8 et L. 121-36. 
 
-II. - Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
+II.-Le bénéfice des droits mentionnés au I du présent article ainsi que des protections spécifiques prévues au troisième
 alinéa de l'article L. 115-3 du code de l'action sociale et des familles, à l'article L. 224-13 du code de la consommation et
 à l'article 2 du décret n° 2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures
 d'électricité, de gaz, de chaleur et d'eau, est ouvert à compter du 1er avril de l'année au titre de laquelle la personne a
@@ -36610,8 +36501,8 @@ qui se sont fait connaître auprès d'eux dans les mêmes conditions.
 
 	**Cite**:
 
-	  - Décret n°2008-780 du 13 août 2008 - art. 2 (VT)
-	  - Code de la consommation - art. L224-13 (VD)
+	  - Décret n°2008-780 du 13 août 2008 - art. 2
+	  - Code de la consommation - art. L224-13
 	  - Code de l'action sociale et des familles - art. L115-3
 	  - Code de l'énergie - art. L121-36
 	  - Code de l'énergie - art. L121-8
@@ -36622,9 +36513,120 @@ qui se sont fait connaître auprès d'eux dans les mêmes conditions.
 	  - Décret n°2008-780 du 13 août 2008 - art. 1 (V)
 	  - Code de l'énergie - art. R124-2 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-555 du 6 mai 2016 - art. 5 (V)
+	  - DEPLACE: Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+##### Section 2 : L'offre de transmission des données de consommation au moyen d'un dispositif déporté
+
+###### Article D124-18
+
+Les  fournisseurs d'électricité et de gaz naturel proposent aux  consommateurs domestiques bénéficiant du chèque énergie et
+équipés d'un  dispositif de comptage mentionné au premier alinéa de l'article L. 341-4  ou au premier alinéa de l'article L.
+453-7 une offre de transmission de  leurs données de consommation exprimées en euros au moyen d'un  dispositif déporté. Pour
+les consommateurs d'électricité, ce dispositif  permet un affichage en temps réel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+###### Article D124-19
+
+Cette offre peut comporter plusieurs options. 
+
+Pour les consommateurs d'électricité : 
+
+- au  moins l'une d'entre elles permet l'affichage des données de  consommation en temps réel au moyen d'un dispositif équipé
+d'un écran  dont dispose déjà le consommateur ; 
+
+- une autre,  prioritairement destinée aux consommateurs qui ne disposent pas d'un  dispositif approprié, permet l'affichage
+des données de consommation en  temps réel au moyen d'un dispositif déporté dédié consultable à  l'intérieur de l'habitation
+que le fournisseur met à la disposition du  consommateur. 
+
+Pour les consommateurs de  gaz naturel, au moins l'une d'entre elles permet la mise à disposition  des données de
+consommation au moyen d'un dispositif équipé d'un écran  dont dispose déjà le consommateur. 
+
+Les offres  sont communiquées au ministre chargé de l'énergie au plus tard deux mois  avant d'être proposées pour la première
+fois ; celui-ci dispose d'un  délai d'un mois pour s'y opposer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+###### Article D124-20
+
+Pour  chaque option, le fournisseur d'électricité ou de gaz naturel précise  de manière claire et intelligible la consistance
+des informations  susceptibles de lui être transmises. 
+
+Celles des  informations qui ne sont pas strictement nécessaires à l'exercice de sa  mission ne peuvent lui être transmises
+sans qu'il ait recueilli le  consentement explicite du consommateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+###### Article D124-21
+
+Les dispositifs proposés préservent la confidentialité des données et sont performants en termes de consommation
+d'électricité. 
+
+Un arrêté du ministre chargé de l'énergie précise les informations que le dispositif déporté doit être en mesure d'afficher. 
+
+Pour les consommateurs d'électricité, si une option implique la  transmission de données de consommation par le biais d'un
+émetteur  radio, celui-ci répond à des spécifications techniques minimales  d'interopérabilité définies par arrêté du
+ministre chargé de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+###### Article D124-22
+
+Le dispositif est mis à disposition dans un délai de trente jours suivant l'acceptation de l'offre. 
+
+S'il refuse l'offre, le consommateur peut néanmoins demander à  bénéficier ultérieurement s'il remplit toujours les
+conditions  mentionnées à l'article D. 124-18. 
+
+Les données  transmises au consommateur par le dispositif mentionné à l'article D.  124-18 ne sont pas opposables au
+fournisseur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
+
+
+###### Article D124-23
+
+L'offre est adressée au consommateur dans un délai d'un mois suivant : 
+
+- la  mise en service du dispositif de comptage mentionné au premier alinéa  de l'article L. 341-4 ou au premier alinéa de
+l'article L. 453-7 ou, 
+
+- la date de signature du contrat de fourniture, en cas de changement de fournisseur, ou, 
+
+- la  date à laquelle le bénéficiaire du chèque énergie s'est fait connaître  dans les conditions prévues au dernier alinéa
+de l'article R. 124-16 ou  en transmettant l'attestation prévue à l'article D. 124-17 en cours de  validité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1618 du 29 novembre 2016 - art. 5
 
 
 ### TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE
@@ -41288,8 +41290,16 @@ pour une même catégorie de biomasse.
 ###### Article R221-1
 
 Les dispositions de la présente section définissent les modalités de fixation des obligations d'économies d'énergie
-mentionnées aux articles L. 221-1, L. 221-1-1 et L. 221-12 pour la période comprise entre le 1er janvier 2015 et le 31
-décembre 2017.
+mentionnées aux articles L. 221-1, L. 221-1-1 et L. 221-12.
+
+La troisième période d'obligation d'économies d'énergie s'étend du 1er janvier 2015 au 31 décembre 2017.
+
+La quatrième période d'obligation d'économies d'énergie s'étend du 1er janvier 2018 au 31 décembre 2020.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41299,12 +41309,12 @@ décembre 2017.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 2
+	  - Décret n°2017-690 du 2 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L221-1 (V)
-	  - Code de l'énergie - art. L221-12 (V)
+	  - Code de l'énergie - art. L221-1
+	  - Code de l'énergie - art. L221-12
 
 	**Cité par**:
 
@@ -41376,24 +41386,29 @@ avec précision la part des ventes de ce type d'énergie aux ménages et aux ent
 
 ###### Article R221-3
 
-Pour chaque année civile de la période mentionnée à l'article R. 221-1, sont soumises à des obligations d'économies d'énergie
+Pour chaque année civile des périodes mentionnées à l'article R. 221-1, sont soumises à des obligations d'économies d'énergie
 les personnes pour lesquelles au moins l'une des quantités définies à l'article R. 221-2 est supérieure, la même année, aux
-seuils suivants : 
+seuils suivants :
 
-1° Pour la quantité de fioul domestique : 500 mètres cubes ; 
+1° Pour la quantité de fioul domestique : 500 mètres cubes ;
 
-2° Pour la quantité de carburants autres que le gaz de pétrole liquéfié : 7 000 mètres cubes ; 
+2° Pour la quantité de carburants autres que le gaz de pétrole liquéfié : 7 000 mètres cubes ;
 
-3° Pour la quantité de gaz de pétrole liquéfié carburant mentionnée au 3° de l'article R. 221-2 : 7 000 tonnes ; 
+3° Pour la quantité de gaz de pétrole liquéfié carburant mentionnée au 3° de l'article R. 221-2 : 7 000 tonnes ;
 
-4° Pour la quantité de chaleur et de froid : 400 millions de kilowattheures d'énergie finale ; 
+4° Pour la quantité de chaleur et de froid : 400 millions de kilowattheures d'énergie finale ;
 
-5° Pour la quantité d'électricité : 400 millions de kilowattheures d'énergie finale ; 
+5° Pour la quantité d'électricité : 400 millions de kilowattheures d'énergie finale ;
 
 6° Pour la quantité de gaz de pétrole liquéfié autre que celui mentionné au 3° : 100 millions de kilowattheures de pouvoir
-calorifique supérieur d'énergie finale ; 
+calorifique supérieur d'énergie finale ;
 
 7° Pour la quantité de gaz naturel : 400 millions de kilowattheures de pouvoir calorifique supérieur d'énergie finale.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41401,14 +41416,14 @@ calorifique supérieur d'énergie finale ;
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-690 du 2 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-2 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-2
 
 	**Cité par**:
 
@@ -41422,38 +41437,41 @@ calorifique supérieur d'énergie finale ;
 
 ###### Article R221-4
 
-Pour chaque année civile de la période mentionnée à l'article R. 221-1, chaque personne mentionnée à l'article R. 221-3 est
-soumise à une obligation d'économies d'énergie, exprimée en kilowattheures d'énergie finale cumulée actualisés (ou " kWh
-cumac "), qui est la somme, pour toutes les énergies, de la quantité mentionnée à l'article R. 221-2, excédant le seuil
-mentionné à l'article R. 221-3, multipliée par : 
+I. – L'obligation d'économies d'énergie sur chacune des périodes mentionnées à l'article R. 221-1 est égale à la somme des
+obligations d'économies d'énergie de chaque année civile de la période.
 
-1° Pour le fioul domestique : 1 975 kWh cumac par mètre cube ; 
+II. – Pour chaque année civile de la quatrième période mentionnée à l'article R. 221-1, chaque personne mentionnée à
+l'article R. 221-3 est soumise à une obligation d'économies d'énergie, exprimée en kilowattheures d'énergie finale cumulée
+actualisés (ou “ kWh cumac ”), qui est la somme, pour toutes les énergies, de la quantité mentionnée à l'article R. 221-2,
+excédant le seuil mentionné à l'article R. 221-3, multipliée par :
 
-2° Pour les carburants autres que le gaz de pétrole liquéfié : 2 266 kWh cumac par mètre cube ; 
+1° Pour le fioul domestique : 3 380 kWh cumac par mètre cube ;
 
-3° Pour le gaz de pétrole liquéfié carburant : 4 116 kWh cumac par tonne ; 
+2° Pour les carburants autres que le gaz de pétrole liquéfié : 4 032 kWh cumac par mètre cube ;
 
-4° Pour la chaleur et le froid : 0,186 kWh cumac par kilowattheure d'énergie finale ; 
+3° Pour le gaz de pétrole liquéfié carburant : 7 125 kWh cumac par tonne ;
 
-5° Pour l'électricité : 0,238 kWh cumac par kilowattheure d'énergie finale ; 
+4° Pour la chaleur et le froid : 0,250 kWh cumac par kilowattheure d'énergie finale ;
 
-6° Pour le gaz de pétrole liquéfié autre que celui mentionné au 3° : 0,249 kWh cumac par kilowattheure de pouvoir calorifique
-supérieur d'énergie finale ; 
+5° Pour l'électricité : 0,463 kWh cumac par kilowattheure d'énergie finale ;
 
-7° Pour le gaz naturel : 0,153 kWh cumac par kilowattheure de pouvoir calorifique supérieur d'énergie finale. 
+6° Pour le gaz de pétrole liquéfié autre que celui mentionné au 3° : 0,443 kWh cumac par kilowattheure de pouvoir calorifique
+supérieur d'énergie finale ;
 
-L'obligation d'économies d'énergie sur la période mentionnée à l'article R. 221-1 est la somme des obligations d'économies
-d'énergie de chaque année civile de la période.
+7° Pour le gaz naturel : 0,278 kWh cumac par kilowattheure de pouvoir calorifique supérieur d'énergie finale.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018. Les articles R. 221-4 et R. 221-4-1 du code de l'énergie restent applicables, dans leur rédaction en
+vigueur avant l'entrée en vigueur du présent décret, aux obligations d'économies d'énergie de la troisième période
+d'économies d'énergie qui s'étend du 1er janvier 2015 au 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 3
 
 	**Cité par**:
 
@@ -41465,35 +41483,42 @@ d'énergie de chaque année civile de la période.
 	  - Code de l'énergie - art. R221-7 (V)
 	  - Code de l'énergie - art. R222-2 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-690 du 2 mai 2017 - art. 4
+
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-2 (V)
-	  - Code de l'énergie - art. R221-3 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-2
+	  - Code de l'énergie - art. R221-3
 
 
 ###### Article R221-4-1
 
-Pour chaque année civile de la période mentionnée à l'article R. 221-1, à compter de l'année 2016, chaque personne mentionnée
-à l'article R. 221-3 est soumise, en sus de l'obligation définie à l'article R. 221-4, à une obligation d'économies d'énergie
-à réaliser au bénéfice des ménages en situation de précarité énergétique. 
+Pour chaque année civile de la quatrième période mentionnée à l'article R. 221-1 chaque personne mentionnée à l'article R.
+221-3 est soumise, en sus de l'obligation définie à l'article R. 221-4, à une obligation d'économies d'énergie à réaliser au
+bénéfice des ménages en situation de précarité énergétique.
 
 Cette obligation, exprimée en kilowattheures d'énergie finale cumulée actualisés (ou kWh cumac), est égale à l'obligation
-définie par l'article R. 221-4 pour l'année concernée, multipliée par un coefficient 0,321. 
+définie par l'article R. 221-4 pour l'année concernée, multipliée par un coefficient 0,333.
 
-L'obligation d'économies d'énergie à réaliser pour la période mentionnée à l'article R. 221-1 est la somme des obligations
-d'économies d'énergie à réaliser au bénéfice des ménages en situation de précarité énergétique de chaque année civile de la
-période, à compter de l'année 2016.
+L'obligation d'économies d'énergie à réaliser pour chacune des périodes mentionnées à l'article R. 221-1 est la somme des
+obligations d'économies d'énergie à réaliser au bénéfice des ménages en situation de précarité énergétique de chaque année
+civile de la période, à compter de l'année 2016.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018. Les articles R. 221-4 et R. 221-4-1 du code de l'énergie restent applicables, dans leur rédaction en
+vigueur avant l'entrée en vigueur du présent décret, aux obligations d'économies d'énergie de la troisième période
+d'économies d'énergie qui s'étend du 1er janvier 2015 au 31 décembre 2017.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 4
 
 	**Cité par**:
 
@@ -41503,29 +41528,38 @@ période, à compter de l'année 2016.
 	  - Code de l'énergie - art. R221-7 (V)
 	  - Code de l'énergie - art. R222-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-690 du 2 mai 2017 - art. 5
+
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-3 (V)
-	  - Code de l'énergie - art. R221-4 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-3
+	  - Code de l'énergie - art. R221-4
 
 
 ###### Article R221-5
 
-Une personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 peut, pour l'obligation
-définie à l'article R. 221-4, ainsi que pour celle définie à l'article R. 221-4-1 : 
+Une personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 peut, pour l'obligation de
+chacune des périodes définies à l'article R. 221-4, ainsi que pour celle définie à l'article R. 221-4-1 :
 
-1° Déléguer la totalité de son obligation d'économies d'énergie à un tiers ; 
+1° Déléguer la totalité de son obligation d'économies d'énergie de la période à un tiers ;
 
-2° Déléguer une partie de son obligation d'économies d'énergie à un ou plusieurs tiers ; dans ce cas, le volume de chaque
-délégation partielle ne peut pas être inférieur à : 
+2° Déléguer une partie de son obligation d'économies d'énergie de la période à un ou plusieurs tiers ; dans ce cas, le volume
+de chaque délégation partielle ne peut pas être inférieur à :
 
-a) 5 milliards de kWh cumac pour l'obligation définie à l'article R. 221-4 ; 
+a) 5 milliards de kWh cumac pour l'obligation définie à l'article R. 221-4 ;
 
-b) 1 milliard de kWh cumac pour l'obligation définie à l'article R. 221-4-1. 
+b) 1 milliard de kWh cumac pour l'obligation définie à l'article R. 221-4-1.
 
 Sous réserve des dispositions de l'article R. 221-7, une personne ayant délégué la totalité de ses obligations individuelles
 n'est plus considérée comme une personne soumise à une obligation d'économies d'énergie.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41535,14 +41569,14 @@ n'est plus considérée comme une personne soumise à une obligation d'économie
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 5
+	  - Décret n°2017-690 du 2 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-3 (V)
-	  - Code de l'énergie - art. R221-4 (V)
-	  - Code de l'énergie - art. R221-4-1 (V)
-	  - Code de l'énergie - art. R221-7 (V)
+	  - Code de l'énergie - art. R221-3
+	  - Code de l'énergie - art. R221-4
+	  - Code de l'énergie - art. R221-4-1
+	  - Code de l'énergie - art. R221-7
 
 	**Cité par**:
 
@@ -41552,27 +41586,34 @@ n'est plus considérée comme une personne soumise à une obligation d'économie
 ###### Article R221-6
 
 La demande de délégation d'obligation d'économies d'énergie est transmise par le délégataire au ministre chargé de l'énergie.
-Elle comprend : 
+Elle comprend :
 
 1° Un contrat signé des représentants du délégant et de ceux du délégataire, identifiés par leur raison sociale et leur
-numéro SIREN, et précisant : 
+numéro SIREN, et précisant :
 
-a) Le type de délégation, partielle ou totale, d'obligation d'économies d'énergie ; 
+a) Le type de délégation, partielle ou totale, d'obligation d'économies d'énergie ;
 
-b) La catégorie d'obligation d'économies d'énergie déléguée : précarité énergétique ou non ; 
+b) La catégorie d'obligation d'économies d'énergie déléguée : précarité énergétique ou non ;
 
-c) Dans le cas d'une délégation partielle d'obligation d'économies d'énergie, le volume d'obligation délégué ; 
+c) Dans le cas d'une délégation partielle d'obligation d'économies d'énergie, le volume d'obligation délégué ;
 
-d) Dans le cas d'une délégation totale d'obligation d'économies d'énergie, une estimation du volume délégué ; 
+d) Dans le cas d'une délégation totale d'obligation d'économies d'énergie, une estimation du volume délégué ;
+
+e) La période d'obligation concernée par la délégation.
 
 2° Les éléments permettant de justifier que le délégant est une personne mentionnée à l'article R. 221-3 et, dans le cas
-d'une délégation partielle, que l'obligation du délégant est supérieure à l'obligation déléguée. 
+d'une délégation partielle, que l'obligation du délégant est supérieure à l'obligation déléguée.
 
-Le ministre chargé de l'énergie accuse réception de la demande et dispose d'un délai de deux mois pour y répondre. 
+Le ministre chargé de l'énergie accuse réception de la demande et dispose d'un délai de deux mois pour y répondre.
 
 A compter de la date de réception de cette réponse ou, au plus tard, à la date d'expiration de ce délai, un délégataire est
 considéré comme une personne soumise à une obligation d'économies d'énergie pour un volume d'obligation égal à la somme des
 obligations déléguées. Il ne peut lui-même déléguer son obligation à un tiers, même partiellement.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41582,11 +41623,11 @@ obligations déléguées. Il ne peut lui-même déléguer son obligation à un t
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 6
+	  - Décret n°2017-690 du 2 mai 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-3 (V)
+	  - Code de l'énergie - art. R221-3
 
 	**Cité par**:
 
@@ -41628,14 +41669,19 @@ dans un délai d'un mois.
 
 Chaque personne soumise à une obligation d'économies d'énergie en application de l'article R. 221-3 et n'ayant pas délégué
 totalement son obligation d'économies d'énergie adresse au ministre chargé de l'énergie au plus tard le 1er mars de l'année
-civile qui suit la fin de la période mentionnée à l'article R. 221-1 : 
+civile qui suit la fin d'une période mentionnée à l'article R. 221-1 :
 
 1° Une déclaration indiquant les quantités mentionnées à l'article R. 221-2 prises en compte pour la fixation des obligations
-annuelles d'économies d'énergie pour chacune des années civiles de la période ; 
+annuelles d'économies d'énergie pour chacune des années civiles de la période considérée ;
 
 2° En cas de délégation partielle, un état récapitulatif des délégations d'obligation d'économies d'énergie effectuées
 conformément à l'article R. 221-5 comportant, pour chaque délégation, l'identité du délégataire, le volume et la catégorie de
 l'obligation d'économies d'énergie déléguée (précarité énergétique ou non).
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41645,14 +41691,14 @@ l'obligation d'économies d'énergie déléguée (précarité énergétique ou n
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 8
+	  - Décret n°2017-690 du 2 mai 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-2 (V)
-	  - Code de l'énergie - art. R221-3 (V)
-	  - Code de l'énergie - art. R221-5 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-2
+	  - Code de l'énergie - art. R221-3
+	  - Code de l'énergie - art. R221-5
 
 	**Cité par**:
 
@@ -41662,17 +41708,23 @@ l'obligation d'économies d'énergie déléguée (précarité énergétique ou n
 ###### Article R221-9
 
 Chaque délégataire mentionné à l'article R. 221-6 adresse au ministre chargé de l'énergie, au plus tard le 1er mars de
-l'année civile qui suit la fin de la période mentionnée à l'article R. 221-1, une liste récapitulative précisant pour chaque
-délégant : 
+l'année civile qui suit la fin d'une période mentionnée à l'article R. 221-1, une liste récapitulative précisant pour chaque
+délégant :
 
-1° Sa raison sociale et son numéro SIREN ; 
+1° Sa raison sociale et son numéro SIREN ;
 
-2° La ou les catégories d'obligations d'économies d'énergie déléguées : précarité énergétique ou non ; 
+2° La ou les catégories d'obligations d'économies d'énergie déléguées sur la période considérée : précarité énergétique ou
+non ;
 
 3° En cas de délégation totale de l'obligation, les quantités mentionnées à l'article R. 221-2 prises en compte pour la
-fixation des obligations annuelles d'économies d'énergie pour chacune des années civiles de la période ; 
+fixation des obligations annuelles d'économies d'énergie pour chacune des années civiles de la période considérée ;
 
 4° En cas de délégation partielle de l'obligation, le volume d'obligation déléguée.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41682,19 +41734,19 @@ fixation des obligations annuelles d'économies d'énergie pour chacune des ann�
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 9
+	  - Décret n°2017-690 du 2 mai 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-2 (V)
-	  - Code de l'énergie - art. R221-6 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-2
+	  - Code de l'énergie - art. R221-6
 
 
 ###### Article R221-10
 
 Lorsqu'une personne mentionnée à l'article R. 221-3 cesse l'activité qui entraînait sa soumission à une obligation
-d'économies d'énergie au cours de la période mentionnée à l'article R. 221-1, elle en informe le ministre chargé de l'énergie
+d'économies d'énergie au cours d'une période mentionnée à l'article R. 221-1, elle en informe le ministre chargé de l'énergie
 dans un délai d'un mois après la cessation de cette activité et lui transmet un document justifiant de cette cessation
 d'activité. Elle joint une déclaration indiquant les quantités mentionnées à l'article R. 221-2 pour le temps d'activité sur
 la période et, le cas échéant, l'identité du repreneur de l'activité.
@@ -41702,22 +41754,27 @@ la période et, le cas échéant, l'identité du repreneur de l'activité.
 Les dispositions prévues aux articles R. 221-12 et R. 221-13 s'appliquent dans les trois mois suivant la déclaration de
 cessation d'activité.
 
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-690 du 2 mai 2017 - art. 10
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-12 (V)
-	  - Code de l'énergie - art. R221-2 (V)
-	  - Code de l'énergie - art. R221-3 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-12 (VD)
+	  - Code de l'énergie - art. R221-2
+	  - Code de l'énergie - art. R221-3
 
 
 ###### Article R221-11
@@ -41741,12 +41798,17 @@ l'énergie.
 
 ###### Article R221-12
 
-Un arrêté du ministre chargé de l'énergie fixe, pour la période mentionnée à l'article R. 221-1, le volume des obligations
-d'économies d'énergie en application des articles R. 221-4 et R. 221-4-1. Sous réserve du respect des dispositions des
-articles R. 221-8 à R. 221-11, cet arrêté est pris et notifié aux intéressés avant le 1er juin de l'année civile qui suit la
-fin de la période. 
+A l'issue de chaque période mentionnée à l'article R. 221-1, un arrêté du ministre chargé de l'énergie fixe, pour la période
+écoulée, le volume des obligations d'économies d'énergie en application des articles R. 221-4 et R. 221-4-1. Sous réserve du
+respect des dispositions des articles R. 221-8 à R. 221-11, cet arrêté est pris et notifié aux intéressés avant le 1er juin
+de l'année civile qui suit la fin de la période.
 
 Le ministre chargé de l'énergie rend publique la liste des personnes soumises à des obligations d'économies d'énergie.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41756,42 +41818,47 @@ Le ministre chargé de l'énergie rend publique la liste des personnes soumises 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 10
+	  - Décret n°2017-690 du 2 mai 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-4 (V)
-	  - Code de l'énergie - art. R221-8 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-4
+	  - Code de l'énergie - art. R221-8
 
 	**Cité par**:
 
-	  - Code de l'énergie - art. R221-10 (V)
+	  - Code de l'énergie - art. R221-10 (VD)
 	  - Code de l'énergie - art. R221-13 (VD)
 	  - Code de l'énergie - art. R221-28 (VD)
 
 
 ###### Article R221-13
 
-Au 1er juillet de l'année civile qui suit la fin de la période mentionnée à l'article R. 221-1, le responsable de la tenue du
+Au 1er juillet de l'année civile qui suit la fin d'une période mentionnée à l'article R. 221-1, le responsable de la tenue du
 registre national des certificats d'économies d'énergie prévu à l'article L. 221-10 transmet au ministre chargé de l'énergie
 un état du compte de chaque personne à qui des obligations d'économies d'énergie ont été notifiées dans les conditions
-prévues à l'article R. 221-12. 
+prévues à l'article R. 221-12.
 
 Pour chacune de ces personnes, le ministre chargé de l'énergie fait procéder, par le responsable de la tenue du registre
-national : 
+national :
 
 1° A l'annulation des certificats d'économies d'énergie obtenus pour des opérations réalisées au bénéfice de ménages en
 situation de précarité énergétique figurant sur son compte, à concurrence de l'obligation définie en application de l'article
-R. 221-4-1, en commençant par les certificats d'économies d'énergie les plus anciennement émis ; 
+R. 221-4-1, en commençant par les certificats d'économies d'énergie les plus anciennement émis ;
 
 2° Concomitamment, pour le solde de certificats d'économies d'énergie ne faisant pas l'objet de l'annulation prévue au 1° à
 l'annulation des certificats d'économies d'énergie figurant sur son compte, à concurrence de l'obligation définie en
 application de l'article R. 221-4, en commençant par les certificats d'économies d'énergie obtenus pour des opérations non
 réalisées au bénéfice de ménages en situation de précarité énergétique et en commençant par les certificats d'économies
-d'énergie les plus anciennement émis. 
+d'énergie les plus anciennement émis.
 
 Ces opérations sont notifiées au titulaire du compte par le responsable de la tenue du registre national.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -41801,15 +41868,15 @@ Ces opérations sont notifiées au titulaire du compte par le responsable de la 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 11
+	  - Décret n°2017-690 du 2 mai 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L221-10 (V)
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-12 (V)
-	  - Code de l'énergie - art. R221-4 (V)
-	  - Code de l'énergie - art. R221-4-1 (V)
+	  - Code de l'énergie - art. L221-10
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-12
+	  - Code de l'énergie - art. R221-4
+	  - Code de l'énergie - art. R221-4-1
 
 	**Cité par**:
 
@@ -42107,7 +42174,12 @@ Par dérogation, tout demandeur de certificats d'économies d'énergie peut dép
 
 Le volume des certificats d'économies d'énergie délivrés dans le cadre des programmes d'information, de formation et
 d'innovation mentionnés aux douzième, treizième et quatorzième alinéas de l'article L. 221-7 ne peut excéder 140 milliards de
-kilowattheures d'énergie finale cumulée actualisés (cumac) pour la période mentionnée à l'article R. 221-1.
+kilowattheures d'énergie finale cumulée actualisés (cumac) pour chacune des périodes mentionnées à l'article R. 221-1.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -42115,14 +42187,14 @@ kilowattheures d'énergie finale cumulée actualisés (cumac) pour la période m
 
 	  - Décret n°2015-1823 du 30 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
+	  - Décret n°2017-690 du 2 mai 2017 - art. 13
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L221-7 (V)
-	  - Code de l'énergie - art. R221-1 (V)
+	  - Code de l'énergie - art. L221-7
+	  - Code de l'énergie - art. R221-1
 
 
 ###### Article R221-25
@@ -42209,18 +42281,23 @@ administrative et à la maintenance du registre.
 
 ###### Article R221-28
 
-Le ministre chargé de l'énergie communique au délégataire, pour inscription dans le registre : 
+Le ministre chargé de l'énergie communique au délégataire, pour inscription dans le registre :
 
 1° La liste des personnes auxquelles il a délivré des certificats d'économies d'énergie ainsi que le nombre de certificats
 délivrés à chacune d'entre elles, en distinguant les certificats d'économies d'énergie obtenus pour des opérations réalisées
-au bénéfice des ménages en situation de précarité énergétique ; 
+au bénéfice des ménages en situation de précarité énergétique ;
 
-2° Les arrêtés pris en application de l'article R. 221-12 ; 
+2° Les arrêtés pris en application de l'article R. 221-12 ;
 
-3° A l'expiration de la période mentionnée à l'article R. 221-1, la liste des détenteurs de certificats ayant rempli leurs
-obligations d'économies d'énergie en distinguant les certificats d'économies d'énergie obtenus pour des opérations réalisées
-au bénéfice des ménages en situation de précarité énergétique, afin qu'il procède à l'annulation des certificats
-correspondants, conformément à l'article R. 221-13.
+3° A l'expiration de chacune des périodes mentionnées à l'article R. 221-1, la liste des détenteurs de certificats ayant
+rempli leurs obligations d'économies d'énergie en distinguant les certificats d'économies d'énergie obtenus pour des
+opérations réalisées au bénéfice des ménages en situation de précarité énergétique, afin qu'il procède à l'annulation des
+certificats correspondants, conformément à l'article R. 221-13.
+
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -42230,13 +42307,13 @@ correspondants, conformément à l'article R. 221-13.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 16
+	  - Décret n°2017-690 du 2 mai 2017 - art. 14
 
 	**Cite**:
 
-	  - Code de l'énergie - art. R221-1 (V)
-	  - Code de l'énergie - art. R221-12 (V)
-	  - Code de l'énergie - art. R221-13 (V)
+	  - Code de l'énergie - art. R221-1
+	  - Code de l'énergie - art. R221-12
+	  - Code de l'énergie - art. R221-13
 
 
 ###### Article R221-29
@@ -42306,11 +42383,13 @@ du présent article, celles établies d'office par le ministre chargé de l'éne
 
 ###### Article R222-2
 
-La pénalité prévue à l'article L. 221-4 est fixée à 0,02 euro par kilowattheure d'énergie finale cumulée actualisée (kWh
-cumac) pour l'obligation définie à l'article R. 221-4. 
+La pénalité prévue à l'article L. 221-4 est fixée à 0,015 € par kilowattheure d'énergie finale cumulée actualisée (kWh cumac)
+pour les obligations définies aux articles R. 221-4 et R. 221-4-1.
 
-Pour la période courant du 1er janvier 2016 au 31 décembre 2017, la pénalité prévue à l'article L. 221-4 du code de l'énergie
-est fixée à 0,015 € par kWh cumac pour l'obligation définie à l'article R. 221-4-1.
+**Nota:**
+
+Conformément à l'article 16 du décret n° 2017-690 du 2 mai 2017, les dispositions du présent article entrent en vigueur le
+1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -42320,13 +42399,12 @@ est fixée à 0,015 € par kWh cumac pour l'obligation définie à l'article R.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1825 du 30 décembre 2015 - art. 18
+	  - Décret n°2017-690 du 2 mai 2017 - art. 15
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L221-4
-	  - Code de l'énergie - art. R221-4 (V)
-	  - Code de l'énergie - art. R221-4-1 (V)
+	  - Code de l'énergie - art. R221-4
 
 
 ##### Section 2 : Contrôle de la régularité de la délivrance des certificats d'économies d'énergie
@@ -45174,6 +45252,186 @@ prévues par les règles mentionnées à l'article R. 271-3. Les sommes relative
 
 	  - Code de l'énergie - art. L271-3
 	  - Code de l'énergie - art. R271-3 (V)
+
+
+##### Section 3 : Effacements de consommation d'électricité conduisant à des économies d'énergie significatives
+
+###### Article R271-10
+
+Les catégories d'effacement, définies en application de l'article L. 271-1, qui conduisent à des économies d'énergie
+significatives sont celles qui correspondent à des effacements générant un taux d'économie d'énergie d'au moins 40 %.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L271-1
+
+
+###### Article R271-11
+
+Le taux d'économie d'énergie auquel conduit un effacement est défini par la contribution de l'effacement à la diminution
+constatée de la consommation d'un consommateur par rapport à son programme prévisionnel de consommation ou à sa consommation
+estimée, en tenant compte des augmentations de la consommation de ce même consommateur qui précéderaient ou suivraient les
+baisses constatées.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+
+###### Article R271-12
+
+Un opérateur d'effacement valorisant des effacements conduisant à des économies d'énergie significatives qui souhaite
+bénéficier du régime dérogatoire de versement prévu à l'article L. 271-3 doit en faire la demande chaque année au
+gestionnaire du réseau public de transport d'électricité. 
+
+Le contenu et les modalités d'examen de cette demande par le gestionnaire du réseau public de transport d'électricité sont
+précisées par les règles prévues à l'article R. 271-3. Ils garantissent la confidentialité vis-à-vis des tiers des
+informations échangées avec l'opérateur d'effacement à ce titre.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L271-3
+	  - Code de l'énergie - art. R271-3
+
+
+###### Article R271-13
+
+L'opérateur d'effacement propose chaque année au gestionnaire du réseau de transport d'électricité, dans les catégories
+d'effacement de consommation mentionnées au troisième alinéa de l'article L. 271-1 qui conduisent à des économies d'énergie
+significatives, un taux d'économie d'énergie calculé sur la base des effacements auxquels il a procédé au cours de l'année
+précédente, en indiquant la méthodologie utilisée. 
+
+Le taux d'économie d'énergie est validé chaque année, pour une durée maximale d'un an, par le gestionnaire du réseau public
+de transport d'électricité, selon des critères objectifs, transparents et non discriminatoires précisés dans les règles
+prévues à l'article R. 271-3. 
+
+Le gestionnaire du réseau public de transport d'électricité informe la Commission de régulation de l'énergie de tout refus de
+validation d'un taux d'économie d'énergie proposé par un opérateur d'effacement.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L271-1
+	  - Code de l'énergie - art. R271-3
+
+
+###### Article R271-14
+
+La part de versement dont s'acquitte le gestionnaire du réseau public de transport d'électricité en application du deuxième
+alinéa de l'article L. 271-3 est déterminée sur la base du taux d'économie d'énergie validé chaque année pour chaque
+opérateur d'effacement, sans préjudice de l'application du plafond fixé au deuxième alinéa de l'article L. 271-3. 
+
+Lorsque le taux d'économie d'énergie validé est supérieur ou égal à 40 % et inférieur à 50 %, la part du versement acquittée
+par le gestionnaire du réseau public de transport d'électricité est égale à 40 % du montant correspondant au versement qui
+aurait été dû en application des barèmes mentionnés au 2° de l'article R. 271-8. 
+
+Lorsque le taux d'économie d'énergie validé est supérieur ou égal à 50 %, la part du versement acquittée par le gestionnaire
+du réseau public de transport d'électricité est égale à 50 % du montant correspondant au versement qui aurait été dû en
+application des barèmes mentionnés au 2° de l'article R. 271-8.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L271-3
+	  - Code de l'énergie - art. R271-8
+
+
+###### Article R271-15
+
+Lorsqu'un opérateur d'effacement procède pour la première fois à la demande mentionnée à l'article R. 271-12, la part du
+versement acquittée par le gestionnaire du réseau public de transport d'électricité est fixée sur la base d'un taux
+provisoire pendant une période d'une durée d'un an au plus. 
+
+Dans ce cas, le gestionnaire du réseau public de transport d'électricité approuve le taux d'économie d'énergie provisoire
+déclaré par l'opérateur d'effacement, sur la base des données transmises par cet opérateur, à condition que ce taux soit
+cohérent avec la nature des effacements qu'il réalise. 
+
+La part du versement qui est acquittée par le gestionnaire du réseau public de transport d'électricité est alors déterminée
+conformément à l'article R. 271-14, sur la base du taux provisoire approuvé. 
+
+A l'issue de la période d'un an au plus, le gestionnaire du réseau public de transport d'électricité procède à la
+régularisation du versement acquitté par lui, sur la base du taux d'économie d'énergie réalisé au cours de l'année
+correspondante, validé conformément aux dispositions de l'article R. 271-13. 
+
+Le contenu et les modalités d'examen de la demande de fixation d'un taux provisoire et de la régularisation sur la base du
+taux d'économie réalisé, ainsi que la nature des données nécessaires au gestionnaire du réseau public de transport
+d'électricité, sont précisées par les règles mentionnées à l'article R. 271-3.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-437 du 29 mars 2017, les dispositions du présent article sont applicables aux
+effacements réalisés à compter de la publication de la délibération de la Commission de régulation de l'énergie portant
+approbation des règles prévues à l'article R. 271-3 du code de l'énergie relatives aux effacements conduisant à des économies
+d'énergie significatives, et au plus tard le 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-437 du 29 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. R271-3
 
 
 ## LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ
@@ -57193,698 +57451,6 @@ l'article R. 336-29.
 
 ##### Section 1 : Dispositions applicables aux tarifs de vente
 
-##### Sous-section 1 : La tarification spéciale de l'électricité comme produit de première nécessité
-
-###### Article R337-1
-
-Le bénéfice de la tarification de l'électricité comme produit de première nécessité, prévue à l'article L. 337-3 du présent
-code, est ouvert, sauf refus exprès de leur part, pour leur résidence principale, aux personnes physiques titulaires d'un
-contrat de fourniture d'électricité : 
-
-1° Dont les ressources annuelles, telles que définies aux articles L. 861-2 et R. 861-4 à R. 861-16 du code de la sécurité
-sociale, du foyer, tel que défini à l'article R. 861-2 du code de la sécurité sociale, sociale, sont inférieures ou égales à
-un montant fixé à l'article R. 337-4 du présent code ;
-
-2° Ou dont le revenu fiscal de référence annuel par part du foyer soumis à l'impôt sur le revenu, tel que défini à l'article
-6 du code général des impôts, est inférieur ou égal au montant fixé par l'article R. 337-4 du présent code ; ce montant est,
-pour les foyers résidant en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, majoré d'un pourcentage fixé le
-même article.
-
-Lorsque plusieurs contrats de fourniture d'électricité sont conclus au sein d'un même foyer, la tarification spéciale prévue
-à l'alinéa précédent est appliquée à un seul contrat. Lorsque plusieurs titulaires du même contrat de fourniture
-d'électricité remplissent les conditions du 1° ou du 2°, la tarification spéciale n'est appliquée qu'une seule fois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 6
-	  - Code de la sécurité sociale. - art. L861-2
-	  - Code de la sécurité sociale. - art. R861-2
-	  - Code de la sécurité sociale. - art. R861-4
-	  - Code de l'énergie - art. L337-3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-17-1 (V)
-	  - Code de l'énergie - art. R337-3 (VT)
-	  - Code de l'énergie - art. R337-4 (VT)
-	  - Code de l'énergie - art. R337-7 (VT)
-	  - Code de l'énergie - art. R445-8 (VD)
-
-
-###### Article R337-2
-
-Le bénéfice de la tarification de l'électricité comme produit de première nécessité prévue, par le troisième alinéa de
-l'article L. 337-3 du présent code, au profit des gestionnaires des résidences sociales mentionnées à l'article L. 633-1 du
-code de la construction et de l'habitation qui font l'objet de la convention prévue à l'article L. 353-1 de ce même code, est
-ouvert, sur leur demande, dans les conditions prévues à l'article R. 337-14 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-	  - Code de la construction et de l'habitation. - art. L633-1
-	  - Code de l'énergie - art. L337-3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-14 (VT)
-
-
-###### Article R337-3
-
-Pour une personne physique bénéficiaire, la tarification de l'électricité comme produit de première nécessité résulte d'une
-déduction forfaitaire sur le prix de fourniture contractuellement établi entre le client domestique et son fournisseur
-d'électricité. 
-
-La déduction forfaitaire mentionnée au premier alinéa ne doit pas être supérieure au montant total de la facture annuelle
-d'électricité toutes taxes comprises. Elle est établie en fonction de la puissance souscrite et du nombre d'unités de
-consommation que compte le foyer. La première ou seule personne du foyer constitue une unité de consommation. Chaque autre
-personne du foyer constitue une fraction d'unité de consommation égale à la majoration du plafond de ressources prévue à
-l'article R. 861-3 du code de la sécurité sociale. 
-
-La composition du foyer se réfère au foyer tel que défini à l'article R. 861-2 du code de la sécurité sociale lorsque cette
-information est connue et date de moins de dix-huit mois. Dans le cas contraire, le nombre de personnes du foyer fiscal
-soumis à l'impôt sur le revenu, tel que défini à l'article 6 du code général des impôts, peut être retenu. 
-
-Les montants de la déduction forfaitaire mentionnée au premier alinéa sont fixés par l'article R. 337-5 du présent code. Ils
-peuvent être réévalués par arrêté des ministres chargés de l'économie, de l'énergie et des affaires sociales après avis de la
-Commission de régulation de l'énergie. Le montant des ressources annuelles mentionné au 1° de l'article R. 337-1 du présent
-code et le montant du revenu fiscal de référence du foyer mentionné au 2° du même article peuvent être réévalués dans les
-mêmes conditions. Le pourcentage de majoration mentionné au 2° de l'article R. 337-1 peut être réévalué par arrêté des
-ministres chargés de l'économie, de l'énergie, des affaires sociales et de l'outre-mer, après avis de la Commission de
-régulation de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R337-11 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 6
-	  - Code de la sécurité sociale. - art. R861-2
-	  - Code de la sécurité sociale. - art. R861-3
-	  - Code de l'énergie - art. R337-1
-	  - Code de l'énergie - art. R337-5
-
-
-###### Article R337-4
-
-Le montant annuel des ressources du foyer, mentionné au 1° de l'article R. 337-1 du présent code, est celui ouvrant droit à
-la déduction prévue à l'article L. 863-2 du code de la sécurité sociale. 
-
-Le montant du revenu fiscal de référence annuel par part, mentionné au 2° de l'article R. 337-1 du présent code, est fixé à 2
-175 euros. Ce montant est majoré de 11,3 % pour les foyers résidant en Guadeloupe, en Guyane, en Martinique, à La Réunion et
-à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L863-2
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-1 (VT)
-
-
-###### Article R337-5
-
-La déduction forfaitaire mentionnée à l'article R. 337-3 du présent code est égale, selon la puissance souscrite et le nombre
-d'unités de consommation (UC), aux valeurs figurant au tableau ci-dessous : 
-
-<table>
-      <tbody><tr>
-        <th>
-
-DÉDUCTION FORFAITAIRE EN FONCTION 
-
-DE L'UC (EN EUROS TTC/ AN) </th>
-        <th>
-
-3 KVA </th>
-        <th>
-
-6 KVA </th>
-        <th>
-
-9 KVA ET PLUS </th>
-      </tr>
-      <tr>
-        <td align="justify" valign="middle">
-
-UC = 1 </td>
-        <td valign="middle" align="justify">
-
-71 </td>
-        <td valign="middle" align="justify">
-
-87 </td>
-        <td valign="middle" align="justify">
-
-94 </td>
-      </tr>
-      <tr>
-        <td align="justify" valign="middle">
-
-1 < UC < 2 </td>
-        <td align="justify" valign="middle">
-
-88 </td>
-        <td valign="middle" align="justify">
-
-109 </td>
-        <td align="justify" valign="middle">
-
-117 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="justify">
-
-UC > = 2 </td>
-        <td valign="middle" align="justify">
-
-106 </td>
-        <td valign="middle" align="justify">
-
-131 </td>
-        <td valign="middle" align="justify">
-
-140 </td>
-      </tr>
-    </tbody></table>
-
-Le taux de la taxe sur la valeur ajoutée s'appliquant à la déduction forfaitaire est le taux normal prévu à l'article 278 du
-code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 278
-	  - Code de l'énergie - art. R337-3
-
-
-###### Article R337-6
-
-Le bénéfice de cette tarification ne fait pas obstacle à l'obtention des aides de toute nature prévues par le décret n°
-2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures d'électricité, de gaz, de chaleur et
-d'eau.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2008-780 du 13 août 2008
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R337-7
-
-Les organismes d'assurance maladie communiquent aux fournisseurs proposant la tarification spéciale de l'électricité comme
-produit de première nécessité ou à un organisme agissant pour leur compte, aux seules fins d'identifier les personnes
-physiques pouvant bénéficier de cette tarification, les civilités, prénoms, noms, dates de naissance et adresses de leurs
-ressortissants remplissant la condition de ressources prévue au 1° de l'article R. 337-1 du présent code ainsi que le nombre
-de personnes du foyer tel que défini à l'article R. 861-2 du code de la sécurité sociale. Ces informations sont communiquées
-au moins une fois par trimestre. Aucune information transmise par les organismes d'assurance maladie ne peut être conservée
-pour une durée supérieure à dix-neuf mois. 
-
-L'administration fiscale communique aux fournisseurs proposant la tarification spéciale de l'électricité comme produit de
-première nécessité ou à un organisme agissant pour leur compte, aux seules fins d'identifier les personnes physiques pouvant
-bénéficier de cette tarification, les civilités, prénoms, noms, dates de naissance et adresses de ses ressortissants
-remplissant la condition de revenu fiscal de référence par part fiscale prévue au 2° de l'article R. 337-1 du présent code,
-ainsi que le nombre de personnes du foyer contribuable de l'impôt sur le revenu tel que défini à l'article 6 du code général
-des impôts. Ces informations sont communiquées au moins une fois par an. Aucune information transmise par l'administration
-fiscale ne peut être conservée pendant une durée supérieure à dix-neuf mois.
-
-Les gestionnaires de réseaux de distribution d'électricité communiquent à l'organisme agissant pour le compte des
-fournisseurs, au moins toutes les six semaines, les informations nécessaires pour identifier les bénéficiaires potentiels du
-tarif de première nécessité de chaque fournisseur d'électricité. 
-
-Pour chaque point de livraison, ces informations comprennent :
-
-- la civilité, le prénom et le nom du titulaire du contrat, le cas échéant le prénom et le nom du co-titulaire du contrat ;
-
-- le numéro et l'adresse du point de livraison ;
-
-- le nom du fournisseur ;
-
-- le code postal, le nom et le code INSEE de la commune. 
-
-Aucune information transmise par les gestionnaires de réseaux de distribution d'électricité ne peut être conservée pour une
-durée supérieure à neuf semaines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R337-11 (VT)
-	  - Code de l'énergie - art. R337-12 (VT)
-	  - Code de l'énergie - art. R337-8 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 6
-	  - Code de la sécurité sociale. - art. R861-2
-	  - Code de l'énergie - art. R337-1
-
-
-###### Article R337-8
-
-Les fournisseurs d'électricité, ou l'organisme agissant pour leur compte, adressent à ceux de leurs clients identifiés à
-l'aide des informations mentionnées aux premier, deuxième et troisième alinéas de l'article R. 337-7, une attestation,
-comportant les références de leur contrat de fourniture, les informant qu'ils remplissent les conditions ouvrant droit au
-bénéfice de la tarification spéciale de l'électricité et que, sauf refus exprès de leur part dans un délai de quinze jours
-suivant la date d'envoi de cette attestation, cette tarification leur sera appliquée. L'attestation informe les mêmes clients
-de la transmission des données ainsi que de leurs droits d'accès et d'opposition conformément à l'article 32 de la loi n°
-78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 32
-	  - Code de l'énergie - art. R337-7
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-10 (VT)
-	  - Code de l'énergie - art. R337-11 (VT)
-
-
-###### Article R337-9
-
-Les fournisseurs, ou l'organisme agissant pour leur compte, adressent aux bénéficiaires potentiels de leur zone d'activité
-commerciale qu'ils n'identifient pas comme leurs clients une attestation les informant qu'ils remplissent les conditions
-ouvrant droit au bénéfice de la tarification spéciale et leur indiquant la procédure pour en bénéficier.
-
-Ceux de ces bénéficiaires potentiels qui ont un contrat avec ces fournisseurs communiquent à ceux-ci, ou à l'organisme
-agissant pour leur compte, au moyen de l'attestation mentionnée à l'alinéa précédent, le nom et les coordonnées de leur
-fournisseur et les références de leur contrat. Cette attestation dûment complétée est conservée sous forme numérisée pour une
-durée de dix-neuf mois à compter de la date de réception des références contractuelles par le fournisseur d'électricité ou
-par l'organisme agissant pour son compte désigné par lui.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-11 (VT)
-
-
-###### Article R337-10
-
-L'attestation mentionnée aux articles R. 337-8 et R. 337-9 ou le courrier l'accompagnant précise :
-
-1° Le nombre d'unités de consommation du foyer ; 
-
-2° L'information sur les droits des bénéficiaires potentiels de la tarification spéciale de l'électricité comme produit de
-première nécessité (ou " TPN "), sur l'" interlocuteur TPN " et sur le " numéro vert TPN " ; 
-
-3° L'information sur les droits des bénéficiaires potentiels de la fourniture de gaz naturel au tarif spécial de solidarité
-(ou " TSS "), sur " l'interlocuteur TSS " et sur le " numéro vert TSS ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R337-8
-
-
-###### Article R337-11
-
-La tarification spéciale est appliquée par le fournisseur pendant un an à compter de l'expiration du délai de quinze jours
-prévu à l'article R. 337-8, ou, dans le cas prévu à l'article R. 337-9, à compter de la date de réception, par le fournisseur
-d'électricité ou par l'organisme agissant pour son compte, des attestations dûment complétées. 
-
-Afin de prévenir l'interruption du bénéfice de la tarification spéciale de l'électricité pour les personnes physiques, celle-
-ci est prolongée pour une période supplémentaire de six mois à compter de la fin de sa durée d'application, sauf si
-l'interruption résulte de la rupture du contrat de fourniture. Sauf en cas de fraude, elle ne donne lieu en aucun cas à
-remboursement de la part du bénéficiaire. Le montant de la déduction mentionné au premier alinéa de l'article R. 337-3 est
-calculé, pendant cette période supplémentaire, pro rata temporis.
-
-Pendant cette période supplémentaire de six mois, le fournisseur ou l'organisme agissant pour son compte informe le client,
-qui n'est plus identifié comme bénéficiaire potentiel de la tarification spéciale comme produit de première nécessité en
-vertu de la procédure décrite aux articles R. 337-7 et suivants, du fait que ses droits sont prolongés temporairement, de la
-date de fin de cette prolongation et de la procédure à suivre pour continuer à bénéficier de ce tarif au terme de cette
-période de prolongation. 
-
-Si les droits à la tarification spéciale sont reconduits pendant la période supplémentaire de six mois, la tarification est
-appliquée pour un an à compter de la date de renouvellement de ces droits, sans préjudice d'une nouvelle période
-supplémentaire de six mois. 
-
-En cas de résiliation du contrat de fourniture avant le terme d'un an ou de la période de six mois supplémentaires, le
-montant de la déduction mentionnée au premier alinéa de l'article R. 337-3 est calculé pro rata temporis. Le fournisseur ou
-l'organisme agissant pour son compte renvoie à l'intéressé un duplicata de son attestation et un courrier mentionnant la date
-de début et de fin d'application de la tarification spéciale. Le nouveau fournisseur d'électricité est tenu d'appliquer cette
-tarification spéciale pour la durée de droits restant, le cas échéant, à courir, en appliquant un coefficient pro rata
-temporis au montant de la déduction forfaitaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R337-3 (VT)
-	  - Code de l'énergie - art. R337-7
-	  - Code de l'énergie - art. R337-8 (VT)
-	  - Code de l'énergie - art. R337-9 (VT)
-
-
-###### Article R337-12
-
-Toutes les précautions utiles sont prises pour préserver la sécurité et la confidentialité des données mentionnées aux
-articles R. 337-7 à R. 337-11. Les agents ou employés chargés de recueillir et exploiter ces données sont tenus à une
-obligation de confidentialité.
-
-Les intéressés sont à chaque fois informés de la transmission des données les concernant aux fournisseurs d'électricité ou à
-un organisme agissant pour le compte de ces derniers ainsi que de leurs droits d'accès, de rectification et d'opposition,
-conformément à l'article 32 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 32
-	  - Code de l'énergie - art. R337-7 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R337-13
-
-Les personnes physiques bénéficiaires de la tarification spéciale prévue par la présente sous-section bénéficient de la
-gratuité de la mise en service et de l'enregistrement du contrat et d'un abattement de 80 % sur la facturation d'un
-déplacement en raison d'une interruption de fourniture imputable à un défaut de règlement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R337-14
-
-En vue de bénéficier de la tarification spéciale de l'électricité comme produit de première nécessité, les gestionnaires de
-résidences sociales mentionnés à l'article R. 337-2 du présent code transmettent leur demande à leur fournisseur
-d'électricité, ou à l'organisme agissant pour le compte de ceux-ci, accompagnée de : 
-
-1° La convention signée prévue à l'article L. 353-1 du code de la construction et de l'habitation ; 
-
-2° L'attestation par les services départementaux de l'Etat que la convention n'a pas été dénoncée, précisant sa date
-d'expiration ; 
-
-3° Tout document justifiant du nombre de logements de la résidence sociale concernée et de l'absence de contrats individuels
-de fourniture d'électricité pour les logements ; 
-
-4° Les références du contrat collectif de fourniture d'électricité, le nom et les coordonnées du fournisseur, ainsi que les
-références du ou des points de livraison concernés. 
-
-Pour le gestionnaire d'une résidence sociale dont les occupants ne disposent pas d'un contrat individuel de fourniture, la
-tarification de l'électricité comme produit de première nécessité résulte d'une déduction sur le prix de fourniture
-contractuellement établi entre le gestionnaire et son fournisseur d'électricité. Cette déduction est établie en fonction du
-nombre de logements de la résidence sociale concernée. Elle ne doit pas être supérieure au montant total de la facture
-annuelle d'électricité toutes taxes comprises. 
-
-Le montant de la déduction est remboursé mensuellement aux résidents, déduction faite des frais de gestion qui s'élèvent à 5
-% du montant de la déduction. Le montant ainsi déduit fait l'objet d'une mention spécifique sur l'avis d'échéance adressé au
-résident. 
-
-Le montant de la déduction mentionnée aux deux alinéas précédents est fixé par l'article R. 337-16. Il peut être réévalué par
-arrêté des ministres chargés de l'économie, de l'énergie, du logement et des affaires sociales après avis de la Commission de
-régulation de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R337-16 (VT)
-	  - Code de l'énergie - art. R337-2 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-
-
-###### Article R337-15
-
-La tarification spéciale est appliquée par le fournisseur jusqu'à la date d'expiration mentionnée sur l'attestation délivrée
-par les services de l'Etat et au plus pour trois ans. En cas de résiliation du contrat de fourniture avant ce terme, le
-fournisseur ou l'organisme agissant pour son compte renvoie à l'intéressé un courrier mentionnant la date de début et de fin
-d'application de la tarification spéciale. Le nouveau fournisseur d'électricité de l'intéressé est tenu d'appliquer cette
-tarification spéciale pour la durée de droits restant, le cas échéant, à courir. Le montant de la déduction est alors calculé
-pro rata temporis.
-
-Aucune information transmise par les gestionnaires de résidences sociales ne peut être conservée pendant une durée supérieure
-à trois ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R337-16
-
-La déduction mentionnée à l'article R. 337-14 est égale à 47 € (TTC) par logement par an. Le taux de la taxe sur la valeur
-ajoutée s'appliquant à la déduction forfaitaire est le taux normal prévu à l'article 278 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 278
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R337-14 (VT)
-
-
-###### Article R337-17
-
-L'ensemble des coûts du service fourni par les organismes d'assurance maladie au titre de l'application de la présente sous-
-section leur est remboursé par les fournisseurs d'électricité proposant la tarification spéciale de l'électricité comme
-produit de première nécessité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
 ##### Sous-section 2 : Application à Mayotte
 
 ###### Article R337-17-1
@@ -63763,750 +63329,6 @@ applicables au cours des deux années précédentes.
 	**Cite**:
 
 	  - Code de l'énergie - art. R445-1 (V)
-
-
-##### Section 2 : Tarif spécial de solidarité
-
-###### Article R445-8
-
-Le bénéfice du tarif spécial de solidarité applicable à la fourniture de gaz naturel, prévus au premier alinéa de l'article
-L. 445-5, est ouvert sauf refus exprès de leur part pour leur résidence principale aux personnes physiques ayant droit à la
-tarification spéciale dite " produit de première nécessité " en application des trois premiers alinéas de l'article R.
-337-1. 
-
-Le bénéfice du tarif spécial de solidarité prévu par le deuxième alinéa de l'article L. 445-5 du présent code, au profit des
-gestionnaires des résidences sociales mentionnées à l'article L. 633-1 du code de la construction et de l'habitation qui font
-l'objet de la convention prévue à l'article L. 353-1 de ce même code, est ouvert, sur leur demande, dans les conditions
-prévues à l'article R. 445-21 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-	  - Code de la construction et de l'habitation. - art. L633-1
-	  - Code de l'énergie - art. L445-5
-	  - Code de l'énergie - art. R337-1 (VT)
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R445-12 (VD)
-	  - Code de l'énergie - art. R445-13 (VD)
-	  - Code de l'énergie - art. R445-15 (VD)
-	  - Code de l'énergie - art. R445-20 (VD)
-	  - Code de l'énergie - art. R445-21 (VT)
-
-
-###### Article R445-9
-
-Lorsque la personne physique bénéficiaire du tarif spécial de solidarité est détenteur d'un contrat individuel de fourniture
-de gaz naturel, ce tarif résulte d'une déduction forfaitaire sur le prix de fourniture contractuellement établi entre le
-client domestique et son fournisseur de gaz natureL. Pour les personnes physiques mentionnées à l'article R. 445-14, ce tarif
-consiste en un versement forfaitaire. Le cas échéant, la déduction et le versement forfaitaires peuvent être cumulés. 
-
-La déduction forfaitaire mentionnée au premier alinéa ne doit pas être supérieure au montant total de la facture annuelle de
-gaz naturel toutes taxes comprises. Elle est établie en fonction de la plage de consommation et du nombre d'unités de
-consommation que compte le foyer. Le versement forfaitaire mentionné au même alinéa est établi en fonction du nombre d'unités
-de consommation que compte le foyer. 
-
-La première ou seule personne du foyer constitue une unité de consommation. Chaque autre personne du foyer constitue une
-fraction d'unité de consommation égale à la majoration du plafond de ressources prévue à l'article R. 861-3 du code de la
-sécurité sociale.
-
-La composition du foyer se réfère au foyer tel que défini à l'article R. 861-2 du code de la sécurité sociale lorsque cette
-information est connue et date de moins de dix-huit mois. Dans le cas contraire, le nombre de personnes du foyer fiscal
-soumis à l'impôt sur le revenu, tel que défini à l'article 6 du code général des impôts, peut être retenu. 
-
-La déduction forfaitaire mentionnée au premier alinéa est égale, pour chaque plage de consommation considérée et pour chaque
-unité de consommation (ou UC), aux valeurs figurant aux tableaux ci-dessous : 
-
-<table>
-    <tbody>
-      <tr>
-        <th rowspan="2">Déduction forfaitaire en fonction de l'UC 
-
-(en € TTC par an) 
-
-</th>
-        <th colspan="3">Plage de consommation 
-
-</th>
-      </tr>
-      <tr>
-        <th>0-1000 kWh/ an 
-
-</th>
-        <th>1000-6000 kWh/ an 
-
-</th>
-        <th>> 6000 kWh/ an 
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">1 UC 
-
-</td>
-        <td align="center">23 
-
-</td>
-        <td align="center">72 
-
-</td>
-        <td align="center">123 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">1 < UC < 2 
-
-</td>
-        <td align="center">30 
-
-</td>
-        <td align="center">95 
-
-</td>
-        <td align="center">153 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">2 UC ou + 
-
-</td>
-        <td align="center">38 
-
-</td>
-        <td align="center">117 
-
-</td>
-        <td align="center">185 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-Le taux de la taxe sur la valeur ajoutée s'appliquant à cette déduction forfaitaire est le taux normal prévu à l'article 278
-du code général des impôts. 
-
-Le versement forfaitaire mentionné au premier alinéa, fonction de l'unité de consommation (UC) du foyer, est égal aux valeurs
-suivantes : 
-
-<table>
-    <tbody>
-      <tr>
-        <th>UNITÉ DE CONSOMMATION (OU UC) 
-
-</th>
-        <th>VERSEMENT FORFAITAIRE (EN € TTC PAR AN) 
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">1 UC 
-
-</td>
-        <td align="center">100 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">1 < UC < 2 
-
-</td>
-        <td align="center">123 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">2 UC et + 
-
-</td>
-        <td align="center">147 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-La déduction mentionnée à l'article R. 445-21 est égale à 100 € TTC par logement et par an.
-
-Le taux de la taxe sur la valeur ajoutée s'appliquant à cette déduction forfaitaire est le taux normal prévu à l'article 278
-du code général des impôts. 
-
-Les montants de la déduction et du versement forfaitaires peuvent être réévalués dans les limites résultant des dispositions
-des articles L. 121-35 à L. 121-43 par arrêté des ministres chargés de l'économie, de l'énergie et des affaires sociales
-après avis de la Commission de régulation de l'énergie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R445-19 (VD)
-	  - Code de l'énergie - art. R445-20 (VD)
-	  - Code de l'énergie - art. R445-21 (VT)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 278
-	  - Code général des impôts, CGI. - art. 6
-	  - Code de la sécurité sociale. - art. R861-2
-	  - Code de la sécurité sociale. - art. R861-3
-	  - Code de l'énergie - art. L121-35
-	  - Code de l'énergie - art. R445-14
-
-
-###### Article R445-10
-
-Le bénéfice de cette tarification ne fait pas obstacle à l'obtention des aides de toute nature prévues par le décret n°
-2008-780 du 13 août 2008 relatif à la procédure applicable en cas d'impayés des factures d'électricité, de gaz, de chaleur et
-d'eau.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2008-780 du 13 août 2008
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R445-11
-
-Les fournisseurs de gaz naturel qui le souhaitent désignent un organisme, chargé d'identifier les ayants droit du tarif
-spécial de solidarité, qui agit pour leur compte. Cet organisme ne communique aux fournisseurs que les informations qui sont
-strictement nécessaires à l'identification de leurs clients.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R445-12
-
-Les organismes d'assurance maladie communiquent à l'organisme agissant pour le compte des fournisseurs de gaz naturel ou, le
-cas échéant, directement aux fournisseurs de gaz naturel, aux seules fins d'identifier les personnes physiques pouvant
-bénéficier du tarif spécial de solidarité du gaz naturel, les informations précisées à l'alinéa suivant. 
-
-Les informations communiquées par les organismes d'assurance maladie sont la civilité, le prénom, le nom, la date de
-naissance et l'adresse des personnes physiques mentionnées à l'article R. 445-8 du présent code ainsi que le nombre de
-personnes composant le foyer tel que défini à l'article R. 861-2 du code de la sécurité sociale. Elles sont communiquées au
-moins une fois par trimestre. Aucune information transmise par les organismes d'assurance maladie ne peut être conservée
-pendant une durée supérieure à dix-neuf mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. R861-2
-	  - Code de l'énergie - art. R445-8
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R445-14 (VD)
-	  - Code de l'énergie - art. R445-15 (VT)
-
-
-###### Article R445-13
-
-L'administration fiscale communique à l'organisme agissant pour le compte des fournisseurs de gaz naturel ou, le cas échéant,
-directement aux fournisseurs de gaz naturel, aux seules fins d'identifier les personnes physiques pouvant bénéficier du tarif
-spécial de solidarité du gaz naturel, les informations précisées à l'alinéa suivant. 
-
-Les informations communiquées par l'administration fiscale sont la civilité, le prénom, le nom, la date de naissance et
-l'adresse des personnes physiques mentionnées à l'article R. 445-8 ainsi que le nombre de personnes composant le foyer
-contribuable de l'impôt sur le revenu, tel que défini à l'article 6 du code général des impôts. Elles sont communiquées une
-fois par an. 
-
-Aucune information transmise par l'administration fiscale ne peut être conservée pendant une durée supérieure à dix-neuf
-mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R445-8
-
-
-###### Article R445-14
-
-Les gestionnaires de réseaux de distribution de gaz naturel communiquent, à l'organisme agissant pour le compte des
-fournisseurs, au moins toutes les six semaines, les informations nécessaires pour identifier les personnes physiques
-bénéficiaires potentiels du tarif spécial de solidarité de chaque fournisseur de gaz naturel. 
-
-Ces informations sont, pour chaque point de comptage et d'estimation : la civilité, le prénom et le nom du titulaire du
-contrat, le cas échéant le prénom et le nom du co-titulaire du contrat, le numéro et l'adresse du point de comptage et
-d'estimation, le nom du fournisseur et le code postal, le nom et le code INSEE de la commune. Aucune information transmise
-par les gestionnaires de réseaux de distribution de gaz naturel ne peut être conservée pendant une durée supérieure à neuf
-semaines.
-
-- A partir des informations mentionnées aux articles R. 445-12 et R. 445-13 et aux alinéas qui précèdent, l'organisme
-agissant pour le compte des fournisseurs de gaz naturel ou, le cas échéant, le fournisseur de gaz naturel adresse aux clients
-identifiés comme bénéficiaires potentiels du tarif spécial de solidarité une attestation comportant les références de leur
-contrat de fourniture et leur point de comptage et d'estimation et indiquant que, sauf refus exprès de leur part dans un
-délai de quinze jours suivant la date d'envoi de ce courrier, le tarif spécial de solidarité leur sera appliqué.
-
-- Cette attestation informe les mêmes clients de la transmission des données ainsi que de leurs droits d'accès et
-d'opposition conformément à l'article 32 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 32
-	  - Code de l'énergie - art. R445-12
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R445-20 (VT)
-	  - Code de l'énergie - art. R445-9 (VD)
-
-
-###### Article R445-15
-
-Pour les immeubles d'habitation chauffés collectivement au gaz naturel, à l'exception des résidences sociales mentionnées au
-deuxième alinéa de l'article R. 445-8, les cocontractants des fournisseurs de la chaufferie communiquent à l'organisme
-agissant pour le compte de ces fournisseurs ou, le cas échéant, à ces fournisseurs le numéro, l'adresse, le code postal, le
-nom et le code INSEE de la commune des immeubles concernés, la référence contractuelle et la date de début et de fin
-d'application des contrats. Ils signalent, le cas échéant, l'existence d'autres sources d'énergie que le gaz naturel pour
-alimenter la chaufferie collective. 
-
-Les fournisseurs de gaz naturel communiquent, le cas échéant, à l'organisme agissant pour leur compte le numéro, l'adresse,
-le code postal, le nom et le code INSEE de la commune des immeubles d'habitation dont ils fournissent la chaudière, la date
-de début et de fin d'application des contrats à partir des informations communiquées par leurs cocontractants dans les
-contrats de fourniture ou dans les demandes d'exonération de taxe intérieure de consommation sur le gaz natureL. Ils
-signalent, le cas échéant, l'existence d'autres sources d'énergie que le gaz naturel pour alimenter la chaufferie
-collective. 
-
-A partir des informations mentionnées aux articles R. 445-12 et R. 445-13, l'organisme agissant pour le compte des
-fournisseurs de gaz naturel ou, le cas échéant, les fournisseurs de gaz naturel adressent aux personnes identifiées comme
-bénéficiaires potentiels du tarif spécial de solidarité un courrier comportant les références contractuelles de leur
-chaufferie collective et indiquant que, sauf refus exprès de leur part dans un délai de quinze jours suivant la date d'envoi
-de ce courrier, le tarif spécial de solidarité leur sera appliqué. Ce courrier informe les mêmes clients de la transmission
-des données ainsi que de leurs droits d'accès et d'opposition conformément à l'article 32 de la loi n° 78-17 du 6 janvier
-1978 relative à l'informatique, aux fichiers et aux libertés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 32
-	  - Code de l'énergie - art. R445-12 (VT)
-	  - Code de l'énergie - art. R445-8
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R445-18 (VT)
-
-
-###### Article R445-16
-
-Sauf dans les cas relevant de l'article R. 445-21, l'organisme agissant pour le compte des fournisseurs de gaz naturel ou, le
-cas échéant, le fournisseur de gaz naturel, pour sa zone d'activité commerciale, adresse aux personnes physiques
-bénéficiaires potentiels du tarif spécial de solidarité qui n'ont pu être identifiés ni comme disposant d'un contrat
-individuel de fourniture de gaz naturel, ni comme étant chauffés collectivement au gaz naturel une attestation, accompagnée
-le cas échéant d'un courrier, qui leur permet de bénéficier du tarif spécial de solidarité (ou " TSS ") et qui les informe : 
-
-1° De leurs droits au tarif spécial de solidarité ; 
-
-2° Du nombre d'unités de consommation de leur foyer ; 
-
-3° De l'existence de " l'interlocuteur TSS " et du " numéro vert TSS " ; 
-
-Ces personnes renvoient cette attestation à l'organisme agissant pour le compte des fournisseurs de gaz naturel ou, le cas
-échéant, au fournisseur de gaz naturel, après l'avoir complétée avec les références du contrat de fourniture de gaz naturel,
-le nom et les coordonnées du fournisseur et, éventuellement dans le cas d'une chaufferie collective, l'indication de
-l'existence de son alimentation par d'autres sources d'énergie que le gaz natureL. Cette attestation dûment complétée est
-conservée sous forme numérisée pour une durée de dix-neuf mois à compter de la date de sa réception.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code de l'énergie - art. R445-18 (VD)
-	  - Code de l'énergie - art. R445-20 (VT)
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R445-21
-
-
-###### Article R445-17
-
-Toutes précautions utiles pour préserver la sécurité et la confidentialité des données sont prises. Les agents ou employés
-chargés de recueillir et exploiter ces données sont tenus à une obligation de confidentialité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R445-17-1
-
-Les intéressés sont informés de la transmission des données les concernant aux fournisseurs d'électricité ou à un organisme
-agissant pour leur compte ainsi que de leurs droits d'accès, de rectification et d'opposition conformément à l'article 32 de
-la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 32
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-
-###### Article R445-18
-
-Le tarif spécial de solidarité est appliqué par le fournisseur de gaz naturel à un titulaire d'un contrat individuel, sous
-forme d'une déduction qui doit figurer sur la facture avec le libellé correspondant, pour une durée d'un an à compter de la
-fin du délai de quinze jours mentionné au dernier alinéa de l'article R. 445-15 ou, le cas échéant, à compter de la réception
-de l'attestation mentionnée à l'article R. 445-16. 
-
-Les personnes détentrices d'un contrat individuel de fourniture de gaz naturel remplissant les conditions pour bénéficier du
-tarif spécial de solidarité bénéficient également de la gratuité de la mise en service et de l'enregistrement de leur contrat
-ainsi que d'un abattement de 80 % sur la facturation d'un déplacement motivée par une interruption de fourniture imputable à
-un défaut de règlement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R445-15 (VT)
-	  - Code de l'énergie - art. R445-16
-
-
-###### Article R445-19
-
-Afin de prévenir l'interruption du bénéfice du tarif spécial de solidarité, celui-ci est prolongé, pour une période
-supplémentaire de six mois à compter de la fin de sa durée d'application, sauf si cette dernière résulte de la rupture du
-contrat de fourniture. Sauf en cas de fraude, elle ne donne lieu en aucun cas à remboursement de la part du bénéficiaire. Le
-montant de la déduction mentionné au premier alinéa de l'article R. 445-9, pendant cette période supplémentaire, est calculé
-pro rata temporis. Pendant cette période supplémentaire de six mois, le fournisseur ou l'organisme agissant pour son compte
-informe son client qui n'est plus identifié comme ayant droit au tarif spécial de solidarité en vertu de la procédure décrite
-ci-dessus du fait que ses droits sont prolongés temporairement, de la date de fin de cette prolongation et de la procédure à
-suivre pour continuer à bénéficier du tarif spécial de solidarité au terme de la période complémentaire. Si les droits au
-tarif spécial de solidarité sont reconduits pendant cette période supplémentaire de six mois, le tarif spécial est appliqué
-pour un an à compter de la date de renouvellement de ces droits, sans préjudice d'une nouvelle période supplémentaire de six
-mois.
-
-En cas de résiliation du contrat de fourniture avant le terme d'un an ou de la période de six mois supplémentaires, le
-montant de la déduction mentionné au premier alinéa de l'article R. 445-9 est calculé pro rata temporis. Le fournisseur ou
-l'organisme agissant pour son compte renvoie à l'intéressé un duplicata de son attestation et un courrier mentionnant la date
-de début et de fin d'application de la tarification spéciale de solidarité. Le nouveau fournisseur de l'intéressé est tenu
-d'appliquer la tarification spéciale de solidarité pour la durée de droits restant, le cas échéant, à courir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R445-9
-
-
-###### Article R445-20
-
-Les personnes physiques mentionnées à l'article R. 445-8 et résidant dans un immeuble d'habitation chauffé collectivement au
-gaz naturel peuvent également bénéficier du tarif spécial de solidarité prévu par la présente section, sauf dans les cas
-relevant de l'article R. 445-21. Les immeubles d'habitation chauffés par un réseau de chaleur urbain ne sont pas concernés
-par les dispositions du présent article.
-
-Dans le cas d'un immeuble d'habitation soumis au statut de la copropriété et chauffé collectivement au gaz naturel, les
-informations mentionnées au dernier alinéa de l'article R. 445-16 sont communiquées aux copropriétaires par le syndic de
-l'immeuble ou tout autre mandataire, dans les appels de provisions sur charges du budget et sous forme d'affichage dans les
-parties communes de l'immeuble. Cette information est délivrée au titre des missions de gestion courante incluses au forfait
-du contrat de gestion du syndic ou tout autre mandataire, et ne peut entraîner de majoration de charges, pour les
-copropriétaires comme pour les locataires. 
-
-Le propriétaire d'un ou plusieurs logements situés dans un immeuble d'habitation chauffé collectivement au gaz naturel ou, le
-cas échéant, son mandataire communique à son ou ses locataires, dans la quittance de loyer, le décompte individuel ou par
-tout autre moyen les informations mentionnées au dernier alinéa de l'article R. 445-16. 
-
-En l'absence de refus exprès de la part du bénéficiaire potentiel dans le délai de quinze jours mentionné à l'article R.
-445-14 ou après réception de l'attestation dûment complétée, l'organisme agissant pour le compte des fournisseurs de gaz
-naturel ou, le cas échéant, le fournisseur de gaz naturel adresse au demandeur du tarif spécial de solidarité un versement
-forfaitaire. Dans le cas où la chaufferie collective de l'immeuble est alimentée par plusieurs sources d'énergie, le
-versement forfaitaire est réduit de moitié.
-
-Le montant annuel auquel a droit un foyer figure à l'article R. 445-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de l'énergie - art. R445-14 (VT)
-	  - Code de l'énergie - art. R445-16 (VT)
-	  - Code de l'énergie - art. R445-21
-	  - Code de l'énergie - art. R445-8
-	  - Code de l'énergie - art. R445-9
-
-
-###### Article R445-21
-
-En vue de bénéficier du tarif spécial de solidarité, les gestionnaires de résidences sociales mentionnés au deuxième alinéa
-de l'article R. 445-8 transmettent à leur fournisseur de gaz naturel ou à l'organisme agissant pour le compte des
-fournisseurs, leur demande accompagnée de :
-
-1° La convention signée prévue à l'article L. 353-1 du code de la construction et de l'habitation ; 
-
-2° L'attestation par les services départementaux de l'Etat que la convention n'a pas été dénoncée, précisant sa date
-d'expiration ;
-
-3° Tout document justifiant du nombre de logements de la résidence sociale concernée et de l'absence de contrats individuels
-de fourniture de gaz naturel pour les logements ; 
-
-4° Les références du contrat collectif de fourniture de gaz naturel, le nom et les coordonnées du fournisseur, ainsi que les
-références du ou des points de comptage et d'estimation concernés. 
-
-Pour le gestionnaire d'une résidence sociale dont les résidents ne disposent pas d'un contrat individuel de fourniture, le
-tarif spécial de solidarité résulte d'une déduction sur le prix de fourniture contractuellement établi entre le gestionnaire
-et son fournisseur de gaz natureL. Cette déduction est établie en fonction du nombre de logements de la résidence sociale
-concernée ; elle ne doit pas être supérieure au montant total de la facture annuelle de gaz naturel toutes taxes comprises. 
-
-Le montant de la déduction est remboursé mensuellement aux résidents, déduction faite des frais de gestion qui s'élèvent à 5
-% du montant de la déduction. Le montant ainsi déduit fait l'objet d'une mention spécifique sur l'avis d'échéance adressé au
-résident.
-
-Le montant de la déduction mentionnée aux alinéas précédents est fixé par l'article R. 445-9 ; il peut être réévalué par
-arrêté des ministres chargés de l'économie, de l'énergie, du logement et des affaires sociales après avis de la Commission de
-régulation de l'énergie. 
-
-Le tarif spécial est appliqué par le fournisseur jusqu'à la date d'expiration mentionnée sur l'attestation délivrée par les
-services de l'Etat et au plus pour trois ans. En cas de résiliation du contrat de fourniture avant ce terme, le fournisseur
-ou l'organisme agissant pour son compte renvoie à l'intéressé un courrier mentionnant la date de début et de fin
-d'application du tarif spéciaL. Le nouveau fournisseur de gaz naturel de l'intéressé est tenu d'appliquer ce tarif spécial
-pour la durée de droits restant, le cas échéant, à couriR. Le montant de la déduction est alors calculé pro rata temporis. 
-
-Aucune information transmise par les gestionnaires de résidences sociales ne peut être conservée pendant une durée supérieure
-à trois ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-	  - Code de l'énergie - art. R445-16 (VD)
-	  - Code de l'énergie - art. R445-20 (VD)
-	  - Code de l'énergie - art. R445-8 (VD)
-	  - Code de l'énergie - art. R445-9 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L353-1
-
-
-###### Article R445-22
-
-L'ensemble des coûts du service fourni par les organismes d'assurance maladie au titre de la présente section leur est
-remboursé par les fournisseurs de gaz naturel, en application de conventions que ces fournisseurs sont tenus de conclure avec
-ces organismes. A défaut de conventions, les ministres chargés de l'énergie et de la sécurité sociale arrêtent le montant de
-ces coûts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1823 du 30 décembre 2015 - art.
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2016 - art. 2 (V)
-	  - Code de l'énergie - art. R121-26 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-555 du 6 mai 2016 - art. 3
 
 
 #### Chapitre VI : Les dispositions particulières relatives à la vente de biogaz
