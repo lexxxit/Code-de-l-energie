@@ -1,5 +1,5 @@
 # Code de l'énergie  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-01 00:00:01 +0100
 
 # Partie législative
 
